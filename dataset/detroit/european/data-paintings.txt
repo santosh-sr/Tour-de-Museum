@@ -1298,7 +1298,7 @@
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Gift of Dr. Wilhelm R. Valentiner",
-"provenance" : "Paris, Collection Emile Gavet (according to &#226;? Duveen Pictures&#226;? , 1941); Newport (RI), Collection Mrs. Oliver H. P. Belmont; London, Sir Joseph Duveen (dealer-until 1927);Detroit (MI), Collection Dr. W. R. Valentiner (1927), by whom given to the DIA.",
+"provenance" : "Paris, Collection Emile Gavet (according to &#226;?ï¿½Duveen Pictures&#226;?ï¿½, 1941); Newport (RI), Collection Mrs. Oliver H. P. Belmont; London, Sir Joseph Duveen (dealer-until 1927);Detroit (MI), Collection Dr. W. R. Valentiner (1927), by whom given to the DIA.",
 "keywords" : ["paint","panel","religion","wood","christian"],
 "accession" : "27.3"}
 ,{
@@ -2335,7 +2335,7 @@
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Founders Society Purchase, General Membership Fund",
-"provenance" : "Cologne, Collection Johann Anton Ramboux (as by Botticelli or Ghirlandaio--Ramboux probably purchased this picture during first half of 19th century, but definitely by 1862);Cologne, auction, J.A. Ramboux, Part V, [J.M.Heberle/Lempertz] 23 May 1867, lot 386 (as 31 x 41.5 cm., as by Ghirlandaio, \"Un po&#195;&#171;te r&#195;&#171;vant &#195;  la fontaine de l'H&#233;lic&#195;&#179;n\");New York, Schnittjer Galleries (dealer-until 1940), from whom purchased by DIA in 1940.",
+"provenance" : "Cologne, Collection Johann Anton Ramboux (as by Botticelli or Ghirlandaio--Ramboux probably purchased this picture during first half of 19th century, but definitely by 1862);Cologne, auction, J.A. Ramboux, Part V, [J.M.Heberle/Lempertz] 23 May 1867, lot 386 (as 31 x 41.5 cm., as by Ghirlandaio, \"Un po&#195;&#171;te r&#195;&#171;vant &#195;ï¿½ la fontaine de l'H&#233;lic&#195;&#179;n\");New York, Schnittjer Galleries (dealer-until 1940), from whom purchased by DIA in 1940.",
 "keywords" : ["paint","panel","wood","mythology"],
 "accession" : "40.128"}
 ,{
@@ -2641,7 +2641,7 @@
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Founders Society Purchase, General Membership Fund and funds from Edsel B. Ford",
-"provenance" : "Great Britain, Hornby Castle, Yorkshire & London, Collection Dukes of Leeds (Thomas Osbourne, 4th Duke of Leeds and by descent to the 10th Duke);London, Christie's auction, Duke of Leeds, 11 June 1920, lot 3 (sold to Arthur J. Sully with its pendant, The Piazza of San Marco looking towards the Campanile);London, Arthur J. Sully  (dealer-1920-22); from whom purchased byNew York, Daniel H. Farr (dealer); from whom purchased byNew York, Scott & Fowles (dealer-1922) (see curatorial remarks re:  Daniel H. Farr);New York, Collection Thomas B. Cochran (purchased from Scott & Fowles);New York, Julius H. Weitzner (dealer-1942--see curatorial remarks);New York, Schneider-Gabriel Galleries (1943), from whom purchased by the  DIA in exchange for George Inness's &#226;? Moonrise--Montclair&#226;? , valued at $2,000 plus $3,000 from the Founder's Society.",
+"provenance" : "Great Britain, Hornby Castle, Yorkshire & London, Collection Dukes of Leeds (Thomas Osbourne, 4th Duke of Leeds and by descent to the 10th Duke);London, Christie's auction, Duke of Leeds, 11 June 1920, lot 3 (sold to Arthur J. Sully with its pendant, The Piazza of San Marco looking towards the Campanile);London, Arthur J. Sully  (dealer-1920-22); from whom purchased byNew York, Daniel H. Farr (dealer); from whom purchased byNew York, Scott & Fowles (dealer-1922) (see curatorial remarks re:  Daniel H. Farr);New York, Collection Thomas B. Cochran (purchased from Scott & Fowles);New York, Julius H. Weitzner (dealer-1942--see curatorial remarks);New York, Schneider-Gabriel Galleries (1943), from whom purchased by the  DIA in exchange for George Inness's &#226;?ï¿½Moonrise--Montclair&#226;?ï¿½, valued at $2,000 plus $3,000 from the Founder's Society.",
 "keywords" : ["canvas","paint","cityscape"],
 "accession" : "43.38"}
 ,{
@@ -3263,7 +3263,7 @@
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Founders Society Purchase, Ralph Harman Booth Bequest Fund",
-"provenance" : "Sussex, Ashburnham Place, Coll. 3rd Earl of Ashburnham (possibly purchased by the earl from Florentine collection);Sussex, Ashburnham Place, Coll. of Bertram,  4th Earl of Ashburnham (d. 1878);By inheritance, Lady Catherine Ashburnham (1953);London, sale (Sotheby's), &#226;? The Ashburnham Collections, Part I: Catalogue of Paintings and Drawings of the Continental School&#226;? , 24 June 1953, lot 13,pl. 4 (purchased by Agnew's on behalf of DIA). ",
+"provenance" : "Sussex, Ashburnham Place, Coll. 3rd Earl of Ashburnham (possibly purchased by the earl from Florentine collection);Sussex, Ashburnham Place, Coll. of Bertram,  4th Earl of Ashburnham (d. 1878);By inheritance, Lady Catherine Ashburnham (1953);London, sale (Sotheby's), &#226;?ï¿½The Ashburnham Collections, Part I: Catalogue of Paintings and Drawings of the Continental School&#226;?ï¿½, 24 June 1953, lot 13,pl. 4 (purchased by Agnew's on behalf of DIA). ",
 "keywords" : ["paint","panel","predella","religion","tempera","wood","christian"],
 "accession" : "53.270"}
 ,{
@@ -3306,7 +3306,7 @@
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Bequest of Mr. and Mrs. Edgar B. Whitcomb",
-"provenance" : "Antwerp, collection of the artist, until his death in 1640;Antwerp, Collection Joan Baptista Anthoine, until 1691; inherited by his daughter Isabella Clara (part of lot A in deceased's division of artwork);London, &#226;? Great Piazza&#226;? , Covent Garden, Collection Dr. Richard Mead (1673-1754), by 1724; London, &#226;? Great Piazza&#226;? , Covent Garden, auction Mead, 20-22 March 1754, lot 111 (in manuscript catalogue) and lot 53 (in printed catalgoue);  purchased by \"Johnson,\" perhaps on behalf of Fulke Greville;London, Collection R. Fulke Greville; London, auction Fulke Greville (Christie's), 1794, lot 49; purchased by \"Sandilands\"Rome, Private collection (?) until 1829; acquired in Rome by G. J. VernonSudbury Hall, near Derby, Collection (Baron) George John Vernon, acquired 1829; London, auction Baron Vernon (Christie's), 16 April 1831, lot 27 (or 26?), bought in;by descent to the Vernon Family; London, auction Vernon (Sotheby's), 14 June 1922, lot 63 (or 62?); purchased byLondon, Colnaghi (dealer); presumably purchased byNew York, Henry Reinhardt and Son, Inc. (dealer-1926-1927) from whom purchased by Mr. & Mrs. Edgar B. Whitcomb in 1927; Detroit, Collection Mr. and Mrs. Edgar B. Whitcomb, by whom bequeathed to the DIA in 1953. ",
+"provenance" : "Antwerp, collection of the artist, until his death in 1640;Antwerp, Collection Joan Baptista Anthoine, until 1691; inherited by his daughter Isabella Clara (part of lot A in deceased's division of artwork);London, &#226;?ï¿½Great Piazza&#226;?ï¿½, Covent Garden, Collection Dr. Richard Mead (1673-1754), by 1724; London, &#226;?ï¿½Great Piazza&#226;?ï¿½, Covent Garden, auction Mead, 20-22 March 1754, lot 111 (in manuscript catalogue) and lot 53 (in printed catalgoue);  purchased by \"Johnson,\" perhaps on behalf of Fulke Greville;London, Collection R. Fulke Greville; London, auction Fulke Greville (Christie's), 1794, lot 49; purchased by \"Sandilands\"Rome, Private collection (?) until 1829; acquired in Rome by G. J. VernonSudbury Hall, near Derby, Collection (Baron) George John Vernon, acquired 1829; London, auction Baron Vernon (Christie's), 16 April 1831, lot 27 (or 26?), bought in;by descent to the Vernon Family; London, auction Vernon (Sotheby's), 14 June 1922, lot 63 (or 62?); purchased byLondon, Colnaghi (dealer); presumably purchased byNew York, Henry Reinhardt and Son, Inc. (dealer-1926-1927) from whom purchased by Mr. & Mrs. Edgar B. Whitcomb in 1927; Detroit, Collection Mr. and Mrs. Edgar B. Whitcomb, by whom bequeathed to the DIA in 1953. ",
 "keywords" : ["oak","oil","paint","panel","study","wood","literature","mythology","allegory","animalia"],
 "accession" : "53.356"}
 ,{
@@ -3377,22 +3377,7 @@
 "imageURL" : "http://www.dia.org/user_area/comping/54.1-S1.jpg",
 "title" : "ADORATION OF THE CHRIST CHILD",
 "name" : " Master of Saint Ildefonso",
-"nationality" : "
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-							<dt>Date</dt>
-							<dd>late 15th century</dd>
-							
-							<dt>Medium</dt>
-							<dd><a href="/art/search-collection.aspx?medium=Oil+on+oak+panel",
+"nationality" : "",
 "date" : "late 15th century",
 "medium" : "Oil on oak panel",
 "dimensions" : "14 1/16 x 12 x 3/8 in. (35.7 x 30.5 x 1 cm)Frame: 17 5/8 x 15 11/16 x 2 1/8 in. (44.8 x 39.9 x 5.4 cm)",
@@ -3525,7 +3510,7 @@
 "credit" : "Founders Society Purchase, Mr. and Mrs. Henry Ford II Fund",
 "provenance" : "London, Collection Holland;London, auction (Christie's), 10 July, 1914, lot 62, bought by Smith; London, Collection F. W. Lippmann, 1914; Berlin, Collection Oskar Huldschinsky, (by 1916-1928);Berlin, auction O. Huldschinsky (Cassirer & Helbing) 10-11 May, 1928, lot 25, repr. (sold for DM 68,000);Berlin, Private Collection (until at least 1937);London, Gallery F. Drey (dealer), 1938;  New York, Collection Mrs. Hanni Seligman (by 1947); New York, Rosenberg and Steibel (dealer) 1956; from whom acquired by the DIA in 1956. **Per Witt Library: provenance includes \"Berlin, Hollitscher Collection\"",
 "keywords" : ["paint","panel","study","wood","half length","figure"],
-"accession" : "56.183"}
+"accession" : "56.183"},
 {
 "imageURL" : "http://www.dia.org/user_area/comping/56.278-S1.jpg",
 "title" : "Seascape",
@@ -3541,7 +3526,7 @@
 "credit" : "Gift of Mrs. William E. Scripps",
 "provenance" : "Grosse Pointe, Collection Mrs. William E. Scripps, by whom given to the museum in 1956.",
 "keywords" : ["oil","paint","panel","seascape","wood"],
-"accession" : "56.278"}
+"accession" : "56.278"},
 {
 "imageURL" : "http://www.dia.org/user_area/comping/56.280-S1.jpg",
 "title" : "Landscape with Sheep",
@@ -3558,7 +3543,7 @@
 "provenance" : "(?) Detroit, Collection James E. Scripps;by descent to Mrs. William E. Scrips, by whom given to the DIA in 1956.",
 "keywords" : ["canvas","oil","paint","landscape","animalia"],
 "accession" : "56.280"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.32-S1.jpg",
 "title" : "Madonna and Child with Angels",
 "name" : "Fra Angelico",
@@ -3574,7 +3559,7 @@
 "provenance" : "Paris, Baron Maurice de Rothschild; sold toNew York, Rosenberg & Steibel (dealer), by 1955, from whom purchased by the DIA in 1956.",
 "keywords" : ["paint","panel","religion","wood","christian"],
 "accession" : "56.32"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.1-S1.jpg",
 "title" : "Portrait of a Woman",
 "name" : "Hans Muelich",
@@ -3590,7 +3575,7 @@
 "provenance" : "Amsterdam, Galerie P. de Boer, and Dusseldorf, Hans Baumann (co-owning dealers-by 1930);Munich, Galerie Fleischmann (dealer);New York, Rudolf J. Heinemann (dealer) by 1956, by whom given to the DIA in two incremental shares Dec. 1956 and Jan. 1957.",
 "keywords" : ["oil","paint","panel","portrait","wood","half length"],
 "accession" : "57.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.17-S1.jpg",
 "title" : "Laban Searching for His Gods",
 "name" : "Claes Cornelisz Moeyaert",
@@ -3606,7 +3591,7 @@
 "provenance" : "Munich, auction (Helbing) May 3, 1909, lot 59;Blaschkow, Collection G. von Mallamann (1910);Budapest, Collection Baron Leopold Maurus Herzog (aka Mor Lipot); Vienna, Collection Oscar Bondy (Bondy collection confiscated by the Nazis in Vienna in 1939 but was restituted to Bondy's widow, Elizabeth A. Bondy in 1947);New York, auction Estate of Oscar Bondy (Kende Galleries) March 3, 1949, lot 66;New York, Julius Weitzner (dealer) by whom given to the DIA in 1957. ",
 "keywords" : ["paint","panel","wood","mythology"],
 "accession" : "57.17"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.180-D1.jpg",
 "title" : "Girl with a Mandolin",
 "name" : "Giovanni Battista Tiepolo",
@@ -3622,7 +3607,7 @@
 "provenance" : "Transported to St. Petersburg in 1814 by the Venetian dealer Niccol&#195;&#178; Leonelli.  In the sale of his works, held in St. Petersburg May 14-23, 1817.[Probably St. Petersburg, collection Prince Nicolai Yousoupov, d. 1831]St. Petersburg, collection Boris Yousoupov (d. 1849--the painting was in his collection by either 1834 or 1839 when it was catalogued there).Paris, Collection Biron (?);Paris, Maurice de Talleyrand-P&#233;rigord, Duke de Dino, until 1937; Paris/New York, by descent, Duchess de Talleyrand-P&#233;rigord (also known as Duchess de Dino), until 1957;New York, Rosenberg & Stiebel (dealer--1957), acquired by the DIA with funds provided by  Mr. and Mrs. Henry Ford II.",
 "keywords" : ["canvas","oil","paint"],
 "accession" : "57.180"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.76.jpg",
 "title" : "Landscape with Deer",
 "name" : "Rosa Bonheur",
@@ -3638,7 +3623,7 @@
 "provenance" : "Detroit, Collection Mr. & Mrs. Ernest Kanzler, by whom given to the DIA in 1957.",
 "keywords" : ["canvas","oil","paint","landscape","animalia"],
 "accession" : "57.76"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.169-S1.jpg",
 "title" : "HUNTING PARTY IN THE COURTYARD OF A COUNTRY HOUSE",
 "name" : "Ludolf de Jongh",
@@ -3654,7 +3639,7 @@
 "provenance" : "London, Edward Speelman Gallery (dealer) ca. 1956;New York, Mortimer Brandt Gallery (dealer--1958), from whom purchased by the DIA in 1958 with restricted funds from James S. Whitcomb.",
 "keywords" : ["canvas","paint","genre"],
 "accession" : "58.169"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.391-S1.jpg",
 "title" : "Vanitas",
 "date" : "c. 1655",
@@ -3666,7 +3651,7 @@
 "provenance" : "London, Alfred Brod Gallery (dealer-1958);Detroit, Collection Mr. & Mrs. Arthur Fleischman, by whom given to the DIA in 1958.",
 "keywords" : ["oil","paint","panel","still life","vanitas","wood"],
 "accession" : "58.391"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.402-S1.jpg",
 "title" : "Vanitas",
 "name" : "Francois van Daellen",
@@ -3682,7 +3667,7 @@
 "provenance" : "(?) Antwerp, auction J.-F. Wolschot (A. van Camp & Martinez) September 1, 1817, lot 279;London, Alfred Brod Ltd (dealer), by whom given to the DIA in Dec. 1958.",
 "keywords" : ["paint","panel","still life","vanitas","wood"],
 "accession" : "58.402"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.117-S2.jpg",
 "title" : "The Cottage Madonna",
 "name" : "Josef Israels",
@@ -3698,7 +3683,7 @@
 "provenance" : "London, Collection Alexander Young (1880s);Collection Mrs. Harry N. Torrey (Nell Ford Torrey) by whom bequeathed to the DIA in 1959.",
 "keywords" : ["canvas","paint","mother and child","genre"],
 "accession" : "59.117"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.15-S1.jpg",
 "title" : "YOUNG CAVALIER",
 "name" : "Jacques Blanchard",
@@ -3714,7 +3699,7 @@
 "provenance" : "London, Colin Agnew (dealer), before 1937; Detroit, Collection Mrs. John S. Newberry Sr. (by February 1937 and until 1951);By descent to Detroit, Collection John S. Newberry, (by at least 1951), by whom given to the DIA in 1959. ",
 "keywords" : ["canvas","oil","paint","bust"],
 "accession" : "59.15"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/60.61-S1.jpg",
 "title" : "The Resurrection",
 "name" : " Master of the Osservanza",
@@ -3730,7 +3715,7 @@
 "provenance" : "Florence, William Blundell Spence (dealer-1858), according to J. Fleming;London, Piccadilly, Convent of All Saints (listed in sale catalogue, but no such institution seems to have existed);London, auction, Coll. of All Saints, (Sotheby's), 24 June 1959, lot. 64 (as by Master of the Osservanza), bought by Agnews;London, Thomas Agnew and Pinakos (= R. Heinemann) (dealers-1960), from whom purchased by the Founders Society for the DIA.",
 "keywords" : ["paint","panel","religion","tempera","wood","christian"],
 "accession" : "60.61"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/60.63-S1.jpg",
 "title" : "King David Handing the Letter to Uriah",
 "name" : "Pieter Pietersz Lastman",
@@ -3746,7 +3731,7 @@
 "provenance" : "Prague, under the control of State Office for the Preservation of Historical Monuments for Bohemia, sometime between 1918 - 1938;Vienna, Galerie St Lucas, 1938;Vienna, Kunsthistorisches Museum, 1938;Vienna, Dr. Richard Neumann, 1938;Paris, Dr. Richard Neumann, 1939;Neuilly-sur-Seine, Geza Solpray, 1940;New York, Dr. Richard Neumann, ca. 1953;New York, Mrs. Elizabeth M. Drey, ca. 1956; Detroit, Mr. Lawrence A. Fleischman, 1959;Detroit, Archives of American Art, 1960 (given by Mr. and Mrs. Lawrence A. Fleischman);Detroit, Detroit Institute of Arts, 1960. Purchased from Archives of American Art by the DIA with funds from Mr. and Mrs. John Lord.",
 "keywords" : ["paint","panel","religion","wood"],
 "accession" : "60.63"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/60.66-S1.jpg",
 "title" : "Solitude",
 "name" : "Jean Leon Gerome",
@@ -3755,14 +3740,14 @@
 "death" : "1904",
 "date" : "1890",
 "medium" : "Oil on canvas",
-"dimensions" : "11 3/8 x 18 5/8 in.   Framed: 18 3/8 x 25 1/2 x 3 1/16 in. (46.20 x 64.77 x 7.78 cm)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         28.9 x 47.3 cm",
+"dimensions" : "11 3/8 x 18 5/8 in.   Framed: 18 3/8 x 25 1/2 x 3 1/16 in. (46.20 x 64.77 x 7.78 cm) 28.9 x 47.3 cm",
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Bequest of Dexter M. Ferry, Jr.",
 "provenance" : "Detroit, Collection Dexter M.Ferry, Jr., by whom bequeathed to the DIA in 1960.",
 "keywords" : ["canvas","oil","paint","seascape","allegory"],
 "accession" : "60.66"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/61.31.jpg",
 "title" : "A Boy",
 "name" : " Anonymous",
@@ -3776,7 +3761,7 @@
 "provenance" : "Luzern, Galerie Hansen, A.G., 30 August 1928, no. 413 (as Cornelis de Vos);Detroit, Collection Mr. and Mrs. Benjamin Siegel (as Cornelis de Vos);Detroit, Collection Mr. and Mrs. Bernard Walker, by whom given to the DIA in 1961.",
 "keywords" : ["canvas","oil","paint","portrait","heraldry","full length"],
 "accession" : "61.31"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/61.347-S1.jpg",
 "title" : "Madonna and Child",
 "name" : "Sano di Pietro",
@@ -3792,7 +3777,7 @@
 "provenance" : "Florence, Bellini (dealer), according to photograph in Witt Library, London;Berlin, Paul Bottenweiser (dealer-1927);Detroit, Collection Julius H. Haass (d. 4/17/30);Detroit, by inheritance, Collection Lillian Henkel Haass, by whom given to the DIA in 1961.",
 "keywords" : ["paint","panel","religion","wood","christian"],
 "accession" : "61.347"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/61.397-D1.jpg",
 "title" : "Saint Christopher",
 "name" : "Lucas Cranach the Elder",
@@ -3808,7 +3793,7 @@
 "provenance" : "Berlin, Collection Baron Mecklenburg, 1883; Berlin, auction Freiherr von Mecklenburg ( ) June 3, 1919, lot. 73;London, Auction Garnier (Christie) July 27, 1928, lot 40;New York, Private Collection;Berlin, art market;Potsdam, private collection (1932);Munich and New York, Boehler and Steinmeyer (dealers) ; New York, Howard Young Galleries (dealer); Detroit, Mr. and Mrs. Edward Fisher, by whom given to the DIA in 1961.",
 "keywords" : ["oil","paint","panel","religion","wood","christian"],
 "accession" : "61.397"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/64.116.jpg",
 "title" : "Gathering Fruit at Mortefontaine",
 "name" : "Jean Baptiste Camille Corot",
@@ -3824,7 +3809,7 @@
 "provenance" : "Paris, Haro and Sons (dealer?) 1893 (?)Chicago, Henry Reinhardt Galleries(dealer-1911), from whom purchased by Ms. Stella Ford (later Mrs. Joseph B. Schlotman) on 20 November 1911, for 50,000;Detroit, Collection Mr. & Mrs. Joseph B. Schlotman, by whom given by Mrs. Joseph B. Schlotman to the DIA in 1964.",
 "keywords" : ["canvas","oil","paint","landscape"],
 "accession" : "64.116"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/64.117-D1.jpg",
 "title" : "The Glebe Farm",
 "name" : "John Constable",
@@ -3840,7 +3825,7 @@
 "provenance" : "Chicago,Henry Reinhardt Galleries (dealer-1913) from whom purchased by Ms. Stella Ford (later Mrs. Joseph B. Schlotman) on November 8, 1913 for $31,500.00.Detroit, Collection Mrs. Joseph B. Schlotman by whom given to the DIA in 1964.",
 "keywords" : ["canvas","oil","paint","landscape"],
 "accession" : "64.117"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/64.120.jpg",
 "title" : "Landscape with Carriage",
 "name" : "Roelof van Vries",
@@ -3856,7 +3841,7 @@
 "provenance" : "United Kingdom, Hornby Castle, Collection Duke of Leeds (1902 cat. p. 68, no. 195, and remained with the family until 1961);London, auction Duke of Leeds (Sotheby) 14 June, 1961, lot 30 (one of a pair), bought by Agnew;London, Thomas Agnew & Sons (dealer-1961) from whom purchased by Dr. & Mrs. Irving F. Burton;Detroit, Collection Dr. & Mrs. Irving F. Burton, by whom given to the DIA.",
 "keywords" : ["oil","paint","panel","wood","landscape"],
 "accession" : "64.120"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/64.263.jpg",
 "title" : "The Sinfonia",
 "name" : "Michiel van Musscher",
@@ -3872,7 +3857,7 @@
 "provenance" : "Paris, Galerie Charles Sedelmeyer (dealer-1895);Paris, auction (Ch. Sedelmeyer), 25 May, 1907, lot. 137, repr. (sold for frs. 5650);New York, Blakeslee Galleries (dealer-1915);New York, auction Blakeslee Galleries (American Art Association) 21 April, 1915, lot. 81, repr, bought by Joseph Breck (on behalf of the MIA) for $375;Minneapolis, The Minneapolis Institute of Arts, inv. 15.21 (deaccessioned in 1956 and bought by Victor SparkNew York, Victor Spark (dealer-1956-1957).Grosse Point, Collection Mr. David B. Moreing, by whom given to the D.I.A. in 1964.",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "64.263"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/64.81-S1.jpg",
 "title" : "The Massacre of The Innocents",
 "name" : "Bernardino Jacopi Butinone",
@@ -3888,7 +3873,7 @@
 "provenance" : "Paris, Claude Lafontaine (n.d.);Paris, Madame Bes de Berc (until 1962);Paris, auction, Madame Bes de Berc (Palais Galliera), 11 April 1962, lot 19 (as by Mantegna);Paris, Heim Gallery (dealer-until 1964), from whom purchased by the DIA.",
 "keywords" : ["paint","panel","poplar","religion","tempera","wood","christian"],
 "accession" : "64.81"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/65.10-S1.jpg",
 "title" : "A Lady at Her Toilet",
 "name" : "Gerard Ter Borch",
@@ -3904,26 +3889,11 @@
 "provenance" : "Amsterdam, Collection Pieter van Winter (see correspondance from Ruud Priem in file);Paris, Louvre, 1797; France, Chateau Saint Cloud, 1802; Frankfurt am-Main,  Collection Willems 1833 (according to J. Smith); London, Collection Lionel de Rothschild, (acquired in 1836 according to Waagen II, p. 129); London, Collection Sir N. M. Rothschild; London, Collection Lord Alfred Rothschild, by descent to; Collection Mrs. Clive Behrens (daughter of Lord Rothschild), by descent to; London, Collection Major P. E. C. Harris (son-in-law of Mrs Behrens); New York, Rosenberg & Stiebel (dealer-1965) from whom purchased by the DIA in 1965.",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "65.10"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/65.328-D1.jpg",
 "title" : "Still Life",
 "name" : " Anonymous",
-"nationality" : "
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-							<dt>Date</dt>
-							<dd>17th/early 18th Century</dd>
-							
-							<dt>Medium</dt>
-							<dd><a href="/art/search-collection.aspx?medium=Oil+on+canvas",
+"nationality" : "",
 "date" : "17th/early 18th Century",
 "medium" : "Oil on canvas",
 "dimensions" : "102.9 x 65.4 cmFRAME: 48 3/4 x 34 x 2 3/4 in.",
@@ -3933,7 +3903,7 @@
 "provenance" : "New York, Victor D. Spark (dealer); sold toDetroit, David B. Moreing (January 1964), by whom given to the DIA in 1965.",
 "keywords" : ["canvas","oil","paint","still life"],
 "accession" : "65.328"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/65.386-S1.jpg",
 "title" : "Still Life",
 "name" : " Anonymous",
@@ -3947,7 +3917,7 @@
 "provenance" : "Detroit, Collection Mr. K.T. Keller, by whom given to the DIA in 1965.",
 "keywords" : ["canvas","oil","paint","still life"],
 "accession" : "65.386"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/65.9.jpg",
 "title" : "Solomon Worshiping the Pagan Gods",
 "name" : "Domenico Antonio Vaccaro",
@@ -3963,7 +3933,7 @@
 "provenance" : "Monaco or Southern France, Private collection (n.d.);Nice, Art market (sold c. 1960);Italy, Private collection;London, P. & D. Colnaghi & Co., 1963, by whom sold to the DIA 10/2/1965.",
 "keywords" : ["canvas","oil","paint","religion"],
 "accession" : "65.9"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/66.15.jpg",
 "title" : "Saint Catherine of Siena Dictating Her Dialogues",
 "name" : "Giovanni di Paolo",
@@ -3979,7 +3949,7 @@
 "provenance" : "Siena, Hospital of Santa Maria della Scala, Altar of S. Christina (by at least 1482);Siena, Hospital of Santa Maria della Scala, rector's room (until shortly before 1800);Cologne and Trier, Collection Johann A. Ramboux, by 1843 (cat. 1862, no. 118);Cologne, auction, Collection Ramboux [J. Heberle/H. Lempertz], 23 May 1867, lot 118 (Stoclet written in the margin of Frick copy of catalogue, in pencil);Sigmaringen, Hohenzollern-Sigmaringen, Collection Prinz von Karl Anton (1867-until at least 1883);Switzerland, Basel & Lugano, Dr. Hans Wendland (until 1913, when sold to A. Stoclet);Brussels, Collection Adolphe Stoclet (1913 until 1949);Brussels, by descent, Mich&#232;le Stoclet (until about 1965, when sold to R. Heinemann);New York, Pinakos & Rudolph J. Heinemann, (dealers-1965), from whom purchased by the DIA.",
 "keywords" : ["paint","panel","religion","tempera","wood","christian"],
 "accession" : "66.15"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/66.191.jpg",
 "title" : "Self Portrait",
 "name" : "Salvator Rosa",
@@ -3995,7 +3965,7 @@
 "provenance" : "France, Private Collection (n.d.);New York, collection Mrs. Loraine Uhler (by whom sold directly to Knoedler);New York, M. Knoedler & Co. (dealer,1966), from whom acquired by the DIA.",
 "keywords" : ["canvas","oil","paint","portrait","self portrait","bust"],
 "accession" : "66.191"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/66.23-S2.jpg",
 "title" : "AN ALDERMAN OF PARIS",
 "name" : "Nicolas de Largillierre",
@@ -4011,7 +3981,7 @@
 "provenance" : "Paris, Baron James de Rothschild (d. 1868);By descent to Baron Henri de Rothschild;Paris, auction, Baron Henri de Rothschild (H&#195;&#180;tel Drouot), June 15-16, 1933, lot 42, repr.; Paris, Jean Bloch (n.d.);Paris, Galerie Charpentier, by 1957;New York, Jacques Seligmann and Co., (dealer, Spring 1964-1966), from whom purchased by the DIA with funds from Rosemarie and Ernest Kanzler, Detroit.",
 "keywords" : ["canvas","oil","paint","three quarter length","portrait"],
 "accession" : "66.23"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/66.250-S1.jpg",
 "title" : "Martyrdom of St. Peter Martyr",
 "name" : "Felice Torelli",
@@ -4027,7 +3997,7 @@
 "provenance" : "England, collection Henry Constantine Jennings (1731-1819, lived in Shiplake and London; collector's mark, Lugt 2771 on our work);London, sale, collection H. C. Jennings (Christie's), 15 April 1778, lot 53 (as  Carlo Cignani) (Lugt 2836), bought by John Trevor, Viscount Hampden; England, collection John Trevor, Viscount Hampden (1794-1824, until 1827);London, auction, collection Hampden (Sotheby's) 27-29 June 1827, lot. 46 (as Carlo Cignani);Vienna, private collection;Montr&#233;al, Collection Mr. and Mrs. Richard E. Randall (purchased in Vienna during WWII--until 1966), by whom given to the DIA.",
 "keywords" : ["oil","paint","paper","sketch"],
 "accession" : "66.250"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/66.6-S1.jpg",
 "title" : "Nymphs and Satyrs Dancing near a Ruin",
 "name" : "Cornelis van Poelenburgh",
@@ -4043,7 +4013,7 @@
 "provenance" : "Formerly in the collection of: Collection, the Earl of Middleton. London, auction Earl of Middleton (Christie's) June 26, 1964, lot 64, repr. (sold for 950 pounds).London, Leggatt Brothers (dealer) from whom purchased by the DIA in 1966.",
 "keywords" : ["oil","paint","panel","wood","mythology"],
 "accession" : "66.6"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/67.114.jpg",
 "title" : "Courtship",
 "date" : "c. 1665",
@@ -4055,7 +4025,7 @@
 "provenance" : "Paris, auction Lebrun, 11 January, 1773 (Basan) lot 13, sold for 2,100 livres; London, Collection Ralph Bernal; London, auction, Bernal (Christie's), May 8, 1823, lot 27; New York, Howard Young Galleries (dealer-1929) (no. 8293);Detroit, Collection Mr. & Mrs. Alfred J. Fisher, bequeathed by Alfred J. Fisher to the DIA in 1967. ",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "67.114"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.159.jpg",
 "title" : "Celadon and Amelia",
 "name" : "William Hamilton",
@@ -4071,7 +4041,7 @@
 "provenance" : "Great Britain, Collection Count de Aulby (n.d.); Great Britain, Collection Wilbur Foshay (n.d.); Brown and Bigelow (dealer, n.d.);New York, Robert Edward Peters (by 1965);New York, Max Schweitzer (dealer, 1968), from whom purchased by the DIA Founders Society.",
 "keywords" : ["canvas","oil","paint","illustration"],
 "accession" : "68.159"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.294-S1.jpg",
 "title" : "Adoration of the Child with St. Benedict and Angels",
 "name" : "Vincenzo Foppa",
@@ -4087,7 +4057,7 @@
 "provenance" : "Rome, Collection Cardinal Joseph Fesch (1763-1839) 1841;Rome, auction, Collection Cardinal Fesch, (Georges), 17-18 March 1845, lot 909; Versailles, Collection Nottret, honorary canon and almoner to the Augustinian nuns; By descent to Versailles, Collection Abb&#233; Lef&#232;vre, before 1909 and after 1916; Versailles, Collection Abb&#233; Thuelin, 1927;New York, Howard Young (dealer);Detroit, Collection Lawrence P. Fisher (acquired before 1930) by whom bequeathed to the DIA in 1968.",
 "keywords" : ["canvas","oil","paint","religion","christian"],
 "accession" : "68.294"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.298.jpg",
 "title" : "Landscape",
 "name" : "Jacob Isaaksz van Ruisdael",
@@ -4103,7 +4073,7 @@
 "provenance" : "Enville Hall, near Stourbridge, U.K., Collection Sir John Foley Grey, Bt.;London, auction Sir J. Foley Grey (Christie's) 15 June, 1928, lot. 95, bought by Martin Asscher for 1155 pounds;Detroit, Collection Mr. & Mrs. Lawrence P. Fisher by whom bequeathed to the DIA in 1968. ",
 "keywords" : ["canvas","oil","paint","landscape"],
 "accession" : "68.298"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.301.jpg",
 "title" : "Titus, Rembrandt's Son",
 "date" : "early 1660's",
@@ -4115,7 +4085,7 @@
 "provenance" : "Paris, Collection Dr. Marcel Lermoyez;New York, Howard Young Galleries (1928); Detroit, Collection Mr. and Mrs. Lawrence P. Fisher, by whom bequeathed to the DIA. ",
 "keywords" : ["oil","paint","panel","portrait","wood","bust"],
 "accession" : "68.301"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.304.jpg",
 "title" : "THE COUNTESS DE BRAC AS AURORA",
 "name" : "Jean Marc Nattier",
@@ -4131,7 +4101,7 @@
 "provenance" : "Paris, Count Henri de Castellane, by 1925;Paris, Galerie Cailleux;New York, Howard Young coll., 1928;Detroit, Mr. and Mrs. Lawrence P. Fisher, perhaps before 1930;given by them to D.I.A. 1968",
 "keywords" : ["canvas","oil","paint","three quarters","portrait","allegory"],
 "accession" : "68.304"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.334.jpg",
 "title" : "Crying Forfeits",
 "name" : "Joshua Reynolds",
@@ -4147,7 +4117,7 @@
 "provenance" : "Purchaed from Reynolds by George Montagu-Dunk, 2nd Earl of Halifax (D. Mannings does not believe the payment of &#194;&#163;100 recorded as from Lord Halifax to Reynolds, Nov. 20, 1766, relates to the present work however);sale, Christie's, Collection Yatman, 30 May, 1829, lot 132, (as 'Children playing at forfeits, being portraits of the Young Family of the late Earl of Halifax); bought in (passed) at &#194;&#163;105;Ireland, County Fermanagh, Collection Richard Archdall;by descent to Dr. George Archdall (Gratwicke), Cambridge, Emanuel College;by descent to his (adopted) nephew Rev. R.V.C. Kinleside, 1872;sale, H. Bingham Mildmay, (Christie's), 24 June, 1893, lot. 61, bought by Lord Manners for 80 gns.;Cold Overton, Oakham, Collection Lord Manners;sale, (Carter Banks and Bennett), Tunbridge Wells, 23-24 November, 1927, lot 638, sold for &#194;&#163;5050;New York, (dealer) Howard Young Gallery;Detroit, Collection Mr. and Mrs. Lawrence P. Fisher by whom bequeathed to The Detroit Institute of Arts in 1968.",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "68.334"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.47.jpg",
 "title" : "YOUNG WOMAN WITH A VIOLIN (SAINT CECILIA)",
 "name" : "Orazio Gentileschi",
@@ -4163,7 +4133,7 @@
 "provenance" : "Genoa, Palazzo Brignole Sale (Bianco), Coll. Carlo Cambiaso, by 1780;GB, Andrew Wilson (dealer-1807). Acquired by Wilson on 16 Jan. 1805 for L1200 from Carlo Cambiaso;London, auction, Andrew Wilson (at Squibb's; auctioneer was Peter Coxe), 6 May 1807, lot 7 (as a \"St. Cecilia\" by Gentileschi);GB, Thomas Trevor Hampden, 2nd Viscount Hampden, from 1807 (acquired at above sale);GB, Skelmorlie Castle, Dalkairth (Dumfries and Galloway, Scotland), Coll. William Alan Coats, Esq.;GB, Levernholme, Nitshill and Renfrewshire, by descent, Major J. A. Coats, Esq.;GB, Levernholme, Nitshill and Renfrewshire, by descent, Thomas H. Coats, Esq.; London, auction, T. H. Coats, Esq., [Christie's] 12 April 1935, lot 83 (as by Vermeer; bought by Bennett);GB, Coll. Anthony Rau, (n.d.);London, Arthur Appleby (dealer-acquired from A. Rau)New York, Wildenstein and Co.(acquired from A. Appleby) from whom purchased by Mrs. Edsel B. Ford as a gift to the DIA.",
 "keywords" : ["canvas","oil","paint","religion","music"],
 "accession" : "68.47"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/69.259-D1.jpg",
 "title" : "A Woman",
 "name" : " Anonymous",
@@ -4177,7 +4147,7 @@
 "provenance" : "Ireland, County Tyrone, Collection Dungannon;Shropshire, Market Drayton, Collection Viscount Dungannon;Adderly Hall, Market Drayton, Collection Henry Reginald Corbet, Esq.;London, sale, Collection Reginald Corbet, Esq. (Sotheby's), 15 May 1923, lot 60 (as by Murillo); London Alfred L. Nicholson (dealer--1924);New York, A. Siegfried Aram Gallery (n.d.);(?) New York, Ehrich (Erich?) Galleries (ca. 1925);Ann Arbor, MI, Harry Boyd Earhart Foundation, by whom given to the Detroit Institute of Arts in 1969.",
 "keywords" : ["canvas","oil","paint","portrait","bust"],
 "accession" : "69.259"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/69.306.jpg",
 "title" : "SELF PORTRAIT",
 "name" : "Paul Gauguin",
@@ -4190,10 +4160,10 @@
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Gift of Robert H. Tannahill",
-"provenance" : "Paris, Paul Guillaume (dealer);London, Collection Brendon Davis (at least until 1911);Oxford, Old Headington, Collection Sir Michael Sadler, (purchased 1911, at least until 1936, as picture appears in &#226;? Art&#226;? , Sept. 1936, no. 5);New Jersey, Collection Mr. and Mrs. L. B. Wescott (by 1946, until 1955);New York, J. K. Tannhauser Gallery (dealer--1955),  from whom purchased by Robert H. Tannahill in 1955;Grosse Pointe Farms, Collection Robert H. Tannahill, by whom given to the DIA in 1969.",
+"provenance" : "Paris, Paul Guillaume (dealer);London, Collection Brendon Davis (at least until 1911);Oxford, Old Headington, Collection Sir Michael Sadler, (purchased 1911, at least until 1936, as picture appears in &#226;?ï¿½Art&#226;?ï¿½, Sept. 1936, no. 5);New Jersey, Collection Mr. and Mrs. L. B. Wescott (by 1946, until 1955);New York, J. K. Tannhauser Gallery (dealer--1955),  from whom purchased by Robert H. Tannahill in 1955;Grosse Pointe Farms, Collection Robert H. Tannahill, by whom given to the DIA in 1969.",
 "keywords" : ["canvas","oil","paint","portrait","self portrait","bust"],
 "accession" : "69.306"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/69.358.jpg",
 "title" : "A Kitchen Corner",
 "name" : "Willem Kalf",
@@ -4209,7 +4179,7 @@
 "provenance" : "(?) Collection Jacques Augustin de Silvestre, drawing master to the royal family (according to Grisebach); (?) Paris, auction Silvestre (Regnault) 28 February-25 March, 1811, lot 39 sold with Grisebach no. 28 for frs. 167 (according to Grisebach);Paris, Collection Mr. Lavall&#233;e (Secretary General for French Museums); Paris, auction Lavall&#233;e (Paillet & B&#233;nard), 9 March, 1811, lot 8 sold together with Grisebach no. 28 for frs. 200;Berlin, auction (Lepke) 7 May, 1895, lot 306 (Kupferkessel und Gem&#195;&#188;se bei einem K&#195;&#188;chenschranke, im Hintergrund K&#195;&#182;chin einen Korb tragend), (Grisebach no. 28 was lot 305 in this sale);Probably Munich, auction (Helbing), 25 April, 1904, lot 60 (but according to Grisebach this could also refer to cat. 28);New York, Arnold, Seligman, Rey and Co. (dealer, 1935); Detroit, Collection E. Raymond Field (sold in 1964); Detroit, Collection Mr. and Mrs. Bernard F. Walker (1964), by whom given to the DIA in 1969 in memory of Robert H. Tannahill.",
 "keywords" : ["oil","paint","panel","wood","genre"],
 "accession" : "69.358"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/69.6.jpg",
 "title" : "Angel Appearing to St. Jerome",
 "name" : "Guido Reni",
@@ -4225,7 +4195,7 @@
 "provenance" : "Genoa, Palazzo Balbi, Coll. Jacomo Balbi (cf. Cochin, 1758; seen there by William Irvine, 12 May 1804); GB, Coll. Andrew Wilson (imported picture to England in 1804);GB, Coll. Walsh Porter, Esq. Purchased from Wilson 6 May 1807 (cf. Buchanan, 1824, II, p. 201; Walsh Porter puchsased it for 766 pounds, 10 shillings) . London (?),  W. Porter Esq., auction, 14 April 1810, lot 39 or 40 (purchased by Goddard for &#194;&#163;640.10); Saltmarshe, Herefordshire, Coll. Edmund Higginson, auction, 4 June 1846, lot 181 (sold to 2nd Lord Northwick for 260 gns.); Thirlestane House, Cheltentham, Coll. 2nd Lord Northwick (see \"Hours in the Picture Gallery of Thirlestane\", copy in NG, London);Thirlestane House, Cheltentham, 2nd Lord Northwick, auction, 1859, lot 539;Northwick Park, Coll. George, 3rd Lord Northwick (purchased at above auction for 350 guineas);By descent,  Captain E. G. Spencer-Churchill, M. C. (Northwick Park);London, Spencer-Churchill (\"Northwick Park Collection: Important Pictures by Old Masters c. 1400 - c. 1600\"), auction [Christie's], 28 May 1965, lot. 35, p. 41;London, Julius Weitzner (dealer);London, Hallsborough Gallery (dealer-1969), by whom purchased for the DIA by the Founders Society.  The 1965 sale catalogue notes that \"according to a MS. note by the 3rd Lord Northwick, the picture is 'said to have been purchased by the Prince Regent for 8000 guineas'\"; this is in error, according to S. Pepper's DIA Bulletin article, based on information from Oliver Millar.",
 "keywords" : ["canvas","oil","paint","religion","christian"],
 "accession" : "69.6"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.158-S1.jpg",
 "title" : "THE DIGGERS",
 "name" : "Vincent Willem van Gogh",
@@ -4241,7 +4211,7 @@
 "provenance" : "Amsterdam, Collection Johanna van Gogh-Bonger;Paris, Galerie Bernheim-Jeune, (dealer-bought from J. van Gogh Bonger in April, 1907);Frankfurt-am-Main, Frankfurter Kunstverein(1907);Frankfurt-am-Main, Collection Hugo Nathan (by 1912, and still in the possession of Mrs. Hugo Nathan in 1938);New York, J. K.  Thannhauser Gallery (dealer);New York, Wildenstein & Co. (dealer, 1941);Grosse Pointe Farms, Collection Robert H. Tannahill (1941-69), by whom bequeathed to the DIA in 1970.  ",
 "keywords" : ["canvas","oil","paint","paper","genre"],
 "accession" : "70.158"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.159.jpg",
 "title" : "BANK OF THE OISE AT AUVERS",
 "name" : "Vincent Willem van Gogh",
@@ -4257,7 +4227,7 @@
 "provenance" : "Amsterdam, Collection Mrs. Johanna van Gogh-Bonger (up until 1905);Berlin, Paul Cassirer Gallery (dealer) (acquired from J. van Gogh-Bonger in 1905);Vienna, Collection Carl Reininghaus;Berlin, Paul Cassirer Gallery (dealer--exh. May-June 1914, cat. 143);Berlin, Collection Mrs. F. O. Oppenheim (1914);Berlin, Thannhauser Art Gallery (dealer-1927-1928);New York, Knoedler & Co. (dealer-1931-1935);Grosse Pointe Farms, Collection Robert H. Tannahill (purchased from Knoedler) by whom bequeathed to the DIA in 1970.",
 "keywords" : ["canvas","oil","paint","marine"],
 "accession" : "70.159"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.160.jpg",
 "title" : "Madame Cezanne",
 "name" : "Paul Cezanne",
@@ -4273,7 +4243,7 @@
 "provenance" : "Paris, Ambroise Vollard, (dealer);Paris, Collection Auguste Pellerin;Merion, PA, Collection Dr. Albert C. Barnes;Paris, &#201;tienne Bignou, (dealer);New York, Knoedler & Co., (dealer);Detroit, Collection Robert H. Tannahill by whom bequeathed to the DIA in 1970. ",
 "keywords" : ["canvas","oil","paint","three quarter length","portrait"],
 "accession" : "70.160"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.161.jpg",
 "title" : "Mont Sainte-Victoire",
 "name" : "Paul Cezanne",
@@ -4289,7 +4259,7 @@
 "provenance" : "Paris, Ambroise Vollard, (dealer);New York, Knoedler and Company (dealer-1933) from whom purchased by R. H. Tannahill in 1933; Detroit, Collection Robert H. Tannahill, by whom bequeathed to the DIA in 1970.",
 "keywords" : ["canvas","oil","paint","landscape"],
 "accession" : "70.161"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.162.jpg",
 "title" : "Bathers",
 "name" : "Paul Cezanne",
@@ -4305,7 +4275,7 @@
 "provenance" : "Paris, Ambroise Vollard (dealer);sold toFlorence, Collection Egisto Fabbri, 24 March 1900 (for 2500 francs); presented to his sisterFlorence, Collection Contessa Ernestine Ludolf, n&#233;e Fabbri;Paris, Jean Dieterle, (dealer);Paris, Collection Mme Paul (Juliette) Guillaume, before January 28, 1937 (also dealer);Grosse Pointe Farms, MI, Collection Robert H. Tannahill, Jan-Feb. 1937;by whom bequeathed to DIA in 1970.",
 "keywords" : ["canvas","oil","paint","nude","landscape"],
 "accession" : "70.162"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.163-S1.jpg",
 "title" : "The Three Skulls",
 "name" : "Paul Cezanne",
@@ -4321,7 +4291,7 @@
 "provenance" : "Paris, Ambroise Vollard, (dealer); New York, Galerie E. Bignou, (dealer- 1935);Washington, D.C., The Angus Whyte Gallery, (dealer- 1938-1940) from whom purchased by Robert H. Tannahill for $12,500 in 1940;by whom bequeathed to The Detroit Institute of Arts, 1970.",
 "keywords" : ["canvas","oil","paint","still life"],
 "accession" : "70.163"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.164.jpg",
 "title" : "STILL LIFE",
 "name" : "Jean Sim&#233;on Chardin",
@@ -4337,7 +4307,7 @@
 "provenance" : "Paris, Marguerite Saintard (Chardin's first wife, died 1735; inventory 1737);? Antoine de la Roque; his sale Paris, Gersaint, May 1745, no. 75 (sold with pendant);  acquired by \"Delp&#234;che\" (possibly banker Despueschs) (Detroit or Louvre version);Paris, Jean-Georges Wille (1715-1808) (acquired 14 August 1760; not in his sale of 1784); Paris, L&#233;on Dru (d. 1904); Paris, Comte de Castel*, 1905;[Paris, Mme. L&#233;on Kleinberger, in 1907]; consigned 2 Oct. 1931 to [New York, F. Kleinberger and Co., 1931-32];New York, American Art Association, Anderson Gallery, F. Kleinberger sale, 18 Nov. 1932, no. 27; purchased by \"E. Aulmann\" (collector? agent?) [New York, F. Kleinberger and Co., in 1934]; sold to[New York, Arnold Seligmann, Rey and Co., 1935]; acquired byDetroit/Grosse Pointe Farms, Robert H. Tannahill, in  Jan. 1935; bequeathed toDIA 1970* F.J. Cummings suggested Comte Edouard de Viel-Castel (need documentation)",
 "keywords" : ["oil","paint","panel","still life"],
 "accession" : "70.164"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.165.jpg",
 "title" : "Young Girl with a Mandolin",
 "name" : "Jean Baptiste Camille Corot",
@@ -4353,7 +4323,7 @@
 "provenance" : "Purchased from the artist by A. Beugniet, (dealer); Collection, Sabourdin (n.d.); Collection, G. Tempelaere, (dealer?) (n.d.); Collection, Albert S. Henraux, (1903?);Paris, Collection Edouard Jonas (n.d., until 1938, when sold to Tannahill);Detroit, Collection Robert H. Tannahill (by 1938), from whom purchased by the DIA in 1970 with funds from the Robert H. Tannahil bequest.",
 "keywords" : ["canvas","oil","paint","three quarter length","portrait"],
 "accession" : "70.165"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.167-S1.jpg",
 "title" : "VIOLINIST AND YOUNG WOMAN",
 "name" : "Edgar Degas",
@@ -4369,7 +4339,7 @@
 "provenance" : "Paris, Collection of the Artist, Edgar Degas;Paris, auction Atelier E. Degas (Galerie Georges Petit) 6 May, 1918 (1st sale), lot. 49,repr.;Paris, Collection Jacques Seligmann;New York, auction J. Seligmann (American Art Association) 27 Jan. 1921, lot 25, repr.,bought by J. H. Whittemore for $7,000.00.Naugatuck, Long Island, NY, Collection J. Harris Whittemore (1921-1936) from whom purchased by Durand-Ruel on May 4, 1936;New York, Durand-Ruel Gallery (dealer-1936), from whom purchased by R. H. Tannahill;Grosse Pointe Farms, Collection Robert H. Tannahill, by whom bequeathed to the DIA. ",
 "keywords" : ["canvas","oil","oil crayon","paint","pastel crayon","crayon","three quarter length","portrait","music","double portrait"],
 "accession" : "70.167"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.168.jpg",
 "title" : "Woman with a Headband",
 "name" : "Edgar Degas",
@@ -4385,7 +4355,7 @@
 "provenance" : "(?)Paris, Dupuis Collection;Paris, auction Dupuis Collection (Hotel Drouot) 10 June, 1891, lot 16 (as Chez l'oculiste), bought by Hubert du Puy, Louviers for F frs. 250;Paris, Collection Laurent;Paris, auction (M. X . . . =Laurent) (Galerie Georges Petit) 8 December, 1898, lot 3 (as La femme au bandeau), bought for F frs 2010 by Durand-Ruel;Paris, Durand-Ruel (dealer--stock # 4873));Paris, Collection Raymond Koechlin, acquired from Durand-Ruel on May 4, 1899 for F frs 4,000.Paris, Collection Denys Cochin;Paris, auction D. Cochin (Georges Petit) 26 March, 1919, lot 9, repr., bought by Amboise Vollard (possibly on behalf of the Cochin family); Paris, by descent, Mme Jacques Cochin (1924);Paris, Collection Denys Cochin Jr.(1936); Paris, Amboise Vollard (dealer);New York, Paul Rosenberg & Co. (dealer--1949-1950) from whom purchased by Robert Tannahill on Nov. 14, 1950;Grosse Pointe Farms, Collection Robert H. Tannahill, by whom bequeathed to the DIA in 1970.",
 "keywords" : ["canvas","oil","paint","half length"],
 "accession" : "70.168"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.173.jpg",
 "title" : "ON THE BEACH",
 "name" : "Edouard Manet",
@@ -4401,7 +4371,7 @@
 "provenance" : "Paris, Collection of the artist (Manet Estate Inventory, no. 59); Lochard (unnumbered photograph); Gu&#233;rard; Paris, Galerie Bernheim-Jeune, (dealer), bt. August Pellerin, 20 September, 1904;Paris, Collection Auguste Pellerin; Berlin, Galerie Paul Cassirer, (dealer), 1905; Paris, Galerie Bernheim-Jeune, (dealer), 1905;Paris, Galerie Durand-Ruel, (dealer), 1906; Vienna, Miethke, (dealer), 1910; Berlin, Collection Hugo Perls, by at least 1927; (?) Between A. Pellerin in 1904 and Mauthner-Markhof by 1928, it may have been with a \"M. Salzburg\";Vienna, Collection Mlle Magda von Mauthner-Markhof, by at least 1928; Paris, E. Bignou, (dealer); Paris, Paul Guillaume, (dealer), by at least 1931; New York, Wildenstein, (dealer), 1933-1935, from whom purchased by Robert H. Tannahill in October,1935; Grosse Pointe Farms Collection Robert H. Tannahill, by whom bequeathed to The Detroit Institute of Arts in 1970. ",
 "keywords" : ["canvas","oil","paint","nonobjective","figure"],
 "accession" : "70.173"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.177.jpg",
 "title" : "Seated Bather",
 "name" : "Pierre Auguste Renoir",
@@ -4417,7 +4387,7 @@
 "provenance" : "Collection of the artist, Pierre Auguste Renoir, by whom sold to Josse Hessel in 1914;Paris, Collection Josse Hessel, (purchased from the artist in 1914 and remaining in his collection until 1935); London, Alex Reid & Lefevre Ltd. (dealer-1935) together with New York, Bignou Gallery (dealer-1935) from whom purchased by Robert H. Tannahill;Grosse Pointe Farms, Collection Robert H. Tannahill by whom bequeathed to the DIA in 1970.",
 "keywords" : ["canvas","oil","paint","nude"],
 "accession" : "70.177"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.178-d1.jpg",
 "title" : "The White Pierrot",
 "name" : "Pierre Auguste Renoir",
@@ -4433,7 +4403,7 @@
 "provenance" : "Studio of the artist until his death (1919); by descent to Claude Renoir; Paris, Paul Guillaume (dealer-before April, 1935);Paris, Edouard Jonas (dealer-1935 from whom purchased by Robert H. Tannahill with W. R. Valentiner acting as an intermediary);Grosse Pointe Farms, Collection Robert H. Tannahill by whom bequeathed to the  DIA in 1970.",
 "keywords" : ["canvas","oil","paint","portrait","full length"],
 "accession" : "70.178"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.183.jpg",
 "title" : "View of Le Crotoy from Upstream",
 "name" : "Georges Pierre Seurat",
@@ -4449,7 +4419,7 @@
 "provenance" : "Paris, Collection of the artist, Georges Seurat;Paris, Collection, Mme. Ernestine Seurat (artist's mother-1891, until at least 1893 and possibly until 1899);Paris, Collection Emile Seurat (artist's brother, by inheritance-1899 until his death in 1906);Paris, Collection Mme. Emile Seurat (widow of the above, until at least 1909);Paris, Collection F&#233;lix F&#233;n&#233;on (1909 until 1922);New York, Collection John Quinn (acquired from F&#233;n&#233;on in 1922 for $4,100, and in his estate until 1926);New York, Paul Rosenberg and Company, (dealer-by at least 1929);New York, Wildenstein and Company (dealer-by 1931 and until 1935);New York, M. Knoedler and Company (dealer-1935--stock # CA739);Grosse Pointe Farms, Collection Robert Tannahill (acquired from Knoedler), by whom bequeathed to The Detroit Institute of Arts in 1970.",
 "keywords" : ["canvas","oil","paint","landscape","marine"],
 "accession" : "70.183"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.1.jpg",
 "title" : "Assumption of the Virgin",
 "name" : " Guercino (Giovanni Francesco Barbieri)",
@@ -4465,7 +4435,7 @@
 "provenance" : "Painted in 1650 for unidentified church or monastery in Naples;Luton Hoo, collection of 3rd Earl of Bute (likely acquired in 1750's, in collection by 1776);  By descent, 6th Marquess of Bute (1971), from whom directly acquired by the Founders Society for the DIA.",
 "keywords" : ["canvas","oil","paint"],
 "accession" : "71.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.169.jpg",
 "title" : "THE HONORABLE RICHARD SAVAGE NASSAU DE ZUYLESTEIN, M.P.",
 "name" : "Thomas Gainsborough",
@@ -4481,7 +4451,7 @@
 "provenance" : "Fisherwick near Lichfield, Staffordshire, Collection Arthur Chichester, First Marquess of Donegall (d.1/5/1799); By descent to his third son, Lord Spencer Stanley Chichester,(d.2/22/1819) Dunbrody park, Arthurstown, Co. Wexford;By descent to his son, Arthur Chichester, first Baron Templemore  (d.9/26/1837), Dunbrody Park, Arthurstown, Co. Wexford;By descent to his son, Henry Spencer Chichester, second Baron Templemore  (d.6/10/1906) Dunbrody Park, Arthurstown, Co. Wexford;By descent to his son, Arthur Henry Chichester, third Baron Templemore (d.9/28/1924), Dunbrody Park, Arthurstown, Co. Wexford;By descent to his son, Arthur Claude Spencer Chichester, fourth Baron Templemore;Sold through Arthur Ruck (?), c. 1925, to Duveen Brothers (dealer), New York;Acquired by Anna Thomson Dodge from Duveen Brothers, 1935;Grosse Pointe, Collection Anna Thompson Dodge (Mrs. Horace E. Dodge) by whom  bequeathed to the DIA in 1971 in memory of her husband.",
 "keywords" : ["canvas","oil","paint","portrait","full length"],
 "accession" : "71.169"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.170.jpg",
 "title" : "LADY ANNE HAMILTON",
 "name" : "Thomas Gainsborough",
@@ -4497,7 +4467,7 @@
 "provenance" : "Fisherwick near Lichfield, Staffordshire, Collection Arthur Chichester, First Marqueses of  Donegall (d.1/5/1799), By descent to his third son, Lord Spencer Stanley Chichester, (d.2/22/1819) Dunbrody Park, Arthurstown, Co. Wexford;By descent to his son, Henry Spencer Chichester, second Baron Templemore (d.6/10/1906) Dunbrody Park, Arthurstown, Co. Wexford;By descent to his son, Arthur Henry Chichester, third Baron Templemore (d.9/28/1924), Dunbrody Park, Arthurstown, Co. Wexford;By descent to his son, Arthur Claude Spencer Chichester, fourth Baron Templemore;Sold through Arthur Ruck (?), c. 1925, to Duveen Brothers (dealer), New York;Acquired by Anna Thomson Dodge from Duveen Brothers, 1935., DSO,      Arthurstown, County Wexford, Ireland.Grosse Pointe, Collection Anna Thomson Dodge, (Mrs. Horace E. Dodge) by whom  bequeathed to the DIA in 1971 in memory of her husband.",
 "keywords" : ["canvas","oil","paint","portrait","full length"],
 "accession" : "71.170"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.171.jpg",
 "title" : "Susannah Edith, Lady Rowley",
 "name" : "John Hoppner",
@@ -4513,7 +4483,7 @@
 "provenance" : "Tendring Hall, Stoke-by-Nayland, Suffolk, Collection Sir William Rowley, second Bart. (d. October 20, 1832);by descent to his daughter, Lady Marianne Sarah Dashwood (d. March 24, 1877) (wife of Sir George Dashwood, fourth Bart.) (d. September 22, 1861) Kirtlington Park, near Woodstock, Oxfordshire;by descent to their second son, Captain George Astley Charles Dashwood, (d. July 26, 1863), Wherstead Park, Ipswich, Suffolk;by descent to his son, Lieutenant Charles Edmund Dashwood, J.P. (d. April 29, 1935), Wherstead Park, Ipswich, Suffolk;Paris, Collection Baron Eugen de Rothschild (?);(?) London, Charles Davis (dealer);London, P. & D. Colnaghi (dealer) April 1926;New York and London, Knoedler (dealer), 1927 sold to;New York, Collection Alfred W. Erickson (acquired from Knoedler in January, 1927;New York, Duveen Brothers (dealer, from whom acquired by Anna Thompson Dodge in 1935);Grosse Pointe, Collection Anna Thompson Dodge, 1935, (Mrs. Horace E. Dodge) by whom given to the museum in memory of her husband in 1971.",
 "keywords" : ["canvas","oil","paint","portrait","half length"],
 "accession" : "71.171"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.30.jpg",
 "title" : "The Finding of Moses",
 "name" : "Laurent de La Hyre",
@@ -4526,10 +4496,10 @@
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Gift of Dr. and Mrs. Coleman H. Mopper",
-"provenance" : "(?) Paris, Private Collection;(?) Paris, auction (H&#195;&#180;tel des Ventes Mobili&#232;res) 6 April, 1836, lot 9;Detroit, Private Collection (attributed by W. Valentiner to Joseph Vien; cf. &#226;? DIA Bulletin&#226;? , 49:2, 1970, p. 27);Detroit, Collection Dr. & Mrs. Coleman Mopper by June 1969, by whom given to the DIA in 1971.",
+"provenance" : "(?) Paris, Private Collection;(?) Paris, auction (H&#195;&#180;tel des Ventes Mobili&#232;res) 6 April, 1836, lot 9;Detroit, Private Collection (attributed by W. Valentiner to Joseph Vien; cf. &#226;?ï¿½DIA Bulletin&#226;?ï¿½, 49:2, 1970, p. 27);Detroit, Collection Dr. & Mrs. Coleman Mopper by June 1969, by whom given to the DIA in 1971.",
 "keywords" : ["canvas","oil","paint","religion","christian"],
 "accession" : "71.30"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.301.jpg",
 "title" : "A Cove with Fishermen",
 "name" : "Jules Alexander Gamba de Preydour",
@@ -4545,7 +4515,7 @@
 "provenance" : "England, private collection (n.d.);Collection Hennessy (1878);Grosse Pointe, MI, Degrimme Art Gallery (dealer-1971);Detroit, Collection Dr. & Mrs. Coleman Mopper, by whom given to the DIA in 1971 (purchased by DIA with funds provided by Moppers?).",
 "keywords" : ["canvas","oil","paint","landscape"],
 "accession" : "71.301"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.390.jpg",
 "title" : "The Shepherdess",
 "name" : "Jean Honore Fragonard",
@@ -4561,7 +4531,7 @@
 "provenance" : "Possibly Paris, the H&#195;&#180;tel de Mortemart-Rochechouart in the 18th century;?northern France, private collection; Paris, Baron Roger Portalis;Paris, Eugen Kraemer [sic] by 1907; his sale Paris, sale Eug&#232;ne Kraemer [sic], 5-6 May 1913, lot 32 (with 71.391-393 and 2 other canvases from the same series; sale cat. is annotated to say they were purchased by \"L&#233;vy\"; below this (later?) was written \"Judge Garry, NY\"); [New York, Wildenstein, dealer, with E. Gimpel, by 1914]; New York, Judge Elbert H. Gary (d. Aug. 15, 1927);[New York, Duveen Brothers, dealer];Grosse Pointe Farms, Anna Thomson Dodge, acquired 1935; her saleLondon, Christie's, 25 June 1971, lot 6, purchased by DIA ",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "71.390"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.391.jpg",
 "title" : "The Grape Gatherer",
 "name" : "Jean Honore Fragonard",
@@ -4577,7 +4547,7 @@
 "provenance" : "Possibly Paris, the H&#195;&#180;tel de Mortemart-Rochechouart in the 18th century;?northern France, private collection; Paris, Baron Roger Portalis;Paris, Eugen Kraemer [sic] by 1907; his saleParis, sale Eug&#232;ne Kraemer [sic], 5-6 May 1913, lot 34  (with 71.390, .392, .393, and 2 other canvases from the same series; sale cat. is annotated to say they were purchased by \"L&#233;vy\"; below this (later?) was written \"Judge Garry, NY\"); [New York, Wildenstein, dealer, with E. Gimpel, by 1914]; New York, Judge Elbert H. Gary (d. Aug. 15, 1927);[New York, Duveen Brothers, dealer];Grosse Pointe Farms, Anna Thomson Dodge, acquired 1935; her saleLondon, Christie's, 25 June 1971, lot 7, purchased by DIA",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "71.391"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.392.jpg",
 "title" : "The Reaper",
 "name" : "Jean Honore Fragonard",
@@ -4593,7 +4563,7 @@
 "provenance" : "Possibly Paris, the H&#195;&#180;tel de Mortemart-Rochechouart in the 18th century;?northern France, private collection; Paris, Baron Roger Portalis;Paris, Eugen Kraemer [sic] by 1907; his saleParis, sale Eug&#232;ne Kraemer [sic], 5-6 May 1913, lot 35 (with 71.390, .391, .393, and 2 other canvases from the same series; sale cat. is annotated to say they were purchased by \"L&#233;vy\"; below this (later?) was written \"Judge Garry, NY\"); [New York, Wildenstein, dealer, with E. Gimpel, by 1914]; New York, Judge Elbert H. Gary (d. Aug. 15, 1927);[New York, Duveen Brothers, dealer];Grosse Pointe Farms, Anna Thomson Dodge, acquired 1935; her saleLondon, Christie's, 25 June 1971, lot 8, purchased by DIA",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "71.392"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.393.jpg",
 "title" : "The Gardener",
 "name" : "Jean Honore Fragonard",
@@ -4609,7 +4579,7 @@
 "provenance" : "Possibly Paris, the H&#195;&#180;tel de Mortemart-Rochechouart in the 18th century;?northern France, private collection; Paris, Baron Roger Portalis;Paris, Eugen Kraemer [sic] by 1907; his saleParis, sale Eug&#232;ne Kraemer [sic], 5-6 May 1913, lot 33 (with 71.390-.392 and 2 other canvases from the same series; sale cat. is annotated to say they were purchased by \"L&#233;vy\"; below this (later?) was written \"Judge Garry, NY\"); [New York, Wildenstein, dealer, with E. Gimpel, by 1914]; New York, Judge Elbert H. Gary (d. Aug. 15, 1927);[New York, Duveen Brothers, dealer];Grosse Pointe Farms, Anna Thomson Dodge, acquired 1935; her saleLondon, Christie's, 25 June 1971, lot 9, purchased by DIA",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "71.393"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/72.201.jpg",
 "title" : "Man Wearing a Plumed Beret and Gorget",
 "date" : "mid 1630's",
@@ -4621,7 +4591,7 @@
 "provenance" : "Paris, Collection Prince A. de Broglie;London, Collection Charles Fairfax Murray; Paris, auction C. Fairfax Murray (Georges Petit) 15 June 1914, lot 23 bought in at F. frs. 315,000);London, auction C. Fairfax Murray (Christie's) 14 December, 1917,lot 69, bought by Agnew for 7350 pounds; London, Thomas Agnew and Sons (dealer, 1917-1919); New York, Howard Young Galleries (dealer); Rochester, Michigan (Meadowbrook Hall), Collection Mr. and Mrs. Alfred G. Wilson, by descent to Matilda R. Wilson;New York, auction Estate of M. R. Wilson (Parke-Bernet) 22 October, 1970, lot 9, repr., bought in; given by the estate to the DIA.",
 "keywords" : ["oil","paint","panel","portrait","self portrait","wood","half length"],
 "accession" : "72.201"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/72.222.jpg",
 "title" : "The Flight into Egypt",
 "name" : "Carlo Dolci",
@@ -4637,7 +4607,7 @@
 "provenance" : "Ballyfin, Mountraith, Queens Co., Ireland, Collection Sir Ralph Coote (1923);London, auction (Christie), Collection Sir Ralph Coote, 7 May 1923, lot 273, bought by Berry, Head & Co.;London, Berry, Head & Co.(dealer, 1923);New York, Erich Galleries (defunct, n.d.);Detroit, Collection E. Raymond Field (by 1951);New York, Victor D. Spark (dealer-by 1966-until 1972);Detroit, Collection William Poplack, by whom given to the DIA in 1972.",
 "keywords" : ["canvas","oil","paint","religion","christian"],
 "accession" : "72.222"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/72.296-S1.jpg",
 "title" : "Pygmalion and Galatea",
 "name" : "Louis Jean Francois Lagrenee",
@@ -4653,7 +4623,7 @@
 "provenance" : "Paris, Sold as part of lot 3 at the Villers sale, Dec. 2, 1795, held at \"Salle de vente, rue Fran&#195;&#167;aise no. 13, pr&#232;s celle du Petit-Lion\" (very likely consigned by Lagren&#233;e himself; this lot was part of the appendix to the sale and was almost certainly not the property of Villers himself);Paris, auction Dubourg, 1869;Paris, auction (H&#195;&#180;tel Drouot), 23 March 1908, lot 31, repr. (titled La Sculpture--bought by Lesour de Villers);(?) Paris, Galerie Joseph Hahn (acc. to Loves of the Gods exh. cat., p. 502);New York, H. Shickman Gallery (dealer-1972) from whom purchased by the DIA in 1972.NB:  Although once listed here, our painting was not in the Paris, P&#233;reire 1872 auction.  The painting of this subject in that sale measured 104 x 85 cm and was signed and dated 1777.  This is likely the Helsinki painting.",
 "keywords" : ["canvas","oil","paint","mythology"],
 "accession" : "72.296"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/72.434.jpg",
 "title" : "The Entombment of Christ",
 "name" : "Luca Giordano",
@@ -4669,7 +4639,7 @@
 "provenance" : "Venice, Palazzo Vendramin-Calergi, collection of the Duchess of Berry (Maria Carolina di Borbone);Paris, auction Duchesse de Berry (H&#195;&#180;tel Drouot) 19 April 1865, lot 70;France, Private collection;Paris, Heim Gallery (dealer), from whom purchased by the Founders Society for the DIA in 1972 with funds from the R. Tannahill Foundation.Note:  the Paris 1865 auction was previously listed here as 27-29 April 1865, not 19 April 1865.  The April 19 date was listed in the 2005 catalogue.  Which is correct?",
 "keywords" : ["canvas","oil","paint","religion","christian"],
 "accession" : "72.434"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/72.465-D1.jpg",
 "title" : "Head of a Man",
 "name" : "Paul Cezanne",
@@ -4685,7 +4655,7 @@
 "provenance" : "Paris, Ambroise Vollard, (dealer);Berlin, Paul Cassirer, (dealer) 1916;Berlin, Tilla Durieux-Cassirer (widow of Paul Cassirer), 1916;Berlin, auction (Cassirer & Helbing) 17 May, 1927, lot 38, repr., bought by Thannhauser;Lucerne and New York, Galerie Thannhauser, (dealer--1927);Prague (& later Larchmont, NY), Collection Paul Smolka, 1932;New York, auction Estate of Paul Smolka, (Park-Bernet,) 26 April, 1972, lot 15, repr.; bought in;Sold by private treaty by Mrs. Paul Smolka to The Detroit Institute of Arts in 1972.",
 "keywords" : ["canvas","oil","paint","portrait","bust"],
 "accession" : "72.465"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.100.jpg",
 "title" : "THE BIRTH OF THE VIRGIN",
 "name" : "Antonio Gonzalez Velazquez",
@@ -4701,7 +4671,7 @@
 "provenance" : "Rome, Collection Enzo Constanttini;Madrid, sale, (Duran), 9 May, 1972, lot 54, repr. (as Corrado Giaquinto); Madrid, private collection (exh. as such in 1950);Rome, Jan Dik (dealer, 1973), from whom purchased by the DIA;",
 "keywords" : ["canvas","oil","paint","trompe-l'oeil","religion","christian"],
 "accession" : "73.100"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.169.jpg",
 "title" : "Madame Louis Antoine de Cambourg",
 "name" : "Jean Hippolyte Flandrin",
@@ -4717,7 +4687,7 @@
 "provenance" : "France, Collection Countess Berthilde-Victoire-Ang&#233;lique de Cambourg;By inheritance to the grandson of the sitter (in whose collection Mme Lanvin saw the picture in 1967 and into the early 1970s);Paris, Galerie Jacques Fischer (dealer-1973) from whom purchased by the DIA in 1973.",
 "keywords" : ["canvas","oil","paint","three quarter length","portrait"],
 "accession" : "73.169"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.268-d1.jpg",
 "title" : "MARTHA AND MARY MAGDALENE",
 "name" : "Michelangelo Merisi da Caravaggio",
@@ -4733,7 +4703,7 @@
 "provenance" : "Arezzo, Collection Panzani Family;Legally exported through the dogana in Milan in 1897;Collection Indalecio G&#195;&#179;mez, Argentine Ambassador to Berlin (acquired in Paris between 1904-1909); Salta Province and subsequently Buenos Aires, Argentina, by descent, Collection Carlos G&#195;&#179;mez de Alzaga, grandson of Indalecio (1973);London, auction, Ambassador Carlos G&#195;&#179;mez de Alzaga [Christie's] 25 June 1971, lot 21 (bought in);Sold by owner, C. G&#195;&#179;mez de Alzaga, to the DIA in 1973 (through David Carritt).",
 "keywords" : ["canvas","oil","paint","paint","religion","tempera","christian"],
 "accession" : "73.268"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.5.jpg",
 "title" : "Pilgrim",
 "name" : "Jan van Scorel",
@@ -4749,7 +4719,7 @@
 "provenance" : "Cologne, Collection Essingh;Trier, Private Collection; N&#195;&#188;rnberg, Collection Rudolf Chillingworth;Lucerne, Auction Chillingworth (Fischer) 5 September, 1922, lot 35; Detroit, Collection George G. Booth; Bloomfield Hills, Cranbrook Academy of Art; New York, auction Cranbook Academy of Art (Parke-Bernet) 17-18 May, 1972, lot 75, acquired by the DIA with a donation from Mr. & Mrs. James A. Beresford.",
 "keywords" : ["oil","paint","panel","wood","figure","full length"],
 "accession" : "73.5"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.59-D1.jpg",
 "title" : "The Flock",
 "name" : "Charles Emile Jacque",
@@ -4765,7 +4735,7 @@
 "provenance" : "Chicago, Henry Reinhardt Galleries (dealer-1909) from whom purchased by Ms. Stella Ford (later Mrs. Joseph B. Schlotman) in 1909 for $28,000.00Detroit, Collection Mrs. Joseph B. Schlotman by whom given to the DIA in 1973.",
 "keywords" : ["canvas","oil","paint","landscape"],
 "accession" : "73.59"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/74.217.jpg",
 "title" : "Schoolboy",
 "name" : "Jean Baptiste Armand Guillaumin",
@@ -4781,7 +4751,7 @@
 "provenance" : "Paris, Jacques Blot, (dealer, n.d.), not in collection in 1924;Amsterdam, E. G. Van Wisselingh and Co. (dealer, n.d.);New York, Hammer Galleries, (dealer, 1966);Detroit/Miami, Collection Mr. and Mrs. Lee Hills, by whom given to the DIA in 1974.",
 "keywords" : ["canvas","oil","paint","portrait","full length"],
 "accession" : "74.217"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/74.241.jpg",
 "title" : "Sir James Montgomery, Second Baronet of Stanhope",
 "name" : "Henry Raeburn",
@@ -4797,7 +4767,7 @@
 "provenance" : "Scotland, Collection Sir James Montgomery, 2nd Baronet of Stanhope;by descent to his daughter (by first wife Elizabeth Dunbar) Helen-Ann, m. William Forbes-Mackenzie, 1830;by descent to their son, Colin J. Mackenzie, Esq., Portmore, until at least 1876;Brighton, Brighton Art Galleries, (on loan from the Trustees of the late C.J. Mackenzie, Esq., of Portmore,) until at least 1911;London, Leggatt Gallery (dealer-1927); New York, Howard Young Galleries, (dealer-1928); Detroit, Collection Mr. and Mrs. Charles T. Fisher, by whom given to the DIA in 1961.   ",
 "keywords" : ["canvas","oil","paint","three quarter length","portrait"],
 "accession" : "74.241"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/74.55.jpg",
 "title" : "Young Monk",
 "name" : "Theodore Chasseriau",
@@ -4813,7 +4783,7 @@
 "provenance" : "Paris, Private Collection (until 1969); Zurich, Private Collection (1969); Zurich, Walter Feilchenfeldt, (dealer, 1974) from whom the DIA purchased with funds from the Ralph Harman Booth Bequest. ",
 "keywords" : ["canvas","oil","paint","portrait","bust"],
 "accession" : "74.55"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/75.65.jpg",
 "title" : "Landscape of Ancient Greece",
 "name" : "Pierre Henri de Valenciennes",
@@ -4829,7 +4799,7 @@
 "provenance" : "Paris, Collection Marquis de Crillon (1787);Paris, Private Collection;Paris, L'H&#195;&#180;tel de la Place Concorde, Collection Mme la Marquise de Crillon (1861);Paris, Collection Princess du Polignac (1973);Paris, Galerie Heim-Gairac (dealer-1975), from whom purchased by the DIA in 1975.",
 "keywords" : ["canvas","oil","paint","landscape"],
 "accession" : "75.65"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/76.146.jpg",
 "title" : "Christ at the Sea of Galilee",
 "name" : "Sebastiano Ricci",
@@ -4845,7 +4815,7 @@
 "provenance" : "France, private collection (until 1976);London, Heim Gallery (dealer, 1976), from whom purchased by the Founders Society through the Matilda R. Wilson Fund.",
 "keywords" : ["canvas","oil","paint","religion","christian"],
 "accession" : "76.146"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/76.23.jpg",
 "title" : "DRUMMER BOY",
 "name" : "Thomas Couture",
@@ -4861,7 +4831,7 @@
 "provenance" : "Paris, Collection J.V., 1857; Paris, auction M. V. J (van Isacker or Isaac) (Hotel Drouot) 24 April, 1857, lot 5 (L'Enfant au Tambour), sold for F frs 5825;Paris, Private Collection, 1880;(?) Possibly USA, private collection (1880s); New York, Ira Spanierman, Inc., (dealer, by 1967, until 1976), from whom purchased by the DIA. ",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "76.23"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/76.4.jpg",
 "title" : "Chevy",
 "name" : "Edwin Henry Landseer",
@@ -4877,7 +4847,7 @@
 "provenance" : "London, Collection Richard Hemming;London, auction (Christie's), 25 May, 1895, lot  62, bought by Agnew;London, Thomas Agnew and Co. (dealer); London, Collection Sir Joseph Robinson;London, (sale) Christie's, 6 July, 1923, lot 115, bought by J. B. Robinson;By descent to his daughter Princess Labia;London, auction Joseph Robinson, (Christie's), 20 November, 1963, lot 107;London, auction (Christie's), 26 July, 1974, lot  277;London, auction (Christie's), 25 July, 1975, lot 12, pl.  2;Founders Society Purchase in 1976 with funds from Mr. and Mrs. Alvan Macauley, Jr.",
 "keywords" : ["canvas","oil","paint","landscape","animalia"],
 "accession" : "76.4"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/76.86-S1.jpg",
 "title" : "Fire in a Haystack",
 "name" : "Jules Adolphe Aime Louis Breton",
@@ -4893,7 +4863,7 @@
 "provenance" : "London, Ernest Gambart (dealer), acquired from the artist in April 1856;London, auction R. C. Naylor, Hooton Hall, (Christie's) 2 August, 1875, lot 831 (bought by Pilgeram for &#194;&#163; 262)F. J. Pilgeram Collection, 1875; New York, Collection Samuel P. Avery, Jr., NY, by 1890; New York, sale, S.P. Avery, 20 March, 1902, (bought by M. Tanenbaum for $ 850);New York, Collection Albert K. Schneider;New York, auction A. K. Schneider(Park-Bernet) 14 October 1953, lot. 84 (through Dr. Goetz sold for $ 450);Los Angeles, Collection Loyola University;Los Angeles, Auction Loyola University (Century Plaza Hotel) 24 April, 1972;London, auction, (Christie's) 20 February 1976, lot 12 (bought by the DIA through Colnaghi). ",
 "keywords" : ["canvas","oil","paint","landscape","genre"],
 "accession" : "76.86"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.1.1-D1.jpg",
 "title" : "Annunciatory Angel",
 "name" : "Fra Angelico",
@@ -4909,7 +4879,7 @@
 "provenance" : "(?) Fiesoli, Convent of San Domenico;(?) Possibly collection Cardinal Desiderio Scaglia (1621);Paris, collection Baron Dominique-Vivant Denon;Paris, auction Baron Vivant Denon, 1 May 1826, lot 41;Great Britain, Fonthill Abbey, Collection William Beckford;By inheritance, daughter of Beckford;Glasgow, Hamilton Palace, collection Duke of Hamilton (entered collection through marriage to Beckford's daughter);Glasgow, Hamilton Palace, collection Duke of Hamilton;London, auction, 12th Duke of Hamilton (Christie's) 24 June 1882, lot 356; acquired by Winckworth [collector?, dealer?], 1882;London, collection John Edward Taylor;London, auction (Christie's) 5 July 1912, lot 11;Paris, Galerie Sedelmeyer (until after 1913);New York, collection Carl W. Hamilton;Detroit, Grosse Pointe Farms, collection Mr. and Mrs. Edsel Ford (1925); bequeathed by Eleanor Clay Ford to the Detroit Institute of Arts in 1977).",
 "keywords" : ["metal","paint","panel","gold","gold leaf","religion","tempera","wood","half length"],
 "accession" : "77.1.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.1.2-D1.jpg",
 "title" : "Virgin Annunciate",
 "name" : "Fra Angelico",
@@ -4925,7 +4895,7 @@
 "provenance" : "(?) Fiesoli, Convent of San Domenico;(?) Possibly collection Cardinal Desiderio Scaglia (1621);Paris, collection Baron Dominique-Vivant Denon;Paris, auction Baron Vivant Denon, 1 May 1826, lot 41;Great Britain, Fonthill Abbey, Collection William Beckford;By inheritance, daughter of Beckford;Glasgow, Hamilton Palace, collection Duke of Hamilton (entered collection through marriage to Beckford's daughter);Glasgow, Hamilton Palace, collection Duke of Hamilton;London, auction, 12th Duke of Hamilton (Christie's) 24 June 1882, lot 356; acquired by Winckworth [collector?, dealer?], 1882;London, collection John Edward Taylor;London, auction (Christie's) 5 July 1912, lot 11;Paris, Galerie Sedelmeyer (until after 1913);New York, collection Carl W. Hamilton;Detroit, Grosse Pointe Farms, collection Mr. and Mrs. Edsel Ford (1925); bequeathed by Eleanor Clay Ford to the Detroit Institute of Arts in 1977).",
 "keywords" : ["metal","paint","panel","gold","gold leaf","religion","tempera","wood","half length"],
 "accession" : "77.1.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.2-S1.jpg",
 "title" : "Virgin and Child with Angels",
 "name" : "Benozzo Gozzoli",
@@ -4941,7 +4911,7 @@
 "provenance" : "Vienna, Collection Baron von Tucher, by 1908 and retained until 1930; New York, Duveen Brothers (dealers-by 1932);Detroit, Collection Mr. and Mrs. Edsel Ford, 1932, and bequeathed by Eleanor Clay Ford [Mrs. Edsel Ford] to The Detroit Institute of Arts in 1977.",
 "keywords" : ["metal","panel","gold","gold leaf","religion","wood","christian"],
 "accession" : "77.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.3-S1.jpg",
 "title" : "Madonna and Child",
 "name" : "Pietro Perugino",
@@ -4957,7 +4927,7 @@
 "provenance" : "Perugia, Collection Francesco Baglioni, 1784;Florence, Giovanni Metzgar (dealer-1828); Bavaria, Collection Ludwig I, King of Bavaria, by 1831; Munich, Alte Pinakothek (acc. no. 1036), placed on deposit in 1850 following Ludwig I's abidcation in 1848;Munich, Galerie Drey, (dealer--1925);London/New York, Duveen Bros., (dealer--1925);New York, Collection John D. Rockefeller, Jr. (acquired from Duveen in 1927 and returned to same dealer, by exchange, in 1930);New York, Duveen Bros., (dealer--1930), from whom purchased by Edsel & Eleanor Ford;Detroit, Collection Mr. and Mrs. Edsel B. Ford, 1932, and bequeathed byEleanor Clay Ford to the DIA in 1977. ",
 "keywords" : ["paint","panel","religion","tempera","wood","christian"],
 "accession" : "77.3"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.4-S1.jpg",
 "title" : "Portrait of a Bearded Man",
 "date" : "c. 1515",
@@ -4969,7 +4939,7 @@
 "provenance" : "Venice, Collection Cristopher Orsetti (by 1648);Great Britain, Collection Sir Abraham Hume, Bart. (purchased 1786);Great Britain, Ashbridge Park, Herts., Viscount Alford Hume (1838, grandson of Hume and son of first Earl Brownlow), by inheritance;Great Britain, Ashbridge Park, Berkhampstead, Herts., Collection Lord Brownlow, (died 1923), by inheritance;New York, Duveen Brothers (dealer-1926), from whom purchased by Mr. and Mrs. Edsel Ford;Grosse Pointe Shores. Mi., Collection Mr. and Mrs. Edsel Ford (1977); bequeathed byEleanor Clay Ford to the DIA in 1977.",
 "keywords" : ["canvas","oil","paint","portrait","half length"],
 "accession" : "77.4"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.6-S1.jpg",
 "title" : "Mrs. Irvine J. Boswell",
 "name" : "Henry Raeburn",
@@ -4985,7 +4955,7 @@
 "provenance" : "Collection, J. Irvine Fortescue, Esquire; Renfrew, Collection Col. Walter Brown;New York, (dealer) Duveen Brothers, from whom bought by Mr. and Mrs. Edsel Ford in 1926;Grosse Pointe Farms, Collection Mr. & Mrs. Edsel Ford, by whom bequeathed to the Detroit Institute of Arts in 1977.",
 "keywords" : ["canvas","oil","paint","portrait","half length"],
 "accession" : "77.6"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.7.jpg",
 "title" : "Mrs. Richard Paul Jodrell",
 "name" : "Joshua Reynolds",
@@ -5001,7 +4971,7 @@
 "provenance" : "Holt, Norfolk, Great Britain, Collection Rev. Sir Edward Repps Joddrell,Bart. Bayfield Hall (sitter's grandson; he died 1882); passed to his widow;Her sale, London, auction Jodrell, (Christie's) 30 June, 1888, lot 70, bt. Samuels for &#194;&#163;451, 10s;[Waterhouse suggested it was there bought on behalf of Sir Alfred Joddrell of Bayfield Hall, d. 1929];New York, Duveen Brothers (dealer), bt. Mr. and Mrs. Edsel B. Ford, January 23, 1930, for $260,000;Detroit, (Grosse Pointe Farms) Collection Mr. & Mrs. Edsel Ford by whombequeathed to The Detroit Institute of Arts in 1977.",
 "keywords" : ["canvas","oil","paint","portrait","half length"],
 "accession" : "77.7"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.72-S1.jpg",
 "title" : "The Country Lunch",
 "date" : "1725",
@@ -5010,10 +4980,10 @@
 "department" : "European Painting",
 "classification" : "Paintings",
 "credit" : "Founders Society Purchase in memory of Eleanor Clay Ford, Benson and Edith Ford Fund, Henry Ford II Fund, Mr. and Mrs. Walter Buhl Ford II Fund, William and Martha Ford Fund, Elizabeth, Allan and Warren Shelden Fund, Mr. and Mrs. Alvan Macauley, Jr. Fund, Edsel and Eleanor Ford Fund and New Endowment Fund",
-"provenance" : "Paris, Collection Pierre Vign&#233;, called de Vigny;Paris, sale, RR. PP. Augustins du Grand Couvert (by 1894 called l'Ecole des Beaux-Arts), 1 April 1773, no. 96, (for 53 livres), purchased by Mettra.Paris, auction Comtesse du Barry & others (H&#195;&#180;tel d'Aligre) 17 February, 1777, lot 30, sold for 96 livres;Paris, Collection M. Haz&#233;;Paris, auction Haz&#233; (H&#195;&#180;tel d'Aligre) 23 Nov., 1778, lot 78 (&#194;&#166;La Retour d'un Bal,&#194;&#166; on voit quatre figures &#195;  tables, grandes comme nature . . . hauteur 6 pieds 9 pouces;largeur 5 pieds);(?) France, collection Comtesse de Jumilhac (according to T. Lejeune, 1864, p. 351, an auction of the property of the Comtesse de Jumilhac occurred in 1858);Paris, Collection Marquis d'Aligre;Paris, auction, Marquis d'Aligre (Palais Galliera), 8 December 1975, lot 40, repr. (sold for 42,000 francs);Paris, Galerie  Heim (dealer, 1975-1977) from whom purchased by the DIA in 1977.",
+"provenance" : "Paris, Collection Pierre Vign&#233;, called de Vigny;Paris, sale, RR. PP. Augustins du Grand Couvert (by 1894 called l'Ecole des Beaux-Arts), 1 April 1773, no. 96, (for 53 livres), purchased by Mettra.Paris, auction Comtesse du Barry & others (H&#195;&#180;tel d'Aligre) 17 February, 1777, lot 30, sold for 96 livres;Paris, Collection M. Haz&#233;;Paris, auction Haz&#233; (H&#195;&#180;tel d'Aligre) 23 Nov., 1778, lot 78 (&#194;&#166;La Retour d'un Bal,&#194;&#166; on voit quatre figures &#195;ï¿½ tables, grandes comme nature . . . hauteur 6 pieds 9 pouces;largeur 5 pieds);(?) France, collection Comtesse de Jumilhac (according to T. Lejeune, 1864, p. 351, an auction of the property of the Comtesse de Jumilhac occurred in 1858);Paris, Collection Marquis d'Aligre;Paris, auction, Marquis d'Aligre (Palais Galliera), 8 December 1975, lot 40, repr. (sold for 42,000 francs);Paris, Galerie  Heim (dealer, 1975-1977) from whom purchased by the DIA in 1977.",
 "keywords" : ["canvas","oil","paint","genre"],
 "accession" : "77.72"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.8-S1.jpg",
 "title" : "John Granville",
 "name" : "John Hoppner",
@@ -5029,7 +4999,7 @@
 "provenance" : "Chadley, Wellesbourne, Warwickshire, London, Collection Colonel Bernard Granville, D.S.O.,; New York, Duveen Brothers Inc., (dealers) bt. Mr. & Mrs. Edsel Ford, 1928; Detroit, (Grosse Pointe Farms), Collection Mr. & Mrs. Edsel Ford;by descent to Eleanor Clay Ford, by whom bequeathed to the DIA in 1977.",
 "keywords" : ["canvas","oil","paint","portrait","half length"],
 "accession" : "77.8"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.81-S1.jpg",
 "title" : "A Woman",
 "name" : "Hans Holbein the Younger",
@@ -5045,7 +5015,7 @@
 "provenance" : "United Kingdom, Penrith, Lowther Castle, Collection Earl of Lonsdale; New York, Duveen Brothers (dealer-1930), from whom purchased by Mr. & Mrs. Edsel Ford in 1930: Grosse Pointe, Collection Mr. & Mrs. Edsel Ford, bequeathed by Eleanor Clay Ford through the generosity of Benson and Edith Ford, Benson Ford, Jr., and Lynn Ford Alandt.",
 "keywords" : ["oil","paint","panel","portrait","tempera","wood","half length"],
 "accession" : "77.81"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/78.10.jpg",
 "title" : "Betrothal of Cupid and Psyche",
 "name" : "Filippo Pelagio Palagi",
@@ -5061,7 +5031,7 @@
 "provenance" : "Bologna, Count C. F. Aldrovandi, by whom commissioned from the artist (by descent until 1941); England, private collection (n.d.);London, Heim Gallery (dealer, 1976-1978), from whom purchased by the DIA.",
 "keywords" : ["canvas","oil","paint","mythology"],
 "accession" : "78.10"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/78.11.jpg",
 "title" : "Talking Oak",
 "name" : "William Maw Egley",
@@ -5077,7 +5047,7 @@
 "provenance" : "Westbourne-Grove, Collection of the artist;New York, E. & A. Silverman Galleries (before 1969);London, auction, (Sotheby's), 12 February 1969, lot. 49;bt. London, J.S. Maas & Co., Ltd. (dealer);London, Roy Miles Fine Paintings (1978), from whom purchased by The Detroit Institute of Arts.",
 "keywords" : ["canvas","oil","paint","illustration"],
 "accession" : "78.11"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/78.21.jpg",
 "title" : "Madonna and Child",
 "name" : "Carlo Dolci",
@@ -5093,7 +5063,7 @@
 "provenance" : "Florence, (?) private collector (n.d., see \"Inscriptions\" for seal at one time on verso of painting);Ireland, County Wicklow, Coll. Major J. McVeagh, (1924);Sotheby's London, 20 April 1977;London, Julius Weitzner and Colnaghi (dual ownership, dealers, 1977), from whom purchased by DIA via Stabilimento Falivo, Vaduz (Liechtenstein) and Zurich.",
 "keywords" : ["canvas","oil","paint","religion","christian"],
 "accession" : "78.21"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/78.44.jpg",
 "title" : "STILL LIFE WITH FRUIT, VEGETABLES AND DEAD GAME",
 "name" : "Frans Snyders",
@@ -5109,7 +5079,7 @@
 "provenance" : "Florence, G. C. Baroni (dealer, n.d.); London, sale, (Christie's), 10 April 1970, lot 108, bought by Old Master's Galleries; London, Old Master's Galleries (1970--);Florence, C.G. Baroni (dealer, 1978), from whom purchased by the DIA.",
 "keywords" : ["canvas","oil","paint","still life","animalia"],
 "accession" : "78.44"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/78.59.jpg",
 "title" : "Leisure Hours",
 "name" : "John Everett Millais",
@@ -5125,7 +5095,7 @@
 "provenance" : "Great Britain, Linlithgow, Middleton Hall, Collection Sir John Pender; by descent to Marion, Lady des Voeux (n&#233;e Pender);thence by descent;? sale of the Estate of Lady des Voeux, from whom purchased by the Detroit Institute ofArts in 1978.",
 "keywords" : ["canvas","oil","paint","portrait","group portrait","full length"],
 "accession" : "78.59"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/78.67.jpg",
 "title" : "Adoration of the Magi",
 "name" : "Jean Jouvenet",

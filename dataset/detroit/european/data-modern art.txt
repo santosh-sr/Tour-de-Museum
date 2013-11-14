@@ -993,5 +993,5 @@
 "credit" : "Founders Society Purchase, W. Hawkins Ferry Fund",
 "keywords" : ["bronze","cast","metal","statue","abstraction"],
 "accession" : "81.680"}
-,]
+]
 }

@@ -913,7 +913,7 @@
 "accession" : "1994.1"}
 ,{
 "imageURL" : "http://www.dia.org/user_area/comping/1994.126.A-S1.jpg",
-"title" : "Cabinet from the Suite "La Mer"",
+"title" : "Cabinet from the Suite La Mer",
 "name" : "Louis Majorelle",
 "nationality" : "French",
 "birth" : "1859",
@@ -3043,7 +3043,7 @@
 "provenance" : "Purchased from French & Co. (dealer), New York, NY",
 "keywords" : ["storage","walnut","wood","cabinet"],
 "accession" : "36.81"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/36.96-S1.jpg",
 "title" : "The Last Supper",
 "date" : "1514/1525",
@@ -3055,7 +3055,7 @@
 "provenance" : "The panel was recorded in the inventory of Grovesnor Thomas (dealer), London, until 1923;His son, Roy Grovesnor Thomas (dealer), New York, by descent, until 1936;Acquired for the DIA as a Founder's Society Purchase, through the Octavia W. Bates Fund.",
 "keywords" : ["glass","religion","roundel","stained glass","christian"],
 "accession" : "36.96"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/36.97-S1.jpg",
 "title" : "The Flight into Egypt",
 "date" : "1515/1525",
@@ -3067,7 +3067,7 @@
 "provenance" : "Grosvenor Thomas (dealer), London, until 1923;his son, Roy Grosvenor Thomas (dealer), New York, by descent, until 1936;Acquired in 1936 for the DIA as a Founders Soceity Purchase, throught the Octavia W. Bates Fund",
 "keywords" : ["glass","religion","roundel","stained glass","christian"],
 "accession" : "36.97"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.138-S1.jpg",
 "title" : "The Nativity",
 "name" : "Guillaume de Marcillat",
@@ -3083,7 +3083,7 @@
 "provenance" : "Cathedral of Santa Maria dell'Assunzione, Cortona, Italy;Corazzi family, Cortona; Unidentified owner, Rome; Richard and Eleanor Mortimer, Tuxedo Park, New York. ",
 "keywords" : ["glass","religion","stained glass","christian"],
 "accession" : "37.138"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.139.jpg",
 "title" : "Alfonso I, King of Naples",
 "date" : "c. 1850/1900",
@@ -3095,7 +3095,7 @@
 "provenance" : "Bought ca. 1900 in Naples by Stefano Bardini of Florence (see Valentiner 1938, no. 17);Richard Mortimer, Tuxedo Park, New Jersey;purchased from the Eleanor J. Mortimer sale, American Art Association, Anderson Galleries, 24-25 September 1937.",
 "keywords" : ["carved","marble","statue","portrait","stone","bust"],
 "accession" : "37.139"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.140-S1.jpg",
 "title" : "Madonna and Child",
 "name" : "Giovanni Balduccio",
@@ -3111,7 +3111,7 @@
 "provenance" : "Richard Mortimer, Tuxedo, New York;purchased from Elenore J. Mortimer Sale, American Art Association Anderson Galleries, New York, Sept. 24-25, 1937",
 "keywords" : ["carved","marble","statue","religion","stone"],
 "accession" : "37.140"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.141-S1.jpg",
 "title" : "Pope Alexander VIII (Pietro Ottoboni)",
 "date" : "1691/1700",
@@ -3123,7 +3123,7 @@
 "provenance" : "Purchased from the Elenore J. Mortimer Sale, American Art Association, Anderson Galleries, New York (no. 172) through F. Kleinberger & Co, New York, NY",
 "keywords" : ["carved","marble","statue","portrait","stone","bust"],
 "accession" : "37.141"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.145.jpg",
 "title" : "Madonna and Child",
 "date" : "19th/early 20th Century",
@@ -3135,7 +3135,7 @@
 "provenance" : "Jakob Heimann, Milan;Robert H. Tannahill",
 "keywords" : ["metal","silver","statuette","religion"],
 "accession" : "37.145"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.147-S1.jpg",
 "title" : "Judith",
 "name" : " Pollaiuolo",
@@ -3151,7 +3151,7 @@
 "provenance" : "Sir William Drake, Weybridge Surrey, England; Mrs. Hornsby Drake, London; Private collection, Paris;Dr. Frey von Stamore;Arnold Seligmann, Rey and Co., New York.",
 "keywords" : ["bronze","cast","metal","statuette","religion"],
 "accession" : "37.147"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.148-S1.jpg",
 "title" : "A Niobid",
 "date" : "c. 1520",
@@ -3163,7 +3163,7 @@
 "provenance" : "Marquis de Pompignan, Paris;  Marquis de Pompignan sale, Hotel Drouot, Paris, 19 April 1929, lot 81;Purchased by M. Bonnemaison for 53,100FF; Frey collection sale, Galerie Charpentier, Paris, 12-14 June 1933, no. 128; Purchased by Paul Wallraf for 27,000FF;Arnold, Seligman, Rey & Co. (dealer), New York, 1937;Purchased by Eleanor Clay Ford, and given to the DIA, 1937.",
 "keywords" : ["bronze","cast","metal","statuette","nude"],
 "accession" : "37.148"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.165.jpg",
 "title" : "Cassone",
 "name" : " Anonymous",
@@ -3177,7 +3177,7 @@
 "provenance" : "Purchased by the donor from Ubaldo Giugni, Florence.",
 "keywords" : ["carved","inlaid","inlay","intarsia","storage","walnut","wood","cassone","chest"],
 "accession" : "37.165"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.176.jpg",
 "title" : "Trotting Horse",
 "name" : " Anonymous",
@@ -3191,7 +3191,7 @@
 "provenance" : "From a palace in Foligno belonging to the Pazzi family of Florence (according to Valentiner and the dealer Jandolo); subsequently identified as the Orfini-Pazzi Palace, situated in via della Croce Bianca, Foligno; acquired by donor from Ugo Jandolo, Rome",
 "keywords" : ["carved","gilded","gilt","statue","wood","animalia"],
 "accession" : "37.176"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.48.jpg",
 "title" : "The Incredulity of Thomas",
 "name" : " Anonymous",
@@ -3205,7 +3205,7 @@
 "provenance" : "Achillito Chiesa, Milan & New York;His sale, New York, American Art Association, 16-17 April 1926 (Part III), lot 323Lillian Henkel Haass, Detroit, MI",
 "keywords" : ["carved","ivory","paint","polychromed","gilded","gilt","plaque","relief","religion","christian"],
 "accession" : "37.48"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.56-S1.jpg",
 "title" : "Dalmatic",
 "name" : " Anonymous",
@@ -3219,7 +3219,7 @@
 "provenance" : "Mr. and Mrs. Edgar B. Whitcomb, Grosse Pointe, MI ",
 "keywords" : ["TEXTILE"],
 "accession" : "37.56"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.57-d1.jpg",
 "title" : "CASSONE",
 "name" : " Anonymous",
@@ -3233,7 +3233,7 @@
 "provenance" : "Chabrieres-d'Arles Collection",
 "keywords" : ["carved","inlaid","inlay","marquetry","storage","walnut","wood","cassone","chest"],
 "accession" : "37.57"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/37.74.jpg",
 "title" : "Vase",
 "name" : " Anonymous",
@@ -3247,7 +3247,7 @@
 "provenance" : "15th century inventory of the Medici villa, Poggio a Caiano outside FlorenceAnderson Galleries, Inc. New York , DeClemente Collection (sale 3880), 1931. lot. 436Purchased from French & Co. (dealer), New York, NY",
 "keywords" : ["clay","paint","polychromed","earthenware","glaze","glazed","vase","vessel","tin glaze","heraldry","maiolica","floral"],
 "accession" : "37.74"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/38.102.jpg",
 "title" : "Jupiter",
 "date" : "c. 1550/1575",
@@ -3259,7 +3259,7 @@
 "provenance" : "Huldschinsky collection and sale, Berlin; Elizabeth (Mrs Allan) Shelden acquired from Arnold Seligmann v Rey & Co. (dealer), New York",
 "keywords" : ["bronze","cast","metal","statuette","mythology"],
 "accession" : "38.102"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/38.57.jpg",
 "title" : "Head of an Angel",
 "name" : "Benedetto Briosco",
@@ -3273,7 +3273,7 @@
 "provenance" : "Marchese Trivulzio; donated to museum by Jacob Heimann, Milan and New York, in 1938",
 "keywords" : ["carved","marble","statuette","religion","stone"],
 "accession" : "38.57"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/38.72.jpg",
 "title" : "Prudence",
 "date" : "c. 1470/1490",
@@ -3285,7 +3285,7 @@
 "provenance" : "Purchased from Ugo M.M. and Aldo Jandolo, Rome",
 "keywords" : ["carved","marble","statue","stone","allegory"],
 "accession" : "38.72"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/38.90-S1.jpg",
 "title" : "Seated Goddess",
 "name" : " Anonymous",
@@ -3299,7 +3299,7 @@
 "provenance" : "Joel collection, England; Arnold, Seligman, Rey & Co. Inc., New York and Paris",
 "keywords" : ["bronze","cast","metal","statuette"],
 "accession" : "38.90"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/39.675-s2.jpg",
 "title" : "Cassone",
 "name" : " Anonymous",
@@ -3313,7 +3313,7 @@
 "provenance" : "Bardini;purchased from French & Co., New York, NY ",
 "keywords" : ["carved","inlaid","inlay","intarsia","storage","walnut","wood","cassone","chest"],
 "accession" : "39.675"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/40.119-S1.jpg",
 "title" : "Antinous",
 "date" : "1580/1600",
@@ -3324,7 +3324,7 @@
 "credit" : "Gift of E. and A. Silberman",
 "keywords" : ["bronze","cast","metal","statuette","mythology"],
 "accession" : "40.119"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/40.126.jpg",
 "title" : "Saint Benedict",
 "name" : "Master of the Saint Alexis Roundels",
@@ -3340,7 +3340,7 @@
 "provenance" : "Earl of Essex, Cassiobury Park, Hertfordshire;Grosvenor Thomas (dealer), London;his son, Roy Grosvenor Thomas (dealer), New York, by descent, 1923;Julius Haass, Grosse Pointe, Michigan;his daughter, Lillian Henckel Haass and Mrs. Trent McNath, Detroit, Michigan.",
 "keywords" : ["glass","religion","roundel","stained glass","christian"],
 "accession" : "40.126"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/40.133-S1.jpg",
 "title" : "The Bird Catcher",
 "name" : "Antonio Susini",
@@ -3356,7 +3356,7 @@
 "provenance" : "Von Frey collection; Arnold Seligmann, Rey & Co. Inc. (dealer), New York; Robert H. Tannahill",
 "keywords" : ["bronze","cast","metal","statuette","genre"],
 "accession" : "40.133"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/40.162-S1.jpg",
 "title" : "Faldestorium",
 "name" : " Anonymous",
@@ -3370,7 +3370,7 @@
 "provenance" : "Castellani Collection, Rome;Figdor Collection;purchased from French & Co. (dealer), New York, NY",
 "keywords" : ["carved","cloth","painted","gilded","stool","seat","velvet","wood","faldestorium","folding stool"],
 "accession" : "40.162"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/40.165-S1.jpg",
 "title" : "Diptych",
 "name" : " Anonymous",
@@ -3384,7 +3384,7 @@
 "provenance" : "Maurice Sulzbach, Paris (until 1922);Arnold Seligmann, Rey and Co., Inc. (dealer), New York (by 1928);Robert H. Tannahill, Grosse Pointe, MI (until 1940)[Cathedral at Laon ?]",
 "keywords" : ["carved","ivory","diptych","diptych"],
 "accession" : "40.165"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/40.19-S1.jpg",
 "title" : "Madonna and Child",
 "date" : "1410/1420",
@@ -3396,7 +3396,7 @@
 "provenance" : "Possibly collection of Cosimo de' Medici, cited in the 1418 inventory of Giovanni di Bicci de' Medici's house ('una figura di Nostra Donna piccola di terra cotta'; Lydecker 1989, 61-2); Julius Boehler, Lucerne; DIA purchased from Nicolas M. Acquavella (dealer), New York in 1940",
 "keywords" : ["clay","paint","polychromed","gilded","gilt","statue","religion","terracotta"],
 "accession" : "40.19"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/40.52-S1.jpg",
 "title" : "The Three Marys",
 "name" : " Anonymous",
@@ -3410,7 +3410,7 @@
 "provenance" : "Carmelite Church, Boppard-am-Rhein, Germany (removed in 1818); Count Hermann P&#195;&#188;ckler, Muskau (1818-1871); Count Puckler-Branitz, Muskau, by descent; Fr&#233;deric Spitzer, Paris; His sale, Paris, 1893, lot 3359;A. Huber (dealer), Zurich; J. Boehler (dealer), Lucerne;Arnold Seligmann, Rey & Co., Inc. (dealer), Paris and New York (by 1940);",
 "keywords" : ["lead","leaded","metal","glass","religion","stained glass","christian"],
 "accession" : "40.52"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/40.57-S1.jpg",
 "title" : "Saint John the Evangelist",
 "date" : "early 15th Century",
@@ -3422,7 +3422,7 @@
 "provenance" : "Gift of Jacob Heimann, Milan and New York.",
 "keywords" : ["carved","statuette","religion","wood"],
 "accession" : "40.57"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/41.107.jpg",
 "title" : "Armored Horseman (Chessman)",
 "name" : " Anonymous",
@@ -3436,7 +3436,7 @@
 "provenance" : "Arnold Seligmann, Rey and Co., Inc. (dealer), New York",
 "keywords" : ["carved","ivory","statuette","knight","chess","chess piece","game"],
 "accession" : "41.107"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/41.124-S1.jpg",
 "title" : "Coat of Arms of the Minerbetti Family",
 "name" : " Desiderio da Settignano",
@@ -3452,7 +3452,7 @@
 "provenance" : "Palazzo Boni, later called Palazzo Boni Minerbetti, via de' Boni, Florence until ca. 1792 (demolished in 1803); Pilade Merlotti, Siena (1913); Stefano Berdini, Florence (?); Elia Volpi, Florence and possibly entrance of Palazzo Davanzati, Florence c. 1913-27 (?); purchased by Edsel B. Ford, 1927; gift of the Edsel Fords to the museum, 1941",
 "keywords" : ["carved","pietra serena","relief","stone","bas relief","coat of arms"],
 "accession" : "41.124"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/41.125.jpg",
 "title" : "Crozier",
 "name" : " Anonymous",
@@ -3465,7 +3465,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["carved","ivory","religion","christian"],
 "accession" : "41.125"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/41.15.jpg",
 "title" : "Virgin and Child",
 "date" : "c. 1500",
@@ -3477,7 +3477,7 @@
 "provenance" : "Calmaldolese monks, Monte Conero, Ancona, Dalmatia (according to Valentiner 1941); Stefano Bardini (unpublished photograph of the sculpture in Bardini's collection, with the director of the Museo Bardini, Florence; photos 4796 (BR) and 4797 (BR)); 1918 Mortimer Schiff, Lonfon, Christie's sale, June 22, 1938; Paul Drey, London; Mr and Mrs Albert kahn; purchased from Cosmos Art Inc. (dealer), New York. ",
 "keywords" : ["carved","marble","gilded","gilt","statue","religion","stone"],
 "accession" : "41.15"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/41.40-S1.jpg",
 "title" : "Triumph of Spring",
 "date" : "1537/1538",
@@ -3489,7 +3489,7 @@
 "provenance" : "Purchased from French & Co. (dealer), New York, NY.",
 "keywords" : ["silk","textile","wool"],
 "accession" : "41.40"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/41.7-d1.jpg",
 "title" : "CRAB",
 "name" : " Anonymous",
@@ -3502,7 +3502,7 @@
 "credit" : "Founders Society Purchase, William H. Murphy Fund",
 "provenance" : "Purchased from R. Stora (dealer), New York",
 "accession" : "41.7"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/41.86.jpg",
 "title" : "Casket",
 "name" : " Anonymous",
@@ -3516,7 +3516,7 @@
 "provenance" : "Purchased from F. Schnittjer and Son (dealer), New York, NY",
 "keywords" : ["bone","inlaid","inlay","storage","wood","casket","furnishing"],
 "accession" : "41.86"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/42.10-S1.jpg",
 "title" : "Justice",
 "name" : " Anonymous",
@@ -3530,7 +3530,7 @@
 "provenance" : "Purchased from E. Segredakis (dealer), New York City",
 "keywords" : ["cararra marble","carved","marble","relief","stone","allegory"],
 "accession" : "42.10"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/42.101.jpg",
 "title" : "Pieta",
 "date" : "c. 1470",
@@ -3542,7 +3542,7 @@
 "provenance" : "Dr. A.S. Drey; purchased from Aldo Jandolo.",
 "keywords" : ["clay","earthenware","relief","religion","terracotta"],
 "accession" : "42.101"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/42.102.jpg",
 "title" : "Gemellion",
 "name" : " Anonymous",
@@ -3556,7 +3556,7 @@
 "provenance" : "Arnold Seligmann, Rey and Co. (dealer), New York ",
 "keywords" : ["metal","copper","enamel","enameled","vessel","basin"],
 "accession" : "42.102"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/42.135-d1.jpg",
 "title" : "Diptych",
 "name" : " Anonymous",
@@ -3569,7 +3569,7 @@
 "credit" : "Founders Society Purchase with funds from Robert H. Tannahill",
 "provenance" : "Maurice Sulzbach, Paris;Arnold Seligmann, Rey and Co., Inc. (dealer), New York (until 1928);Robert Tannahill, Grosse Pointe, MI",
 "accession" : "42.135"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/42.138-d1.jpg",
 "title" : "Scenes from the Passion of Christ",
 "name" : " Anonymous",
@@ -3583,7 +3583,7 @@
 "provenance" : "Treasury of the Cathedral of Laon, France (reportedly)Michel Manzi, Paris (Galerie Manzi-Joyant, Paris);His sale, Paris, Galerie Manzi, Joyant & Cie, 15-16 Dec. 1919, lot 45;Jacques Seligman and Fils (dealer), Paris;Maurice Sulzbach, Paris;Arnold Seligman, Rey and Co. (dealer), New York;Robert Tannahill, Grosse Pointe, MI (by 1926)",
 "keywords" : ["Carved ivory"],
 "accession" : "42.138"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/42.139-d1.jpg",
 "title" : "Scenes from the Passion of Christ",
 "name" : " Anonymous",
@@ -3597,7 +3597,7 @@
 "provenance" : "Treasury of the Cathedral of Laon, France (reportedly)M. Manzi, Paris;His sale, 15-16 December, 1919;Jacques Seligman and Fils (dealer), Paris;Maurice Sulzbach, ParisArnold Seligman, Rey and Co, (dealer), New YorkRobert Tannahill, Grosse Pointe, MI (by 1926)",
 "keywords" : ["Carved ivory"],
 "accession" : "42.139"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/42.52-S1.jpg",
 "title" : "S. Luigi Gonzaga in Glory",
 "name" : "Pierre, The Younger Legros",
@@ -3613,7 +3613,7 @@
 "provenance" : "B. Cavaceppi's collection, Rome, pre-1791;Villa Torlonia, Rome, from inventory of 1802;Kurt Glaser, Berlin;Schaeffer Galleries, Inc., New York.",
 "keywords" : ["clay","earthenware","relief","religion","sketch","terracotta"],
 "accession" : "42.52"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/42.9-S1.jpg",
 "title" : "Fortitude",
 "name" : " Anonymous",
@@ -3627,7 +3627,7 @@
 "provenance" : "Purchased from E. Segredakis (dealer), New York",
 "keywords" : ["cararra marble","carved","marble","relief","stone","allegory"],
 "accession" : "42.9"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.2.jpg",
 "title" : "VIRGIN AND CHILD ON THE CRESCENT MOON",
 "date" : "1490/1500",
@@ -3639,7 +3639,7 @@
 "provenance" : "Rosenbaum Collection, Frankfurt-am-Main Ralph Harmon Booth, Grosse Pointe, Michigan, by 1926;Mrs. Ralph Harmon Booth, Grosse Pointe, MI, by bequest",
 "keywords" : ["carved","lindenwood","statue","religion","wood"],
 "accession" : "43.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.3.jpg",
 "title" : "Mourning Virgin",
 "date" : "1520/1530",
@@ -3651,7 +3651,7 @@
 "provenance" : "Luigi Bellini Collection, Florence, Italy ",
 "keywords" : ["statue","religion"],
 "accession" : "43.3"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.455-d1.jpg",
 "title" : "DIPTYCH: FOUR SCENES FROM THE LIFE OF CHRIST",
 "name" : " Anonymous",
@@ -3665,7 +3665,7 @@
 "provenance" : "Prof.  A. Gilbert, Paris;His sale, Drouot (Lair-Dubreuil), Paris, 29 November - 1 December 1927, lot 67;Robert Tannahill, Detroit",
 "keywords" : ["carved","ivory","diptych"],
 "accession" : "43.455"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.458.jpg",
 "title" : "Leaf of a Writing Tablet",
 "name" : " Anonymous",
@@ -3679,7 +3679,7 @@
 "provenance" : "Collection of Achillito Chiesa, Milan & New York;His sale, American Art Association, New York; 16-17 April 1926 (Part III), lot 323;Joseph Brummer (dealer), New York;Robert H. Tannahill, Detroit, MI (purchased from Brummer on Nov. 24, 1926)",
 "keywords" : ["carved","ivory","writing tablet","relief","religion","bas relief"],
 "accession" : "43.458"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.459.jpg",
 "title" : "Leaf of a Writing Tablet",
 "name" : " Anonymous",
@@ -3692,7 +3692,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["carved","ivory","writing tablet","relief","bas relief"],
 "accession" : "43.459"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.461.jpg",
 "title" : "Leaf of a Diptych",
 "name" : " Anonymous",
@@ -3706,7 +3706,7 @@
 "provenance" : "Albert Lehmann, Paris; His sale, Paris, Hotel Drouot, 11 June 1925Robert H. Tannahill, Detroit",
 "keywords" : ["carved","ivory","relief","religion","diptych"],
 "accession" : "43.461"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.472-s2.jpg",
 "title" : "Censer",
 "name" : " Anonymous",
@@ -3720,7 +3720,7 @@
 "provenance" : "Hans Graf Wilczek, Vienna",
 "keywords" : ["bronze","cast","metal","religion","ceremony","christian"],
 "accession" : "43.472"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.477-S1.jpg",
 "title" : "Head of a Youth",
 "name" : "Andrea della Robbia",
@@ -3736,7 +3736,7 @@
 "provenance" : "M. Sculzbach, Paris; Arnold Seligmann and Rey, N. Y., 1926; William Randolph Hearst, New York and California",
 "keywords" : ["clay","earthenware","enamel","glaze","glaze","glazed","relief","terracotta","terracotta","terracotta","bust"],
 "accession" : "43.477"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.479.jpg",
 "title" : "A Member of the Rucellai Family",
 "date" : "c. 1506",
@@ -3748,7 +3748,7 @@
 "provenance" : "Rucellai family, Florence; purchased in 1876 by W. von Bode from the Rucellai Palace, Florence for the Kaiser Fredrich Museum, Berlin; acquired by Ralph Harman Booth from the Museum, after the First World War, when it was sold as a duplicate.",
 "keywords" : ["clay","paint","polychromed","earthenware","statue","portrait","terracotta","bust"],
 "accession" : "43.479"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.482.jpg",
 "title" : "Hercules and the Arcadian Stag",
 "name" : "Antonio Susini",
@@ -3764,7 +3764,7 @@
 "provenance" : "Unspecified English collection;Rita Lydig until 1913;Franz von Uthemann, Petersburg; Rita Lydig, American Art Association, 1913, no 53; J. and S. Goldschmidt (dealer), New York, NY;Mr Ralph Harman Booth, Grosse Pointe, MI (acquired 2 March 1925)",
 "keywords" : ["bronze","cast","metal","statuette","mythology"],
 "accession" : "43.482"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.483.jpg",
 "title" : "Jupiter",
 "date" : "19th Century",
@@ -3776,7 +3776,7 @@
 "provenance" : "Mrs. Ralph Harman Booth",
 "keywords" : ["bronze","cast","metal","statuette","mythology"],
 "accession" : "43.483"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/43.64-S1.jpg",
 "title" : "Saint Sebastian",
 "date" : "1500/1510",
@@ -3788,7 +3788,7 @@
 "provenance" : "Dr. Albert Figdor, Vienna, 1930;Arnold Seligman and Rey Co. (dealer), New York ",
 "keywords" : ["carved","paint","polychromed","statue","religion","wood"],
 "accession" : "43.64"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/44.193-S1.jpg",
 "title" : "Madonna and Child",
 "date" : "1480/1500",
@@ -3800,7 +3800,7 @@
 "provenance" : "Arnold Seligmann, Rey and Co. (dealer), New York; gift of Mr and Mrs Ernest Kanzler",
 "keywords" : ["carved","tondo","relief","religion","wood"],
 "accession" : "44.193"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/44.80-S1.jpg",
 "title" : "Chest",
 "date" : "1751",
@@ -3811,7 +3811,7 @@
 "credit" : "Gift of an anonymous donor",
 "keywords" : ["carved","inlaid","inlay","ivory","metal","mother-of-pearl","oak","ormolu","shell","gilded","gilt","storage","veneer","veneered","walnut","wood","chest"],
 "accession" : "44.80"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/45.143.jpg",
 "title" : "Sash",
 "name" : " Anonymous",
@@ -3824,7 +3824,7 @@
 "credit" : "Gift of Dr. A. M. Jozefczyk",
 "keywords" : ["TEXTILE"],
 "accession" : "45.143"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/45.25-S1.jpg",
 "title" : "A Bacchic Figure:  Allegory of Autumn",
 "date" : "c. 1525/1550",
@@ -3836,7 +3836,7 @@
 "provenance" : "Art market, Berlin; erroneously listed as Kaiser Friedrich Museum, Berlin in Brinckmann 1924a, 2; 14, repr.; Arnold Seligmann, Rey & Co. (dealer), New York; Mrs Raymond E. Field",
 "keywords" : ["clay","earthenware","statuette","terracotta","allegory"],
 "accession" : "45.25"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/45.514-S1.jpg",
 "title" : "Madonna and Child",
 "name" : "Andrea della Robbia",
@@ -3852,7 +3852,7 @@
 "provenance" : "Lazzeri Collection, Villa di San Donato, Casellina, S. Michele a Torri, (near Scandicci);Luigi Grassi, Florence;Dr. Arturo Grassi, Indianapolis.  ",
 "keywords" : ["clay","earthenware","glaze","glazed","relief","religion","terracotta"],
 "accession" : "45.514"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/46.1-S1.jpg",
 "title" : "Orphrey",
 "name" : " Anonymous",
@@ -3866,7 +3866,7 @@
 "provenance" : "Adolph Loewi (dealer), Venice; Jules S. Bache, New York (by the 1920s);His sale, New York, Public Auction, Kende Galleries at Gimbel Brothers, 19-23 April 1945, lot 362;Adolph Loewi (dealer), Los Angeles, until January 1946; Mr. and Mrs. Leslie H. Green, Bloomfield Hills, Michigan. ",
 "keywords" : ["TEXTILE"],
 "accession" : "46.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/47.141-S1.jpg",
 "title" : "Neptune and His Sea Horses",
 "date" : "19th Century",
@@ -3878,7 +3878,7 @@
 "provenance" : "Bardini Collection, Florence;purchased from Frederic A. Stern (dealer), New York, NY",
 "keywords" : ["bronze","cast","metal","mythology","doorknocker"],
 "accession" : "47.141"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/48.152.jpg",
 "title" : "A Young Woman",
 "date" : "1460's/1470's  or 1490's",
@@ -3890,7 +3890,7 @@
 "provenance" : "Possibly the relief Bocci described in 1591 in the house belonging to Baccio Valori (then Filippo Valori, Alessandro Vallori [d.1687]), on Borgo Albizi, Florence, until the end of the 17th century, then passed to Niccolo Panciatichi, Palazzo of via Larga (Bottari 1730); CHarles Timbal, Paris (before 1868); Baron Arthur de Schicker, Martinvast, Normandy; Duveen Brothers (dealer), New York; Mr and Mrs Edsel B. Ford, Detroit, gift to the museum, 1948",
 "keywords" : ["carved","pietra serena","portrait","relief","stone","bust"],
 "accession" : "48.152"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/48.161.A.jpg",
 "title" : "Bottle",
 "date" : "1785/1795",
@@ -3900,7 +3900,7 @@
 "classification" : "Ceramic",
 "credit" : "Gift of Lillian Henkel Haass",
 "accession" : "48.161"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/48.275.A.jpg",
 "title" : "Sauce Tureen",
 "date" : "c. 1760",
@@ -3910,7 +3910,7 @@
 "classification" : "Ceramic",
 "credit" : "Gift of Lillian Henkel Haass",
 "accession" : "48.275"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/48.325.A.jpg",
 "title" : "Butter Tub",
 "date" : "1756/1760",
@@ -3921,7 +3921,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["tableware","bowl"],
 "accession" : "48.325"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/48.326.A.jpg",
 "title" : "Butter Tub",
 "date" : "1756/1760",
@@ -3932,7 +3932,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["tableware","bowl"],
 "accession" : "48.326"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/48.83.jpg",
 "title" : "The Judgement of Paris",
 "name" : " Anonymous",
@@ -3945,7 +3945,7 @@
 "credit" : "Gift of Emma S. Fechimer",
 "keywords" : ["braid","cloth","metal thread","purl braid","raised work","satin","silk thread","embroidered","embroidery","textile","stumpwork","thread"],
 "accession" : "48.83"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.23-D1.jpg",
 "title" : "Robert Fulton",
 "name" : "Jean Antoine Houdon",
@@ -3961,7 +3961,7 @@
 "provenance" : "Decres Family, La Chapelle Vielle Foret, France; P.A. Rockefeller, New York; Jonce McGurk, New York ",
 "keywords" : ["carved","marble","statue","portrait","stone","bust"],
 "accession" : "49.23"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.301.jpg",
 "title" : "Ewer",
 "name" : "Omar Ramsden",
@@ -3975,7 +3975,7 @@
 "classification" : "Silver",
 "credit" : "Gift of Lillian Henkel Haass",
 "accession" : "49.301"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.302.jpg",
 "title" : "Goblet",
 "name" : "Omar Ramsden",
@@ -3989,7 +3989,7 @@
 "classification" : "Silver",
 "credit" : "Gift of Lillian Henkel Haass",
 "accession" : "49.302"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.304.jpg",
 "title" : "Virgin and Child",
 "date" : "c. 1650/1675",
@@ -4001,7 +4001,7 @@
 "provenance" : "The Brummer Collection;acquired by donor from Brummer Sale, Parke-Burnet Galleries Inc., April 20-23, 1949, through R. Stora and Co., New York, NY",
 "keywords" : ["boxwood","carved","statuette","religion","wood"],
 "accession" : "49.304"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.417.jpg",
 "title" : "Neptune",
 "date" : "1540/1550",
@@ -4013,7 +4013,7 @@
 "provenance" : "Palazzo Rezzonico, Venice; Count William von Pourtales, Berlin; Count Friedrich von Pourtales;Rosenberg and Stiebel (dealer), New York, NY; gift of Mr. and Mrs. Edgar Whitcomb to the museum in 1949",
 "keywords" : ["bronze","cast","metal","statue","mythology"],
 "accession" : "49.417"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.418.jpg",
 "title" : "Mars",
 "date" : "1540/1550",
@@ -4025,7 +4025,7 @@
 "provenance" : "Palazzo Rezzonico, Venice; Count William von Pourtales, Berlin (c.1840 until 1889); Count Friedrich von Pourtales (until 1948); Rosenberg and Stiebel (dealer), New York, NY; donated by Mr. and Mrs. Edgar B. Whitcomb in 1949 ",
 "keywords" : ["bronze","cast","metal","statue","mythology"],
 "accession" : "49.418"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.448.jpg",
 "title" : "Pokal",
 "name" : " Anonymous",
@@ -4039,7 +4039,7 @@
 "provenance" : "Purchased from Julius Carlebach (dealer), New York, NY",
 "keywords" : ["Glass"],
 "accession" : "49.448"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.449.jpg",
 "title" : "Chopin",
 "name" : "Zygmond Sowa-Sowinski",
@@ -4054,7 +4054,7 @@
 "credit" : "Gift of the Friends of Polish Art",
 "keywords" : ["PORTRAIT"],
 "accession" : "49.449"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.533.jpg",
 "title" : "Madonna and Six Angels",
 "date" : "c. 1860",
@@ -4066,7 +4066,7 @@
 "provenance" : "Sir. J.C. Robinson, London; Gustave Dreyfus, Paris; Edsel B. Ford, Detroit ",
 "keywords" : ["clay","earthenware","relief","religion","terracotta","low relief","medallion","christian"],
 "accession" : "49.533"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/49.559.jpg",
 "title" : "Double Candlestick",
 "date" : "1765",
@@ -4077,7 +4077,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["clay","polychromed","polychromy","porcelain","softpaste porcelain","enamel","gilt","glaze","glazed","gold","statuette","lighting","candlestick"],
 "accession" : "49.559"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/50.147.jpg",
 "title" : "Harlequin",
 "date" : "1760/1765",
@@ -4088,7 +4088,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["clay","polychromed","polychromy","porcelain","softpaste porcelain","enamel","gilt","glaze","glazed","gold","statuette"],
 "accession" : "50.147"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/50.151.A-S1.jpg",
 "title" : "PATCH BOX",
 "date" : "c. 1750",
@@ -4099,7 +4099,7 @@
 "credit" : "Gift of Mrs. Richard Webber",
 "provenance" : "Purchased from William H. Lautz, dealer",
 "accession" : "50.151"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/51.114-S1.jpg",
 "title" : "Fruit Basket",
 "name" : "William Cripps",
@@ -4114,7 +4114,7 @@
 "credit" : "Gift of the Women's Committee",
 "keywords" : ["cast","metal","silver","engraved","tableware","heraldry","basket","coat-of-arms"],
 "accession" : "51.114"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/51.18.A.jpg",
 "title" : "Sugar Bowl",
 "date" : "c. 1770",
@@ -4125,7 +4125,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["clay","polychromed","polychromy","porcelain","softpaste porcelain","enamel","gilt","glaze","glazed","gold","tableware","bowl"],
 "accession" : "51.18"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/51.54-S1.jpg",
 "title" : "ATHENA ARMED",
 "date" : "c. 1600/1625",
@@ -4137,7 +4137,7 @@
 "provenance" : "The Liechtenstein Collection, Vienna or Vaduz (until 1950 according to the dealer);purchased from French & Co. (dealer), New York, NY.",
 "keywords" : ["bronze","cast","metal","mythology","andiron"],
 "accession" : "51.54"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/51.55-S1.jpg",
 "title" : "Ceres",
 "date" : "c. 1600/1625",
@@ -4149,7 +4149,7 @@
 "provenance" : "The Liechtenstein Collection, Vienna or Vaduz (until 1950 according to the dealer);purchased from French & Co. (dealer), New York, NY.",
 "keywords" : ["bronze","cast","metal","mythology","andiron"],
 "accession" : "51.55"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/51.59-S1.jpg",
 "title" : "The Chinese Emperor",
 "date" : "1766",
@@ -4161,7 +4161,7 @@
 "provenance" : "Robert von Hirsch, Basel, Switzerland;purchased from Rosenberg & Stiebel (dealer), New York, NY",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold"],
 "accession" : "51.59"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.1.A-S1.jpg",
 "title" : "Covered Goblet",
 "name" : " Anonymous",
@@ -4174,7 +4174,7 @@
 "credit" : "Gift of Frederick K. Stearns",
 "provenance" : "Purchased from Julius Carlebach (dealer), New York, NY",
 "accession" : "52.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.166.jpg",
 "title" : "WALL CLOCK",
 "name" : "Jacques Caffieri",
@@ -4190,7 +4190,7 @@
 "provenance" : "Said by the dealer to have come from the Peterhof Palace, St. Petersburg;purchased from French & Co. (dealer), New York, NY.",
 "keywords" : ["TIMEPIECE"],
 "accession" : "52.166"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.2-S1.jpg",
 "title" : "Goblet",
 "name" : " Anonymous",
@@ -4203,7 +4203,7 @@
 "credit" : "Gift of Frederick K. Stearns",
 "provenance" : "Purchased from Julius Carlebach (dealer), New York, NY",
 "accession" : "52.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.215.A.jpg",
 "title" : "COVERED BOWL",
 "name" : "Jacques-Antoine Bonhomme",
@@ -4218,7 +4218,7 @@
 "credit" : "Gift of the Estate of Lewis E. Williams",
 "keywords" : ["metal","silver","tableware","vessel","bowl"],
 "accession" : "52.215"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.218.jpg",
 "title" : "Triton with a Sea Serpent",
 "name" : "Giovanni Lorenzo Bernini",
@@ -4234,7 +4234,7 @@
 "provenance" : "Palazzo Barberini (?), Rome; Collection Friedrich von Amerling, Vienna; Dorotheum, \"Estate of Friedrich von Amerling\" 6 May 1916, Lot # 178, Vienna;Collection Dr. Rudolphe Berl, Vienna;Wildenstein (dealer), New York.",
 "keywords" : ["clay","earthenware","statuette","study","terracotta","allegory"],
 "accession" : "52.218"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.219.jpg",
 "title" : "Triton with a Shell",
 "name" : "Giovanni Lorenzo Bernini",
@@ -4250,7 +4250,7 @@
 "provenance" : "Palazzo Barberini (?), Rome; Collection Friedrich von Amerling, Vienna; Dorotheum, \"Estate of Friedrich von Amerling\" 6 May 1916,\" Vienna;Collection of Dr. Rudolph Berl, Vienna;Wildenstein (dealer), New York.",
 "keywords" : ["clay","earthenware","statuette","study","terrracotta","allegory"],
 "accession" : "52.219"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.220.jpg",
 "title" : "Chair of St. Peter",
 "name" : "Giovanni Lorenzo Bernini",
@@ -4266,7 +4266,7 @@
 "provenance" : "On 14 April 1658, Bernini presented for Pope Alexander VII's inspection: a terracotta model for the Cathedra, described as \"alto due palmi\" (44.68cm.; 17 9/16in)--Archivio Chigi 700, Vatican Archives. According to Rossacher, 1980, 258, this model can possibly be traced to the Chigi-Saraceni collection in Siena, a branch of the Pope's family; however, more likely as it is not recorded in the Chigi -Saraceni collection, the model instead eventually entered the collection of the Pope's nephew Don Flavio Chigi (see Raggio, 1983, 368ff). Subsequently, according the the dealer, the Detroit terracotta model was in the collections of Cardinal Conte Mattei; Conte Mattei di Pergola (**identified as the brother of Cardinal Conte Mattei); C.A. de Frey, Lucerne, Switzerland; purchased from Dr. Paul Drey, New York, NY",
 "keywords" : ["clay","earthenware","religion","terracotta","maquette","model","christian"],
 "accession" : "52.220"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.35-S1.jpg",
 "title" : "Pierre Berthevin",
 "name" : "Giovanni Battista Nini",
@@ -4281,7 +4281,7 @@
 "credit" : "Gift of James H. Hyde",
 "keywords" : ["clay","earthenware","portrait","relief","terracotta","medallion"],
 "accession" : "52.35"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.5-S1.jpg",
 "title" : "Goblet",
 "name" : " Anonymous",
@@ -4294,7 +4294,7 @@
 "credit" : "Gift of Frederick K. Stearns",
 "provenance" : "Purchased from Julius Carlebach (dealer), New York, NY",
 "accession" : "52.5"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/52.6.jpg",
 "title" : "Covered Cup",
 "name" : " Anonymous",
@@ -4307,7 +4307,7 @@
 "credit" : "Gift of Frederick K. Stearns",
 "provenance" : "Purchased from Julius Carlebach (dealer), New York, NY",
 "accession" : "52.6"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.145-S1.jpg",
 "title" : "Eve",
 "name" : "Auguste Rodin",
@@ -4323,7 +4323,7 @@
 "provenance" : "Alexis Rudier, Paris ",
 "keywords" : ["bronze","cast","metal","statue"],
 "accession" : "53.145"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.177.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Etienne Pollet",
@@ -4339,7 +4339,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent, the family of the Dukes of Cadaval, Lisbon (until 1931); Jacques Helft (dealer), Paris;purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","storage","box"],
 "accession" : "53.177"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.178.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Etienne Pollet",
@@ -4355,7 +4355,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","storage","box"],
 "accession" : "53.178"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.179.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Etienne Pollet",
@@ -4371,7 +4371,7 @@
 "provenance" : "Probably commissioned by Jaime de Mello, 3rd Duke of Cadaval of Portugal or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","storage","box"],
 "accession" : "53.179"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.180-d1.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Etienne Pollet",
@@ -4387,7 +4387,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","storage","box"],
 "accession" : "53.180"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.181-Side-A.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Etienne Pollet",
@@ -4403,7 +4403,7 @@
 "provenance" : "Probably commissioned by Jaime de Mello, 3rd Duke of Cadaval, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","storage","box"],
 "accession" : "53.181"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.182.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Etienne Pollet",
@@ -4419,7 +4419,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver"],
 "accession" : "53.182"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.183.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Antoine LeBrun",
@@ -4435,7 +4435,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","tableware","vessel","ewer"],
 "accession" : "53.183"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.184-Side-A.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Antoine LeBrun",
@@ -4451,7 +4451,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","tableware","vessel","vessel","basin"],
 "accession" : "53.184"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.185.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Antoine LeBrun",
@@ -4467,7 +4467,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft.",
 "keywords" : ["metal","silver","mirror","furnishing"],
 "accession" : "53.185"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.186.1A.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Antoine LeBrun",
@@ -4483,7 +4483,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","tableware","vessel","beaker"],
 "accession" : "53.186"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.187.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Sebastien Igonet",
@@ -4499,7 +4499,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","storage","box"],
 "accession" : "53.187"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.188.1.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Sebastien Igonet",
@@ -4515,7 +4515,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver"],
 "accession" : "53.188"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.189.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : " Anonymous",
@@ -4529,7 +4529,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","brush"],
 "accession" : "53.189"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.190.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : " Anonymous",
@@ -4543,7 +4543,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit institute of Arts.",
 "keywords" : ["metal","silver","brush"],
 "accession" : "53.190"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.191.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Alexis Loir",
@@ -4559,7 +4559,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","lighting","candlestick"],
 "accession" : "53.191"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.192-53.191-Side-A.jpg",
 "title" : "TOILET SERVICE OF THE DUCHESSE DE CADAVAL",
 "name" : "Alexis Loir",
@@ -4575,7 +4575,7 @@
 "provenance" : "Probably commissioned ca. 1738 by Jaime de Mello, 3rd Duke of Cadaval of Portugal, or by Louis of Lorraine, prince de Lambesc, whose daughter Henriette married the Duke of Cadaval in May 1739; by descent in the family of the Dukes of Cadaval, Lisbon; from whom acquired in 1931 by the dealer Jacques Helft; purchased in 1952 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","lighting","candlestick"],
 "accession" : "53.192"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.193.jpg",
 "title" : "Gothic Armor",
 "name" : "Lorenz Helmschmied",
@@ -4591,7 +4591,7 @@
 "provenance" : "Princes Hohenzollern-Sigmaringen, Schloss Sigmaringen, Baden-W&#195;&#188;rttemberg;Arnold Seligmann, Rey & Co. (dealer), New York (1929);William Randolph Hearst, Los Angeles (by 1930);William Randolph Hearst Foundation (by 1951);Detroit Institute of Arts, Gift of the William Randolph Hearst Foundation",
 "keywords" : ["metal","suit of armor","steel","armor"],
 "accession" : "53.193"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.198-S1.jpg",
 "title" : "Half-Armor",
 "name" : " Anonymous",
@@ -4605,7 +4605,7 @@
 "provenance" : "William Randolph Hearst;William Randolph Hearst Foundation (by 1951);Detroit Institute of Arts, Gift of the William Randolph Hearst Foundation",
 "keywords" : ["metal","gilded","gilt","suit of armor","steel","armor"],
 "accession" : "53.198"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.199-S1.jpg",
 "title" : "Half-Armor",
 "name" : " Anonymous",
@@ -4618,7 +4618,7 @@
 "provenance" : "The counts von Khevenh&#195;&#188;ller, Burg Landskron, Carinthia, Austria;Johann, count von Khevenh&#195;&#188;ller (1597-1632), Burg Landskron, then (from 1629) Regensburg, then (from 1630) Nuremberg, by descent;his son, Bartholom&#195;&#164;us, count von Khevenh&#195;&#188;ller (1626-1678), Nuremberg, by descent;his son Count Giech, Schloss Thurnau, by descent;Schedelmann (dealer), Munich (by 1923)William Randolph Hearst, Los Angeles (by 1948);William Randolph Hearst Foundation (by 1951);Detroit Institute of Arts, Gift of the William Randolph Hearst Foundation",
 "keywords" : ["metal","gilded","gilt","suit of armor","steel","armor"],
 "accession" : "53.199"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.200-D1.jpg",
 "title" : "Half Armor of Corsaletto",
 "name" : " Anonymous",
@@ -4632,7 +4632,7 @@
 "provenance" : "Made for Duke Cosimo II (1590-1621) in FlorenceWilliam Randolph Hearst, Los Angeles (by 1948);William Randolph Hearst Foundation (by 1951);Detroit Institute of Arts, Gift of the William Randolph Hearst Foundation",
 "keywords" : ["metal","gilded","gilt","suit of armor","steel","armor"],
 "accession" : "53.200"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.201-S1.jpg",
 "title" : "Three-Quarter Armor",
 "name" : " Anonymous",
@@ -4645,7 +4645,7 @@
 "provenance" : "German collectionWilliam Randolph Hearst, Los Angeles (by 1929);William Randolph Hearst Foundation (by 1951);Detroit Institute of Arts, Gift of the William Randolph Hearst Foundation",
 "keywords" : ["metal","suit of armor","steel","armor"],
 "accession" : "53.201"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.202-S1.jpg",
 "title" : "Half-Armor",
 "name" : "Anton Peffenhauser",
@@ -4660,7 +4660,7 @@
 "provenance" : "William Randolph Hearst;William Randolph Hearst Foundation (by 1951);Detroit Institute of Arts, Gift of the William Randolph Hearst Foundation",
 "keywords" : ["metal","gilded","gilt","suit of armor","steel","half-armor","armor"],
 "accession" : "53.202"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.208.jpg",
 "title" : "Vamplate",
 "name" : " Anonymous",
@@ -4673,7 +4673,7 @@
 "provenance" : "William Randolph Hearst;William Randolph Hearst Foundation (by 1951);Detroit Institute of Arts, Gift of the William Randolph Hearst Foundation",
 "keywords" : ["metal","gilded","gilt","vamplate","steel","armor"],
 "accession" : "53.208"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.324-S1.jpg",
 "title" : "Plate",
 "date" : "1750/1760",
@@ -4683,7 +4683,7 @@
 "classification" : "Ceramic",
 "credit" : "Gift of Mr. and Mrs. Norman D. Jordan",
 "accession" : "53.324"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.325.A.jpg",
 "title" : "Cup",
 "date" : "c. 1720",
@@ -4693,7 +4693,7 @@
 "classification" : "Ceramic",
 "credit" : "Gift of Mr. and Mrs. Norman D. Jordan",
 "accession" : "53.325.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.367.jpg",
 "title" : "Madonna and Child",
 "date" : "after 1464, before 1480",
@@ -4705,7 +4705,7 @@
 "provenance" : "Nolivos, Paris (sale January 10, 1866, no. 27): Charles Timbal, Paris (sale, Paris, May 11, 1882, no 1); Mlle. L&#233;onie Durufl&#233;, Paris; Mr. and Mrs. Edgar B. Whitcomb, purchased from Wildenstein (dealer), New York City, 1930",
 "keywords" : ["carved","marble","relief","religion","stone"],
 "accession" : "53.367"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/53.383.jpg",
 "title" : "Goblet",
 "name" : " Anonymous",
@@ -4718,7 +4718,7 @@
 "credit" : "Gift of Frederick K. Stearns Collection",
 "provenance" : "Acquired from Carlebach Gallery in exchange for items from the Frederick Stearns Collection.",
 "accession" : "53.383"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.113.jpg",
 "title" : "Candlestick",
 "date" : "c. 1650",
@@ -4729,7 +4729,7 @@
 "credit" : "Founders Society Purchase, Mary Martin Semmes Fund",
 "keywords" : ["clay","earthenware","glaze","glazed","tin glaze","lighting","candlestick"],
 "accession" : "54.113"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.116.jpg",
 "title" : "Fuddling Cup",
 "name" : " Anonymous",
@@ -4743,7 +4743,7 @@
 "provenance" : "Purchased from Joseph V. Vizcarra, Lombard, IL",
 "keywords" : ["clay","polychromed","earthenware","glazed","tableware","vessel","cup","cup"],
 "accession" : "54.116"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.18.jpg",
 "title" : "Madonna and Child",
 "date" : "late 15th Century",
@@ -4755,7 +4755,7 @@
 "provenance" : "Elia Volpi, Florence, in the 1920's; Ralph H. Booth, Detroit, MI; John L. Booth, Detroit, MI.",
 "keywords" : ["clay","earthenware","relief","religion","terracotta"],
 "accession" : "54.18"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.42-s1.jpg",
 "title" : "Pedlar",
 "date" : "1756/1760",
@@ -4766,7 +4766,7 @@
 "credit" : "Founders Society Purchase, Josephine and Ernest Kanzler Founders Fund",
 "keywords" : ["clay","polychromed","polychromy","porcelain","softpaste porcelain","enamel","glaze","glazed","statuette"],
 "accession" : "54.42"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.43-s1.jpg",
 "title" : "Pedlar's Wife",
 "date" : "1756/1760",
@@ -4777,7 +4777,7 @@
 "credit" : "Founders Society Purchase, Josephine and Ernest Kanzler Founders Fund",
 "keywords" : ["clay","polychromed","polychromy","porcelain","softpaste porcelain","enamel","glaze","glazed","statuette","genre"],
 "accession" : "54.43"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.46.jpg",
 "title" : "Plate",
 "date" : "c. 1810",
@@ -4788,7 +4788,7 @@
 "credit" : "Founders Society Purchase, Allan and Elizabeth Shelden Fund",
 "keywords" : ["clay","polychromed","polychromy","porcelain","softpaste porcelain","enamel","gilt","glaze","glazed","gold","tableware","plate"],
 "accession" : "54.46"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.47.jpg",
 "title" : "Plate",
 "date" : "c. 1810",
@@ -4799,7 +4799,7 @@
 "credit" : "Founders Society Purchase, Allan and Elizabeth Shelden Fund",
 "keywords" : ["clay","polychromed","polychromy","porcelain","softpaste porcelain","enamel","gilt","glaze","glazed","gold","tableware","plate"],
 "accession" : "54.47"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.475-S1.jpg",
 "title" : "Clock",
 "name" : "Charles-Nicolas Dodin",
@@ -4814,7 +4814,7 @@
 "credit" : "Founders Society Purchase, Josephine and Ernest Kanzler Fund",
 "provenance" : "Lionel and Alfred de Rothschild;purchased from the Antique Porcelain Company (dealer), London on September 9, 1954 by the donor",
 "accession" : "54.475"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.478.jpg",
 "title" : "Tray",
 "date" : "c. 1750",
@@ -4825,7 +4825,7 @@
 "credit" : "Founders Society Purchase, Josephine and Ernest Kanzler Fund",
 "provenance" : "Purchased from Antique Porcelain Co. (dealer), London",
 "accession" : "54.478"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.479.A-S1.jpg",
 "title" : "Pastille Box",
 "name" : " Anonymous",
@@ -4837,7 +4837,7 @@
 "classification" : "Ceramic",
 "credit" : "Gift of Robert H. Tannahill",
 "accession" : "54.479.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/54.480.jpg",
 "title" : "Plate",
 "date" : "1680/1690",
@@ -4848,7 +4848,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["clay","earthenware","glaze","glazed","tableware","plate","tin glaze"],
 "accession" : "54.480"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/55.183.A-S1.jpg",
 "title" : "TUREEN WITH LID AND STAND",
 "name" : "Thomas Germain",
@@ -4864,7 +4864,7 @@
 "provenance" : "One of four tureens purchased in Paris from the duc de Nivernais in 1759 by Bonnet, agent of the duke of Parma; Don Filippo, Duke of Parma; Paul Demidoff (1839-1885); Demidoff collection sale, San Donato, March 15-April 10, 1880 (lot 1189); Baron Jerome Pichon, Paris; exported to Russia in late 19th century (Russian importation mark for 1890); auction sale of works of art recovered following World War II, Paris, December 1952; Jacques Helft; from whom purchased in December 1954 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","tureen"],
 "accession" : "55.183.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/55.183.B-s3.jpg",
 "title" : "Tureen Cover",
 "name" : "Thomas Germain",
@@ -4880,7 +4880,7 @@
 "provenance" : "See 55.183.a.",
 "keywords" : ["metal","silver"],
 "accession" : "55.183.B"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/55.458.A-S2.jpg",
 "title" : "CABINET-ON-STAND",
 "name" : " Anonymous",
@@ -4894,7 +4894,7 @@
 "provenance" : "French Art Galleries, Inc (Dealer)",
 "keywords" : ["carved","inlaid","inlay","malachite","mirrored","ebony","glass","storage","stone","wood","cabinet"],
 "accession" : "55.458.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.145.jpg",
 "title" : "Wine Bottle",
 "date" : "1648",
@@ -4905,7 +4905,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["clay","polychromed","earthenware","glaze","glazed","tableware","tin glaze"],
 "accession" : "56.145"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.16.jpg",
 "title" : "Chocolate Pot",
 "name" : "Jacques Bidault",
@@ -4919,7 +4919,7 @@
 "provenance" : "The Museum Silver Shop (dealer), New York, NY",
 "keywords" : ["metal","silver","engraved","tableware","vessel","pot","wood","chocolate pot"],
 "accession" : "56.16"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.173.jpg",
 "title" : "SCHOOLGIRL",
 "name" : "Edgar Degas",
@@ -4935,7 +4935,7 @@
 "provenance" : "M. Knoedler & Co. (dealer), New York, until Sept. 1956;Fine Arts Associates (dealer), New York, Sept. - Nov. 23, 1956;purchased for the DIA with funds from Dr. and Mrs. George Kamperman",
 "keywords" : ["bronze","cast","cire perdue","metal","statuette"],
 "accession" : "56.173"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.323.jpg",
 "title" : "Basin",
 "date" : "1775/1800",
@@ -4945,7 +4945,7 @@
 "classification" : "Ceramic",
 "credit" : "Gift of Mr. and Mrs. Marc Patten",
 "accession" : "56.323"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.71.A-S1.jpg",
 "title" : "Tureen",
 "name" : " Anonymous",
@@ -4958,7 +4958,7 @@
 "credit" : "Founders Society Purchase, Joseph H. Boyer Memorial Fund",
 "provenance" : "Purchsed from Amy Pleadwell, Boston",
 "accession" : "56.71.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.76.A.jpg",
 "title" : "Tureen",
 "date" : "c. 1760",
@@ -4969,7 +4969,7 @@
 "credit" : "Gift of Mrs. Owen R. Skelton",
 "provenance" : "Purchased from Mrs. Marguerite Glover (The Questers), New York, NY",
 "accession" : "56.76.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.77.jpg",
 "title" : "Vase",
 "date" : "c. 1720",
@@ -4980,7 +4980,7 @@
 "credit" : "Founders Society Purchase, Mary Martin Semmes Fund",
 "provenance" : "Purchased from Ginsburg and Levy, New York",
 "accession" : "56.77"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.79.1-S1.jpg",
 "title" : "Le Couronnement de la Rosiere",
 "date" : "late 18th Century",
@@ -4992,7 +4992,7 @@
 "provenance" : "Amy Pleadwell, Dealer",
 "keywords" : ["TEXTILE"],
 "accession" : "56.79.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.85.1-S1.jpg",
 "title" : "Candelabrum",
 "name" : "Thomas Germain",
@@ -5008,7 +5008,7 @@
 "provenance" : "First recorded in the collection of Lionel Tollemach (1708-1770), 4th Earl of Dysart, Ham House, Richmond, England; by descent in the Tollemache family, Ham House; J. Trevor and Sons, London, 1955; Jean-Louis Bonnefoy, [Au Vieux Paris], Paris; from whom purchased in 1955 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","lighting","candelabrum"],
 "accession" : "56.85.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/56.90.A.jpg",
 "title" : "Two Handled Bowl",
 "date" : "1765/1770",
@@ -5019,7 +5019,7 @@
 "credit" : "Founders Society Purchase, General Endowment Fund",
 "provenance" : "Purchased from Mrs. Marguerite Glover (The Questers), New York",
 "accession" : "56.90.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.34.jpg",
 "title" : "The Virgin, Christ Child, and St. John in a Courtyard",
 "name" : " Anonymous",
@@ -5033,7 +5033,7 @@
 "provenance" : "The Melleklet collection;purchased from J.J. Klejman, New York, NY.",
 "keywords" : ["bronze","cast","metal","gilded","gilt","plaque","relief","religion"],
 "accession" : "57.34"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.35.1.jpg",
 "title" : "Reclining Figure",
 "date" : "c. 1600",
@@ -5045,7 +5045,7 @@
 "provenance" : "Purchased from J.J. Klejman Gallery, New York, in 1957. ",
 "keywords" : ["bronze","cast","metal","statuette"],
 "accession" : "57.35.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.35.2-s2.jpg",
 "title" : "Reclining Figure",
 "date" : "c. 1600",
@@ -5057,7 +5057,7 @@
 "provenance" : "Purchased from J.J. Klejman Gallery, New York, in 1957. ",
 "keywords" : ["bronze","cast","metal","statuette"],
 "accession" : "57.35.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.62.A.jpg",
 "title" : "Mustard Pot with Lid and Stand",
 "name" : "Henri Auguste",
@@ -5073,7 +5073,7 @@
 "provenance" : "Dr. Ricardo do Esperito Santo Silva, Lisbon",
 "keywords" : ["metal","silver","tableware","vessel","pot","mustard pot"],
 "accession" : "57.62.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.65.A-S1.jpg",
 "title" : "Sauce Boat with Stand",
 "name" : "Henri Auguste",
@@ -5089,7 +5089,7 @@
 "provenance" : "Dukes of Cadaval, Lisbon; Ricardo Espirito Santo Silva, Lisbon; purchased in 1956 from Mme Ricardo Espirito Santo Silva by Elizabeth and Harvey Firestone, Jr., for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","engraved","tableware"],
 "accession" : "57.65.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.67.1A-S1.jpg",
 "title" : "Wine Cooler",
 "name" : "Nicolas Fauconnier",
@@ -5105,7 +5105,7 @@
 "provenance" : "Ricardo Espirito Santo, Lisbon",
 "keywords" : ["metal","silver","tableware","vessel"],
 "accession" : "57.67.1A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.68.A-S1.jpg",
 "title" : "Oval Tureen",
 "name" : "Nicolas Fauconnier",
@@ -5121,7 +5121,7 @@
 "provenance" : "Presumably commissioned by Mikhail Kierdeja, created Count of Galicia in 1787. Estate Comtesse du Monstiers, cat. no. 24, ill. pl. XIII, 1953;Ricardo Espirito Santo Silva, Lisbon; Purchased in 1956 from Mme. Ricardo Espirito Santo Silva by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts. ",
 "keywords" : ["metal","silver","engraved","tableware","tureen","vessel"],
 "accession" : "57.68.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.70.jpg",
 "title" : "Cover",
 "name" : "Jacques Nicolas Roettiers",
@@ -5137,7 +5137,7 @@
 "provenance" : "Commissioned by Catherine II of Russia for Gregory Orloff (later acquired back by the empress after Orloff's death). ex-coll. Ricardo do Espirito Santo Silva, Lisbon",
 "keywords" : ["metal","silver","tableware"],
 "accession" : "57.70"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.71.A.jpg",
 "title" : "COVERED BOWL",
 "name" : "Antoine Boullier",
@@ -5153,7 +5153,7 @@
 "provenance" : "Ricardo Espirito Santo Silva, Lisbon; Purchased in 1956 from Mme. Ricardo Espirito Santo Silva by Elizabeth and Harvey Firestone, Jr., for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","tableware","vessel","bowl"],
 "accession" : "57.71.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.73.jpg",
 "title" : "Ewer",
 "name" : "Michel de la Pierre",
@@ -5169,7 +5169,7 @@
 "provenance" : "Les fils de Leon Helft (dealer), Paris, before 1908; Etienne Accary, Paris, by 1912; his collection sale, H&#195;&#180;tel Drouot, Paris, February 23-24, 1939 (lot 148, ill. pl. IX); Ricardo Espirito Santo Silva, Lisbon, by 1954;Mme Ricardo Espirito Santo Silva, Lisbon;Purchased in 1956 by Elizabeth and Harvey Firestone, Jr. for the Detroit Institute of Arts.",
 "keywords" : ["metal","silver","engraved","tableware","vessel","ewer"],
 "accession" : "57.73"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/57.96-S1.jpg",
 "title" : "The Virgin Annunciate",
 "name" : " Anonymous",
@@ -5183,7 +5183,7 @@
 "provenance" : "The Salvadori collection, Florence; Adolph Loewi (dealer), Los Angeles, CA.",
 "keywords" : ["carved","paint","polychromed","statue","religion","wood"],
 "accession" : "57.96"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.111.jpg",
 "title" : "Saint Wenceslas of Bohemia",
 "date" : "c. 1510/1525",
@@ -5195,7 +5195,7 @@
 "provenance" : "Colonel Shaw, Stoke Poges Manor, Buckinghamshire; Saint Giles Church, Stoke Poges; French & Co. (dealer), New York;William Randolph Hearst;The William Randolph Hearst Foundation;acquired for the DIA with funds by K.T. KellerStoke Poges Manor, Buckinghamshire, to 1799; Saint Giles Church, Stoke Poges;Col. Shaw, Stoke Poges Manor;His sale, \"Early Stained Glass, Fine Antique Rugs and Carpets, Woodwork and Carvings, and Valuable Old English and French Furniture, etc.,\" Sotheby & Co., London, 16 May 1929, lot 49c;Lionel Harris (dealer), Spanish Art Gallery, London; French & Co. (dealer), NY, 1929; William Randolph Hearst;The Hearst Foundation; acquired for the DIA with funds by K.T. Keller",
 "keywords" : ["glass","religion","stained glass","christian"],
 "accession" : "58.111"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.118.jpg",
 "title" : "Commemorative Panel",
 "date" : "late 16th/early 17th Century",
@@ -5207,7 +5207,7 @@
 "provenance" : "John W. Palmer, London, to 1923; William Randolph Hearst, Los Angeles ",
 "keywords" : ["glass","stained glass","heraldry","commemoration"],
 "accession" : "58.118"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.119.jpg",
 "title" : "COAT OF ARMS OF ENGLAND",
 "name" : " Anonymous",
@@ -5221,7 +5221,7 @@
 "provenance" : "Lord Sudeley, Toddington Castle, Gloucestershire; his sale, Galerie Helbing, Munich, 4 October 1911, no. 195William Randolph Hearst, Los AngelesWilliam Randolph Hearst Foundation, ",
 "keywords" : ["glass","roundel","stained glass","heraldry","coat of arms"],
 "accession" : "58.119"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.123.jpg",
 "title" : "Coat of Arms of England",
 "name" : " Anonymous",
@@ -5235,7 +5235,7 @@
 "provenance" : "Lord Sudeley, Toddington Castle, Gloucestershire; his sale, Galerie Helbing, Munich, 4 October 1911, no. 197;William Randolph Hearst, Los Angeles. ",
 "keywords" : ["glass","roundel","stained glass","heraldry","coat of arms"],
 "accession" : "58.123"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.166.A.jpg",
 "title" : "Candlestick",
 "name" : "Johann Friedrich Eberlein",
@@ -5251,7 +5251,7 @@
 "provenance" : "Purchased in 1958 from Rosenberg and Stiebel, New York (dealer), who acquired it from H.E. Backer, Rome (dealer).",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","porcelain","enamel","gilt","glaze","glazed","gold","swan service","heraldry","lighting","candlestick","coat-of-arms"],
 "accession" : "58.166.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.167.A-S1.jpg",
 "title" : "Bowl",
 "date" : "1738/1741",
@@ -5263,7 +5263,7 @@
 "provenance" : "Count Heinrich von Br&#195;&#188;hl, Dresden;H.E. Backer, Rome (dealer);Purchased in 1958 from Rosenberg & Stiebel (dealer), New York.",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","porcelain","enamel","gilt","glaze","glazed","gold","swan service","tableware","vessel","animalia","bowl","floral"],
 "accession" : "58.167.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.168.1.jpg",
 "title" : "Oval Platter",
 "date" : "1738/1741",
@@ -5275,7 +5275,7 @@
 "provenance" : "Purchased from Rosenberg & Stiebel (dealer), New York, NY.",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","porcelain","enamel","gilt","glaze","glazed","gold","swan service","tableware","platter","heraldry","indianische blumen","animalia","coat-of-arms","floral"],
 "accession" : "58.168.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.261-S1.jpg",
 "title" : "Pelican in Her Piety",
 "date" : "c. 1680/1700",
@@ -5287,7 +5287,7 @@
 "provenance" : "Unidentified villa at Bagheris, near Palermo Sicily;William Salomon, New York, NY 1928;William Randolph Hearst Foundation.",
 "keywords" : ["carved","inlaid","inlay","marble","plaque","relief","religion","stone"],
 "accession" : "58.261"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.262-S1.jpg",
 "title" : "Agnus Dei",
 "date" : "c. 1680/1700",
@@ -5299,7 +5299,7 @@
 "provenance" : "Unidentified villa at Bagheris, near Palermo Sicily;William Salomon, New York, NY 1928;William Randolph Hearst Foundation.",
 "keywords" : ["carved","inlaid","inlay","marble","plaque","relief","religion","stone"],
 "accession" : "58.262"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.350.jpg",
 "title" : "MADONNA AND CHILD WITH SAINTS ANTHONY ABBOT AND JEROME",
 "name" : " Moderno",
@@ -5315,7 +5315,7 @@
 "provenance" : "Purchased from the Dr. Wilhelm R. Valentiner Estate.",
 "keywords" : ["bronze","cast","metal","gilded","gilt","pax","plaquette","religion"],
 "accession" : "58.350"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.36.jpg",
 "title" : "Neptune on a Dragon",
 "name" : " Severo da Ravenna",
@@ -5329,7 +5329,7 @@
 "provenance" : "Purchased from G. Cramer (dealer), The Hague, in 1958",
 "keywords" : ["bronze","cast","metal","patina","patinated","statuette","mythology"],
 "accession" : "58.36"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.379.jpg",
 "title" : "Saint Peter",
 "name" : " Anonymous",
@@ -5343,7 +5343,7 @@
 "provenance" : "Hohenzollern-Sigmaringen (as in the exhibition catalogue from the Staedel Museum, Frankfurt, 1928, no 349) ",
 "keywords" : ["bronze","cast","metal","gilded","gilt","statuette","religion","christian"],
 "accession" : "58.379"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.384.jpg",
 "title" : "Crucifix",
 "name" : " Anonymous",
@@ -5357,7 +5357,7 @@
 "provenance" : "Said to have been found in a village north of Florence; R. Langton Douglas, London; Lillian Henkel Haass, Detroit; acquired by Mr. and Mrs. Ford through Newhouse Galleries, New York City ",
 "keywords" : ["carved","paint","polychromed","gilded","gilt","religion","wood","christian","crucifix"],
 "accession" : "58.384"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.40.A-S1.jpg",
 "title" : "Vase",
 "date" : "c. 1730",
@@ -5369,7 +5369,7 @@
 "provenance" : "The inventory number '342/w' fixed to the vase refers to the entry in the 1769 inventory of the Residenzschloss in Dresden, where it appears thus:\"Im Buffett: Cap: I An Porcellain(3) II. S&#195;&#164;chsisch Porcellain, welches durchg&#195;&#164;ngig mit dem Buchstaben W. bezeichnet:a.) Aufsaetze, Bouteillen-Becher Figuren und Docken:No. 342 Ein grosser Camin-Aufsatz von 7 St&#195;&#188;cken, welche different sind, mit bundten Pagoden, Blumen und V&#195;&#182;geln nach alt Indianischer Art gemahlt als: 1 grosse Vase mit Deckel und spitzigen vergoldeten Knopf 1 Elle 3 Zoll hoch, 2(??)Zoll in Diam: 2 Stck. dito kleinere, 22 Zoll hoch, 10 Zoll in Diam. 2 Stck darzu geh&#195;&#182;rige Becher, 17 Zoll hoch, 10 1/2 in Diam:  2 Stck darzu geh&#195;&#182;rige Rollwagen, 16 Zoll hoch, 9 Zoll in Diam.\"(this quote supplied by Dr Ulrich Pietsch, Director of the Porzellansammlung, Staatliche Kunstsammlungen, Dresden; letter, 23 June, 1998)Royal Saxon Porcelain Collection, Dresden;Miss A. D. M. Skrine, Warleigh Manor, Somerset, England;Purchased from Rosenberg and Stiebel (dealer), New York. ",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","porcelain","enamel","gilt","glaze","glazed","gold","vase","vessel","indianische blumen","animalia","chinoiseries","floral"],
 "accession" : "58.40.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/58.95.jpg",
 "title" : "Commemorative Panel",
 "date" : "late 16th/early 17th Century",
@@ -5381,7 +5381,7 @@
 "provenance" : "John W. Palmer, London, to 1923; William Randolph Hearst, Los Angeles ",
 "keywords" : ["glass","stained glass","heraldry","commemoration"],
 "accession" : "58.95"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.123.jpg",
 "title" : "Hebe",
 "name" : "Hubert Gerhard",
@@ -5397,7 +5397,7 @@
 "provenance" : "Samuel Boddington, London; Lady Webster, London; J. and S. Goldschmidt, Frankfurt-on-Main; William Salomon (dealer), New York; Rothschild, Vienna;Duveen Brothers (dealer), New York;",
 "keywords" : ["bronze","cast","metal","statue","mythology"],
 "accession" : "59.123"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.124.A-D2.jpg",
 "title" : "CHILDBIRTH SET",
 "date" : "c. 1560/1570",
@@ -5408,7 +5408,7 @@
 "credit" : "Founders Society Purchase, Mr. and Mrs. Henry Ford II Fund",
 "provenance" : "Baron Nathaniel de Rothschild, Vienna; purchased from Rosenberg & Stiebel (dealer), New York, NY.",
 "accession" : "59.124.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.18.A.jpg",
 "title" : "Boar's Head Tureen",
 "name" : "Thomas Germain",
@@ -5424,7 +5424,7 @@
 "provenance" : "Probably commissioned by Henry Janssen (d. 1766), Paris;Probably Louis-Charles de Bourbon, Comte d'Eu (d. 1775);By descent to his cousin, Louis-Jean-Marie de Bourbon, Duc de Penthi&#232;vre (1725-93);His daughter Louise-Marie Ad&#233;la&#195;&#175;de de Bourbon-Penthi&#232;vre (1735-1821), who in 1769 married Louis-Philippe-Joseph, Duc d'Orl&#233;ans (1747-93), known as Philippe Egalit&#233;;By descent to their son, Louis-Philippe (1773-1850), Duc d'Orl&#233;ans (later King of the French, 1830-48);Probably by descent to his son, Louis, Duc de Nemours (1814-96);Probably by descent to his son, Ferdinand, Duc d'Alen&#195;&#167;on (1844-1910);By descent to his son, Philippe-Emmanuel, Duc de Vend&#195;&#180;me (1872-1931);By descent to his son, Charles, Duc de Nemours (1905-80);Sold in the 1930s to Jacques Helft (dealer), Paris & Buenos Aires;Purchased by the museum in 1959",
 "keywords" : ["cast","chased","metal","silver","tableware","tureen","vessel","animalia"],
 "accession" : "59.18.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.18.C.jpg",
 "title" : "Boar's Head Tureen Cover",
 "name" : "Thomas Germain",
@@ -5439,7 +5439,7 @@
 "provenance" : "See 59.18.a.",
 "keywords" : ["cast","chased","metal","silver"],
 "accession" : "59.18.C"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.18.D-d1.jpg",
 "title" : "Boar's Head Tureen Liner",
 "name" : "Thomas Germain",
@@ -5453,7 +5453,7 @@
 "credit" : "Founders Society Purchase, Elizabeth Parke Firestone Collection of Early French Silver Fund",
 "provenance" : "See 59.19.a for a complete provenance for the service.",
 "accession" : "59.18.D"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.19.A.jpg",
 "title" : "Footed Cup with Cover",
 "date" : "19th Century",
@@ -5464,7 +5464,7 @@
 "credit" : "Founders Society Purchase, Mr. and Mrs. Henry Ford II Fund",
 "provenance" : "Nathaniel de Rothschild, Vienna;purchased from Rosenberg & Stiebel (dealer), New York, NY.",
 "accession" : "59.19.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.295-S1.jpg",
 "title" : "JOSEPH FROEHLICH, COURT JESTER OF AUGUSTUS THE STRONG",
 "name" : "Johann Gottlieb Kirchner",
@@ -5480,9 +5480,9 @@
 "provenance" : "Sir William Drake; Siegfried and Lola Kramarsky, New York, NY, until 1959; Rosenberg & Stiebel (dealer), New York, NY",
 "keywords" : ["clay","hardpaste porcelain","porcelain","glaze","glazed","portrait","bust"],
 "accession" : "59.295"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.296-S1.jpg",
-"title" : "POSTMASTER "BARON" SCHMIEDEL",
+"title" : "POSTMASTER BARON SCHMIEDEL",
 "name" : "Johann Joachim Kaendler",
 "nationality" : "German",
 "birth" : "1706",
@@ -5496,7 +5496,7 @@
 "provenance" : "Sir William Drake, recorded as the property of as early as 1873; Siegfried and Lola Kramarsky, New York, NY (1926-59); Rosenberg & Stiebel (dealer), New York, NY ",
 "keywords" : ["portrait","bust"],
 "accession" : "59.296"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.297-S1.jpg",
 "title" : "Crozier Head: Saint Michael and the Dragon",
 "name" : " Anonymous",
@@ -5510,7 +5510,7 @@
 "provenance" : "Debrige-Dumenil (sale, 1850); Soltykoff (sale, 1861); R. von Passavant-Gontard; Mme von Pannwitz, Hartekamp, Netherlands Rosenberg and Stiebel (dealer), New York ",
 "keywords" : ["champleve","metal","copper","enamel","enameled","gilded","gilt","religion","stone","turquoise","animalia","ceremony","christian","crozier"],
 "accession" : "59.297"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.316.jpg",
 "title" : "Philip II",
 "date" : "19th Century",
@@ -5522,7 +5522,7 @@
 "provenance" : "Purchased from Alfred Spero, London",
 "keywords" : ["cast","lead","metal","patina","copper","portrait","medal","mythology","bust","commemorative"],
 "accession" : "59.316"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.317-s2.jpg",
 "title" : "Juan de Herrera, Architect of the Escorial",
 "name" : "Jacopo Nizzola da Trezzo",
@@ -5538,7 +5538,7 @@
 "provenance" : "Purchased from Alfred Spero, London",
 "keywords" : ["bronze","cast","metal","portrait","medal","bust","commemorative"],
 "accession" : "59.317"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/59.320-s2.jpg",
 "title" : "Marc Antonio Magno of Venice",
 "date" : "16th Century",
@@ -5550,7 +5550,7 @@
 "provenance" : "Purchased from Alfred Spero, London",
 "keywords" : ["bronze","cast","metal","portrait","medal","mythology","allegory","bust","commemorative"],
 "accession" : "59.320"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/60.1-S2.jpg",
 "title" : "Aime Jules Dalou",
 "name" : "Auguste Rodin",
@@ -5566,7 +5566,7 @@
 "provenance" : "Johanny Peytel, Paris ",
 "keywords" : ["bronze","cast","metal","portrait","bust"],
 "accession" : "60.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/60.206.jpg",
 "title" : "Pope Clement IX",
 "date" : "c. 1669/1678",
@@ -5578,7 +5578,7 @@
 "provenance" : "Choir of Sta. Maria in Montesanto flanking the High Altar, until the nineteenth century(?), Rome;Baron Gustave de Rothschild, Paris; Palais Lambert, Brussels; purchased from Rosenberg and Stiebel (dealer), New York, NY, in 1960.",
 "keywords" : ["bronze","cast","metal","statue","portrait","bust"],
 "accession" : "60.206"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/60.219.jpg",
 "title" : "Youth",
 "date" : "c. 1755/1760",
@@ -5589,7 +5589,7 @@
 "credit" : "Gift of Rosenberg and Stiebel",
 "provenance" : "Purchased from Rosenberg & Stiebel (dealer), New York, NY.",
 "accession" : "60.219"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/60.41-S1.jpg",
 "title" : "Jupiter",
 "date" : "1575/1600",
@@ -5601,7 +5601,7 @@
 "provenance" : "Sangiori Collection, Rome; purchased from Adolph Loewi (dealer), Los Angeles, CA, in 1960.",
 "keywords" : ["bronze","cast","metal","statue","mythology"],
 "accession" : "60.41"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/61.164.jpg",
 "title" : "THE LAMENTATION",
 "date" : "c. 1460",
@@ -5613,7 +5613,7 @@
 "provenance" : "Engelbert-Marie, 9th Duke of Arenberg (1872-1949), Brussels, Belgium; by descent, Engelbert-Charles, 10th Duke of Arenberg, Paris, France (?);Edward Speelman (dealer), London (until December 1960);Rosenberg and Stiebel (dealer), New York, NY (until 1961);purchased by the Detroit Institute of Arts with funds from Eleanor Clay Ford",
 "keywords" : ["carved","oak","relief","religion","wood","christian"],
 "accession" : "61.164"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/61.168.jpg",
 "title" : "THE BURNING OF TROY",
 "date" : "1570/1574",
@@ -5625,7 +5625,7 @@
 "provenance" : "Baron Gustave Rothschild; Baroness Lambert;purchased from French and Co. (dealer), New York, NY.",
 "keywords" : ["clay","polychromed","earthenware","glaze","glazed","tableware","platter","tin glaze","heraldry","maiolica","coat-of-arms"],
 "accession" : "61.168"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/61.184.A-S1.jpg",
 "title" : "Epergne Stand",
 "name" : "Matthew Boulton",
@@ -5639,7 +5639,7 @@
 "classification" : "Silver",
 "credit" : "Gift of Mrs. Benjamin Warren, Jr.",
 "accession" : "61.184.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/61.65.jpg",
 "title" : "Caterina Cornaro, Queen of Cyprus",
 "date" : "1505",
@@ -5651,7 +5651,7 @@
 "provenance" : "Purchased in Asolo, during the mid 19th century by Count Wilhelm von Pourtales (1815-1889), then resident in Venice; collection of Count Friedrich von Pourtales (1853-1928), Berlin, before 1898; The Hague, from 1899; Munich, from 1902; and St Petersburg, 1907-1922; Schloss Glumbowitz, Silesia, from ca. 1920?; by 1961, Baron Eric de Goldschmidt-Rothschild, Los Angeles",
 "keywords" : ["carved","marble","statue","portrait","stone","bust"],
 "accession" : "61.65"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/61.9.1A-S1.jpg",
 "title" : "Vase",
 "date" : "c. 1735",
@@ -5663,7 +5663,7 @@
 "provenance" : "Count Heinrich Graf von Bruhl, Dresden;Von Pannwitz, Hartekamp, near Haarlem; Forsyth Wickes, New York; Rosenberg and Stiebel (dealer), New York, in 1961 ",
 "keywords" : ["bronze","clay","hardpaste porcelain","metal","porcelain","gilded","gilded","gilt","glaze","glazed","gold","vase","vessel","heraldry","coat-of-arms","floral"],
 "accession" : "61.9.1A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/62.137.1-S1.jpg",
 "title" : "Drug Jar",
 "name" : " Anonymous",
@@ -5676,7 +5676,7 @@
 "credit" : "Founders Society Purchase with funds from Rosemarie and Ernest Kanzler",
 "provenance" : "Salvadori, Florence; Whitney Warren, New York, NY;purchased from French and Co. (dealer), New York, NY.",
 "accession" : "62.137.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/62.179.1.jpg",
 "title" : "Candlestick",
 "name" : "P. Latour",
@@ -5690,9 +5690,9 @@
 "provenance" : "Purchased from J.J. Klejman, New York, NY",
 "keywords" : ["metal","silver","lighting","candlestick"],
 "accession" : "62.179.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/62.181.jpg",
-"title" : "THE ANIMAL TAMERS, FROM THE "GROTESQUES" SERIES",
+"title" : "THE ANIMAL TAMERS, FROM THE GROTESQUES SERIES",
 "date" : "1689/1732",
 "medium" : "Wool and silk",
 "dimensions" : "108 x 153 1/2 in.  (274.32 x 389.9 cm)",
@@ -5702,7 +5702,7 @@
 "provenance" : "Possibly sold Paris, Galerie Georges Petit, 8 March 1920, lot 118;T. E. Stebbins, until August 9, 1933;French & Co. (dealer), New York, until July 10, 1962;K.T. Keller, Detroit, MI;",
 "keywords" : ["textile","tapestry"],
 "accession" : "62.181"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/62.277.1.jpg",
 "title" : "The Dwarf Morgante",
 "name" : " Anonymous",
@@ -5716,7 +5716,7 @@
 "provenance" : "Acquired from the donor from J.J. Klejman, New York, NY",
 "keywords" : ["bronze","cast","metal","statuette","portrait","full length"],
 "accession" : "62.277.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/62.96.jpg",
 "title" : "Book Cover: The Crucifixion",
 "name" : " Anonymous",
@@ -5730,7 +5730,7 @@
 "provenance" : "Spitzer, 1893 (cat. no. 42 p. 111); John Edward Taylor, London, 1912 (cat. no. 70); Mme von Pannwitz, Hartekamp, near Haarlem, the Netherlands;Rosenberg & Stiebel (dealer), New York, NY",
 "keywords" : ["limoges","metal","metal","copper","enamel","enameled","gilded","gilt","religion","book cover","cover"],
 "accession" : "62.96"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/63.157.jpg",
 "title" : "Mourning Virgin",
 "name" : " Anonymous",
@@ -5744,7 +5744,7 @@
 "provenance" : "Purchased from Adolph Loewi (dealer), Los Angeles, CA.",
 "keywords" : ["carved","paint","polychromed","statue","religion","wood"],
 "accession" : "63.157"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/63.158.jpg",
 "title" : "Saint John",
 "name" : " Anonymous",
@@ -5758,7 +5758,7 @@
 "provenance" : "Purchased from Adolph Loewi (dealer), Los Angeles, CA.",
 "keywords" : ["carved","paint","polychromed","statue","religion","wood"],
 "accession" : "63.158"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/64.71.jpg",
 "title" : "Virgin and Child Enthroned",
 "name" : " Anonymous",
@@ -5772,7 +5772,7 @@
 "provenance" : "M. D. Schevitch, Paris,his sale, Galerie Georges Petit, Paris, 4-7 April 1906, lot 150;Baron Robert de Rothschild, Paris;Rosenberg & Stiebel (dealer), New York, NY.",
 "keywords" : ["carved","ivory","statuette","religion"],
 "accession" : "64.71"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/65.25.A-S1.jpg",
 "title" : "Tureen in the Form of a Turkey",
 "date" : "c. 1755",
@@ -5784,7 +5784,7 @@
 "provenance" : "Arenberg family, Schloss Clemenswerth, Germany;Thomas Grange (dealer);Rosenberg & Stiebel (dealer), New York, NY.",
 "keywords" : ["clay","earthenware","glazed"],
 "accession" : "65.25.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/66.17-S1.jpg",
 "title" : "Crane",
 "date" : "1735",
@@ -5796,7 +5796,7 @@
 "provenance" : "Rt. Hon. Lord Hastings, Melton Constable, Norfolk, England;Sotheby & Co., London, 6 June 1950, lot 142, purchased by GrossmithRosenberg & Stiebel (dealer), New York, 1966;Gift of Robert H. Tannahill in 1966",
 "keywords" : ["clay","hardpaste porcelain","porcelain","glaze","glazed","statue","animalia"],
 "accession" : "66.17"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.40.jpg",
 "title" : "Saint Paul",
 "name" : "Jean Warin II",
@@ -5812,7 +5812,7 @@
 "provenance" : "Maison Alavoine (dealer)",
 "keywords" : ["bronze","cast","metal","gilded","gilt","gold","plaque","relief","religion","bust"],
 "accession" : "68.40"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/68.41.jpg",
 "title" : "Saint Paul",
 "name" : "Jean Warin II",
@@ -5828,7 +5828,7 @@
 "provenance" : "Maison Alavoine (dealer)",
 "keywords" : ["bronze","cast","metal","gilded","gilt","gold","plaque","relief","religion","bust"],
 "accession" : "68.41"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/69.295.jpg",
 "title" : "Double-Handled Vase with Relief of Sacrifice to Venus",
 "name" : " Clodion",
@@ -5843,7 +5843,7 @@
 "credit" : "Founders Society Purchase, Mr. and Mrs. Alvan Macauley, Jr. Fund",
 "provenance" : "Paul L. Grigaut ",
 "accession" : "69.295"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/69.296.jpg",
 "title" : "Dancing Satyr",
 "name" : "Massimiliano Soldani",
@@ -5859,7 +5859,7 @@
 "provenance" : "Purchased from the Estate of Paul L. Grigaut",
 "keywords" : ["bronze","cast","metal","statuette","mythology"],
 "accession" : "69.296"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/69.302.jpg",
 "title" : "Spanish Dancer",
 "name" : "Edgar Degas",
@@ -5875,7 +5875,7 @@
 "provenance" : "Fine Arts Associated, Inc. (dealer), New York (until 1960);Robert H. Tannahill, Detroit",
 "keywords" : ["bronze","cast","cire perdue","metal","patina","patinated","statuette","genre"],
 "accession" : "69.302"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/69.304.jpg",
 "title" : "The Age of Bronze",
 "name" : "Auguste Rodin",
@@ -5890,7 +5890,7 @@
 "credit" : "Gift of Robert H. Tannahill",
 "keywords" : ["bronze","cast","metal","statue","allegory"],
 "accession" : "69.304"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.209.jpg",
 "title" : "La blanchisseuse",
 "name" : "Pierre Auguste Renoir",
@@ -5905,7 +5905,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "keywords" : ["bronze","cast","metal","patina","patinated","statuette","bust"],
 "accession" : "70.209"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.210.jpg",
 "title" : "Baudelaire",
 "name" : "Auguste Rodin",
@@ -5920,7 +5920,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "keywords" : ["bronze","cast","metal","statuette","portrait","bust"],
 "accession" : "70.210"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.227.jpg",
 "title" : "BAMBINO EBREO",
 "name" : "Medardo Rosso",
@@ -5936,7 +5936,7 @@
 "provenance" : "Pietro Biffi, Milan; Peridot Gallery, New York, NY, 1960;acquired by Robert H. Tannahill from Peridot Gallery, New York, in 1960, and given as bequest in 1970. ",
 "keywords" : ["bronze","cast","metal","patina","patinated","statuette","bust"],
 "accession" : "70.227"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.228.jpg",
 "title" : "Hollow Head",
 "name" : "Medardo Rosso",
@@ -5952,7 +5952,7 @@
 "provenance" : "Pietro Biffi, Milan; acquired by Robert H. Tannahill and given as bequest in 1970.",
 "keywords" : ["bronze","cast","metal","patina","patinated","statuette","bust"],
 "accession" : "70.228"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.420.jpg",
 "title" : "Wine Taster",
 "name" : " Anonymous",
@@ -5965,7 +5965,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "keywords" : ["metal","silver","engraved","vessel","cup"],
 "accession" : "70.420"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.440.jpg",
 "title" : "NESTING BEAKER",
 "date" : "1682/1710",
@@ -5976,7 +5976,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "provenance" : "Robert H. Tannahill, Grosse Pointe Farms, MI",
 "accession" : "70.440"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.469.jpg",
 "title" : "Trophy and Allegorical Figures",
 "name" : " Moderno",
@@ -5992,7 +5992,7 @@
 "provenance" : "Formerly in the collection of Paul L. Grigaut as a gift to Robert H. Tannahill.",
 "keywords" : ["bronze","cast","metal","plaquette","model","allegory"],
 "accession" : "70.469"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.519.jpg",
 "title" : "Corpus from a Crucifix",
 "date" : "c. 1575/1600",
@@ -6003,7 +6003,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "keywords" : ["metal","copper","gilded","gilt","religion","corpus","crucifix"],
 "accession" : "70.519"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.530.jpg",
 "title" : "AUTUMN",
 "date" : "1762/1764",
@@ -6014,7 +6014,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","porcelain","enamel","gilt","glaze","glazed","gold","statuette","tableware","allegory"],
 "accession" : "70.530"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.531.jpg",
 "title" : "Spring",
 "date" : "1762/1764",
@@ -6025,7 +6025,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","porcelain","enamel","glaze","glazed","statuette","tableware","allegory"],
 "accession" : "70.531"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.536-D1.jpg",
 "title" : "Plate",
 "date" : "1755/1760",
@@ -6036,7 +6036,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "keywords" : ["tableware","plate","floral"],
 "accession" : "70.536"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.832-d1.jpg",
 "title" : "Sconce",
 "date" : "c. 1785",
@@ -6048,7 +6048,7 @@
 "provenance" : "Baron Nathaniel de Rothschild, Vienna; Baroness Alphonse de Rothschild, Vienna;purchased from Rosenberg & Stiebel (dealer), New York, NY.",
 "keywords" : ["bronze","cast","metal","gilded","gilt","gold","furnishing"],
 "accession" : "70.832"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/70.833-d1.jpg",
 "title" : "Sconce",
 "date" : "c. 1785",
@@ -6060,7 +6060,7 @@
 "provenance" : "Baron Nathaniel de Rothschild, Vienna; Baroness Alphonse de Rothschild, Vienna;Rosenberg & Stiebel (dealer), New York, NY",
 "keywords" : ["bronze","cast","metal","gilded","gilt","gold","furnishing"],
 "accession" : "70.833"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.172.A-s1.jpg",
 "title" : "Combination Writing, Working, and Dining Table",
 "name" : "Adam Weisweiler",
@@ -6076,7 +6076,7 @@
 "provenance" : "Grazia [dealer], Paris;acquired in 1932 through L. Alavoine (agent), New York, by Anna Thomson Dodge;Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["mahogany","marble","metal","ormolu","gilded","gilt","table","round table","stone","wood","gueridon"],
 "accession" : "71.172.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.173.jpg",
 "title" : "Bacchante and Satyr with Young Satyr",
 "name" : " Clodion",
@@ -6092,7 +6092,7 @@
 "provenance" : "Fran&#195;&#167;ois-Michel Haranc de Presle, Paris;his sale, Paris, April 16, 1792, lot 159;Robit, Paris;his sale, Paris, Dec. 6, 1800, lot 159 (sale did not take place) and May 11, 1801, lot 190;Coquille, Paris;Baron and baronne Roger, Paris;their sale, Paris, Jan. 29, 1842;Charles Ledyard Blair, Peapack, NJ;Duveen Brothers (dealer), New York;acquired in 1935 from Duveen by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["clay","earthenware","statuette","terracotta","mythology"],
 "accession" : "71.173"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.176.jpg",
 "title" : "Flora",
 "date" : "c. 1775/1800",
@@ -6104,7 +6104,7 @@
 "provenance" : "George Jay Gould (d. 1923), Georgian Court, Lakewood, New Jersey;Duveen Brothers (dealer), New York;acquired from Duveen in 1935 by Anna Thomson Dodge, Grosse Pointe, MI  ",
 "keywords" : ["carved","marble","statuette","stone","allegory"],
 "accession" : "71.176"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.177.jpg",
 "title" : "Venus",
 "date" : "c. 1750/1775",
@@ -6116,7 +6116,7 @@
 "provenance" : "George Jay Gould (d. 1923), Georgian Court, Lakewood, New Jersey;Duveen Brothers (dealer), New York;acquired in 1935 from Duveen by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["carved","marble","statuette","stone"],
 "accession" : "71.177"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.178.A-S1.jpg",
 "title" : "Venus Chastizing Cupid",
 "date" : "c. 1775/1800",
@@ -6128,7 +6128,7 @@
 "provenance" : "Sir Samuel Edward Scott (1873-1943), Bart., M. P., Westbury, Northamptonshire, or Lytchet Minster, Dorset, England;Duveen Brothers (dealer), New York;acquired in 1932 from Duveen by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["carved","marble","statuette","stone"],
 "accession" : "71.178.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.179.jpg",
 "title" : "Venus Instructing Cupid",
 "date" : "c. 1775/1800",
@@ -6140,7 +6140,7 @@
 "provenance" : "Sir Samuel Edward Scott (1873-1943), Bart., M. P., Westbury, Northamptonshire, or Lytchet Minster, Dorset, England;Duveen Brothers (dealer), New York;acquired in 1932 from Duveen by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["carved","marble","statuette","stone"],
 "accession" : "71.179"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.180-S1.jpg",
 "title" : "Psyche Displaying Her Treasures to Her Sisters",
 "name" : "Francois Boucher",
@@ -6156,7 +6156,7 @@
 "provenance" : "One of a set of five tapestries commissioned by Luigi Riggio Saladino Branciforti-Colonna, &#226;?†ambassadeur extraordinaire du Roi d'Espagne&#226;?† to the court of Versailles 1741-1746, in October 1744 and delivered in July 1746;Reggio e Branciforte family, Naples;Ernest Cronier, Paris;His sale, Paris, Galerie Georges Petit, 4-5 Dec 1905, lot 164; George Jay Gould (d.1923), Lakewood, NJ;Duveen Brothers (dealer), New York;Anna Thomson Dodge, Grosse Pointe, MI, 1932 to 1971",
 "keywords" : ["TEXTILE"],
 "accession" : "71.180"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.182.jpg",
 "title" : "Arm Chair",
 "name" : "Georges Jacob",
@@ -6172,7 +6172,7 @@
 "provenance" : "Madame Billout-Desmarets;Paris, Galerie Georges Petit, sale of Madame Billout-Desmarets collection, 1 June 1923, lot 20 (to Vagliano);Paris, Andr&#233; J. Seligmann (dealer);acquired in New York in 1932 byGrosse Pointe, MI, Anna Thomson Dodge, through L. Alavoine (agent);bequeathed to the DIA in 1971.",
 "keywords" : ["beauvais tapestry","carved","gilded","gilt","seat","tapestried","tapestry","upholstered","upholstery","wood","arm chair","chair"],
 "accession" : "71.182"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.184.jpg",
 "title" : "Arm Chair",
 "name" : "Georges Jacob",
@@ -6188,7 +6188,7 @@
 "provenance" : "Madame Billout-Desmarets;Paris, Galerie Georges Petit, sale of Madame Billout-Desmarets collection, 1 June 1923, lot 20 (to Vagliano);Paris, Andr&#233; J. Seligmann (dealer);acquired in New York in 1932 byGrosse Pointe, MI, Anna Thomson Dodge, through L. Alavoine (agent);bequeathed to the DIA in 1971.",
 "keywords" : ["beauvais tapestry","carved","gilded","gilt","seat","tapestried","tapestry","upholstered","upholstery","wood","arm chair","chair"],
 "accession" : "71.184"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.187.jpg",
 "title" : "Arm Chair",
 "name" : "Georges Jacob",
@@ -6204,7 +6204,7 @@
 "provenance" : "Madame Billout-Desmarets;Paris, Galerie Georges Petit, sale of Madame Billout-Desmarets collection, 1 June 1923, lot 20 (to Vagliano);Paris, Andr&#233; J. Seligmann (dealer);acquired in New York in 1932 byGrosse Pointe, MI, Anna Thomson Dodge, through L. Alavoine (agent);bequeathed to the DIA in 1971.",
 "keywords" : ["beauvais tapestry","carved","gilded","gilt","seat","tapestried","tapestry","upholstered","upholstery","wood","arm chair","chair"],
 "accession" : "71.187"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.188.jpg",
 "title" : "Lyre-Back Side Chair",
 "name" : " Anonymous",
@@ -6218,7 +6218,7 @@
 "provenance" : "Grazia (dealer), Paris;acquired in 1931 through L. Alavoine (agent) by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["carved","cloth","paint","painted","silk","damask","gilded","gilt","seat","upholstered","upholstery","wood","music room chair","chair"],
 "accession" : "71.188"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.194.A-S1.jpg",
 "title" : "Commode",
 "name" : "Jean-Henri Riesener",
@@ -6234,7 +6234,7 @@
 "provenance" : "Madame Elisabeth de France, Ch&#195;&#162;teau de Fontainebleau, 1783-86;Louis XVI, Ch&#195;&#162;teau de Fontainebleau, 1786-92;Garde-Meuble National, Paris, from 1792;Edward Arnold, The Grove, Dorking, Surrey;his sale, Christie's, June 8, 1920, lot 90 (the contents of the collection are identified in the catalogue as having been bought chiefly from the London dealers Samson Wertheimer and William Boore);Duveen Brothers (dealer), New York;acquired from Duveen in 1932 by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["bronze","inlaid","inlay","mahogany","marble","metal","ormolu","parquetry","gilded","gilt","storage","stone","wood","chest","commode"],
 "accession" : "71.194.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.194.A.jpg",
 "title" : "Commode",
 "name" : "Jean-Henri Riesener",
@@ -6249,7 +6249,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Anna Thomson Dodge, Grosse Pointe, MI",
 "accession" : "71.194.B"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.195.jpg",
 "title" : "Writing Table",
 "name" : "Jean-Henri Riesener",
@@ -6265,7 +6265,7 @@
 "provenance" : "Stieglitz Museum, St. Petersburg;Duveen Brothers (dealer), New York;acquired from Duveen in 1932 by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["chased","leather","mahogany","metal","ormolu","gilded","gilt","table","writing table","stamped leather","tulipwood","wood"],
 "accession" : "71.195"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.196.jpg",
 "title" : "",
 "name" : "Martin Carlin",
@@ -6281,7 +6281,7 @@
 "provenance" : "Friederike Sophie Dorothea, Duchess of W&#195;&#188;rttemberg (1736-1798);Maria Feodorovna, Empress of Russia (1759-1828), Palace of Pavlovsk (near St. Petersburg), by 1795;Grand Duke Mikhail Pavlovich (1798-1849);Grand Duke Constantin Nikolaievich (1827-1892);Grand Duchess Alexandra Iossifovna (1830-1911);Grand Duke Constantin Constantinovich (1858-1915);Soviet government;Duveen Brothers [dealer], New York;acquired by Anna Thomson Dodge, through Duveen, 1932;Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["clay","metal","ormolu","porcelain","gilded","gilt","storage","table","tulipwood","wood","jewel cabinet","cabinet"],
 "accession" : "71.196"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.197.jpg",
 "title" : "Combination Gaming and Writing Table",
 "name" : "Claude-Charles Saunier",
@@ -6297,7 +6297,7 @@
 "provenance" : "Henry M.W. Oppenheim, London. His sale, Christie's, London, June 10-12, 16-17, 1913 (lot 181);bought at Oppenheim sale by Duveen Brothers [dealer], New York;Mrs. George D. Widener (?);acquired by Anna Thomson Dodge, through Duveen Brothers, New York, 1932;Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["cloth","inlaid","inlay","kingwood","leather","metal","ormolu","parquetry","felt","gilded","gilt","table","writing table","stamped leather","tulipwood","wood","gaming table"],
 "accession" : "71.197"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.198-s1.jpg",
 "title" : "Mechanical Writing Table",
 "name" : "Roger Vandercruse, called Lacroix",
@@ -6313,7 +6313,7 @@
 "provenance" : "Mrs. Walter Burns, North Mymms Park, Hatfield;her sale (anonymous), Christie's, London, July 8, 1930, lot 78;Duveen Brothers (dealer), New York;acquired by Anna Thomson Dodge from Duveen, 1932;Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["inlaid","inlay","kingwood","metal","ormolu","gilded","gilt","writing cabinet","wood","cabinet","desk"],
 "accession" : "71.198"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.2.A-S1.jpg",
 "title" : "Two-Handled Presentation Cup",
 "name" : "Benjamin Godfrey",
@@ -6329,7 +6329,7 @@
 "provenance" : "Hon. John and Henrietta Talbot, London, until 1747; Hon. John and Catherine Talbot, until 1756;his widow, Hon. Catherine Talbot, by descent; Lt. Col. Charles Talbot, Dec 1784; his brother, John Chetwynd Talbot, 3rd Baron and 1st Earl Talbot of Hensol, by descent; The Right Honorable Earl of Shrewsbury and Waterford, by descent;purchased from Frank Partridge and Sons Ltd. (dealer), London.",
 "keywords" : ["cast","metal","silver","engraved","gilded","gilt","gold","vessel","heraldry","coat-of-arms","cup"],
 "accession" : "71.2.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.200-d3.jpg",
 "title" : "Combination Writing Table and Worktable",
 "name" : "Gaspard Feilt",
@@ -6345,7 +6345,7 @@
 "provenance" : "Chilton House (possibly the Chilton House in Wiltshire that was demolished in 1965);Chilton sale, March 8, 1871 (no catalogue);Comte de Gramont, Paris;sale, Galerie Jean Charpentier, Paris, June 15, 1934, lot 87;Duveen Brothers [dealer], New York;acquired by Anna Thomson Dodge, through Duveen, 1935;Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["bronze","inlaid","inlay","kingwood","marquetry","metal","ormolu","gilded","gilt","table","writing table","wood","desk"],
 "accession" : "71.200"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.201.A-S1.jpg",
 "title" : "JARDINIERE IN THE FORM OF AN ATHENIENNE",
 "name" : " Anonymous",
@@ -6359,7 +6359,7 @@
 "provenance" : "Edmond Blanc, Paris;Duveen Brothers (dealer), New York;acquired from Duveen in 1935 by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["brass","metal","gilded","gilt","wood","jardiniere"],
 "accession" : "71.201.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.205.jpg",
 "title" : "Work Table",
 "name" : "Charles Topino",
@@ -6375,7 +6375,7 @@
 "provenance" : "E. Couvert [dealer], Paris;acquired by Anna Thomson Dodge, through L. Alavoine [dealer], New York, 1932;Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["inlaid","inlay","marquetry","metal","ormolu","gilded","gilt","table","round table","wood","gueridon"],
 "accession" : "71.205"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.207.jpg",
 "title" : "Worktable",
 "name" : " Anonymous",
@@ -6389,7 +6389,7 @@
 "provenance" : "Maison Dreifuss (dealer), Paris;acquired in 1932 through L. Alavoine (agent), New York, by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["harewood","inlaid","inlay","marble","marquetry","metal","ormolu","gilded","gilt","table","tea table","stone","wood","ambulante"],
 "accession" : "71.207"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.208.jpg",
 "title" : "Writing Table",
 "date" : "c. 1755/1760",
@@ -6401,7 +6401,7 @@
 "provenance" : "?Duveen Brothers?;Arnold Seligman (dealer), Paris; acquired by Anna Thomson Dodge, through L. Alavoine (agent/dealer), New York, 1932;Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["inlaid","inlay","leather","marquetry","metal","ormolu","gilded","gilt","table","stamped leather","wood","library table"],
 "accession" : "71.208"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.210.jpg",
 "title" : "Combination Writing Table and Worktable",
 "date" : "c. 1770",
@@ -6413,7 +6413,7 @@
 "provenance" : "Viscount Powerscourt, County Wicklow;Duveen Brothers (dealer), New York;acquired from Duveen in 1932 by Anna Thomson Dodge, Grosse Pointe, MI",
 "keywords" : ["brass","inlaid","inlay","kingwood","marquetry","metal","satinwood","table","writing table","wood"],
 "accession" : "71.210"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.213.jpg",
 "title" : "Candelabra",
 "date" : "c. 1766",
@@ -6424,7 +6424,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Prince Frodrow (or Feodrov)(possibly Prince Feodor, 1898-1968), St. Petersburg;Soviet government until ca. 1932;Duveen Brothers (dealer), New York;Acquired by Anna Thomson Dodge, through Duveen Brothers, 1935",
 "accession" : "71.213"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.214.jpg",
 "title" : "Candelabra",
 "date" : "c. 1766",
@@ -6435,7 +6435,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Prince Frodrow (or Feodrov)(possibly Prince Feodor, 1898-1968), St. Petersburg;Soviet government until ca. 1932;Duveen Brothers (dealer), New York;Acquired by Anna Thomson Dodge, through Duveen Brothers, 1935",
 "accession" : "71.214"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.215.jpg",
 "title" : "Mantel Clock",
 "name" : "Jean Antoine Lepine",
@@ -6451,7 +6451,7 @@
 "provenance" : "This clock was ordered by Mesdames de France, Ad&#233;la&#195;&#175;de and Victoire from Lepine for the Summer Reception Room at the Ch&#195;&#162;teau de Bellevue and delivered July 15, 1786.  Last recorded at Bellevue January 16, 1795 and not included in its estate sale of March 23-August 31, 1795;gift of Napoleon in 1808 to Jean-Jacques-R&#233;gis de Cambac&#233;r&#232;s, Napoleon's archichancelier (and Duke of Parma?), and was in his residence in Paris, the H&#195;&#180;tel d'Elbeuf in 1808;later in 1808 transferred to the H&#195;&#180;tel Mol&#233;, rue Saint-Dominique, Paris;sold in 1816 with this residence and some other of its furnishings to the dowager duchesse d'Orleans;by descent to her son the future King Louis-Philippe, Ch&#195;&#162;teau d'Eu;his son, the duc de Nemours (d. 1896);his son, the duc d'Alen&#195;&#167;on (d. 1910);his brother, the duc de Vend&#195;&#180;me (d. 1931);sold at his estate sale, Galerie Georges Petit, Paris, December 4, 1931, lot 95;Remion-Samary (dealer), Paris;acquired in 1931-32 through L. Alavoine (dealer) by Anna Thomson Dodge, Grosse Pointe, MI.",
 "keywords" : ["TIMEPIECE"],
 "accession" : "71.215"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.216-S1.jpg",
 "title" : "CANDLESTICK",
 "date" : "c. 1850/1900",
@@ -6463,7 +6463,7 @@
 "provenance" : "The Right Honourable Gerald Henry (1898-1927), Baron Foley, Ruxley Lodge, Claygate, Surrey;Duveen Brothers (dealer), New York;acquired from Duveen Brothers in 1935 by Anna Thomson Dodge, Grosse Pointe, MI ",
 "keywords" : ["brass","cast","chased","metal","ormolu","gilded","gilt","candlestick"],
 "accession" : "71.216"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.218.jpg",
 "title" : "Monteith",
 "date" : "c. 1768",
@@ -6474,7 +6474,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.218"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.220.A.jpg",
 "title" : "Ice-Cream Cooler",
 "date" : "c. 1767",
@@ -6485,7 +6485,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.220.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.221.A-s2.jpg",
 "title" : "Ice-Cream Cooler",
 "date" : "c. 1767",
@@ -6496,7 +6496,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.221.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.226.jpg",
 "title" : "Plate",
 "date" : "1768",
@@ -6507,7 +6507,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.226"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.227.jpg",
 "title" : "Monteith",
 "date" : "1768",
@@ -6518,7 +6518,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.227"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.228.jpg",
 "title" : "Monteith",
 "date" : "1767",
@@ -6529,7 +6529,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.228"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.229.jpg",
 "title" : "Monteith",
 "date" : "1767",
@@ -6540,7 +6540,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.229"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.230.jpg",
 "title" : "Monteith",
 "date" : "1767",
@@ -6551,7 +6551,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.230"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.231.A-S1.jpg",
 "title" : "Ice-Cream Cooler",
 "date" : "1769",
@@ -6562,7 +6562,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.231.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.233.jpg",
 "title" : "Liqueur Bottle Cooler",
 "date" : "1767",
@@ -6573,7 +6573,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.233"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.235.jpg",
 "title" : "Plate",
 "date" : "1768",
@@ -6584,7 +6584,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.235"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.236.jpg",
 "title" : "Plate",
 "date" : "1767",
@@ -6595,7 +6595,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.236"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.237.jpg",
 "title" : "PLATE",
 "date" : "1768",
@@ -6606,7 +6606,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.237"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.238.jpg",
 "title" : "Monteith",
 "date" : "c. 1770",
@@ -6617,7 +6617,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.238"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.239.jpg",
 "title" : "Monteith",
 "name" : "Fran&#195;&#167;ois-Joseph Aloncle",
@@ -6632,7 +6632,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.239"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.240.A.jpg",
 "title" : "Pot pourri Vase",
 "date" : "c. 1764",
@@ -6643,7 +6643,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Sir Lionel Faudel-Phillips, (1877-1941), Balls Park, Hertsfordshire (by tradition);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939",
 "accession" : "71.240.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.241.A.jpg",
 "title" : "Pot pourri Vase",
 "date" : "c. 1764",
@@ -6654,7 +6654,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Sir Lionel Faudel-Phillips, (1877-1941), Balls Park, Hertsfordshire (by tradition);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939",
 "accession" : "71.241.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.242.jpg",
 "title" : "Pot pourri Vase",
 "date" : "1760/1762",
@@ -6665,7 +6665,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Sir Samuel Edward Scott (1873-1943), Bart.,  Lytchet Minster, Dorset (by tradition);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939",
 "accession" : "71.242"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.244.A-S1.jpg",
 "title" : "Flower Vase",
 "date" : "c. 1762",
@@ -6676,7 +6676,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Baron Lionel de Rothschild (1808-79), London;Alfred Charles Rothschild (1842-1918), Seamore Place, London;Almina, Countess of Carnarvon, London;her sale, Christie's, London, 19-21 May 1925, lot 257;Bensimon (dealer), London;Baron Albert von Goldschmidt-Rothschild, Schloss Gr&#195;&#188;neburg, Frankfurt;his sale, Hermann Ball-Paul Graupe, Berlin, 14 March 1933, lot 112;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.244.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.246.A.jpg",
 "title" : "TRIANGULAR POT POURRI VASE",
 "date" : "1761",
@@ -6688,7 +6688,7 @@
 "provenance" : "Louis XVDuveen Brothers (dealer), New York;Anna Thomson Dodge, Grosse Pointe, MI, 1939-1971",
 "keywords" : ["SEVRES"],
 "accession" : "71.246.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.247.A-d1.jpg",
 "title" : "TRIANGULAR POT POURRI VASE",
 "date" : "1761",
@@ -6700,7 +6700,7 @@
 "provenance" : "Louis XV(?);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939",
 "keywords" : ["SEVRES"],
 "accession" : "71.247.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.248.A.jpg",
 "title" : "√?cuelle ronde tourne√©, shape A, first size, and plateau rond, shape D, third size",
 "date" : "1781",
@@ -6711,7 +6711,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Sir Samuel Edward Scott (1873-1943), Bart., Lytchet Minster, Dorset (by tradition);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, 1939",
 "accession" : "71.248.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.249.A-S1.jpg",
 "title" : "Vase hollandois, second size",
 "date" : "1760",
@@ -6722,7 +6722,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Baroness Mathilde de Rothschild (1832-1924), Frankfurt (by tradition); George (1858-1941) and Florence Blumenthal, New York;sale of George Blumenthal coll., Galerie Georges Petit, Paris, 1-2 Dec 1932, lot 64;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.249.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.251.A.jpg",
 "title" : "Flower Vase",
 "date" : "1760",
@@ -6733,7 +6733,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Baroness Mathilde de Rothschild (1832-1924), Frankfurt (by tradition); George (1858-1941) and Florence Blumenthal, New York;sale of George Blumenthal coll., Galerie Georges Petit, Paris, 1-2 Dec 1932, lot 64;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.251.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.252.A.jpg",
 "title" : "Sugar Bowl and Stand",
 "date" : "1787",
@@ -6743,7 +6743,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Ch&#233;rem&#233;teff family, St. Petersburg, until 1906;Asher Wertheimer (dealer), London;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.252.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.253.A.jpg",
 "title" : "Covered Bowl and Stand",
 "date" : "1782",
@@ -6754,7 +6754,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Sir Samuel Edward Scott (1873-1943), Bart., Lytchet Minster, Dorset (by tradition);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, 1939",
 "accession" : "71.253.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.253.C.jpg",
 "title" : "Stand for √?cuelle",
 "date" : "1777",
@@ -6765,7 +6765,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Sir Samuel Edward Scott (1873-1943), Bart., Lytchet Minster, Dorset (by tradition);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, 1939",
 "accession" : "71.253.C"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.254.A-S1.jpg",
 "title" : "Flower Vase",
 "date" : "c. 1761/1763",
@@ -6776,7 +6776,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "&#201;douard Chappey (d. 1906);his sale, Galerie Georges Petit, Paris, 27-31 May 1907, lot 1102;Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1939.",
 "accession" : "71.254.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.255.jpg",
 "title" : "Vase √† oreilles, shape A, second size",
 "date" : "c. 1777",
@@ -6787,7 +6787,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Comte de Saint-L&#233;on, Chateau de Jeure (unidentified, by tradition);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, 1939",
 "accession" : "71.255"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.256.jpg",
 "title" : "VASE",
 "date" : "c. 1755",
@@ -6798,7 +6798,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Comte de Saint-L&#233;on, Ch&#195;&#162;teau de Jeure (unidentified; by tradition);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, 1939.",
 "accession" : "71.256"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.258.A.jpg",
 "title" : "Set of Flower Vases",
 "date" : "1764",
@@ -6809,7 +6809,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Palace of Pavlovsk, near St. Petersburg, until c.1907 (possibly purchased by Grand Duke Paul and his wife, the Empress Maria Feodorovna, by descent to Czar Nicolas I, Grand Duke Constantin Nikolaievich, Grand Duke Constantin Constantinovich);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1932",
 "accession" : "71.258.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.259.A.jpg",
 "title" : "Vase hollandois nouveau ovale, second size",
 "date" : "1764",
@@ -6820,7 +6820,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Palace of Pavlovsk, near St. Petersburg, until c.1907 (possibly purchased by Grand Duke Paul and his wife, the Empress Maria Feodorovna, by descent to Czar Nicolas I, Grand Duke Constantin Nikolaievich, Grand Duke Constantin Constantinovich);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1932",
 "accession" : "71.259.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.262.A-S1.jpg",
 "title" : "Covered Vase",
 "date" : "c. 1781",
@@ -6831,7 +6831,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Maria Feodorovna (1759-1828), Empress of Russia;Grand Duke Michael Pavlovich (1798-1849);Grand Duke Constantin Nikolaievich (1827-92);Grand Duchess Alexandra Iossifovna (1830-1911);Grand Duke Constantin Constantinovich (1858-1915);Soviet government (until c. 1930);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1932.",
 "accession" : "71.262.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.263.A-s2.jpg",
 "title" : "Covered Vase",
 "date" : "c. 1781",
@@ -6842,7 +6842,7 @@
 "credit" : "Bequest of Mrs. Horace E. Dodge in memory of her husband",
 "provenance" : "Maria Feodorovna (1759-1828), Empress of Russia;Grand Duke Michael Pavlovich (1798-1849);Grand Duke Constantin Nikolaievich (1827-92);Grand Duchess Alexandra Iossifovna (1830-1911);Grand Duke Constantin Constantinovich (1858-1915);Soviet government (until c. 1930);Duveen Brothers (dealer), New York; purchased byAnna Thomson Dodge, Grosse Pointe, MI, in 1932.",
 "accession" : "71.263.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.293.jpg",
 "title" : "Console Table",
 "name" : "Luigi Falcini",
@@ -6858,7 +6858,7 @@
 "provenance" : "W. Apolloni (dealer), Rome",
 "keywords" : ["inlaid","inlay","ivory","ebony","fruitwood","table","wood","heraldry","coat-of-arms","console table","furnishing"],
 "accession" : "71.293"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.294.jpg",
 "title" : "Maternity",
 "name" : "Joseph Charles Marin",
@@ -6874,7 +6874,7 @@
 "provenance" : "M. Pillot;Marquis de Karrefort (?);Jacques Seligmann (dealer), Paris (purchased by him in 1911, according to Paul Vitry, former curator of sculpture, Mus&#233;e du Louvre);sold to George Blumenthal, New York (again according to a note from Paul Vitry);Mortimer L. Schiff (d. 1931);his son, John Mortimer Schiff, New York;The Mortimer L. Schiff estate sale, Christie's London, June 22-23, 1938, lot 29;bought at that sale for 950 guineas by Jacques Seligmann and Company, Paris;bought from Seligmann by Duveen Brothers (dealer), New York;acquired c. 1938-39 from Duveen by Anna Thomson Dodge;her sale, Christie's London, June 24, 1971, lot 6.",
 "keywords" : ["clay","earthenware","statuette","terracotta","allegory"],
 "accession" : "71.294"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.295.jpg",
 "title" : "Bust of a Man",
 "date" : "mid 19th Century",
@@ -6886,7 +6886,7 @@
 "provenance" : "Duveen Brothers (dealer), New York;acquired from Duveen by Anna Thomson Dodge;her sale, Christie's London, June 24, 1971, lot 1",
 "keywords" : ["clay","earthenware","statue","portrait","terracotta","bust"],
 "accession" : "71.295"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.296.A-S1.jpg",
 "title" : "Wine-Bottle Cooler",
 "name" : "Jean Baptiste Claude Odiot",
@@ -6902,7 +6902,7 @@
 "provenance" : "Supplied by the Odiot firm to Count Nicholas Demidoff (1774-1828) on Dec. 5, 1817;said to have been given by him to a Madame de la Chappelle;unidentified noble family residing in England, 1863;anonymous Englishman of title who had inherited them from his grandfather;his sale, Anderson Galleries, New York, Dec. 15, 1928, lot 32 or 33;Anna Thomson Dodge;her sale, Christie's London, June 24, 1971, lot 53.",
 "keywords" : ["cast","chased","metal","silver","gilded","gilt","gold","tableware","vessel"],
 "accession" : "71.296.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.394.jpg",
 "title" : "",
 "name" : "Jean-Claude-Thomas Chambellan, Duplessis fils",
@@ -6918,7 +6918,7 @@
 "provenance" : "Russian Imperial Collection, Gatchina Palace;Maria Feodorovna, Empress of Russia (1759-1798);Soviet government, until c. 1930;Duveen Brothers (dealer), New York;acquired from Duveen in 1932 by Anna Thomson Dodge;her sale, Christie's London, June 24, 1971, lot 30",
 "keywords" : ["bronze","cast","chased","metal","ormolu","enamel","enameled","gros bleu","lighting","candelabrum"],
 "accession" : "71.394"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.397.jpg",
 "title" : "Young Woman",
 "date" : "c. 1715/1720",
@@ -6929,7 +6929,7 @@
 "credit" : "Founders Society Purchase, Mr. and Mrs. Horace E. Dodge Memorial Fund",
 "keywords" : ["bronze","cast","metal","statue","portrait","bust"],
 "accession" : "71.397"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.399.jpg",
 "title" : "Ugolino and his Children",
 "name" : "Jean Baptiste Carpeaux",
@@ -6945,7 +6945,7 @@
 "provenance" : "Jacques Fischer, dealer",
 "keywords" : ["plaster","statue","portrait","group portrait"],
 "accession" : "71.399"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/71.78.jpg",
 "title" : "Femme assise s'essuyant le cote gauche",
 "name" : "Edgar Degas",
@@ -6960,7 +6960,7 @@
 "credit" : "Gift of Edward E. Rothman",
 "keywords" : ["bronze","cast","cire perdue","metal","statuette","nude"],
 "accession" : "71.78"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.167.jpg",
 "title" : "Secretary",
 "name" : "Pietro Piffetti",
@@ -6976,7 +6976,7 @@
 "provenance" : "Mrs. R. E. Underdown Louis Huth ",
 "keywords" : ["inlaid","inlay","ivory","marquetry","secretary","veneer","veneered","wood"],
 "accession" : "73.167"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.251.A.jpg",
 "title" : "COVERED DISH",
 "name" : "Jean Baptiste Claude Odiot",
@@ -6992,7 +6992,7 @@
 "provenance" : "Supplied by the Odiot firm to Count Nicholas Demidoff (1774-1828) on December 5, 1817, or at a slightly later date;his son Anatole Demidoff, Prince of San Donato (1812-1870), by descent;Charles Frederick Hancock (dealer), London, by 1863;Count Alfred de la Chapelle, Seigneur of Morton and Beaulieu, P&#233;rigord (1830-1914)Anonymous Englishman of title;his sale, Anderson Galleries, New York, 15 December 1928, lot 53, 54, 55 or 56;Anna Thomson Dodge, Grosse Pointe Farms, MI;her sale, Christie's London, 23 June 1971, lot 54;Frank Partridge and Sons, Ltd. (dealer), London.",
 "keywords" : ["metal","silver","tableware","vessel","heraldry","coat-of-arms"],
 "accession" : "73.251.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.251.B.jpg",
 "title" : "Entree Dish Cover",
 "name" : "Jean Baptiste Claude Odiot",
@@ -7008,7 +7008,7 @@
 "provenance" : "Supplied by the Odiot firm to Count Nicholas Demidoff (1774-1828) on December 5, 1817, or at a slightly later date;his son Anatole Demidoff, Prince of San Donato (1812-1870), by descent;Charles Frederick Hancock (dealer), London, by 1863;Count Alfred de la Chapelle, Seigneur of Morton and Beaulieu, P&#233;rigord (1830-1914)Anonymous Englishman of title;his sale, Anderson Galleries, New York, 15 December 1928, lot 53, 54, 55 or 56;Anna Thomson Dodge, Grosse Pointe Farms, MI;her sale, Christie's London, 23 June 1971, lot 54;Frank Partridge and Sons, Ltd. (dealer), London.",
 "keywords" : ["metal","silver","tableware","heraldry","coat-of-arms"],
 "accession" : "73.251.B"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/73.254-S1.jpg",
 "title" : "The Return of the Prodigal Son",
 "name" : "Antonio Montauti",
@@ -7024,7 +7024,7 @@
 "provenance" : "Anna Maria Luisa de' Medici, Dowager Electress Palatine; Grand Ducal Collections, Florence, until sometime after 1761; probably the version in Paris art market, sale, 16 April 1803, lot 16; Jean Philippe-Gui Le Gentil, Count and Marquis of Paroy (1750-1825), 1803; Charles IV, King of Spain (1748-1819), autumn 1803-?; listed in the Inventory of Bronzes Paroy-Carlos IV, 1803; Antonio de Orleans, duca de Montpensier (1824-1890) and Infanta Maria Luisa (1832-1897), granddaughter of Charles IV, Royal Palace of San T&#233;lmo, Seville, at least by 1866; Antonio, duc de Galliera (?-1930), Paris, after 1890; Infanta Eulalia, Paris, 1930-58; Paris art market, ca. 1958; purchased from Heim Gallery, London.",
 "keywords" : ["bronze","cast","metal","statue","religion"],
 "accession" : "73.254"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/75.86.jpg",
 "title" : "Le fumeur",
 "name" : "Jean Baptiste Carpeaux",
@@ -7039,7 +7039,7 @@
 "credit" : "Founders Society Purchase, Robert H. Tannahill Foundation Fund",
 "keywords" : ["clay","earthenware","statue","terracotta","bust"],
 "accession" : "75.86"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.15.jpg",
 "title" : "Meleager",
 "name" : "Jules Dalou",
@@ -7054,7 +7054,7 @@
 "credit" : "Founders Society Purchase, Robert H. Tannahill Foundation Fund",
 "keywords" : ["bronze","cast","metal","statue","genre"],
 "accession" : "77.15"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.28.jpg",
 "title" : "Saint Tarsicius",
 "name" : "Jean Alexandre Joseph Falguiere",
@@ -7069,7 +7069,7 @@
 "credit" : "Founders Society Purchase, Robert H. Tannahill Foundation Fund",
 "keywords" : ["bronze","cast","metal","statuette","religion"],
 "accession" : "77.28"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.76.jpg",
 "title" : "Bather Before the Bath",
 "name" : "Jules Dalou",
@@ -7084,7 +7084,7 @@
 "credit" : "Founders Society Purchase, Mr. and Mrs. Allan Shelden III Fund",
 "keywords" : ["bronze","cast","cire perdue","metal","statue","genre"],
 "accession" : "77.76"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/77.9.jpg",
 "title" : "Shepherd and Shepherdess",
 "name" : " Anonymous",
@@ -7098,7 +7098,7 @@
 "provenance" : "Possibly made for Fran&#195;&#167;oise de Tournemine (c.1515-1530).Charles M&#232;ge, Paris (by 1889).Raoul Heilbronner (dealer), Paris;French & Co. (dealer), New York (invoiced 11/2/1928); Parish Watson & Co (dealer), New York (invoiced 11/19/1928);Eleanor Clay Ford, Grosse Pointe Shores, MI ",
 "keywords" : ["textile","tapestry"],
 "accession" : "77.9"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/79.177.jpg",
 "title" : "Nativity with the Annunciation to the Shepherds, Annuncia- tion and Presentati",
 "name" : " Anonymous",
@@ -7112,7 +7112,7 @@
 "provenance" : "Nicholas Landau, Paris;Ernest Brummer, Zurich, by June 15, 1953;his sale, Zurich, 16-19 October 1979, lot 136",
 "keywords" : ["boxwood","carved","triptych","relief","religion","wood"],
 "accession" : "79.177"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/79.23.jpg",
 "title" : "Comedy and Tragedy: Sic Vita",
 "name" : "Alfred Gilbert",
@@ -7128,7 +7128,7 @@
 "provenance" : "Robert Strauss ",
 "keywords" : ["bronze","cast","metal","statue","allegory"],
 "accession" : "79.23"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/79.32.jpg",
 "title" : "WRITING DESK",
 "name" : "Anton Luchtenstein",
@@ -7144,7 +7144,7 @@
 "provenance" : "Purchased from Alexander and Berendt Ltd., dealer",
 "keywords" : ["brass","inlaid","inlay","ivory","metal","metal","mother-of-pearl","oak","pine","shell","silver","ebony","engraved","writing desk","secretaire","tortoise shell","veneer","veneered","wood","desk","escritoire"],
 "accession" : "79.32"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/79.43.jpg",
 "title" : "Marie de Medicis as Queen of France",
 "name" : "Guillaume Dupre",
@@ -7159,7 +7159,7 @@
 "credit" : "Gift of Michael Hall in memory of Dr. William R. Valentiner.",
 "keywords" : ["bronze","cast","metal","portrait","medallion","bust"],
 "accession" : "79.43"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/80.40.jpg",
 "title" : "Diana",
 "date" : "c. 1710/1725",
@@ -7171,7 +7171,7 @@
 "provenance" : "Villa Torlonia (formerly Conti, and now demolished), Frascati; Principe Andrea Torlonia, Rome; Palazzina Torlonia, Rome (near Fontanella Borghese);private collection, London;purchased from Heim Gallery (dealer), London.",
 "keywords" : ["carved","marble","statue","stone","mythology","bust"],
 "accession" : "80.40"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/80.41.jpg",
 "title" : "Endymion",
 "date" : "c. 1710/1725",
@@ -7183,7 +7183,7 @@
 "provenance" : "Villa Torlonia (formerly Conti, and now demolished), Frascati; Principe Andrea Torlonia, Rome; Palazzina Torlonia, Rome (near Fontanella Borghese);private collection, London;purchased from Heim Gallery (dealer), London.",
 "keywords" : ["carved","marble","statue","stone","mythology","bust"],
 "accession" : "80.41"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/81.2.jpg",
 "title" : "Saint Peter",
 "name" : "Alessandro Algardi",
@@ -7199,7 +7199,7 @@
 "provenance" : "Purchased from Heim Gallery, London.",
 "keywords" : ["clay","earthenware","statuette","religion","terracotta","model"],
 "accession" : "81.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/81.695.jpg",
 "title" : "Cupid and Psyche",
 "name" : "Giovanni Battista Foggini",
@@ -7215,7 +7215,7 @@
 "provenance" : "Cyril Humphris Gallery, London; Sotheby Parke Bernet, Monaco sale, May 27, 1980, no 1158; Purchased from Daniel Katz, London, in 1981. ",
 "keywords" : ["bronze","cast","metal","patina","patinated","statuette","mythology"],
 "accession" : "81.695"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/81.703.jpg",
 "title" : "Teucer",
 "name" : "Hamo Thornycroft",
@@ -7231,7 +7231,7 @@
 "provenance" : "Earl of Rosebery and family, Mentmore Towers, England ",
 "keywords" : ["bronze","cast","metal","patina","patinated","statuette","mythology"],
 "accession" : "81.703"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/81.908.jpg",
 "title" : "Proserpine",
 "name" : "John Gibson",
@@ -7247,7 +7247,7 @@
 "provenance" : "Dr. and Mrs. Coleman H. Mopper, Bloomfield Hills, MI",
 "keywords" : ["marble","mythology"],
 "accession" : "81.908"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/81.910.jpg",
 "title" : "Grotesque Ostrich",
 "name" : " Anonymous",
@@ -7260,7 +7260,7 @@
 "credit" : "Founders Society Purchase, Matilda R. Wilson Fund and New Endowment Fund",
 "keywords" : ["bronze","cast","metal","statuette","animalia"],
 "accession" : "81.910"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/81.911.A.jpg",
 "title" : "Chalice",
 "name" : "Charles Robert Ashbee",
@@ -7276,7 +7276,7 @@
 "provenance" : "Guild of Handicraft ",
 "keywords" : ["metal","silver","gilded","gilt","vessel","religion","chalice","christian"],
 "accession" : "81.911.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/81.912.jpg",
 "title" : "Bowl",
 "name" : "Charles Robert Ashbee",
@@ -7292,7 +7292,7 @@
 "provenance" : "Guild of Handicraft ",
 "keywords" : ["metal","silver","gilded","gilt","tableware","vessel","bowl"],
 "accession" : "81.912"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/82.27-S1.jpg",
 "title" : "Bacchus and a Young Satyr",
 "date" : "c. 1640",
@@ -7304,7 +7304,7 @@
 "provenance" : "D'Este, Mantua (possibly); Andre Le Notre, France;Louis XIV, by 1707; Louis XV; Louis XVI, until 1796; Citizen Jourdan (verrier a Muntzhal); Jourdan sale, March 4, 1803; M. Cailard of Cailar; Cailard sale, May 2, 1809;Unknown collections; M. Robert Piquet, early twentieth century;Jansen, Maison de decoration, 1932; Christian Berard; Jean Michel Frank; Paris art market; Purchased from Alain Moatti, Paris, in 1982. ",
 "keywords" : ["bronze","cast","metal","statuette","mythology"],
 "accession" : "82.27"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/94.2.jpg",
 "title" : "Pitcher",
 "date" : "c. 1820",
@@ -7313,9 +7313,9 @@
 "department" : "European Sculpture and Dec Arts",
 "classification" : "Ceramic",
 "credit" : "Gift of Mrs. O'Gallagher Allen, 1897",
-"keywords" : [""patent ironstone china"","overglaze polychrome","enamel decoration","underglaze blue","white stoneware"],
+"keywords" : ["patent ironstone china","overglaze polychrome","enamel decoration","underglaze blue","white stoneware"],
 "accession" : "94.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/95.4.jpg",
 "title" : "Knife Box",
 "name" : " Anonymous",
@@ -7328,7 +7328,7 @@
 "credit" : "Gift of Frederick W. Cowley",
 "keywords" : ["inlaid","inlay","mahogany","metal","storage","wood","knife box","box"],
 "accession" : "95.4"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.2.1A.jpg",
 "title" : "Potpourri Vase",
 "date" : "c. 1820",
@@ -7339,7 +7339,7 @@
 "credit" : "Bequest of Arthur Hilton Nixon",
 "keywords" : ["basaltware","clay","enamel","enameled","glaze","glazed","vase","vessel","stoneware","animalia","floral"],
 "accession" : "F1985.2.1A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.83.11.jpg",
 "title" : "Large Round Platter",
 "date" : "1745/1765",
@@ -7350,7 +7350,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","platter","animalia","deutsche blumen","floral"],
 "accession" : "F1985.83.11"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.83.12.jpg",
 "title" : "Dinner Plate",
 "date" : "1745/1765",
@@ -7361,7 +7361,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","plate","animalia","deutsche blumen","floral"],
 "accession" : "F1985.83.12"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.83.2.jpg",
 "title" : "Sauce Boat",
 "date" : "1745/1765",
@@ -7372,7 +7372,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","vessel","animalia","deutsche blumen","floral"],
 "accession" : "F1985.83.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.83.3A.jpg",
 "title" : "Oval Tureen",
 "date" : "1745/1765",
@@ -7383,7 +7383,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","tureen","vessel","animalia","deutsche blumen","floral"],
 "accession" : "F1985.83.3A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.83.4A.jpg",
 "title" : "Round Tureen",
 "date" : "1745/1765",
@@ -7394,7 +7394,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","tureen","vessel","animalia","deutsche blumen","floral"],
 "accession" : "F1985.83.4A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.83.4C.jpg",
 "title" : "Stand for Round Tureen",
 "date" : "1745/1765",
@@ -7405,7 +7405,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","stand","tableware","animalia","floral"],
 "accession" : "F1985.83.4C"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.83.9.jpg",
 "title" : "Oval Platter",
 "date" : "1745/1765",
@@ -7416,7 +7416,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","platter","animalia","deutsche blumen","floral"],
 "accession" : "F1985.83.9"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.88.1A-S1.jpg",
 "title" : "Oval Tureen",
 "date" : "c. 1742",
@@ -7427,7 +7427,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","tureen","vessel","deutsche blumen","floral"],
 "accession" : "F1985.88.1A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.88.2.jpg",
 "title" : "Candlestick",
 "date" : "c. 1742",
@@ -7438,7 +7438,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","lighting","candlestick","floral"],
 "accession" : "F1985.88.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.88.2.jpg",
 "title" : "Candlestick",
 "date" : "c. 1742",
@@ -7449,7 +7449,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","lighting","candlestick","floral"],
 "accession" : "F1985.88.3"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.88.5.jpg",
 "title" : "Platter",
 "date" : "c. 1742",
@@ -7460,7 +7460,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","platter","floral"],
 "accession" : "F1985.88.5"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.92.A.jpg",
 "title" : "Lettuce Form Tureen on Stand",
 "date" : "c. 1745",
@@ -7471,7 +7471,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","tureen","floral"],
 "accession" : "F1985.92.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1985.93.1.jpg",
 "title" : "Peony Dish",
 "date" : "c. 1746",
@@ -7482,7 +7482,7 @@
 "credit" : "Bequest of Ruth Nugent Head in memory of her mother, Anna E. Kresge, and her husband, Henry W. Nugent Head",
 "keywords" : ["clay","hardpaste porcelain","polychromed","polychromy","enamel","gilded","gilt","glaze","glazed","gold","tableware","vessel","bowl","floral"],
 "accession" : "F1985.93.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1986.123.jpg",
 "title" : "Marquise de Bouffry (?)",
 "name" : "Giovanni Battista Nini",
@@ -7498,7 +7498,7 @@
 "provenance" : "Von Kalckreuth, Berlin; J. Patrice Marandel, Detroit, MI. ",
 "keywords" : ["clay","portrait","terracotta"],
 "accession" : "F1986.123"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1987.8.jpg",
 "title" : "Plum Bloom Vase",
 "name" : " Webb",
@@ -7511,7 +7511,7 @@
 "credit" : "Founders Society Purchase, European Sculpture and Decorative Arts General Fund",
 "keywords" : ["cased","polychromed","polychromy","enamel","gilded","gilt","glass","gold","tableware","vase","vessel"],
 "accession" : "F1987.8"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1988.14-S1.jpg",
 "title" : "Tabernacle Support",
 "date" : "1510/1520",
@@ -7523,7 +7523,7 @@
 "provenance" : "Tory Family, Grosse Pointe, MI; bequest to Clifford West, Norwich, VT, 1920s",
 "keywords" : ["clay","enamel","enameled","terracotta"],
 "accession" : "F1988.14"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F1990.21.jpg",
 "title" : "Plaque: Bacchanal",
 "date" : "1747/1750",
@@ -7534,7 +7534,7 @@
 "credit" : "Founders Society Purchase, Robert H. Tannahill Foundation Fund",
 "provenance" : "Leonardo Lapiciarella, Florence; purchased from Armin B. Allen (dealer), London and New York",
 "accession" : "F1990.21"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F69.19.A-S1.jpg",
 "title" : "Motherhood",
 "name" : "Raffaello Monti",
@@ -7549,7 +7549,7 @@
 "credit" : "Gift of the Estate of James E. Meredith",
 "keywords" : ["clay","porcelain","statue","allegory"],
 "accession" : "F69.19.A"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F69.24-s3.jpg",
 "title" : "Eulisse Musotti",
 "name" : "Francesco Francia",
@@ -7564,7 +7564,7 @@
 "credit" : "Collection of the Detroit Institute of Arts",
 "keywords" : ["cast","lead","metal","metal","copper","portrait","medal","bust","commemorative"],
 "accession" : "F69.24"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F70.33.jpg",
 "title" : "Pieta",
 "date" : "early 16th Century (c. 1508/1513)",
@@ -7575,7 +7575,7 @@
 "credit" : "Bequest of Robert H. Tannahill",
 "keywords" : ["bronze","cast","metal","pax","relief","religion"],
 "accession" : "F70.33"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F76.91-S1.jpg",
 "title" : "Madonna and Child",
 "date" : "c. 1435",
@@ -7587,7 +7587,7 @@
 "provenance" : "Purchased from Luigi Grassi (dealer), Florence, 1925",
 "keywords" : ["clay","paint","polychromed","earthenware","gilded","gilt","relief","religion","terracotta"],
 "accession" : "F76.91"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F82.1.jpg",
 "title" : "WINGED VICTORY",
 "date" : "1820/1825",
@@ -7599,7 +7599,7 @@
 "provenance" : "Mame Family, Tours, France ",
 "keywords" : ["cast","patinated","plaster","allegory"],
 "accession" : "F82.1"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F82.198-S1.jpg",
 "title" : "Neapolitan Fisherboy",
 "name" : "Jean Baptiste Carpeaux",
@@ -7615,7 +7615,7 @@
 "provenance" : "M. Hain, Dijon and Paris ",
 "keywords" : ["bronze","cast","metal","genre"],
 "accession" : "F82.198"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F82.2.jpg",
 "title" : "Winged Victory",
 "date" : "1820/1825",
@@ -7627,9 +7627,9 @@
 "provenance" : "Mame Family, Tours, France ",
 "keywords" : ["cast","patinated","plaster"],
 "accession" : "F82.2"}
-{
+,{
 "imageURL" : "http://www.dia.org/user_area/comping/F82.50.A-S1.jpg",
-"title" : ""SAINT BACCHUS" SIDEBOARD",
+"title" : "SAINT BACCHUS SIDEBOARD",
 "name" : "William Burges",
 "nationality" : "English",
 "birth" : "1827",
