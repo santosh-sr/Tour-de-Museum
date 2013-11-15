@@ -7,8 +7,11 @@ import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.text.DecimalFormat;
 
 public class CalculateTFIDF {
+	
+	private static final DecimalFormat DF = new DecimalFormat("###.########");
 
 	public static void calculateTFIDF(Path inputFilePath, int totalDocs) throws IOException{
 		String termKey;
@@ -35,7 +38,7 @@ public class CalculateTFIDF {
 							String fileName = freqStatValues[0];
 							int termFreq = Integer.parseInt(freqStatValues[1]);
 							int totalFreq = Integer.parseInt(freqStatValues[2]);
-							float tfidf = new TFIDF(termFreq, totalFreq, totalDocs, termInDocument).getValue();
+							float tfidf = Float.parseFloat(DF.format(new TFIDF(termFreq, totalFreq, totalDocs, termInDocument).getValue()));
 
 							writer.write(termKey + "@" + fileName + " " + tfidf + "\n");
 						}
@@ -43,7 +46,6 @@ public class CalculateTFIDF {
 
 				}
 			}
-
 		}
 	}
 
