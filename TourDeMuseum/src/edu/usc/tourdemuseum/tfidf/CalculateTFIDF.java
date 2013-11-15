@@ -8,9 +8,13 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.text.DecimalFormat;
+import java.util.ArrayList;
+import java.util.List;
+
+import edu.usc.tourdemuseum.json.parser.JSONParser;
 
 public class CalculateTFIDF {
-	
+
 	private static final DecimalFormat DF = new DecimalFormat("###.########");
 
 	public static void calculateTFIDF(Path inputFilePath, int totalDocs) throws IOException{
@@ -50,30 +54,30 @@ public class CalculateTFIDF {
 	}
 
 	public static void main(String[] args) throws IOException {
-		Path americanDetroitPath = Paths.get("C:\\Semester\\Fall 2013\\CS 548\\Project\\tour-de-museum\\TourDeMuseum\\detroit-american.txt");
-		Path europeanDetroitPaintingsPath = Paths.get("C:\\Semester\\Fall 2013\\CS 548\\Project\\tour-de-museum\\TourDeMuseum\\data-paintings.txt");
-		Path europeanDetroitSculpturesPath = Paths.get("C:\\Semester\\Fall 2013\\CS 548\\Project\\tour-de-museum\\TourDeMuseum\\data-sculptures.txt");
-		Path europeanDetroitModernArtPath = Paths.get("C:\\Semester\\Fall 2013\\CS 548\\Project\\tour-de-museum\\TourDeMuseum\\data-modern art.txt");
-
-		//calculate the term frequencies
-		CalculateTermFrequency.countTermsinDocument(americanDetroitPath);
-		CalculateTermFrequency.countTermsinDocument(europeanDetroitPaintingsPath);
-		CalculateTermFrequency.countTermsinDocument(europeanDetroitSculpturesPath);
-		CalculateTermFrequency.countTermsinDocument(europeanDetroitModernArtPath);
-
+		if(args.length < 1){
+			System.err.println("Specify atleast one dataset..");
+			System.exit(0);
+		}
+		
+		List<Path> outputPathsList = new ArrayList<>();
+		for(String arg : args){
+			Path inputPath = Paths.get(arg);
+			
+			//parse and tokenize the document
+			JSONParser.parseJsonAndTokenize(inputPath);
+			
+			//calculate the term frequencies
+			String fileName = inputPath.toFile().getName();
+			CalculateTermFrequency.countTermsinDocument(Paths.get(fileName));
+			outputPathsList.add(Paths.get(getOutputTermFreqFile(fileName)));
+		}
+		
 		//calculate the inverse document frequencies
-		CalculateInverseDocumentFrequency.calculateInverseDocFrequency(new Path[]{Paths.get(getOutputTermFreqFile(americanDetroitPath.toFile().getName())), 
-				Paths.get(getOutputTermFreqFile(europeanDetroitPaintingsPath.toFile().getName())),
-				Paths.get(getOutputTermFreqFile(europeanDetroitSculpturesPath.toFile().getName())),
-				Paths.get(getOutputTermFreqFile(europeanDetroitModernArtPath.toFile().getName()))});
+		Path[] idfList = new Path[args.length];
+		CalculateInverseDocumentFrequency.calculateInverseDocFrequency(outputPathsList.toArray(idfList));
 
 		//calculate tf-idf
-		calculateTFIDF(Paths.get("term-stats-frequency-all-documents.txt"), 4);
-		
-	/*	Path testPath = Paths.get("C:\\Semester\\Fall 2013\\CS 548\\Project\\tour-de-museum\\TourDeMuseum\\test-detroit.txt");
-		CalculateTermFrequency.countTermsinDocument(testPath);
-		CalculateInverseDocumentFrequency.calculateInverseDocFrequency(new Path[]{Paths.get(getOutputTermFreqFile(testPath.toFile().getName()))});
-		calculateTFIDF(Paths.get("term-stats-frequency-all-documents.txt"), 1);*/
+		calculateTFIDF(Paths.get("term-stats-frequency-all-documents.txt"), args.length);
 	}
 
 	private static String getOutputTermFreqFile(String inputFileName){
