@@ -1,0 +1,3701 @@
+{
+   "paintings":[
+      {
+         "provenance":"Purchased with funds provided by Neal Castleman and Ellen Hoffman-Castleman by exchange, The Ahmanson Foundation, Antonio Mariani of Antonio's Antiques by exchange, Peter Norton, Robert Looker, Frank E. Baxter, Camilla Chandler Frost, Eli Broad, Mrs. Stewart Resnick, the Iris and B. Gerald Cantor Foundation, Julian Ganz, Jr., Mrs. Harry Lenart, Daniel N. Belin, Daniel N. Belin in honor of Walter L. Weisman, Mrs. Jacob Y. Terner, John F. Hotchkis, Mrs. Judith Gaillard Jones, Christopher V. Walker, Mrs. James Porter Fiske by exchange, and Willard G. Clark (M.2001.78a-b)",
+         "title":"The Pietà",
+         "nationality":"Italy, Florence, founded 1737",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Doccia Manufactory",
+         "dimensions":"a)  15 1\/4 x 26 1\/2 x 12 in. (38.74 x 67.31 x 30.48 cm); b)  27 x 28 x 16 in. (68.58 x 71.12 x 40.64 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Florence, 1708",
+         "medium":"Polychrome porcelain",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833993-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.25)",
+         "title":"Apollo",
+         "nationality":"Italy, Florence, 1619-1686",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Ferdinando Tacca",
+         "dimensions":"15 5\/8 x 6 7\/8 x 6 in. (39.69 x 17.46 x 15.24 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Florence, circa 1660",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31515890-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Iris and B. Gerald Cantor Foundation (M.91.138)",
+         "title":"The City of Valenciennes Defending the Fatherland in 1793",
+         "nationality":"France, Valenciennes, 1827-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Carpeaux",
+         "dimensions":"Height:  20 1\/2 x 16 x 11 in. (52.07 x 40.64 x 27.94 cm)",
+         "type":"Sculpture",
+         "date":"France, 1869-1873",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31777087-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Iris and B. Gerald Cantor Foundation in honor of Vera Green (M.91.153)",
+         "title":"The Crouching Woman",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"12 1\/2 x 10 x 7 in. (31.75 x 25.4 x 17.78 cm)",
+         "type":"Sculpture",
+         "date":"France, Paris, circa 1880-1882",
+         "medium":"Painted plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-35316957-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Iris and B. Gerald Cantor Foundation through the 1992 Collectors Committee (AC1992.19.1)",
+         "title":"Fantasy Bust",
+         "nationality":"France, Aisne, Anizy-le-Château, 1824-1887",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Albert-Ernest Carrier-Belleuse",
+         "dimensions":"29 7\/8 x 11 3\/4 x 11 in. (75.9 x 29.8 x 27.9 cm) without socle",
+         "type":"Sculpture",
+         "date":"France, circa 1865-1870",
+         "medium":"Terracotta on wood socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770076-WEB.jpg"
+      },
+      {
+         "provenance":"Museum purchase with funds provided by William Randolph Hearst Collection by exchange (78.1)",
+         "title":"Veiled Christ",
+         "nationality":"Italy, Naples, 1720-1793",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of Giuseppe Sanmartino",
+         "dimensions":"13 7\/8 x 5 5\/16 x 3 5\/16 in. (35.24 x 13.34 x 8.26 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1752",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-2316407-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Mr. and Mrs. Allan C. Balch (M.67.39)",
+         "title":"Colossal Head",
+         "nationality":"Italy, Florence, 1493-1560",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Attributed to Baccio Bandinelli",
+         "dimensions":"23 11\/16 x 13 1\/2 x 11 in. (60.17 x 34.29 x 27.94 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Florence, circa 1560",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773354-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.67.59)",
+         "title":"Nude Study of Balzac",
+         "nationality":"France, 1840-1917",
+         "description":"<ul><li>Butler, Ruth; Hargrove, June E.; Holderbaum, James; Hunisak, John M. and Anne M. Wagner.  The Romantics to Rodin.  Los Angeles:  Los Angeles County Museum of Art, 1980.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"50 1\/4 x 21 1\/2 x 23 in. (127.6 x 54.6 x 58.4 cm)",
+         "type":"Sculpture",
+         "date":"France, Paris, first modelled circa 1892, cast 1967 (Musée Rodin cast 4\/12)",
+         "entities":{
+            "socialTag":[
+               "Entertainment_Culture",
+               "Human Interest",
+               "Los Angeles County Museum of Art",
+               "American art"
+            ],
+            "Person":[
+               "Anne M. Wagner",
+               "Rodin",
+               "Ruth"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834434-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Camilla Chandler Frost (M.91.269.1)",
+         "title":"Cupid",
+         "nationality":"France, Paris, 1831-1893",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Augustin-Jean Moreau-Vauthier",
+         "dimensions":"18 1\/2 x 7 3\/4 in. (47 x 19.7 x 22.2 cm)",
+         "type":"Sculpture",
+         "date":"France, 1875",
+         "medium":"Ivory, silver, and semiprecious stones, with onyx base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31777205-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by The Ahmanson Foundation, The Chandler Family Trust in memory of Franklin Murphy, and Elizabeth C. Anketell, Fred Maxwell, Mr. and Mrs. William Preston Harrison, A. Popper, Hilda Brown, Jane and Justin Dart, Mary B. Regan, Charles H. Quinn, Arthur L. Erlanger, Dido and Jean Renoir, Mitchell Samuels, Mrs. William May Garland in memory of her husband, Mr. and Mrs. Henry Blanke, and an anonymous donor by exchange (AC1995.182.1)",
+         "title":"Saint Mark",
+         "nationality":"Spain, Valladolid, circa 1488-1561",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Alonso Berruguete",
+         "dimensions":"39 1\/2 x 14 1\/4 x 10 in. (100.33 x 36.2 x 25.4 cm)",
+         "type":"Sculpture",
+         "date":"Spain, circa 1560",
+         "medium":"Polychromed and gilded wood (pine)",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770280-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Laurie and Peter Fusco in memory of Ruth Blumka (AC1995.174.1)",
+         "title":"Bust of a Female Saint",
+         "nationality":"Spain, active mid-18th century",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Felipe Ydalgo Buenfiglio",
+         "dimensions":"21 1\/2 x 12 x 10 1\/2 in. (54.61 x 30.48 x 26.67 cm)",
+         "type":"Sculpture",
+         "date":"Spain, circa 1750-1760",
+         "medium":"Polychromed wood with painted glass eyes",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833538-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the 1996 Collectors Committee (AC1996.28.1.1-.2)",
+         "title":"Mercury",
+         "nationality":"known as Guglielmo Fiammingo",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Willem Danielsz. van Tetrode",
+         "dimensions":"19 3\/4 x 8 x 6 1\/2 in. (50.17 x 20.32 x 16.51 cm)",
+         "type":"Sculpture",
+         "date":"Holland, 1560-1565",
+         "medium":"Bronze on verde antico base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-1713739-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of MaryLou and George Boone (AC1996.40.1)",
+         "title":"Weeping Figure at a Sepulchre",
+         "nationality":"Italy, Rome, 1845-1929",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Ettore Ferrari",
+         "dimensions":"10 9\/16 x 14 13\/16 x 5 in. (26.8 x 37.5 x 12.7 cm)",
+         "type":"Sculpture",
+         "date":"Italy, 1898",
+         "medium":"Terracotta with white paint",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770399-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Mrs. Sidney F. Brody through the 1997 Collectors Committee (AC1997.36.1)",
+         "title":"Eros",
+         "nationality":"France, 1763-1832",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Augustin-Félix Fortin",
+         "dimensions":"20 x 8 x 7 1\/2 in. (50.8 x 20.32 x 19.05 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1806",
+         "medium":"Terracotta with metal",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770496-WEB.jpg"
+      },
+      {
+         "provenance":"Museum purchase made possible by the Iris and B. Gerald Cantor Foundation in memory of B. Gerald Cantor (AC1998.139.1)",
+         "title":"Severed Head of Saint John the Baptist",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"8 x 15 3\/4 x 13 1\/2 in. (20.32 x 40.01 x 34.29 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1887-1907",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833622-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Camilla Chandler Frost in memory of Dorothy Buffum Chandler (AC1999.51.1)",
+         "title":"Madonna and Child",
+         "nationality":"France, active Le Mans, 1631-1644",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Charles Hoyau",
+         "dimensions":"14 1\/2 x 12 1\/2 x 10 in. (36.83 x 31.75 x 25.4 cm)",
+         "type":"Sculpture",
+         "date":"France, Le Mans, circa 1635",
+         "entities":{
+            "Person":[
+               "Madonna"
+            ]
+         },
+         "medium":"Terracotta with traces of gilding and polychromy",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770581-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by John E. Ehrlich, the Shickman Gallery, Mr. and Mrs. Allan C. Balch, and Mr. and Mrs. Will Richeson, by exchange (AC1999.70.2)",
+         "title":"Allegory of the Establishment of Fort Manoel, Valletta",
+         "nationality":"Italy, Florence, 1656-1740",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Massimiliano Soldani-Benzi",
+         "dimensions":"Diameter: 3 3\/4 in. (9.53 cm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"Italy, circa 1725",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833684-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by John E. Ehrlich, the Shickman Gallery, Mr. and Mrs. Allan C. Balch, Mr. and Mrs. Will Richeson and William Randolph Hearst Collection by exchange (AC1999.70.1)",
+         "title":"Apotheosis of Antonio Manoel da Vilhena, Grand Master of Malta",
+         "nationality":"Italy, Florence, 1656-1740",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Massimiliano Soldani-Benzi",
+         "dimensions":"34 x 24 1\/2 in. (86.36 x 62.23 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1725-1729",
+         "medium":"Wax relief on modern synthetic support in glazed, ebonized frame",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833664-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the 2000 Collectors Committee (M.2000.45)",
+         "title":"Spring or Joy",
+         "nationality":"Italy, active France, 1635-1700",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Attributed to Jean-Baptiste Tuby",
+         "dimensions":"31 1\/2 x 22 x 10 1\/2 in. (80.01 x 55.88 x 26.67 cm) with socle; 26 x 10 1\/2 in. (66.04 x 26.67 cm) without socle",
+         "type":"Sculpture",
+         "date":"Italy, circa 1685",
+         "medium":"White marble on red marble socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833825-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the William Randolph Hearst Foundation (47.8.30)",
+         "title":"Portrait of Pope Alexander VIII",
+         "nationality":"Italy, Rome, 1625-1701",
+         "description":"<ul><li>Valentiner, W.R.  Gothic and Renaissance Scupltures:  in the Collection of the Los Angeles County Museum.  Los Angeles:  Los Angeles County Museum of Art, 1951.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Los Angeles County Museum of Art.  New York: Thames and Hudson, 2003.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Domenico Guidi",
+         "dimensions":"Overall, with socle: 36 1\/4 x 32 1\/2 x 17 1\/2 in. (92.08 x 82.55 x 44.45 cm)",
+         "type":"Sculpture",
+         "date":"Italy, 1691",
+         "entities":{
+            "socialTag":[
+               "Rembrandt in Southern California",
+               "California",
+               "Los Angeles",
+               "American art",
+               "Geography of California",
+               "Modern painters",
+               "Landscape artists",
+               "Human Interest",
+               "Entertainment_Culture"
+            ],
+            "Person":[
+               "Hudson"
+            ]
+         },
+         "medium":"Gilded terracotta on gilded wood socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31766959-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Anna Bing Arnold (M.76.12)",
+         "title":"Vestal Virgin",
+         "nationality":"France, 1759-1834",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Joseph-Charles Marin",
+         "dimensions":"16 3\/4 x 6 1\/2 x 5 1\/2 in. (42.55 x 16.51 x 13.97 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1791-1795",
+         "medium":"Terra-cotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834658-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Times Mirror Foundation (M.76.77.1a-b)",
+         "title":"Venus and Aeneas or Achilles (?)",
+         "nationality":"France, 1756-1813",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Joseph Chinard",
+         "dimensions":"With base:  22 1\/2 x 12 1\/2 x 10 5\/16 in. (57.15 x 31.75 x 26.04 cm)",
+         "type":"Sculpture",
+         "date":"France, 1791-1792",
+         "medium":"Terra-cotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-2398795-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Times Mirror Foundation (M.76.78)",
+         "title":"Psyche Abandoned",
+         "nationality":"France, 1730-1809",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Augustin Pajou",
+         "dimensions":"17 x 6 5\/8 x 8 1\/2 in. (43.18 x 16.67 x 21.59 cm)",
+         "type":"Sculpture",
+         "date":"France, 1796",
+         "medium":"Terra-cotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832418-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Anna Bing Arnold (M.76.106)",
+         "title":"Portrait of George Washington",
+         "nationality":"France, Paris, 1741-1828",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Antoine Houdon",
+         "dimensions":"23 1\/2 x 13 5\/16 x 10 in. (59.69 x 33.66 x 25.4 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1786",
+         "entities":{
+            "Person":[
+               "George Washington"
+            ]
+         },
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834644-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (48.24.9)",
+         "title":"The Buonafede Nativity",
+         "nationality":"Italy, Florence, 1461-1521",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Benedetto Buglioni",
+         "dimensions":"97 x 71 x 6 in. (246.38 x 180.34 x 15.24 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1520",
+         "medium":"Lead-glazed terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-34755101-WEB.jpg"
+      },
+      {
+         "provenance":"",
+         "title":"Virgin and Child with a Goldfinch",
+         "nationality":"",
+         "description":"<ul><li>Valentiner, W.R.  Gothic and Renaissance Scupltures:  in the Collection of the Los Angeles County Museum.  Los Angeles:  Los Angeles County Museum of Art, 1951.<\/li><li>Donahue, Kenneth. Los Angeles County Museum of Art Handbook. Los Angeles: Los Angeles County Museum of Art, 1977.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><\/ul>",
+         "classification":"",
+         "name":"European Sculpture",
+         "dimensions":"",
+         "type":"",
+         "date":"",
+         "entities":{
+            "socialTag":[
+               "American art",
+               "Rembrandt in Southern California",
+               "Entertainment_Culture",
+               "Human Interest",
+               "Geography of California",
+               "Los Angeles",
+               "California"
+            ]
+         },
+         "medium":"",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31975738-WEB.jpg"
+      },
+      {
+         "provenance":"Mr. and Mrs. George Gard De Sylva Collection (M.46.8.15)",
+         "title":"Female Centaur",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"18 x 17 1\/2 x 6 1\/8 in. (45.72 x 44.45 x 15.55 cm)",
+         "type":"Sculpture",
+         "date":"France, Modelled circa 1887-1889, cast before 1917 (?) (Alexis Rudier, founder)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31272782-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the William Randolph Hearst Foundation (47.8.28)",
+         "title":"Male Saint (Cosmas or Damian [?])",
+         "nationality":"Germany, Munich, circa 1450-1526",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of Erasmus Grasser",
+         "dimensions":"54 x 15 1\/2 x 12 1\/2 in. (137.16 x 39.37 x 31.75 cm)",
+         "type":"Sculpture",
+         "date":"Germany, circa 1480-1500",
+         "medium":"Polychrome and gilt linden wood",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834812-WEB.jpg"
+      },
+      {
+         "provenance":"Mr. and Mrs. George Gard De Sylva Collection (M.46.8.7)",
+         "title":"Grande Arabesque",
+         "nationality":"France, Paris, 1834-1917",
+         "description":"<ul><li>Valentiner, William Reinhold.  The Mr. and Mrs. George Gard De Sylva Collection of French Impressionist and Modern Paintings and Sculpture.  Los Angeles:  Los Angeles County Museum of Art, 1950.<\/li><li>Hopkins, Henry T. ed., Los Angeles County Museum of Art:  Illustrated Handbook.  West Germany:  Bruder Hartmann, 1965.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Edgar Degas",
+         "dimensions":"16 1\/2 x 22 1\/2 x 5 1\/2 in. (41.91 x 57.15 x 13.97 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1885-1890, this example cast posthumously (Hébrard cast 60\/D)",
+         "entities":{
+            "socialTag":[
+               "American art",
+               "Rembrandt",
+               "Rembrandt in Southern California",
+               "Southern California",
+               "California",
+               "Landscape artists",
+               "Entertainment_Culture"
+            ],
+            "Person":[
+               "George Gard De Sylva",
+               "William Reinhold"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773158-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (51.18.5)",
+         "title":"Portrait of Marchese Bartholomeo Ruspoli",
+         "nationality":"Italy, Rome, circa 1615-1691",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Attributed to Pietro Paolo Naldini",
+         "dimensions":"31 1\/2 x 22 x 10 in. (80.01 x 55.88 x 25.4 cm) with socle and plinth",
+         "type":"Sculpture",
+         "date":"Italy, circa 1670-1680",
+         "medium":"Gilt bronze, gilt bronze socle and plinth",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835064-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. William T. Sesnon, Jr. (M.51.11)",
+         "title":"Virgin and Child",
+         "nationality":"Italy, active Bologna and Rome, 1598-1654",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Alessandro Algardi",
+         "dimensions":"19 x 10 3\/4 x 6 in. (48.26 x 27.31 x 15.24 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Rome, circa 1650",
+         "medium":"Bronze with traces of silver and gilding",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834378-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (50.33.27)",
+         "title":"Seated Hercules",
+         "nationality":"France, Paris, 1735-1814",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Guillaume Boichot",
+         "dimensions":"35 x 17 x 27 in. (88.90 x 43.18 x 68.58 cm)",
+         "type":"Sculpture",
+         "date":"France, Paris, circa 1795",
+         "medium":"Bronze, cast by Charles Crozatier",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31976647-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mrs. William May Garland and John Jewett Garland in memory of William May Garland (M.50.3)",
+         "title":"Descent from the Cross",
+         "nationality":"Germany, Swabia, Ulm, 1477-1540",
+         "description":"<ul><li>Valentiner, W.R.  Gothic and Renaissance Scupltures:  in the Collection of the Los Angeles County Museum.  Los Angeles:  Los Angeles County Museum of Art, 1951.<\/li><li>Donahue, Kenneth. Los Angeles County Museum of Art Handbook. Los Angeles: Los Angeles County Museum of Art, 1977.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Circle of Daniel Mauch",
+         "dimensions":"70 x 40 1\/4 x 10 in. (177.8 x 102.24 x 25.4 cm)",
+         "type":"Sculpture",
+         "date":"Germany, circa 1515",
+         "entities":{
+            "socialTag":[
+               "Geography of California",
+               "Human Interest",
+               "Entertainment_Culture",
+               "Maxwell Hendler",
+               "Rembrandt in Southern California",
+               "Video artists",
+               "American art",
+               "Los Angeles",
+               "California"
+            ]
+         },
+         "medium":"Polychromed linden wood",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773227-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (50.37.2.1-.5)",
+         "title":"Panels from the Retable of  Agnès de Beaufremont",
+         "nationality":"France, Champagne, active 1393-1442",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Workshop of Joinville-Vignory",
+         "dimensions":"Overall length:  138 1\/2 in. (351.79 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1424",
+         "medium":"Limestone",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835007-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Archie Preissman (M.62.57.1)",
+         "title":"The Capitoline &#039;Flora&#039;",
+         "nationality":"England, 1709-1787",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"John Cheere",
+         "dimensions":"Height:  72 x 19 1\/2 x 23 1\/2 in. (182.88  x 49.53 x 59.69 cm)",
+         "type":"Sculpture",
+         "date":"England, 1767",
+         "medium":"Painted plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834405-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Count Cecil Charles Pecci-Blunt (62.18)",
+         "title":"Portrait of Giuseppe Balsamo (called Count Alessandro Cagliostro)",
+         "nationality":"France, Paris, 1741-1828",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Antoine Houdon",
+         "dimensions":"32 x 23 x 12 in. (81.28 x 58.42 x 30.48 cm)",
+         "type":"Sculpture",
+         "date":"France, Paris, circa 1786",
+         "entities":{
+            "Person":[
+               "Alessandro Cagliostro",
+               "Giuseppe Balsamo"
+            ]
+         },
+         "medium":"Plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835295-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Archie Preissman (M.62.57.2)",
+         "title":"The Capitoline &#039;Isis&#039;",
+         "nationality":"England, 1709-1787",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"John Cheere",
+         "dimensions":"76 x 23 x 18 in. (193.04  58.42 x 45.72 cm)",
+         "type":"Sculpture",
+         "date":"England, 1767",
+         "medium":"Painted plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31280101-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mrs. Marguerite Brunswig Staude (M.64.17)",
+         "title":"Herakles-The Archer",
+         "nationality":"France, 1861-1929",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Émile-Antoine Bourdelle",
+         "dimensions":"98 x 84 1\/2 x 45 in. (248.92 x 214.63 x 114.3 cm)",
+         "type":"Sculpture",
+         "date":"France, 1909",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834419-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Mrs. Robert Mandel by exchange (M.72.30)",
+         "title":"Portrait of Jacques-Alexandre-Bernard Law, Marquis de Lauriston (1768-1828)",
+         "nationality":"Monaco, active France, 1768-1845",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Baron François-Joseph Bosio",
+         "dimensions":"26 1\/2 x 21 1\/2 x 12 1\/4 in. (67.31 x 54.61 x 32.38 cm)",
+         "type":"Sculpture",
+         "date":"Monaco, circa 1823",
+         "entities":{
+            "Person":[
+               "Alexandre-Bernard Law"
+            ]
+         },
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834511-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.72.81.1)",
+         "title":"Minotaur or Faun and Nymph",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"13 x 11 x 9 1\/2 in. (33.02 x 272.94 x 24.13 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1886",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31299268-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.72.81.2)",
+         "title":"Minotaur or Faun and Nymph",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"13 1\/2 x 11 x 8 3\/4 in. (34.29 x 24.94 x 22.22 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1886",
+         "medium":"Plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773565-WEB.jpg"
+      },
+      {
+         "provenance":"",
+         "title":"Archangel Raphael",
+         "nationality":"",
+         "description":"In Naples, a great seaport, the archangel Raphael was considered a special patron of seafarers because of his role in the apocryphal tale of Tobias. There is evidence that this figure of Raphael was once accompanied by that of Tobias. The Book of Tobias in the Apocrypha tells of a beautiful young man, actually Raphael, who offered to travel with Tobias on his first journey away from home to recover a debt owed his poor, aged father. With the angel's care and instruction Tobias met and overcame many hazards.  This figure's graceful beauty and slender proportions link it with the late Renaissance (about 1550â\u20AC\u201D1600) style, in which the unsettling character of mannerist art (c. 1525-50) gave way again to classicizing balance. The technique used to color the angel's tunic, imitating brocade, is called graffito. The wood sculpture is covered with gold leaf and then painted; designs are then incised in the paint to reveal patterns in the gold.  Raphael's upward-pointing hand indicates his divine mission and serves as a reminder of faith in God. His sandals, girdle, and tunic recall Roman military dress, a reference to the archangels' identity as a powerful paladin of Christ. While his stance and backward-flowing drapery can be interpreted as a forward stride, the angel's body is not thrust forward, and the edges of his elaborate robes curl up unexpectedly, creating the sensation that he is surrounded by the spiritual wind that indicated special holiness in earlier Christian art. Despite the beauty of this magnificent sculpture, the identity of its creator remains unknown.",
+         "classification":"",
+         "name":"European Sculpture",
+         "dimensions":"",
+         "type":"",
+         "date":"",
+         "entities":{
+            "socialTag":[
+               "Visual arts",
+               "Occult",
+               "Tobias",
+               "Mannerism",
+               "Raphael",
+               "Book of Tobit",
+               "Archangels",
+               "Christianity"
+            ],
+            "Person":[
+               "Tobias"
+            ]
+         },
+         "medium":"",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774027-WEB.jpg"
+      },
+      {
+         "provenance":"Art Museum Council Fund (M.78.27)",
+         "title":"Galatea Vase",
+         "nationality":"Italy, Florence, 1656-1740",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Massimiliano Soldani-Benzi",
+         "dimensions":"28 x 14 x 12 in. (71.12 x 35.56 x 30.48 cm)",
+         "type":"Furnishings; Accessories",
+         "date":"Italy, circa 1695",
+         "entities":{
+            "Person":[
+               "Galatea Vase"
+            ]
+         },
+         "medium":"Gilded terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31385914-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Times Mirror Foundation and Camilla Chandler Frost (M.78.33)",
+         "title":"Oil Lamp",
+         "nationality":"Italy, Florence, circa 1536-1608",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Manner of Bernardo Buontalenti",
+         "dimensions":"4 x 6 3\/8 x 3 7\/8 in. (10.2 x 16.2 x 9.8 cm)",
+         "type":"Furnishings; Lighting",
+         "date":"Italy, circa 1575-1600",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832474-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.2)",
+         "title":"Eve",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"68 x 19 x 25 in. (172.72 x 48.26 x 63.5 cm); Weight 438 lbs",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1881, this cast 1968 (Musée Rodin 9\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773719-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.110.2)",
+         "title":"Monumental Head of Jean d&#039;Aire",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"26 3\/4 x 19 7\/8 x 22 1\/2 in. (67.95 x 50.48 x 57.15 cm); Weight 152 lbs",
+         "type":"Sculpture",
+         "date":"France, first modelled 1884-1886, enlarged 1909-1910, this cast 1971 (Musée Rodin 2\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773866-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.7)",
+         "title":"The Prodigal Son",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"55 x 28 x 42 1\/2 in. (139.7 x 71.12 x 107.95 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1884\/1894-1899, this cast 1967 (Musée Rodin 8\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773810-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.3)",
+         "title":"Orpheus",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"59 x 50 x 32 1\/2 in. (149.86 x 127 x 82.55 cm); Weight 663 lbs",
+         "type":"Sculpture",
+         "date":"France, first modelled probably 1890-1900, this cast 1969 (Musée Rodin 4\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773774-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.5)",
+         "title":"Marsyas (Torso of  &#039;The Falling Man&#039;)",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"40.31 x 29 x 18 in. (102.24 x 73.66 x 45.72 cm); Weight 254 lbs",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1882-1889, this cast 1970 (Musée Rodin 2\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773783-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.23)",
+         "title":"Bust of Rodin",
+         "nationality":"France, 1861-1929",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Émile-Antoine Bourdelle",
+         "dimensions":"35 x 27 x 24 in. (88.9 x 68.58 x 60.96 cm); Weight 294 lbs",
+         "type":"Sculpture",
+         "date":"France, 1909-1910",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834586-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.6)",
+         "title":"The Earth",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"18 3\/16 x 43 x 15 in. (46.04 x 109.22 x 38.1 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1884-1899 (?), this cast 1967 (?) (Musée Rodin 2\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773796-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.110.1)",
+         "title":"Monumental Head of Pierre de Wissant",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"32 x 19 x 20 1\/2 in. (81.28 x 48.26 x 52.07 cm); Weight 176 lbs",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1884-1885, enlarged 1909, this cast 1971 (Musée Rodin 3\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773852-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.1)",
+         "title":"The Shade",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"75 1\/2 x 38.31 x 30 1\/2 in. (191.77 x 97.16 x 77.47 cm); Weight 760 lbs",
+         "type":"Sculpture",
+         "date":"France, Paris, first modelled circa 1880, enlarged circa 1901, this cast 1969 (Musée Rodin 6\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773607-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.12)",
+         "title":"Saint John the Baptist Preaching",
+         "nationality":"France, 1840-1917",
+         "description":"<ul><li>Butler, Ruth; Hargrove, June E.; Holderbaum, James; Hunisak, John M. and Anne M. Wagner.  The Romantics to Rodin.  Los Angeles:  Los Angeles County Museum of Art, 1980.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"31 1\/2 x 19 x 9 1\/2 in. (80.01 x 48.26 x 24.13 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled 1878, this cast 1966 (Musée Rodin 6\/12)",
+         "entities":{
+            "socialTag":[
+               "Los Angeles",
+               "Geography of California",
+               "Saint John the Baptist",
+               "Los Angeles County Museum of Art",
+               "Entertainment_Culture",
+               "Human Interest",
+               "California",
+               "Geography of the United States",
+               "Religion_Belief"
+            ],
+            "Person":[
+               "Anne M. Wagner",
+               "Rodin",
+               "Ruth"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773628-WEB.jpg"
+      },
+      {
+         "provenance":"Michael J. Connell Foundation (M.74.8)",
+         "title":"Time Ravishing Beauty",
+         "nationality":"Italy, Florence, 1652-1725",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Giovanni Battista Foggini",
+         "dimensions":"21 3\/8 x 14 1\/2 x 7 1\/2 in. (54.29 x 36.83 x 19.05 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1700-1725",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834601-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Michael J. Connell Foundation (M.75.70)",
+         "title":"Bust of Neptune",
+         "nationality":"France, also active Germany, 1700-1759",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Lambert-Sigisbert Adam",
+         "dimensions":"27 x 21 x 11 3\/4 in. (68.58 x 53.34 x 29.84 cm) without socle",
+         "type":"Sculpture",
+         "date":"France, 1725-1727",
+         "medium":"Terracotta on marble socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834630-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Times Mirror Foundation and Camilla Chandler Frost (M.75.103)",
+         "title":"Saint Scholastica",
+         "nationality":"Germany, Bavaria, 1725-1775",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of Ignaz Günther",
+         "dimensions":"64 1\/4 x 24 x 15 in. (163.2 x 60.96 x 38.1 cm)",
+         "type":"Sculpture",
+         "date":"Germany, circa 1755",
+         "medium":"Partially gilded and painted lindenwood",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31314904-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of The Ahmanson Foundation (M.75.101)",
+         "title":"Portrait of a Man",
+         "nationality":"France, 1730-1809",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Augustin Pajou",
+         "dimensions":"29 x 19 1\/2 x 11 in. (73.66 x 49.53 x 27.94 cm) with socle and plinth",
+         "type":"Sculpture",
+         "date":"France, 1791",
+         "medium":"Plaster on painted wood socle and plinth",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834615-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Times Mirror Foundation (M.79.15)",
+         "title":"Winged Female Genius Crowning a Putto with a Laurel Wreath",
+         "nationality":"Germany, active Dresden, Leipzig, and Prague, circa 1673-1732",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Paul Heerman",
+         "dimensions":"27 x 16 x 16 in. (68.58 x 40.64 x 40.64 cm)",
+         "type":"Sculpture",
+         "date":"Germany, 1712",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31962641-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Camilla Chandler Frost (M.79.49)",
+         "title":"Spoils of the Temple: After a Relief from the Arch of Titus, Rome",
+         "nationality":"France, also active Italy, Rome, 1746-1810",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Guillaume Moitte",
+         "dimensions":"14 1\/2 x 23 13\/16 x 2 1\/2 in. (36.83 x 60.33 x 6.35 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1791",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832529-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Anna Bing Arnold (M.79.37)",
+         "title":"Judgment of Jupiter",
+         "nationality":"England, Liverpool, active Italy, Rome, 1759-1798",
+         "description":"John Deare, an English sculptor who spent his entire professional career in Rome, was commissioned by the Royal Academy to make this relief for an exhibition in 1787. In style and subject matter it reflects the neoclassical taste for perfection. The philosophers of the Age of Reason believed that man and society, through the systematic study and emulation of both classical learning and arts, could return to a Golden Age paralleling that of classical antiquity. Deare's relief embodies this ideal.  Deare's scene is from Homer's Iliad, a literary source for which contemporary archaeological discoveries had created renewed interest. The enthroned Jupiter sits among the gods at the wedding of Peleus and Thetis (at left), to which all except the goddess of discord, Eris, were invited. The spiteful Eris tossed a golden apple inscribed to the fairest among the guests, and Minerva, Juno, and Venus each claimed it. Jupiter, refusing to pick the most beautiful of this formidable trio, has handed the apple to his messenger, Mercury, who flies above, giving him instructions to pass it, and the thankless task, to the mortal prince, Paris. Deare represents the three goddesses challenging Jupiter. Paris's decision will ultimately lead to the Trojan War, here evoked by Mars, god of war, shown at the far right.  Deare's carving varies from nearly flat background figures to others almost completely in the round, a Renaissance technique that gives the illusion of three-dimensional space. The forms of the bodies are idealized, smooth, and refined. This is the most important English neoclassical relief in the United States.",
+         "classification":"European Sculpture",
+         "name":"John Deare",
+         "dimensions":"58 1\/4 x 117 1\/4 in. (148 x 297.82 cm)",
+         "type":"Sculpture",
+         "date":"Rome, 1786-1787",
+         "entities":{
+            "Organization":[
+               "Royal Academy"
+            ],
+            "socialTag":[
+               "Golden apple",
+               "Apple",
+               "Human Interest",
+               "Iliad",
+               "Jupiter",
+               "John Deare",
+               "Trojan War",
+               "Eris",
+               "Thetis",
+               "Peleus",
+               "Paris",
+               "Greek mythology",
+               "Mythology"
+            ],
+            "Person":[
+               "Mercury",
+               "Jupiter John Deare",
+               "John Deare"
+            ]
+         },
+         "medium":"Marble relief",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774118-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Camilla Chandler Frost (M.79.52)",
+         "title":"Saint Jerome",
+         "nationality":"Italy, Bologna, 1653-1741",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Giuseppe Maria Mazza",
+         "dimensions":"19 3\/4 x 15 x 11 13\/16 in. (50.04 x 38.10 x 29.97 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Bologna, 1676",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832543-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Mrs. Maria F. K. Fliermans in memory of Constantinia Fliermans, Jr.Purchased with funds provided by Mrs. Maria F.K. Fliermans in memory of Constantinia Fliermans, Jr. (79.4.166)",
+         "title":"Louis XIII and Anne of Austria",
+         "nationality":"France, Sissone, circa 1576-1643",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Guillaume Dupré",
+         "dimensions":"Diameter: 2 3\/8 in. (61 mm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"probably 1626",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31978054-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Paul Rodman Mabury Bequest by exchange (79.4.396)",
+         "title":"Medal of Victoria, Grand Duchess of Tuscany: Triumph of Venus with a Pearl",
+         "nationality":"Italy, Florence, 1656-1740",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Massimiliano Soldani-Benzi",
+         "dimensions":"Diameter:  3 3\/8 in. (86 mm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"1683",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-35337070-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Paul Rodman Mabury Bequest by exchange (79.4.397)",
+         "title":"Medal of Francesco Redi: Bacchic Scene",
+         "nationality":"Italy, Florence, 1656-1740",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Massimiliano Soldani-Benzi",
+         "dimensions":"Diameter:  3 7\/16 in. (87 mm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"1684",
+         "entities":{
+            "Person":[
+               "Francesco Redi"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-35325620-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Paul Rodman Mabury Bequest (79.4.398)",
+         "title":"Eques. Bernardinus",
+         "nationality":"Italy, Florence, 1658-1740",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Attributed to Massimiliano Soldani-Benzi",
+         "dimensions":"Diameter:  3 7\/16 in. (87 mm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"1725",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-35318341-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.82.197.1)",
+         "title":"America, from Caryatids of the Four Continents",
+         "nationality":"France, 1838-1902",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"34 3\/4 x 8 1\/4 x 8 in. (88.27 x 20.96 x 20.32 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1867",
+         "medium":"Patinated plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774517-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.82.197.2)",
+         "title":"Africa, from Caryatids of the Four Continents",
+         "nationality":"France, 1838-1902",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"34 3\/4 x 6 1\/4 x 8 in. (88.27 x 15.88 x 20.32 cm)",
+         "type":"Sculpture",
+         "date":"France, 1867",
+         "medium":"Patinated plaster with wood",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774530-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.82.197.4)",
+         "title":"Asia, from Caryatids of the Four Continents",
+         "nationality":"France, 1838-1902",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"34 3\/4 x 5 1\/4 x 8 3\/8 in. (88.27 x 13.34 x 21.27 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1867",
+         "medium":"Patinated plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776303-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor (M.82.209.2)",
+         "title":"Jean d&#039;Aire",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"85 x 33 1\/2 x 28 1\/2 in. (215.9 x 85.09 x 72.39 cm); Weight 1,274 lbs",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1886, this cast 1972 (Musée Rodin 6\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832698-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Camilla Chandler Frost (M.82.212)",
+         "title":"Magdalen",
+         "nationality":"Italy, San Matteo della Decima, 1734-1802",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Gaetano Gandolfi",
+         "dimensions":"24 3\/16 x 10 3\/16 x 8 5\/16 in. (61.28 x 25.72 x 20.96 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1770",
+         "medium":"Terracotta with traces of polychromy",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832740-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.82.197.3)",
+         "title":"Europe, from Caryatids of the Four Continents",
+         "nationality":"France, 1838-1902",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"34 3\/4 x 7 1\/2 x 7 in. (88.27 x 19.05 x 17.78 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1867",
+         "medium":"Patinated plaster with wood and cloth",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774538-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of The Ahmanson Foundation (M.82.7)",
+         "title":"Saint Michael Casting Satan into Hell",
+         "nationality":"Italy, Naples",
+         "description":"<ul><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Conisbee, Philip et al. The Ahmanson Gifts: European Masterpieces in the Collection of the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1991.<\/li><li>Los Angeles County Museum of Art.  New York: Thames and Hudson, 2003.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Francesco Picano",
+         "dimensions":"52 1\/2 x 27 1\/4 x 24 3\/4 in. (133.35 x 69.22 x 62.87 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Naples, 1705",
+         "entities":{
+            "socialTag":[
+               "Human Interest",
+               "California",
+               "Geography of California",
+               "American art",
+               "Los Angeles County Museum of Art",
+               "Modern painters",
+               "Los Angeles",
+               "Maxwell Hendler",
+               "Rembrandt in Southern California",
+               "Entertainment_Culture"
+            ],
+            "Person":[
+               "Hudson"
+            ]
+         },
+         "medium":"Polychromed wood and glass",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776359-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Mr. and Mrs. Harrison Chandler, Mr. and Mrs. George Gard De Sylva Collection, B. Gerald Cantor, Florence and Maurice Chez, Mrs. William May Garland in memory of her husband, Mr. and Mrs. Allan C. Balch Collection, Jones Foundation, Museum Associates Acquisition Fund, Carl O. Swenson, Robert Majer Collection, and Thyra Boldsen by exchange (M.82.70)",
+         "title":"Bust of Christ",
+         "nationality":"Italy, Rome, circa 1542-1597",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Attributed to Giovanni Battista Della Porta",
+         "dimensions":"28 x 17 13\/16 x 13 5\/16 in. (71.12 x 45.09 x 33.66 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1590",
+         "medium":"White marble head on bust of red, black, and yellow marble with inset lapis lazuli ovals",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776373-WEB.jpg"
+      },
+      {
+         "provenance":"Art Museum Council Fund (M.80.127)",
+         "title":"Bacchic Scene",
+         "nationality":"Claude Michel",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Clodion",
+         "dimensions":"13 x 14 1\/4 x 7\/8 in. (33 x 36.2 x 2.22 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Carrara, 1773",
+         "medium":"Terra-cotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774145-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of The Ahmanson Foundation (M.80.191)",
+         "title":"Adoring Angel",
+         "nationality":"Italy, Milan, 1540-1587",
+         "description":"<ul><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Price, Lorna.  Masterpieces from the Los Angeles County Museum of Art.  Los Angeles:  Los Angeles County Museum of Art, 1988.<\/li><li>Conisbee, Philip et al. The Ahmanson Gifts: European Masterpieces in the Collection of the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1991.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Annibale Fontana",
+         "dimensions":"21 3\/4 x 6 3\/8 x 6 7\/8 in. (55.2 x 16.2 x 17.5 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Milan, 1583-1584",
+         "entities":{
+            "socialTag":[
+               "Los Angeles County Museum of Art",
+               "California",
+               "American art",
+               "Los Angeles",
+               "Geography of California",
+               "Entertainment_Culture",
+               "Human Interest",
+               "Rembrandt in Southern California",
+               "Maxwell Hendler"
+            ],
+            "Person":[
+               "Angel Schaefer"
+            ]
+         },
+         "medium":"Wax with metal armature on wood base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774172-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Chandis Securities Company and Camilla Chandler Frost (M.81.22.2)",
+         "title":"Portrait of Marie de Médicis",
+         "nationality":"France",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Barthélémy Prieur",
+         "dimensions":"9 13\/16 x 5 7\/8 x 3 3\/8 in. (24.77 x 14.92 x 8.57 cm) with socle",
+         "type":"Sculpture",
+         "date":"France, probably 1601-1603",
+         "medium":"Bronze on original brass-inlaid wood socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-2800673-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Anna Bing Arnold (M.81.39)",
+         "title":"Portrait of Cosimo I de&#039; Medici (1519 - 1574)",
+         "nationality":"called Giovanni dell&#039;Opera",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Giovanni Bandini",
+         "dimensions":"34 x 28 x 13 in. (86.36 x 71.12 x 33.02 cm) without socle; Socle:  6 x 15 11\/16 x 15 11\/16 in. (15.24 x 39.85 x 39.85 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1572",
+         "medium":"Marble on modern verde antico socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774356-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Chandis Securities Company and Camilla Chandler Frost (M.81.22.1)",
+         "title":"Portrait of Henri IV (1553-1610)",
+         "nationality":"France",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Barthélémy Prieur",
+         "dimensions":"9 1\/2 x 6 13\/16 x 2 5\/16 in. (24.13 x 17.15 x 5.72 cm) with socle",
+         "type":"Sculpture",
+         "date":"France, probably 1601-1603",
+         "entities":{
+            "Person":[
+               "Henri IV"
+            ]
+         },
+         "medium":"Bronze on original brass-inlaid wood socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31341598-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Dr. and Mrs. Franklin D. Murphy (M.81.43.1)",
+         "title":"Medal of Francesco Redi:  Minerva Unveiling Nature",
+         "nationality":"Italy, Florence, 1656-1740",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Massimiliano Soldani-Benzi",
+         "dimensions":"Diameter:  3 1\/2 in. (8.89 cm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"Italy, 1684",
+         "entities":{
+            "Person":[
+               "Minerva Unveiling",
+               "Francesco Redi"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31396192-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Mary Pickford Foundation by exchange and Museum Acquisition Fund (M.81.156)",
+         "title":"Blessed Nicolò Albergati (circa 1375-1443)",
+         "nationality":"active Italy, Rome and Florence, 1698-1768",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Filippo della Valle",
+         "dimensions":"25 x 8 x 12 in. (63.50 x 20.32 x 30.48 cm) without base; Height:  27 3\/8 in. (69.53 cm) with base",
+         "type":"Sculpture",
+         "date":"Italy, circa 1740-1743",
+         "medium":"Terracotta on marble base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31341401-WEB.jpg"
+      },
+      {
+         "provenance":"Decorative Arts Council Fund (M.81.190)",
+         "title":"Clock Model with the Selling of Cupids",
+         "nationality":"Claude Michel",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Clodion",
+         "dimensions":"10 3\/8 x 12 3\/4 x 5 7\/8 in. (26.35 x 32.39 x 14.92 cm)",
+         "type":"Sculpture; models",
+         "date":"France, 1802",
+         "medium":"Terra-cotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832642-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Anna Bing Arnold (M.83.52)",
+         "title":"The Triumph of Neptune and Europa",
+         "nationality":"Italy, Florence, active 1707-1740, circa 1685-after 1740",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antonio Montauti",
+         "dimensions":"unspecified:  101 x 105.09 cm. (39 3\/4 x 41 3\/8 in); 39 3\/4 x 41 3\/8 in. (101 x 105.09 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Florence, circa 1735-1740",
+         "medium":"Bronze relief in modern ebonized wood frame with bronze mounts",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-34314367-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by James E. Clark (M.84.65.1)",
+         "title":"Mars",
+         "nationality":"circle of",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Hendrick de Keyser",
+         "dimensions":"21 1\/4 x 7 7\/8 x 4 1\/8 in. (53.97 x 7 7\/8 x 4 1\/8 cm) without base; Base:  Height:  8 15\/16 in. (22.7 cm); Diameter:  6 1\/4 in. (15.87 cm)",
+         "type":"Sculpture",
+         "date":"Holland, circa 1600",
+         "medium":"Bronze on bronze and marble base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776604-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of  James E. Clark (M.84.204)",
+         "title":"Bozzetto for the Marble &#039;The Assumption of the Virgin&#039; in the Padua Duomo",
+         "nationality":"Italy, Padua and Venice, 1698-1763",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antonio Bonazza",
+         "dimensions":"16 5\/16 x 8 13\/16 x 4 13\/16 in. (41.28 x 22.23 x 12.07 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1740",
+         "medium":"Terracotta on painted wood base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-3659771-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by William Randolph Hearst by exchange, The Ahmanson Foundation, Chandis Securities Company, B. Gerald Cantor, Camilla Chandler Frost, Anna Bing Arnold, an anonymous donor, and Duveen Brothers, Inc., Mr. and Mrs. William Preston Harrison, Mr. and Mrs. Pierre Sicard, Colonel and Mrs. George J. Dennis, and Julia Off by exchange (84.1)",
+         "title":"Saint Thomas",
+         "nationality":"France, active Italy, Rome, 1666-1719",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Pierre Le Gros II",
+         "dimensions":"27 x 22 1\/2 x 12 1\/2 in. (68.58 x 57.15 x 31.75 cm)",
+         "type":"Sculpture",
+         "date":"France, 1703-1704",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31769967-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the B. Gerald Cantor Art Foundation (M.85.267)",
+         "title":"Monument to Honore de Balzac",
+         "nationality":"France, 1840-1917",
+         "description":"<ul><li>Donahue, Kenneth. Los Angeles County Museum of Art Handbook. Los Angeles: Los Angeles County Museum of Art, 1977.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"117 x 47 1\/4 x 47 1\/4 in. (297.18 x 120.02 x 120.02 cm); Weight 1,898 lbs",
+         "type":"Sculpture",
+         "date":"France, first modelled 1897, this cast 1967 (Musée Rodin 9\/12)",
+         "entities":{
+            "socialTag":[
+               "Los Angeles County Museum of Art",
+               "Geography of California",
+               "California",
+               "American art",
+               "Human Interest",
+               "Rembrandt in Southern California",
+               "Los Angeles",
+               "Entertainment_Culture",
+               "Maxwell Hendler"
+            ],
+            "Person":[
+               "Rodin"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-33981685-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Camilla Chandler Frost (M.86.322.2)",
+         "title":"Child Riding a Dolphin",
+         "nationality":"France, Chaumont en Bassigny, 1698-1762",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Edmé Bouchardon",
+         "dimensions":"8 5\/16 x 12 11\/16 x 7 5\/16 in. (20.96 x 32.07 x 18.42 cm)",
+         "type":"Sculpture",
+         "date":"France, 1738",
+         "medium":"Tinted plaster with fitted modern wood base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-2800700-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Camilla Chandler Frost (M.86.322.1)",
+         "title":"Scene from the Arch of Titus",
+         "nationality":"France, also active Italy, Rome, 1746-1810",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Guillaume Moitte",
+         "dimensions":"14 3\/16 x 23 1\/2 x 2 1\/2 in. (35.88 x 59.69 x 6.35 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Rome, circa 1791",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832922-WEB.jpg"
+      },
+      {
+         "provenance":"European Art Acquisition Fund (M.2011.11)",
+         "title":"Saint Pie V Ghislieri",
+         "nationality":"Italy, 1642-1718",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Pietro Papaleo",
+         "dimensions":"20 3\/4 x 10 1\/4 x 10 7\/8 in. (52.71 x 26.04 x 27.62 cm)",
+         "type":"Sculpture",
+         "date":"circa 1712",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-797123-WEB.jpg"
+      },
+      {
+         "provenance":"Mr. and Mrs. Allan C. Balch Collection (M.45.3.476)",
+         "title":"Eternal Spring",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"20 1\/2 x 26 3\/4 x 11 1\/4 in. (52.07 x 67.9 x 28.57 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1881-1884, cast  before 1917 (?)",
+         "medium":"Bronze (Barbédienne cast no. 23)",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31272696-WEB.jpg"
+      },
+      {
+         "provenance":"European Art Acquisition Fund (M.2011.27)",
+         "title":"Bust of a Saint (Possibly Saint Longinus), Model for a Reliquary",
+         "nationality":"Italy, Naples, 1720-1793",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Giuseppe Sanmartino",
+         "dimensions":"8 3\/4 x 7 x 5 1\/8 in. (22.23 x 17.78 x 13.08 cm)",
+         "type":"Sculpture",
+         "date":"late 18th century",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-36289959-WEB.jpg"
+      },
+      {
+         "provenance":"",
+         "title":"Christ and the Twelve Disciples",
+         "nationality":"",
+         "description":"<ul><li>Valentiner, W.R.  Gothic and Renaissance Scupltures:  in the Collection of the Los Angeles County Museum.  Los Angeles:  Los Angeles County Museum of Art, 1951.<\/li><li>Donahue, Kenneth. Los Angeles County Museum of Art Handbook. Los Angeles: Los Angeles County Museum of Art, 1977.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><\/ul>",
+         "classification":"",
+         "name":"European Sculpture",
+         "dimensions":"",
+         "type":"",
+         "date":"",
+         "entities":{
+            "socialTag":[
+               "Los Angeles",
+               "Geography of California",
+               "Entertainment_Culture",
+               "Rembrandt in Southern California",
+               "American art",
+               "California",
+               "Human Interest"
+            ]
+         },
+         "medium":"",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-1704087-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.2)",
+         "title":"Eagle with Serpent",
+         "nationality":"France, 1796-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antoine-Louis Barye",
+         "dimensions":"4 3\/16 x 6 3\/8 in. (10.48 x 16.19 cm)",
+         "type":"Sculpture",
+         "date":"France, 1826",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31541221-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.5)",
+         "title":"Theseus and the Minotaur",
+         "nationality":"France, 1796-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antoine-Louis Barye",
+         "dimensions":"Height: 17 1\/2 in. (44.45 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1860, this cast (Barbédienne) later",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31515972-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.8)",
+         "title":"Portrait of Alphonse Roussel",
+         "nationality":"France, Valenciennes, 1827-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Carpeaux",
+         "dimensions":"7 5\/16 x 5 7\/8 in. (18.42 x 14.92 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1869",
+         "entities":{
+            "Person":[
+               "Alphonse Roussel"
+            ]
+         },
+         "medium":"Electrotype",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833180-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.9)",
+         "title":"Seated Satyr",
+         "nationality":"called Auguste",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Clésinger",
+         "dimensions":"13 1\/4 x 5 1\/4 x 4 in. (33.5 x 13.18 x 10.16 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1865",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31516022-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.1)",
+         "title":"Eagle with Chamois",
+         "nationality":"France, 1796-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antoine-Louis Barye",
+         "dimensions":"4 5\/16 x 6 1\/8 in. (10.8 x 15.4 cm)",
+         "type":"Sculpture",
+         "date":"France, 1826",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832964-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.16)",
+         "title":"Helmeted Male Nude Stretching Bow",
+         "nationality":"Germany, Berlin, 1861-1941",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Ernst Moritz Geyger",
+         "dimensions":"5 1\/2 x 8 11\/16 in. (13.97 x 21.91 cm)",
+         "type":"Sculpture",
+         "date":"Germany, after 1895",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833034-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.17)",
+         "title":"Saint George and the Dragon",
+         "nationality":"England, London, 1854-1934",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Sir Alfred Gilbert",
+         "dimensions":"Height:  20 1\/2 in. (52.07 cm)",
+         "type":"Sculpture",
+         "date":"England, cast 1923",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833048-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.24)",
+         "title":"Sketch of Man Reclining",
+         "nationality":"France, 1845-1915",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"René Saint-Marceaux",
+         "dimensions":"8 x 3 5\/16 x 5 13\/16 in. (20.32 x 8.26 x 14.61 cm)",
+         "type":"Sculpture",
+         "date":"France, no date",
+         "medium":"Bronze with marble base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31515840-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.4)",
+         "title":"Ocelot Carrying Off a Heron",
+         "nationality":"France, 1796-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antoine-Louis Barye",
+         "dimensions":"7 x 12 x 6 in. (17.78 x 30.48 x 15.24 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1850",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31515926-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.15)",
+         "title":"Horse Attacked by Lioness",
+         "nationality":"France, 1796-1844",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-François Theodore Gechter",
+         "dimensions":"6 3\/8 x 6 5\/16 x 2 7\/8 in. (16.19 x 15.88 x 7.3 cm)",
+         "type":"Sculpture",
+         "date":"France, 1843",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833020-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.27)",
+         "title":"Head of a Young Roman",
+         "nationality":"Belgium, 1843-1901",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Paul De Vigne",
+         "dimensions":"Height:  18 1\/2 in. (46.99 cm)",
+         "type":"Sculpture",
+         "date":"Belgium, 1880-1885",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833138-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.7)",
+         "title":"Judas Holding a Rope and a Sack of Gold",
+         "nationality":"Italy, 1850-1907",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Mauro Benini",
+         "dimensions":"10 1\/2 x 12 13\/16 x 8 1\/2 in. (26.67 x 32.39 x 21.59 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1890",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833166-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.13)",
+         "title":"Dancing Neapolitan Boy",
+         "nationality":"France, 1804-1865",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Francisque-Joseph Duret",
+         "dimensions":"37 13\/16 x 15 x 14 11\/16 in. (95.89 x 38.1 x 37.15 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1838",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832992-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.6)",
+         "title":"Barbarian Victor",
+         "nationality":"Germany, 1875-1915",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Heinrich Baucke",
+         "dimensions":"37 3\/8 x 12 11\/16 in. (94.93 x 32.07 cm)",
+         "type":"Sculpture",
+         "date":"Germany, after 1897",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833152-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.22)",
+         "title":"Portrait Medallion of Nathaniel Hawthorne",
+         "nationality":"France, 1847-1916",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean Désiré Ringel d&#039;Illzach",
+         "dimensions":"7 in. diameter (17.78 cm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"Belgium, 1892",
+         "entities":{
+            "Person":[
+               "Nathaniel Hawthorne"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833104-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.11)",
+         "title":"Portrait of Prud&#039;hon",
+         "nationality":"France, Angers, 1788-1856",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Pierre-Jean David d&#039;Angers",
+         "dimensions":"Diameter:  6 3\/8 in. (16.19 cm)",
+         "type":"Jewelry and Adornments",
+         "date":"France, circa 1830",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832978-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.20)",
+         "title":"The Sluggard",
+         "nationality":"England, Scarborough, 1830-1896",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Sir Frederic Leighton",
+         "dimensions":"19 3\/8 x 9 13\/16 x 5 3\/8 in. (49.21 x 24.77 x 13.65 cm)",
+         "type":"Sculpture",
+         "date":"England, 1890",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833076-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.26)",
+         "title":"Teucer",
+         "nationality":"England, 1850-1925",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Sir William Hamo Thornycroft",
+         "dimensions":"Height:  22 in. (55.88 cm)",
+         "type":"Sculpture",
+         "date":"England, after 1881",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833124-WEB.jpg"
+      },
+      {
+         "provenance":"James E. Clark Bequest (M.87.119.21)",
+         "title":"The Education of Achilles",
+         "nationality":"France, 1843-1871",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"After Henri Alexandre Regnault",
+         "dimensions":"17 3\/8 x 17 5\/8 x 8 13\/16 in. (44.13 x 44.61 x 22.23 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1820-1830",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833090-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Iris and B. Gerald Cantor (M.87.167)",
+         "title":"Pas de deux &quot;G&quot;",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"13 1\/2 x 6 1\/2 x 6 1\/2 in. (34.29 x 16.51 x 16.51 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1910-1913, this cast 1966 (Musée Rodin 3\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833195-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Laurie and Peter Fusco in honor of Scott Schaefer (M.87.261)",
+         "title":"Head of a Faun",
+         "nationality":"France, 1716-1772",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Louis-Claude Vasse",
+         "dimensions":"Head: height: 12 1\/2 in. (31.7 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1750",
+         "medium":"Terracotta on marble base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833208-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the William Randolph Hearst Collection by exchange and other donors (91.1a-b)",
+         "title":"Portrait of Madame Roland",
+         "nationality":"France, Paris, 1745-1807",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"François Masson",
+         "dimensions":"29 x 16 1\/2 in. (73.66 x 41.91 cm)",
+         "type":"Sculpture",
+         "date":"France, Paris, probably 1792-1793",
+         "medium":"Marble on original marble socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833412-WEB.jpg"
+      },
+      {
+         "provenance":"Anonymous gift in memory of Vicki Blumka (M.91.199)",
+         "title":"Allegory of Spirit and Matter",
+         "nationality":"called Riccio",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Andrea",
+         "dimensions":"Diameter: 19 5\/8 in. (50 cm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"Italy, 1515-1530",
+         "medium":"Bronze plaquette",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833347-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Ruth and Anthony Blumka in memory of Victoria Blumka Nasatir Goldberg (M.91.198)",
+         "title":"Reclining Bacchante",
+         "nationality":"Flanders, Antwerp, 1727-1788",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of Jean Pierre Antoine Tassaert",
+         "dimensions":"12 1\/4 x 12 x 7 in. (31.1 x 30.5 x 19.7 cm)",
+         "type":"Sculpture",
+         "date":"France, 18th century",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-1868083-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the Iris and B. Gerald Cantor Foundation (AC1992.72.1)",
+         "title":"Roger and Angelica Borne by the Hippogriff",
+         "nationality":"France, 1796-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antoine-Louis Barye",
+         "dimensions":"20 x 27 x 9 7\/8 in. (50.8 x 68.58 x 25.1 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1840-1846, probably cast later",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833482-WEB.jpg"
+      },
+      {
+         "provenance":"Anonymous gift in honor of  Peter Fusco (M.84.119)",
+         "title":"Cleopatra",
+         "nationality":"France, 1731-1804",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of  Pierre Julien",
+         "dimensions":"Height with base: 21 1\/4 x 8 1\/8 x 5 1\/8 in. (53.9 x 20.64 x 13.02 cm); Height without base:  17 1\/4 in. (43.8 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1795",
+         "medium":"Bronze on gilded bronze and granite base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832858-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.85.268.1)",
+         "title":"Left Hand of a Pianist",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"5 x 3 1\/2 x 1 3\/8 in. (12.7 x 8.9 x 3.5 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1910, cast later",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776645-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.82.197.1-.4)",
+         "title":"Caryatids of the Four Continents",
+         "nationality":"France, 1838-1902",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"Height: approximately 35 in. (88.9 cm) each",
+         "type":"Sculpture",
+         "date":"France, circa 1867",
+         "medium":"Patinated plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774503-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Camilla Chandler Frost in honor of the museum's twenty-fifth anniversary (M.91.269.2)",
+         "title":"Nereid Arranging her Necklace",
+         "nationality":"France, 1796-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antoine-Louis Barye",
+         "dimensions":"12 7\/16 x 7 1\/4 x 5 1\/2 in. (31.59 x 18.42 x 13.97 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1836",
+         "medium":"Plaster and wax",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833361-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Andrea Rothe (M.91.277)",
+         "title":"Saint Blaise",
+         "nationality":"circle of",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Stefano Maderno",
+         "dimensions":"Approximately 12 x 7 1\/2 in. (30.48 x 19.05 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Rome, circa 1600",
+         "medium":"Gilt bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31777219-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Laurie and Peter Fusco in honor of Rusty Powell (AC1992.102.1)",
+         "title":"Portrait of Louis-Philippe",
+         "nationality":"Switzerland, active France, 1795-1877",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"J.-F. Antoine Bovy",
+         "dimensions":"Diameter 6 3\/4 in. (17.15 cm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"France, circa 1850 (?)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833426-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Eric Lidow (AC1992.225.1)",
+         "title":"Pan and Nymphs",
+         "nationality":"Austria, Innsbruck, active Germany, Düsseldorf, 1658-1715",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Ignaz Elhafen",
+         "dimensions":"5 5\/16 x 7 5\/16 x 1 1\/4 in. (13.34 x 18.57 x 3.02 cm)",
+         "type":"Sculpture",
+         "date":"Austria, Vienna, circa 1690-1695",
+         "medium":"Ivory",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770104-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Eric Lidow (AC1992.225.2)",
+         "title":"Pan Pursuing Syrinx",
+         "nationality":"Austria, Innsbruck, active Germany, Düsseldorf, 1658-1715",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Ignaz Elhafen",
+         "dimensions":"5 3\/16 x 7 5\/16 x 1 13\/16 in. (13.02 x 18.42 x 4.45 cm)",
+         "type":"Sculpture",
+         "date":"Austria, Vienna, circa 1690-1695",
+         "medium":"Ivory",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770118-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Eric Lidow (AC1992.225.3)",
+         "title":"Diana and Callisto",
+         "nationality":"Austria, Innsbruck, active Germany, Düsseldorf, 1658-1715",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Ignaz Elhafen",
+         "dimensions":"5 1\/4 x 7 5\/16 x 1 5\/16 in. (13.18 x 18.42 x 3.18 cm)",
+         "type":"Sculpture",
+         "date":"Austria, circa 1690-1695",
+         "medium":"Ivory",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770132-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Iris and B. Gerald Cantor Foundation in honor of Earl A. Powell, III (AC1992.248.1)",
+         "title":"Balzac in a Dominican Robe",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"41 3\/4 x 17 3\/4 x 14 5\/8 in. (106.045 x 45.085 x 37.1475 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled probably 1892, cast 1982 (Musée Rodin I\/II)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833468-WEB.jpg"
+      },
+      {
+         "provenance":"Bequest of Mme. Dido Renoir (AC1993.109.1)",
+         "title":"Portrait of Mme Renoir",
+         "nationality":"France, Limoges, 1841-1919",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Pierre-Auguste Renoir",
+         "dimensions":"32 1\/2 x 22 x 14 1\/2 in. (82.55 x 55.88 x 36.83 cm)",
+         "type":"Sculpture",
+         "date":"France, Cagnes-sur-mer?, 1916",
+         "medium":"Plaster shaded with varnish wash",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833496-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the 1994 Collectors Committee (AC1994.51.1-.2)",
+         "title":"Allegories of Magnificence and Magnanimity, Pair of Reclining Figures",
+         "nationality":"possibly circle of",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Ponce Jacquio",
+         "dimensions":"1):  7 7\/8 x 13 1\/2 x 8 in. (20 x 34.29 x 20.32 cm); 2):  7 1\/2 x 14 1\/2 x 5 1\/2 in. (19.05 x 36.83 x 13.97 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1575",
+         "medium":"Bronze on modern wooden bases",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31707996-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Camilla Chandler Frost and Leona Cantor Palmer (AC1994.34.1)",
+         "title":"Virgin of Sorrows",
+         "nationality":"circle of",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Gervais Delabarre",
+         "dimensions":"45 3\/4 x 15 x 14 1\/2 in. (116.21 x 38.1 x 36.83 cm)",
+         "type":"Sculpture",
+         "date":"France, Le Mans, circa 1630",
+         "medium":"Terracotta with traces of polychromy",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833510-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the Austin and Irene Young Trust (AC1994.119.1)",
+         "title":"Head of a Girl",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"Height: 5 1\/4 in. (13.34 cm)",
+         "type":"Sculpture",
+         "date":"France, no date",
+         "medium":"Bronze with brown patina",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770181-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Mrs. William May Garland, Mr. and Arthur L. Erlanger, Hans S. Hollander, Mr. and Mrs. Allan C. Balch and Mrs. Merton James Vanderhoof, and Mr. and Mrs. Albert B. Ruddock (AC1995.3.1)",
+         "title":"Holy Family With Infant Saint John",
+         "nationality":"Italy, 1699-1773",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Giovanni Francesco Pieri",
+         "dimensions":"8 1\/2 x 6 1\/2 in. (21.5 x 16.5 cm)",
+         "type":"Sculpture",
+         "date":"Italy, 1767",
+         "medium":"Wax relief on slate",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770308-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Bernard C. Solomon and Everest Record Group (AC1995.172.1-.2)",
+         "title":"Pair of Kneeling Angels",
+         "nationality":"Italy, Genoa, circa 1650-1725",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Daniele Solaro",
+         "dimensions":"34 1\/4 x 29 x 18 1\/4 in. (87 x 74 x 46.4 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1690 - 1700",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-34091042-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Bernard C. Solomon and Everest Record Group (AC1995.172.2a-c)",
+         "title":"Kneeling Angel (one of the pair)",
+         "nationality":"Italy, Genoa, circa 1650-1725",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Daniele Solaro",
+         "dimensions":"a) body:  33 1\/4 x 14 x 25 1\/2 in. (84.46 x 35.56 x 64.77 cm); b) proper left wing:  17 x 12 1\/4 x 3 1\/2 in. (43.18 x 31.12 x 8.89 cm); c) proper right wing: 12 1\/2 x 15 x 3 1\/2 in. (31.75 x 38.1 x 8.89 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1690-1700",
+         "medium":"Marble (one of the pair)",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-2398601-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Bernard C. Solomon and Everest Record Group (AC1995.172.1a-c)",
+         "title":"Kneeling Angel (one of the pair)",
+         "nationality":"Italy, Genoa, circa 1650-1725",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Daniele Solaro",
+         "dimensions":"a)  34 1\/4 x 18 x 24 3\/4 in. (87 x 45.72 x 62.86 cm); b)  17 x 12 1\/4 x 3 1\/2 in. (43.18 x 31.11 x 8.89 cm); c)  12 1\/2 x 15 x 3 1\/2 in. (31.75 x 38.1 x 8.89 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1690-1700",
+         "medium":"Marble (one of the pair)",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833524-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Iris and B. Gerald Cantor in honor of the museum's twenty-fifth anniversary (AC1999.45.1)",
+         "title":"La Douleur (de La Porte)",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"11 x 6 x 5 in. (27.94 x 15.24 x 12.7 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1889-1892 (?); this cast 1983 (Musée Rodin cast IV\/IV)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833650-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the William Randolph Hearst Foundation by exchange (AC1997.54.1)",
+         "title":"The &#039;Apollo Belvedere&#039;",
+         "nationality":"Italy",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Zoffoli, Giacomo",
+         "dimensions":"13 1\/2 x 8 1\/2 x 7 in. (34.29 x 21.59 x 17.78 cm)",
+         "type":"Sculpture",
+         "date":"Italy, after 1763-before 1805",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31770509-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Alex and Patricia Wengraf in honor of The Ahmanson Foundation (M.2000.85)",
+         "title":"Head of Proserpina",
+         "nationality":"Italy, 1598-1690",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"After Gianlorenzo Bernini",
+         "dimensions":"Socle height:  5 7\/8 in. (14.92 cm); Socle diameter:  (19.05 cm); Overall:  24 x 16 x 12 in. (60.96 x 40.64 x 30.48 cm); Sculpture:  17 1\/2 x 14 1\/2 x 10 1\/4 in. (44.45 x 36.83 x 26.04 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1770-1800",
+         "medium":"White marble on giallo antico socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833867-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Neal Castleman and Ellen Hoffman-Castleman by exchange, Mr. and Mrs. Walter Zifkin, Suzanne Deal Booth and David G. Booth, and Mr. and Mrs. Alexander L. Cappello (M.2001.149)",
+         "title":"The Beheading of Saint Paul",
+         "nationality":"Italy, Florence, active circa 1736-1755",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Vincenzo Foggini",
+         "dimensions":"Diameter:  19 in. (48.26 cm); Depth:  1 3\/4 in. (4.45 cm)",
+         "type":"Sculpture",
+         "date":"Italy, originally modelled 1643-1647; this example before 1753",
+         "medium":"Wax on plaster base-layer",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31726521-WEB.jpg"
+      },
+      {
+         "provenance":"Anonymous gift (AS2001.5)",
+         "title":"Left Hand of Pierre de Wissant",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"12 3\/4 x 6 3\/4 x 4 3\/4 in. (32.9 x 17.1 x 12.1 cm)",
+         "type":"Sculpture",
+         "date":"circa 1885-1886, date of this cast unknown",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833699-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the 2002 Collectors Committee (M.2002.45)",
+         "title":"The &#039;Borghese Gladiator&#039;",
+         "nationality":"known as Lambert-Sigisbert Michel",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Sigisbert-Martial Michel",
+         "dimensions":"22 1\/4 x 18 x 15 5\/8 in. (56.51 x 45.72 x 39.68 cm)",
+         "type":"Sculpture",
+         "date":"France, 1751",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834020-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Lynda and Stewart Resnick in honor of the museum's 40th anniversary (M.2005.75)",
+         "title":"Francis III of Lorraine Triumphing over the Turks",
+         "nationality":"Netherlands, 1702-circa 1765",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Frans Janssens",
+         "dimensions":"26 1\/2 x 52 in. (67.31 x 132.08 cm); Framed:  37 1\/2 x 63 in. (95.25 x 160.02 cm);",
+         "type":"Sculpture",
+         "date":"Netherlands, 1739-circa 1747",
+         "entities":{
+            "Person":[
+               "Francis III",
+               "Lorraine Triumphing"
+            ]
+         },
+         "medium":"Patinated terra cotta with painted and gilded wood frame",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31230009-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Charles Janoray (M.2006.145)",
+         "title":"Science and Citizenship Medallion",
+         "nationality":"France, 1847-1916",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean Désiré Ringel d&#039;Illzach",
+         "dimensions":"Diameter:  7 1\/4 in . (18.42 cm)",
+         "type":"Jewelry and Adornments",
+         "date":"1909",
+         "medium":"Plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31254996-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Dr. George and MaryLou Boone (M.2008.18a-b)",
+         "title":"Le Terrassier (The Road Builder)",
+         "nationality":"France, 1838-1902",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"7 x 3 1\/4 in. (17.78 x 8.255 cm); Presentation box:  4 x 5 1\/4 x 9 1\/4 in. (10.16 x 13.34 x 23.5 cm)",
+         "type":"Sculpture",
+         "date":"1921, first modeled circa 1895-1901",
+         "medium":"Stoneware; leather and suede",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31264649-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the William Randolph Hearst Foundation (47.8.1a-d)",
+         "title":"Group of Four Figures: Virgin, Angel, God the Father, Dove",
+         "nationality":"Italy, Florence, 1435-1525",
+         "description":"<ul><li>Valentiner, W.R.  Gothic and Renaissance Scupltures:  in the Collection of the Los Angeles County Museum.  Los Angeles:  Los Angeles County Museum of Art, 1951.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Price, Lorna.  Masterpieces from the Los Angeles County Museum of Art.  Los Angeles:  Los Angeles County Museum of Art, 1988.<\/li><li>Foskett, Mary F.  A Virgin Conceived: Mary and Classical Representations of Virginity.  Bloomington and Indianapolis: Indiana University Press, 2002.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Andrea della Robbia",
+         "dimensions":"Height:  56 in. (142.24 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1465",
+         "entities":{
+            "Organization":[
+               "Indiana University"
+            ],
+            "socialTag":[
+               "Human Interest",
+               "Entertainment_Culture",
+               "California",
+               "Geography of the United States",
+               "Los Angeles",
+               "Geography of California"
+            ]
+         },
+         "medium":"Lead-glazed terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834784-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Hans Hollander and the European Sculpture Acquisition Fund (M.89.140a-b)",
+         "title":"Virgin and Child",
+         "nationality":"attributed to the",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of the Master of the Rimini Altar",
+         "dimensions":"Height:  16 in. (40.6 cm)",
+         "type":"Sculpture",
+         "date":"Holland, circa 1435",
+         "medium":"Alabaster with gilt wood crown",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833250-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the Iris and B. Gerald Cantor Foundation in honor of the museum's twenty-fifth anniversary (M.90.143)",
+         "title":"Torso of &#039;Peace&#039;, Study for &#039;Abundance&#039; for &#039;The Triumph of the Republic&#039;",
+         "nationality":"France, 1838-1902",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"19 1\/4 x 8 1\/2 x 7 1\/8 in. (48.9 x 21.59 x 18.1 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1879-1889, probably cast later",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833293-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.90.54)",
+         "title":"Portrait of Rodin",
+         "nationality":"Italy, 1866-1938",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Paul Troubetzkoy",
+         "dimensions":"20 1\/4 x 13 x 13 in. (51.43 x 33.02 x 33.02 cm)",
+         "type":"Sculpture",
+         "date":"Italy, 1905-1906",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833306-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the Iris and B. Gerald Cantor Foundation in honor of the museum's twenty-fifth anniversary (M.90.89)",
+         "title":"Jules Bastien-Lepage",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"71 x 36 1\/2 x 33 1\/2 in. (180.34 x 92.71 x 85.09 cm); Weight 772 lbs",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1887, this cast 1987 (Musée Rodin 2\/8)",
+         "entities":{
+            "Person":[
+               "Jules Bastien-Lepage"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833334-WEB.jpg"
+      },
+      {
+         "provenance":"Mary B. Regan Bequest (37.21.8)",
+         "title":"Hercules and Lychas",
+         "nationality":"Italy, Possagno, 1757-1822",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antonio Canova",
+         "dimensions":"16 5\/16 x 9 1\/2 x 7 5\/16 in. (41.28 x 24.13 x 18.42 cm)",
+         "type":"Sculpture",
+         "date":"French cast (?), Modelled in 1796; this cast circa 1825-1850",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834700-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the William Randolph Hearst Collection by exchange (90.3)",
+         "title":"Joshua and Caleb returning with the Grapes from the Land of Canaan, motif from the south door of the basilica of Loreto",
+         "nationality":"attributed to",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"School of Recanti, Italy,",
+         "dimensions":"6 3\/4 x 5 1\/8 x 1 in. (17.2 x 13 x 2.5 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1590",
+         "entities":{
+            "socialTag":[
+               "Moses",
+               "Caleb",
+               "Canaan",
+               "Loreto",
+               "Torah",
+               "Old Testament",
+               "Book of Joshua",
+               "Joshua",
+               "The Twelve Spies",
+               "Hebrew Bible"
+            ],
+            "Person":[
+               "Joshua",
+               "Caleb"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833370-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by William Randolph Hearst by exchange (90.6.1)",
+         "title":"Portrait of Alexandre L.-M. Charpentier",
+         "nationality":"Belgium, Saarbeck, active France, Paris, 1859-1949",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Eliza Beetz Charpentier",
+         "dimensions":"5 1\/4 x 5 5\/8 in. (13.3 x 14.3 cm)",
+         "type":"Sculpture",
+         "date":"France, 1904",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833390-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by William Randolph Hearst by exchange (90.6.2)",
+         "title":"Austria at Paris World Exposition",
+         "nationality":"Austria, 1851-1924",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Stefan Schwartz",
+         "dimensions":"2 1\/8 x 3 1\/8 in. (5.4 x 8 cm)",
+         "type":"Sculpture",
+         "date":"Austria, early 20th century",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31833405-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Cantor Fitzgerald Art Foundation (M.76.30)",
+         "title":"Resistance",
+         "nationality":"France, Toulouse 1831-France, Paris 1900",
+         "description":"<ul><li>Butler, Ruth; Hargrove, June E.; Holderbaum, James; Hunisak, John M. and Anne M. Wagner.  The Romantics to Rodin.  Los Angeles:  Los Angeles County Museum of Art, 1980.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Jean-Alexandre-Joseph Falguière",
+         "dimensions":"23 x 15 3\/4 x 11 3\/4 in. (58.42 x 40 x 29.84 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled 1870, this example probably cast 1894",
+         "entities":{
+            "socialTag":[
+               "Human Interest",
+               "Entertainment_Culture",
+               "Geography of California",
+               "Los Angeles",
+               "California",
+               "Geography of the United States",
+               "Los Angeles County Museum of Art"
+            ],
+            "Person":[
+               "Anne M. Wagner",
+               "Rodin",
+               "Ruth"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834672-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Times Mirror Foundation (M.76.77.2)",
+         "title":"Portrait of Walker King, D.D., Bishop of Rochester",
+         "nationality":"England, 1781-1842",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Sir Francis Legatt Chantrey",
+         "dimensions":"20 13\/16 x 12 7\/8 x 9 1\/2 in. (52.71 x 32.7 x 24.13 cm)",
+         "type":"Sculpture",
+         "date":"England, 1821",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31372864-WEB.jpg"
+      },
+      {
+         "provenance":"Los Angeles County Fund (23.3.2)",
+         "title":"Charity",
+         "nationality":"France, 1838-1902",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"14 x 6 x 7 in. (35.56 x 15.24 x 17.78 cm)",
+         "type":"Sculpture",
+         "date":"France, Modelled circa 1877, this cast circa 1905 (Adrien Hébrard, founder)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31975016-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Hearst Corporation (51.8)",
+         "title":"The Young Saint John the Baptist",
+         "nationality":"Italy, Florence, 1428-1464",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"After Desiderio da Settignano",
+         "dimensions":"21 1\/2 x 11 in. (54.61 x 27.94 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Probably 3rd quarter 18th century",
+         "medium":"Marble in modern painted and gilded tabernacle frame",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835140-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (51.13.8)",
+         "title":"Fragment with Seraph Enframed by His Wings",
+         "nationality":"Italy, Florence, 1428-1464",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of Desiderio Da Settignano",
+         "dimensions":"Height: 12 in. (30.48 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1460",
+         "medium":"Marble, modern stone base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835036-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (51.18.3)",
+         "title":"Fragment with Two Seraphim",
+         "nationality":"Italy, Florence, 1428-1464",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of Desiderio Da Settignano",
+         "dimensions":"Height: 11 1\/2 in. (29.21 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1460",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835050-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (51.13.7)",
+         "title":"Fragment with Two Seraphim",
+         "nationality":"Italy, Florence, 1428-1464",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Circle of Desiderio Da Settignano",
+         "dimensions":"16 x 7 in. (40.64 x 17.78 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1460",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835022-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Keith Spalding (M.51.12)",
+         "title":"Saint Sebastian",
+         "nationality":"Italy, Trent, active Italy, Venice, 1525-1608",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"After Alessandro Vittoria",
+         "dimensions":"21 3\/4 x 7 1\/2 x 6 3\/4 in. (55.20 x 19 x 17.1 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1566, 18th century cast",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834392-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Spencer Samuels (50.27)",
+         "title":"Fragment from &#039;The Mocking of Christ&#039;",
+         "nationality":"Italy, Pavia, active 1464-1482",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Workshop of Cristoforo Mantegazza",
+         "dimensions":"10 x 7 in. (25.4 x 17.78 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1480",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834952-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (50.33.17)",
+         "title":"Virgin and Child",
+         "nationality":"Italy, Florence, 1470-1528",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Agnolo di Polo",
+         "dimensions":"39 x 16 1\/2 x 10 1\/4 in. (99.06 x 41.91 x 26.04 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1520",
+         "medium":"Painted terracotta on painted wood base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31767449-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (50.33.8)",
+         "title":"Virgin Adoring the Child",
+         "nationality":"Italy, Florence and Rome, 1429-1484",
+         "description":"<ul><li>Valentiner, W.R.  Gothic and Renaissance Scupltures:  in the Collection of the Los Angeles County Museum.  Los Angeles:  Los Angeles County Museum of Art, 1951.<\/li><li>Larson, Gerald et al.  In Her Image:  The Great Goddess in Indian Asia and the Madonna in Christian Culture.  Santa Barbara:  UCSB Art Museum, University of California, 1980.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Circle of  Mino da Fiesole",
+         "dimensions":"18 1\/4 x 12 1\/4 in.  (46.36 x 31.12 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1460-1480",
+         "entities":{
+            "Organization":[
+               "University of California"
+            ],
+            "socialTag":[
+               "Los Angeles",
+               "Geography of California",
+               "Human Interest",
+               "Religion_Belief",
+               "Rembrandt in Southern California",
+               "Entertainment_Culture",
+               "American art",
+               "California"
+            ]
+         },
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834993-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Burnham Marsh (53.39)",
+         "title":"Portrait of William Andrews Clark Jr. (1877-1934)",
+         "nationality":"Italy, 1866-1938",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Paul Troubetzkoy",
+         "dimensions":"Height:  14 in. (35.56 cm)",
+         "type":"Sculpture",
+         "date":"Italy, 1920",
+         "entities":{
+            "Person":[
+               "William Andrews Clark Jr."
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-2265760-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Kurt and Werner Scharff (M.67.91)",
+         "title":"Portrait of Gustave Geffroy (1855-1926)",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"11 3\/4 x 6 1\/2 x 7 1\/4 in. (29.85 x 16.5 x 18.42 cm) without base",
+         "type":"Sculpture",
+         "date":"France, 1905, date of cast unknown",
+         "entities":{
+            "Person":[
+               "Gustave Geffroy"
+            ]
+         },
+         "medium":"Bronze on onyx base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31282546-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.69.52)",
+         "title":"Large Head of Iris",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"24 x 12 x 14 3\/4 in. (61 x 30.5 x 37.5 cm)",
+         "type":"Sculpture",
+         "date":"France, Paris, first modelled possibly 1890-1900, enlarged by 1909, cast 1967 (Musée Rodin 4\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834448-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor (M.70.7)",
+         "title":"Left Hand of Carpeaux",
+         "nationality":"France, 1861-1929",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Émile-Antoine Bourdelle",
+         "dimensions":"12 1\/4 x 13 3\/4 x 5 1\/4 in. (31.11 x 34.9 x 13.34 cm)",
+         "type":"Sculpture",
+         "date":"France, 1908-1909, possibly cast later",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834462-WEB.jpg"
+      },
+      {
+         "provenance":"The Phil Berg Collection (M.71.73.379)",
+         "title":"Standing Female Faun",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"26 1\/4 x 13 3\/4 x 7 3\/4 in. (66.68 x 34.93 x 19.69 cm)",
+         "type":"Sculpture",
+         "date":"France, Paris, modelled circa 1884, this cast 1917",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31297378-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.72.40)",
+         "title":"Stag Brought Down by Scottish Hounds",
+         "nationality":"France, 1796-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antoine-Louis Barye",
+         "dimensions":"15 x 21 x 12 in. (38.1 x 53.34 x 30.48 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1833",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773515-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.72.70)",
+         "title":"Suzon",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"15 13\/16 x 8 x 7 in. (40.01 x 20.32 x 17.78 cm)",
+         "type":"Sculpture",
+         "date":"Belgium, circa 1872",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834524-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leona Cantor Palmer (M.72.81.7)",
+         "title":"Man with the Broken Nose",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"Height:  3 3\/4 in. (9.53 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1863-1864, date of cast unknown (after 1917)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834539-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Times Mirror Foundation (M.77.11)",
+         "title":"The Death of Abel",
+         "nationality":"Italy, Florence, 1817-1882",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Giovanni Dupré",
+         "dimensions":"9 x 44 13\/16 x 14 3\/16 in. (22.86 x 113.67 x 35.88 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Florence, 1853",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31383981-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Times Mirror Foundation (M.77.45)",
+         "title":"Satan",
+         "nationality":"France, Paris, 1807-1852",
+         "description":"<ul><li>Butler, Ruth; Hargrove, June E.; Holderbaum, James; Hunisak, John M. and Anne M. Wagner.  The Romantics to Rodin.  Los Angeles:  Los Angeles County Museum of Art, 1980.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Price, Lorna.  Masterpieces from the Los Angeles County Museum of Art.  Los Angeles:  Los Angeles County Museum of Art, 1988.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Jean-Jacques Feuchère",
+         "dimensions":"Height: 31 in. (78.7 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1836",
+         "entities":{
+            "socialTag":[
+               "Entertainment_Culture",
+               "Human Interest",
+               "American art",
+               "California",
+               "Los Angeles County Museum of Art"
+            ],
+            "Person":[
+               "Anne M. Wagner",
+               "Ruth"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774018-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor (M.77.79)",
+         "title":"Hebe and the Eagle of Jupiter",
+         "nationality":"France, 1784-1855",
+         "description":"<ul><li>Butler, Ruth; Hargrove, June E.; Holderbaum, James; Hunisak, John M. and Anne M. Wagner.  The Romantics to Rodin.  Los Angeles:  Los Angeles County Museum of Art, 1980.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"François Rude",
+         "dimensions":"30 5\/16 x 18 5\/8 x 10 1\/4 in. (76.99 x 47.31 x 26.03 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1853-1855",
+         "entities":{
+            "socialTag":[
+               "Los Angeles County Museum of Art",
+               "Entertainment_Culture",
+               "Human Interest",
+               "American art",
+               "California"
+            ],
+            "Person":[
+               "Anne M. Wagner",
+               "Rodin",
+               "Ruth"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832432-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Michael J. Connell Foundation, and Mrs. Roy C. Markus and Miss Carlotta Mabury by exchange (M.78.7)",
+         "title":"Portrait of Voltaire (François-Marie Arouet [1694 - 1778])",
+         "nationality":"France, 1714-1785",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Pigalle",
+         "dimensions":"19 1\/16 x 9 3\/16 x 9 7\/8 in. (48.42 x 23.33 x 25.08 cm) with base",
+         "type":"Sculpture",
+         "date":"France, circa 1778",
+         "entities":{
+            "Person":[
+               "Marie Arouet",
+               "Voltaire"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832487-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Michael Hall in honor of Kenneth Donahue (M.78.20)",
+         "title":"Portrait of the Painter Thomas Couture",
+         "nationality":"called Auguste",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Clésinger",
+         "dimensions":"31 x 20 1\/2 x 13 in. (78.74 x 52.07 x 33.02 cm)",
+         "type":"Sculpture",
+         "date":"France, 1848",
+         "entities":{
+            "Person":[
+               "Thomas Couture"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832460-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of The Ahmanson Foundation (M.78.77)",
+         "title":"Diana with a Stag and a Dog",
+         "nationality":"Italy, active France, Paris and Versailles, 1635-1700",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Tuby I",
+         "dimensions":"10 1\/4 x 16 7\/8 x 8 5\/16 in. (26.04 x 42.86 x 20.96 cm)",
+         "type":"Sculpture",
+         "date":"Italy, 1687",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832501-WEB.jpg"
+      },
+      {
+         "provenance":"Given anonymously in honor of Anna Bing Arnold (M.78.86)",
+         "title":"Latona with Her Children Apollo and Diana",
+         "nationality":"Bohemia, 1699-1769",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Lazar Widmann",
+         "dimensions":"15 13\/16 x 10 3\/8 in. (40.01 x 26.35 cm)",
+         "type":"Sculpture",
+         "date":"Bohemia, circa 1742",
+         "entities":{
+            "Person":[
+               "Apollo",
+               "Latona",
+               "Diana"
+            ]
+         },
+         "medium":"Alabaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774076-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor (M.78.117)",
+         "title":"Bust of a Veiled Child",
+         "nationality":"Italy, Carrara, 1770-1846",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Pietro Marchetti",
+         "dimensions":"15 x 11 x 9 in. (38.1 x 27.9 x 22.9 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1840",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832446-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Anna Bing Arnold, Mr. and Mrs. Arthur L. Erlanger, Stanley Mortimer, Mr. and Mrs. Charles Babcock, Marianna Khuner, William Randolph Hearst Collection, Flora H. Wilson, Dr. Frederick Mont, Paul Rodman Mabury Collection, Dr. Jean Delacour, Olive May McBride, and Mrs. Edwin Greble by exchange (78.9)",
+         "title":"Portrait of the Artist Pierre-François-Eugène Giraud",
+         "nationality":"France, Valenciennes, 1827-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Carpeaux",
+         "dimensions":"19 1\/4 x 11 13\/16 x 10 in. (48.9 x 30 x 25.4 cm) without base; Base:  Height:  4 3\/4 in. (12.06 cm); Diameter:  8 1\/4 in. (20.96 cm)",
+         "type":"Sculpture",
+         "date":"France, 1862",
+         "entities":{
+            "Person":[
+               "Pierre-Fran"
+            ]
+         },
+         "medium":"Bronze on red marble base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31962858-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.13)",
+         "title":"The Fallen Caryatid with Urn",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"15 5\/8 x 10 1\/2 x 11 1\/2 in. (39.69 x 26.67 x 29.21 cm)",
+         "type":"Furnishings; Accessories",
+         "date":"France, first modelled circa 1883, this cast 1967 (Musée Rodin 5\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773642-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.14)",
+         "title":"The Cry",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"10 1\/2 x 12 1\/2 x 8 in. (26.67 x 31.75 x 20.32 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1886 (?), this cast 1964 (Musée Rodin 12\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773656-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.8)",
+         "title":"Flying Figure",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"20 1\/2 x 29 x 11 1\/2 in. (52.07 x 73.66 x 29.21 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1890-1891, this cast 1970 (Musée Rodin 5\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773824-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the B. Gerald Cantor Art Foundation (M.73.108.18)",
+         "title":"Heroic Bust of Victor Hugo",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"27 13\/16 x 23 x 24 in. (70.49 x 58.42 x 60.96 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled 1890-1897 or 1901-1902, this cast 1967 (Musée Rodin 5\/12)",
+         "entities":{
+            "Person":[
+               "Victor Hugo"
+            ]
+         },
+         "medium":"Bronze on marble socle",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773697-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.4)",
+         "title":"The Crouching Woman",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"37 1\/2 x 25 x 22 in. (95.25 x 63.5 x 55.88 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1880-1882, enlarged 1906-1907 (?), this cast 1963",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-1782768-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.10)",
+         "title":"Monumental Mask of Hanako",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"21 x 11 x 15 1\/2 in. (53.34 x 27.94 x 39.37 cm)",
+         "type":"Jewelry and Adornments; masks",
+         "date":"France, Paris, first modelled probably 1907-1908, enlarged circa 1908-1912, this cast 1972 (Musée Rodin 2\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773620-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.15)",
+         "title":"Danaïd",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"12 13\/16 x 28 5\/16 x 22 1\/2 in. (32.39 x 71.76 x 57.15 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled 1885-1889, this cast 1967 (Musée Rodin 4\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773669-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.22)",
+         "title":"The Falling Man",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"22 7\/8 x 14 1\/2 x 10 in. (58.1 x 36.8 x 25.4 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled 1882, this cast 1972 (Musée Rodin 2\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773760-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.9)",
+         "title":"The Kneeling Female Faun",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"21 1\/4 x 8 1\/4 x 11 1\/4 in. (53.98 x 20.96 x 28.58 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1844-1886, this cast 1966 (Musée Rodin 11\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773838-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.11)",
+         "title":"Iris, Messenger of the Gods",
+         "nationality":"France, 1840-1917",
+         "description":"<ul><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><li>Fort, Ilene Susan; M. Lenihan; M. Park; S. Rather and Roberta K. Tarbell.  The Figure in American Scuplture:  A Question of Modernity.  Los Angeles:  Los Angeles County Museum of Art, 1995.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"31 x 35 x 14 in. (78.7 x 88.9 x 35.6 cm) without base; 37 1\/2 x 34 5\/16 x 15 13\/16 in. (95.25 x 87 x 40.01 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled 1890-1900, this cast 1966",
+         "entities":{
+            "socialTag":[
+               "Human Interest",
+               "California",
+               "Entertainment_Culture",
+               "Los Angeles County Museum of Art",
+               "American art"
+            ],
+            "Person":[
+               "Roberta K. Tarbell",
+               "S. Rather",
+               "Ilene Susan",
+               "Rodin",
+               "Iris"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834553-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.19)",
+         "title":"Paolo and Francesca",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"11 13\/16 x 25 x 12 in. (29.85 x 63.5 x 30.48 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1887-1889, this cast 1972 (Musée Rodin 1\/12)",
+         "entities":{
+            "Person":[
+               "Francesca",
+               "Paolo"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773710-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.16)",
+         "title":"Portrait of Pope Benedict XV",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"9 1\/2 x 8 x 10 in. (24.13 x 20.32 x 25.40 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled 1915, this cast 1971 (Musée Rodin 7\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31834567-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.20)",
+         "title":"Eternal Idol",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"29 x 21 x 15 in. (73.7 x 53.3 x 38.1 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1889, this cast 1967 (Musée Rodin 4\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773733-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the B. Gerald Cantor Art Foundation (M.73.110.3)",
+         "title":"Nude Study for Jean d&#039;Aire",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"40 1\/2 x 13 3\/4 x 13 1\/4 in. (102.87 x 34.93 x 33.66 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1884-1886, this cast 1972 (Musée Rodin 2\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31299620-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the B. Gerald Cantor Art Foundation (M.73.110.4)",
+         "title":"Jean d&#039;Aire",
+         "nationality":"France, 1840-1917",
+         "description":"<ul><li>Donahue, Kenneth. Los Angeles County Museum of Art Handbook. Los Angeles: Los Angeles County Museum of Art, 1977.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"18 1\/2 x 6 1\/2 x 5 3\/4 in. (46.99 x 16.51 x 14.61 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1886, reduced circa 1895, this cast 1959 (Musée Rodin)",
+         "entities":{
+            "socialTag":[
+               "American art",
+               "California",
+               "Geography of California",
+               "Los Angeles County Museum of Art",
+               "Los Angeles",
+               "Rembrandt in Southern California",
+               "Arts and culture of Los Angeles",
+               "Entertainment_Culture",
+               "Human Interest"
+            ],
+            "Person":[
+               "Rodin"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773879-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.17)",
+         "title":"Portrait of Marianna Mattiocco della Torre (Mrs. Russell)",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"14 x 10 1\/2 x 9 1\/2 in. (35.56 x 26.67 x 24.13 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1887-1889, this cast 1972 (Musée Rodin 5\/12)",
+         "entities":{
+            "Person":[
+               "Marianna Mattiocco"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773683-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.73.108.21)",
+         "title":"Large Clenched Hand with Figure",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"17 1\/2 x 11 1\/2 x 10 3\/8 in. (44.5 x 29.2 x 26.4 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1907 (?), this cast 1972 (Musée Rodin 8\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773747-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor (M.73.139)",
+         "title":"Fugitive Love (Fugit Amor)",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"17 x 14 1\/2 x 8 1\/2 in. (43.18 x 36.83 x 21.59 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled 1881-1887 (?), this cast 1969 (Musée Rodin 10\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31773901-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Chandis Securities Company (M.79.95)",
+         "title":"Democritus, the Laughing Philosopher",
+         "nationality":"Germany, active Vienna, 1703-1780",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Johann Christoph Ludwig Lücke",
+         "dimensions":"Height: 13 1\/8 in. (33.34 cm) including base (5\/8 in.)",
+         "type":"Sculpture",
+         "date":"Germany, circa 1750-1757",
+         "medium":"Terra-cotta on gray marble base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832585-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Anita M. Baldwin Bequest (79.4.40)",
+         "title":"Art Union Medal: William Etty",
+         "nationality":"England, Staines, 1821-1898",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"George Gammon Adams",
+         "dimensions":"58 mm.",
+         "type":"Jewelry and Adornments; medals",
+         "date":"1872",
+         "entities":{
+            "Person":[
+               "William Etty"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-17271620-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Anita M. Baldwin Estate (79.4.42)",
+         "title":"Archbishop Sancroft and Bishops",
+         "nationality":"England, 1650-1690",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"George Bower",
+         "dimensions":"Diameter:  2 in. (5.08 cm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"1688",
+         "entities":{
+            "Person":[
+               "Sancroft"
+            ]
+         },
+         "medium":"Silver",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-17272361-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Anita M. Baldwin Estate (79.4.41)",
+         "title":"Commemoration Medal for Thomas Carlyle",
+         "nationality":"Austria, Vienna, active England, London 1862-1890, 1834-1890",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Joseph Edgar Boehm",
+         "dimensions":"57 mm.",
+         "type":"Jewelry and Adornments; medals",
+         "date":"1875",
+         "entities":{
+            "Person":[
+               "Thomas Carlyle"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-17272351-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Joseph B. Koepfli (79.4.348)",
+         "title":"Johann Friedrich, Elector of Saxony (1503-1554)",
+         "nationality":"Germany",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Hans Reinhart the Elder",
+         "dimensions":"Diameter:  2 9\/16 in. (65 mm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"Germany, 1535",
+         "entities":{
+            "Person":[
+               "Johann Friedrich"
+            ]
+         },
+         "medium":"Silver",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-2398565-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Mary D. Keeler Bequest and Arnold S. Kirkeby (79.4.319)",
+         "title":"Armand-Jean Duplessis, Cardi",
+         "nationality":"France, 1606-1672",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean Warin",
+         "dimensions":"Medal 78 mm.",
+         "type":"Jewelry and Adornments; medals",
+         "date":"French School",
+         "entities":{
+            "Person":[
+               "Armand-Jean Duplessis"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835337-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Paul Rodman Mabury Bequest by exchange (79.4.387)",
+         "title":"Benjamin Franklin (1706-1790)",
+         "nationality":"Italy, Urbino, active France, 1717-1786",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Nini",
+         "dimensions":"Diameter:  4 1\/2 in. (115 mm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"1777",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835351-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by the Mira T. Hershey Collection (79.4.229)",
+         "title":"Homage to Georges Gagneau, President of the Union of Bronze Manufacturers",
+         "nationality":"France, 1837-1905",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Ferdinand Le Villain",
+         "dimensions":"3 11\/16 x 2 7\/16 in. (93 x 62 mm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"circa 1900",
+         "entities":{
+            "Organization":[
+               "Union of Bronze Manufacturers"
+            ],
+            "Person":[
+               "Georges Gagneau"
+            ]
+         },
+         "medium":"Gilt bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835323-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of James E. Clark (M.82.210.2)",
+         "title":"Dancing Faun",
+         "nationality":"Italy, Florence, 1761-1785",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Paolo Spinazzi",
+         "dimensions":"22 5\/16 x 13 1\/2 x 6 1\/2 in. (56.52 x 34.29 x 16.51 cm)",
+         "type":"Sculpture",
+         "date":"Italy, Florence, 1781",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832712-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the Arnhold Family (M.82.211)",
+         "title":"Miner at the Vein",
+         "nationality":"Belgium, 1831-1905",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Constantin-Émile Meunier",
+         "dimensions":"19 x 17 1\/2 x 13 3\/8 in. (48.26 x 44.45 x 33.97 cm)",
+         "type":"Sculpture",
+         "date":"Belgium, circa 1892",
+         "medium":"Bronze (Verbeyst cast)",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-33166669-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor (M.82.209.3)",
+         "title":"Liberty Enlightening the World",
+         "nationality":"France, 1834-1904",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Frédéric-Auguste Bartholdi",
+         "dimensions":"20 7\/8 x 8 1\/2 x 6 1\/2 in. (53 x 21.6 x 16.51 cm) with base",
+         "type":"Sculpture",
+         "date":"France, circa 1884",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776345-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Jean Renoir and Dido Renoir (M.82.213)",
+         "title":"The Little Blacksmith",
+         "nationality":"France, Limoges, 1841-1919",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Pierre-Auguste Renoir",
+         "dimensions":"12 5\/8 x 12 3\/8 x 8 7\/8 in. (31.91 x 31.43 x 22.54 cm)",
+         "type":"Sculpture",
+         "date":"France, 1916",
+         "medium":"Plaster (four-piece model)",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832754-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Michael Hall (M.82.286.9)",
+         "title":"Waterloo Medallion",
+         "nationality":"Italy, 1784-1855",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Benedetto Pistrucci",
+         "dimensions":"Diameter: 5 5\/16 in. (13.5 cm)",
+         "type":"Jewelry and Adornments; medals",
+         "date":"Italy, (1784-1855)",
+         "medium":"Lead-filled copper (electrotype)",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-2398872-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Collections (M.82.126.2)",
+         "title":"Johannes Gutenberg",
+         "nationality":"France, Angers, 1788-1856",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Pierre-Jean David d&#039;Angers",
+         "dimensions":"16 x 6 1\/4 x 6 1\/4 in.  (40.64 x 15.87 x 15.87 cm)",
+         "type":"Sculpture",
+         "date":"France, 1839",
+         "entities":{
+            "Person":[
+               "Johannes Gutenberg"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31973176-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Collections (M.82.126.1)",
+         "title":"Bust of a Puddler",
+         "nationality":"Belgium, 1831-1905",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Constantin-Émile Meunier",
+         "dimensions":"18 3\/4 x 17 1\/8 x 12 1\/8 in. (47.62 x 43.5 x 30.8 cm)",
+         "type":"Sculpture",
+         "date":"Belgium, 1885-1890",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774462-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Collections (M.82.126.4)",
+         "title":"Revolution Holding the Head of Error and Striding over the Cadaver of Monarchy",
+         "nationality":"France, Toulouse 1831-France, Paris 1900",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Alexandre-Joseph Falguière",
+         "dimensions":"37 x 24 x 13 3\/4 in. (94 x 61 x 34.9 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1893",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774489-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Collections (M.82.126.3)",
+         "title":"Philopoemen",
+         "nationality":"France, Angers, 1788-1856",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Pierre-Jean David d&#039;Angers",
+         "dimensions":"35 1\/2 x 13 1\/2 x 14 1\/4 in. (90.17 x 34.29 x 36.19 cm)",
+         "type":"Sculpture",
+         "date":"France, 1837",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774475-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Camilla Chandler Frost (M.80.26)",
+         "title":"Standing Portrait of the Painter Jean-Louis-Ernest Meissonier",
+         "nationality":"Italy, Naples, 1852-1929",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Vincenzo Gemito",
+         "dimensions":"22 5\/16 x 9 5\/16 x 6 5\/16 in. (56.52 x 23.5 x 15.88 cm)",
+         "type":"Sculpture",
+         "date":"Italy, 1878-1879",
+         "entities":{
+            "Person":[
+               "Louis-Ernest Meissonier"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832614-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Chandis Securities Company (M.80.90)",
+         "title":"Cronus Carrying off Two Infants",
+         "nationality":"Bohemia, 1699-1769",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Lazar Widmann",
+         "dimensions":"17 1\/2 x 11 x 7 1\/4 in. (44.45 x 27.94 x 18.42 cm)",
+         "type":"Sculpture",
+         "date":"Bohemia, circa 1742",
+         "medium":"Alabaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774181-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.80.82)",
+         "title":"Portrait of the Actress Emma Gramatica",
+         "nationality":"Italy, Florence, 1859-1933",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Domenico Trentacoste",
+         "dimensions":"10 3\/ 16 x 8 x 1 3\/8 in. (25.9 x 20.32 x 3.5 cm) without frame",
+         "type":"Sculpture",
+         "date":"Italy, 1900",
+         "entities":{
+            "Person":[
+               "Emma Gramatica"
+            ]
+         },
+         "medium":"Terracotta in wood frame",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832628-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Ronald E. Fritz (M.80.208)",
+         "title":"Allegorical Group (Jean de la Fontaine&#039;s &#039;Fortune and the Young Child&#039; (?)",
+         "nationality":"circle of",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Jacques Pradier",
+         "dimensions":"15 13\/16 x 9 1\/2 x 6 3\/16 in. (40.01 x 24.13 x 15.56 cm)",
+         "type":"Sculpture",
+         "date":"Switzerland, circa 1830-1840",
+         "entities":{
+            "Person":[
+               "Jean de la Fontaine"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832599-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Chandis Securities Company, Times Mirror Foundation and Museum Acquisition Fund (M.81.136)",
+         "title":"Funerary Genius",
+         "nationality":"France, 1834-1904",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Frédéric-Auguste Bartholdi",
+         "dimensions":"31 1\/2 x 18 x 28 in. (80.01 x 45.72 x 71.12 cm)",
+         "type":"Sculpture",
+         "date":"France, 1866",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31774209-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Mr. and Mrs. Mounir Boctor (M.81.261)",
+         "title":"Between Two Loves",
+         "nationality":"France, Aisne, Anizy-le-Château, 1824-1887",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Albert-Ernest Carrier-Belleuse",
+         "dimensions":"Height: 19 3\/4 in. (50.17 cm)",
+         "type":"Sculpture",
+         "date":"France, Paris, 1867",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832674-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.81.262.1)",
+         "title":"Portrait of Honoré de Balzac",
+         "nationality":"France, Toulouse 1831-France, Paris 1900",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Alexandre-Joseph Falguière",
+         "dimensions":"19 1\/4 x 13 1\/2 x 11 in. (48.9 x 34.3 x 27.9 cm)",
+         "type":"Sculpture",
+         "date":"France, 1899",
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31342038-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.81.262.2)",
+         "title":"Portrait of the Actress Aimée-Olympe Desclée (1836-1874)",
+         "nationality":"France, Aisne, Anizy-le-Château, 1824-1887",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Albert-Ernest Carrier-Belleuse",
+         "dimensions":"27 1\/4 x 14 3\/4 x 5 1\/8 in. (69.21 x 37.46 x 13.02 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1874",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31831848-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Dr. A. S. Ciechanowiecki (M.81.263)",
+         "title":"Duncan&#039;s Horses",
+         "nationality":"England, 1798-1876",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Mr. John Graham Lough",
+         "dimensions":"13 1\/2 x 14 3\/4 in. (34.29 x 37.46 cm) without base; Height:  17 1\/4 in. (43.81 cm) with base",
+         "type":"Sculpture",
+         "date":"England, 1832",
+         "medium":"Plaster on original wood base in original glass bell",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-34096404-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of B. Gerald Cantor Art Foundation (M.83.65)",
+         "title":"Head of the Figure of Eloquence",
+         "nationality":"France, 1861-1929",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Émile-Antoine Bourdelle",
+         "dimensions":"19 x 14 1\/4 x 18 3\/16 in. (48.26 x 36.2 x 46.2 cm); Weight 100 lbs",
+         "type":"Sculpture",
+         "date":"France, 1916-1918",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832844-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of James E. Clark (M.83.225.1)",
+         "title":"The Death of Hyacinthus",
+         "nationality":"France, 1808-1888",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Antoine Etex",
+         "dimensions":"Overall: 15 x 12 1\/2 x 9 in. (38.1 x 31.75 x 22.86 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1829",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832768-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by James E. Clark (M.84.37)",
+         "title":"Bust of A Crying Child",
+         "nationality":"Holland, 1565-1621",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Hendrick de Keyser",
+         "dimensions":"12 11\/16 x 6 13\/16 x 4 11\/16 in. (32.07 x 17.15 x 11.75 cm)",
+         "type":"Sculpture",
+         "date":"Holland, circa 1615",
+         "medium":"Bronze with traces of silver",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776589-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Iris and B. Gerald Cantor (M.84.164)",
+         "title":"She Who Was the Helmet-Maker&#039;s Beautiful Wife",
+         "nationality":"France, 1840-1917",
+         "description":"<ul><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Price, Lorna.  Masterpieces from the Los Angeles County Museum of Art.  Los Angeles:  Los Angeles County Museum of Art, 1988.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"19 1\/2 x 12 x 7 3\/4 in. (49.5 x 30.5 x 19.7 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1889-circa 1890",
+         "entities":{
+            "socialTag":[
+               "Geography of California",
+               "California",
+               "Los Angeles County Museum of Art",
+               "Los Angeles",
+               "Landscape artists",
+               "Video artists",
+               "Rembrandt in Southern California",
+               "Human Interest",
+               "Arts and culture of Los Angeles",
+               "Entertainment_Culture"
+            ],
+            "Person":[
+               "Rodin"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776491-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of James E. Clark (M.84.165)",
+         "title":"Velléda",
+         "nationality":"France, 1801-1884",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Étienne Hippolyte Maindron",
+         "dimensions":"Height:  18 in. (45.72 cm)",
+         "type":"Sculpture",
+         "date":"France, 1839; cast 1844 (?)",
+         "medium":"Bronze (Vittoz cast)",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31439800-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of The Christian Humann Foundation (M.84.209)",
+         "title":"Portrait of François-Louis Carpezat (1827-1876)",
+         "nationality":"France, Valenciennes, 1827-1875",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Carpeaux",
+         "dimensions":"21 x 18 1\/2 x 5 in. (53.34 x 47 x 12.7 cm)",
+         "type":"Sculpture",
+         "date":"France, 1855",
+         "entities":{
+            "Person":[
+               "Louis Carpezat"
+            ]
+         },
+         "medium":"Patinated plaster",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832880-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Harry Kahn (M.84.210)",
+         "title":"Portrait of the Painter Edouard-Louis Dubufe (1820-1883)",
+         "nationality":"called Jules",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Louis-Julien Franceschi",
+         "dimensions":"20 1\/2 x 8 x 8 5\/16 in. (52.07 x 20.32 x 21.11 cm) with base",
+         "type":"Sculpture",
+         "date":"France, 1878",
+         "entities":{
+            "Person":[
+               "Louis Dubufe"
+            ]
+         },
+         "medium":"Wax on plaster core with stained plaster base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776562-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Gail Feingarten (M.85.1)",
+         "title":"Dionysus Attended by Two Bacchantes",
+         "nationality":"France, 1841-1867",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Jean-Baptiste Deschamps",
+         "dimensions":"10 1\/2 x 6 1\/2 x 7 in. (26.67 x 16.51 x 17.78 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1865",
+         "medium":"Wax with metal and wood accoutrements",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31832894-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Michael J. Connell Foundation and Museum Acquisition Fund (M.85.103)",
+         "title":"Plaque with The Flagellation of Christ",
+         "nationality":"Italy, Genoa and Rome, circa 1490-1577",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Workshop of Guglielmo della Porta",
+         "dimensions":"7 1\/2 x 5 3\/16 x 1 in. (19.05 x 13.02 x 2.54 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1560",
+         "medium":"Silver, relief",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31758614-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the B. Gerald Cantor Art Foundation (M.85.268.2)",
+         "title":"Mother and Child",
+         "nationality":"Italy, 1866-1938",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Paul Troubetzkoy",
+         "dimensions":"15 x 12 1\/2 x 13 7\/8 in. (38.1 x 31.75 x 35.24 cm)",
+         "type":"Sculpture",
+         "date":"Italy, probably 1907",
+         "medium":"Bronze on marble base",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776654-WEB.jpg"
+      },
+      {
+         "provenance":"Gift B. Gerald Cantor Art Foundation (M.86.171)",
+         "title":"Balzac in a Frockcoat",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"23 1\/2 x 8 x 10 1\/4 in. (59.69 x 20.32 x 26.04 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1891-1892, this cast 1980 (Musée Rodin 11\/12)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776743-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Iris and B. Gerald Cantor (M.86.219.1)",
+         "title":"The Peasant",
+         "nationality":"France, 1838-1902",
+         "description":"<ul><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><li>Levkoff, Mary L.. Rodin in His Time: The Cantor Gifts to the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1994.<\/li><li>Fort, Ilene Susan; M. Lenihan; M. Park; S. Rather and Roberta K. Tarbell.  The Figure in American Scuplture:  A Question of Modernity.  Los Angeles:  Los Angeles County Museum of Art, 1995.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Aimé-Jules Dalou",
+         "dimensions":"16 7\/8 x 6 1\/4 x 6 1\/4 in. (42.9 x 15.9 x 15.9 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1897-1899",
+         "entities":{
+            "socialTag":[
+               "Entertainment_Culture",
+               "California",
+               "Human Interest",
+               "American art",
+               "Los Angeles County Museum of Art"
+            ],
+            "Person":[
+               "Roberta K. Tarbell",
+               "S. Rather",
+               "Ilene Susan",
+               "Rodin"
+            ]
+         },
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31776765-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided by Mr. and Mrs. Walter Zifkin (M.80.44)",
+         "title":"Allegory of Peace (?)",
+         "nationality":"attributed to",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Camillo Pacetti",
+         "dimensions":"19 x 8 1\/2 x 9 1\/2 in. (48.26 x 21.59 x 24.13 cm)",
+         "type":"Sculpture",
+         "date":"Italy, circa 1810-1820",
+         "medium":"Terracotta",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31341138-WEB.jpg"
+      },
+      {
+         "provenance":"William Randolph Hearst Collection (50.33.4)",
+         "title":"Allegorical Portrait of Ferdinand the Catholic, King of Aragon, Castile and Naples (1452-1516)",
+         "nationality":"Italy, Genoa and Palermo, circa 1420-1492",
+         "description":"<ul><li>Valentiner, W.R.  Gothic and Renaissance Scupltures:  in the Collection of the Los Angeles County Museum.  Los Angeles:  Los Angeles County Museum of Art, 1951.<\/li><li>Donahue, Kenneth. Los Angeles County Museum of Art Handbook. Los Angeles: Los Angeles County Museum of Art, 1977.<\/li><li>Schaefer, Scott, et al. European Painting and Sculpture in the Los Angeles County Museum of Art. Los Angeles: Los Angeles County Museum of Art, 1987.<\/li><\/ul>",
+         "classification":"European Sculpture",
+         "name":"Domenico Gagini",
+         "dimensions":"31 x 63 x 8 1\/2 in. (78.74 x 160.02 x 21.59 cm)",
+         "type":"Sculpture",
+         "date":"Italy, 1473-1479",
+         "entities":{
+            "socialTag":[
+               "California",
+               "Rembrandt in Southern California",
+               "Entertainment_Culture",
+               "Human Interest",
+               "Los Angeles County Museum of Art",
+               "American art",
+               "Religion_Belief"
+            ]
+         },
+         "medium":"Marble",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31767463-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Leonard I. Green (M.84.205a-b)",
+         "title":"Small Study of &#039;Iris&#039; with the Head of Gwen John",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"5 7\/8 x 3 3\/4 x 2 1\/2 in. (14.92 x 7.84 x 6.35 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1908, Musée Rodin cast 2\/12; date of cast unknown (after 1917)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-17273733-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of the Iris and B. Gerald Cantor Foundation (AC1992.111.1)",
+         "title":"Invocation",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"22 x 10 1\/4 x 9 1\/2 in. (55.88 x 26 x 24.13 cm)",
+         "type":"Sculpture",
+         "date":"France, first modelled circa 1900, this cast 1986 (Musée Rodin cast 4\/8)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31978278-WEB.jpg"
+      },
+      {
+         "provenance":"Gift of Howard Young (55.47)",
+         "title":"Fallen Caryatid Carrying Her Stone",
+         "nationality":"France, 1840-1917",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"Auguste Rodin",
+         "dimensions":"16 1\/2 x 12 5\/16 x 11 1\/2 in. (41.91 x 31.12 x 29.21 cm)",
+         "type":"Sculpture",
+         "date":"France, circa 1880-1881; date of cast unknown, probably later (after 1917)",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31977522-WEB.jpg"
+      },
+      {
+         "provenance":"Purchased with funds provided anonymously (79.4.559)",
+         "title":"A. Wolffers Bust. Bronze medal 185 x 126 mm. Oval",
+         "nationality":"",
+         "description":"",
+         "classification":"European Sculpture",
+         "name":"A. Wolffers",
+         "dimensions":"185 x 126 mm.",
+         "type":"Jewelry and Adornments; medals",
+         "date":"",
+         "medium":"Bronze",
+         "imageURL":"http:\/\/collections.lacma.org\/sites\/default\/files\/remote_images\/piction\/ma-31835365-WEB.jpg"
+      }
+   ]
+}
