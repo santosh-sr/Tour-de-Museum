@@ -87,7 +87,7 @@ public class HttpClientPost {
 				method.getResponseBodyAsString();
 			} else if (returnCode == HttpStatus.SC_OK) {
 				//				System.out.println("File post succeeded: " + inputStr2);
-				System.out.println("success....");
+//				System.out.println("success....");
 				saveResponse(inputStr2, method);
 			} else {
 				System.err.println("File post failed: " + inputStr2);
@@ -166,7 +166,7 @@ String content =method.getResponseBodyAsString();
 
 			}
 
-			System.out.println("santosh"+entity);
+//			System.out.println("santosh"+entity);
 			//			System.out.println("Ankit"+mMap);
 
 				
