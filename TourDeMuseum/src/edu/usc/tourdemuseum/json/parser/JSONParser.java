@@ -12,16 +12,14 @@ import org.codehaus.jackson.JsonNode;
 import org.codehaus.jackson.map.ObjectMapper;
 import org.codehaus.jackson.node.ArrayNode;
 
-
-
 public class JSONParser {
-	public JsonNode parseJson(Path filePath) throws IOException{
+	private static JsonNode parseJson(Path filePath) throws IOException{
 		ObjectMapper objectMapper = new ObjectMapper();
 		return objectMapper.readTree(Files.newInputStream(filePath));
 	}
 
 	public static void parseJsonAndTokenize(Path inputPath) throws IOException {
-		JsonNode jsonNode = new JSONParser().parseJson(inputPath);
+		JsonNode jsonNode = parseJson(inputPath);
 
 		ArrayNode jsonArray = (ArrayNode) jsonNode.get("paintings");
 		Iterator<JsonNode> jsonNodeIter = jsonArray.iterator();
