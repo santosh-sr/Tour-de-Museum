@@ -27,6 +27,8 @@ import org.codehaus.jackson.node.ObjectNode;
 import edu.usc.tourdemuseum.wordnet.Synonyms;
 
 public class AddSynonyms {
+	
+	private static Map<String, Float> tfidfMap;
 
 	public static Map<String, Float> loadTFIDF() throws FileNotFoundException, IOException{
 		Map<String, Float> tfidfMap = new HashMap<>();
@@ -34,7 +36,7 @@ public class AddSynonyms {
 		try(BufferedReader reader = new BufferedReader(new FileReader(new File("term-tfidf.txt")))){
 			while((line = reader.readLine()) != null){
 				int lastIndex = line.lastIndexOf(" ");
-				
+
 				tfidfMap.put(line.substring(0, lastIndex), Float.parseFloat(line.substring(lastIndex + 1, line.length())));
 			}
 		}
@@ -43,10 +45,9 @@ public class AddSynonyms {
 	}
 
 	public static void addSynonyms(String propsFile, Path inputPath) throws IOException, JWNLException {
-		Map<String, Float> tfidfMap = loadTFIDF();
 		ObjectMapper objectMapper = new ObjectMapper();
 		JsonNode rootNode = objectMapper.readTree(Files.newInputStream(inputPath));
-		
+
 		//"C:\\Semester\\Fall 2013\\CS 548\\Project\\tools\\extjwnl-1.6.10\\extjwnl-1.6.10\\src\\extjwnl\\src\\main\\resources\\net\\sf\\extjwnl\\file_properties.xml"
 		Synonyms.initDictionary(propsFile);
 
@@ -141,10 +142,10 @@ public class AddSynonyms {
 							for(String syn : synonyms){
 								termSynonymsNode.add(syn);
 							}
-							
+
 							ObjectNode titleSynNode = objectMapper.createObjectNode();
 							titleSynNode.put(val, termSynonymsNode);
-							
+
 							synonymsArrayNode.add(titleSynNode);
 						}
 					}
@@ -190,10 +191,10 @@ public class AddSynonyms {
 							for(String syn : synonyms){
 								termSynonymsNode.add(syn);
 							}
-							
+
 							ObjectNode descSynNode = objectMapper.createObjectNode();
 							descSynNode.put(val, termSynonymsNode);
-							
+
 							synonymsArrayNode.add(descSynNode);
 						}
 					}
@@ -223,19 +224,19 @@ public class AddSynonyms {
 							for(String syn : synonyms){
 								termSynonymsNode.add(syn);
 							}
-							
+
 							ObjectNode keywordsSynNode = objectMapper.createObjectNode();
 							keywordsSynNode.put(keywords, termSynonymsNode);
-							
+
 							synonymsArrayNode.add(keywordsSynNode);
 						}
 					}
 				}
 			}
-			
+
 			((ObjectNode) paintingNode).put("synonyms", synonymsArrayNode);
 		}
-		
+
 		ObjectWriter writer = objectMapper.writerWithDefaultPrettyPrinter();
 		writer.writeValue(Files.newOutputStream(Paths.get(fileName + "-with-synonyms.json")), rootNode);
 		//writer.writeValue(out, value)
@@ -246,7 +247,11 @@ public class AddSynonyms {
 			System.err.println("Specify exjwnl properties file and museum dataset path..");
 			System.exit(0);
 		}
-		
-		AddSynonyms.addSynonyms(args[0], Paths.get(args[1]));
+
+		tfidfMap = loadTFIDF();
+		for(int index = 1; index < args.length; index++){
+			Path inputPath = Paths.get(args[index]);
+			AddSynonyms.addSynonyms(args[0], inputPath);
+		}
 	}
 }
