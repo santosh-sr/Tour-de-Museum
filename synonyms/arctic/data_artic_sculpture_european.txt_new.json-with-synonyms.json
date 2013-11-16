@@ -38,6 +38,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "mademoiselle" : [ "Bairdiella chrysoura", "silver perch" ]
+    }, {
+      "jubin" : [ ]
     } ]
   }, {
     "birth" : "1888",
@@ -168,6 +170,8 @@
     "medium" : "Bronze, dark brown patina",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4496_1632460.jpg",
     "synonyms" : [ {
+      "aeolus" : [ ]
+    }, {
       "winds" : [ "breaking wind", "curve", "wander", "wind instrument", "wind up", "lead", "tip", "current of air", "nothingness", "roll", "thread", "confidential information", "meander", "fart", "wrap", "wind", "idle words", "winding", "farting", "flatus", "hoist", "jazz", "hint", "malarky", "scent", "wreathe", "air current", "malarkey", "twine", "steer", "weave", "twist", "lift", "nose" ]
     } ]
   }, {
@@ -185,6 +189,8 @@
     "medium" : "Wax",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/5194_1643576.jpg",
     "synonyms" : [ {
+      "african" : [ ]
+    }, {
       "hunter" : [ "hunting watch", "Orion", "huntsman" ]
     } ]
   }, {
@@ -379,9 +385,9 @@
     "synonyms" : [ {
       "amazon" : [ "Amazon River", "virago" ]
     }, {
-      "riding" : [ "horseback riding", "ride", "devolve on", "tantalize", "equitation", "hinge upon", "depend upon", "razz", "sit", "rally", "bait", "depend on", "rag", "mount", "cod", "tantalise", "drive", "twit", "taunt", "turn on", "hinge on", "tease" ]
+      "mme" : [ ]
     }, {
-      "monte" : [ "four-card monte", "three-card monte" ]
+      "riding" : [ "horseback riding", "ride", "devolve on", "tantalize", "equitation", "hinge upon", "depend upon", "razz", "sit", "rally", "bait", "depend on", "rag", "mount", "cod", "tantalise", "drive", "twit", "taunt", "turn on", "hinge on", "tease" ]
     }, {
       "purebred" : [ "pureblood", "thoroughbred" ]
     }, {
@@ -423,7 +429,11 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000177/67522_1929169.jpg",
     "synonyms" : [ {
+      "anacreon" : [ ]
+    }, {
       "infants" : [ "infant", "baby", "babe" ]
+    }, {
+      "bacchus" : [ ]
     }, {
       "cupid" : [ "Amor" ]
     } ]
@@ -498,7 +508,11 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000177/67861_1931973.jpg",
     "synonyms" : [ {
+      "antoinemauriceapollinaire" : [ ]
+    }, {
       "comte" : [ "Auguste Comte", "Isidore Auguste Marie Francois Comte" ]
+    }, {
+      "dargout" : [ ]
     } ]
   }, {
     "birth" : "1549",
@@ -533,6 +547,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2878_1609637.jpg",
     "synonyms" : [ {
       "apollo" : [ "Phoebus Apollo", "Phoebus" ]
+    }, {
+      "marsyas" : [ ]
     } ]
   }, {
     "birth" : "1834",
@@ -548,7 +564,9 @@
     "date" : "modeled 1885/90 (cast 1919/21)",
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000157/9087_1692887.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "arabesque" : [ ]
+    } ]
   }, {
     "birth" : "unknown",
     "title" : "Archangel Michael Overcoming the Devil",
@@ -564,6 +582,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000155/6300_1661975.jpg",
     "synonyms" : [ {
       "archangel" : [ "garden angelica", "Angelica Archangelica" ]
+    }, {
+      "michael" : [ ]
     }, {
       "overcoming" : [ "defeat", "get the best", "overcome", "overpower", "subdue", "get the better of", "surmount", "master", "overwhelm", "whelm", "get over", "have the best", "sweep over", "overtake" ]
     }, {
@@ -600,7 +620,9 @@
     "date" : "1834/66",
     "medium" : "Wood",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000002/3816_174699.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "atlantid" : [ ]
+    } ]
   }, {
     "birth" : "1829",
     "title" : "Atlantid",
@@ -615,7 +637,9 @@
     "date" : "1834/66",
     "medium" : "Wood",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/3817_1622177.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "atlantid" : [ ]
+    } ]
   }, {
     "birth" : "1808",
     "title" : "Auguste Gady",
@@ -649,7 +673,11 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000248/172555_2924179.jpg",
     "synonyms" : [ {
+      "augustehilarion" : [ ]
+    }, {
       "comte" : [ "Auguste Comte", "Isidore Auguste Marie Francois Comte" ]
+    }, {
+      "kratry" : [ ]
     } ]
   }, {
     "birth" : "unknown",
@@ -684,7 +712,11 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/5044_1641312.jpg",
     "synonyms" : [ {
+      "bacchus" : [ ]
+    }, {
       "consoling" : [ "console", "consolatory", "comforting", "soothe", "comfort", "solace" ]
+    }, {
+      "ariadne" : [ ]
     } ]
   }, {
     "birth" : "1838",
@@ -701,7 +733,11 @@
     "medium" : "Plaster",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/5043_1641277.jpg",
     "synonyms" : [ {
+      "bacchus" : [ ]
+    }, {
       "consoling" : [ "console", "consolatory", "comforting", "soothe", "comfort", "solace" ]
+    }, {
+      "ariadne" : [ ]
     } ]
   }, {
     "birth" : "1759",
@@ -718,6 +754,8 @@
     "medium" : "Marble",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000156/7022_1670970.jpg",
     "synonyms" : [ {
+      "bacchus" : [ ]
+    }, {
       "feeding" : [ "course", "feed in", "give", "alimentation", "feast", "eating", "fertilize", "prey", "eat", "feed", "flow", "run", "fertilise" ]
     }, {
       "panther" : [ "jaguar", "Felis onca", "cougar", "Felis concolor", "Panthera onca", "catamount", "painter", "mountain lion", "puma" ]
@@ -738,6 +776,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000003/10061_178783.jpg",
     "synonyms" : [ {
       "bambino" : [ "tot", "yearling", "toddler" ]
+    }, {
+      "ebreo" : [ ]
     }, {
       "jewish" : [ "Judaic" ]
     }, {
@@ -774,7 +814,11 @@
     "date" : "1640/50",
     "medium" : "Bronze, traces of red-gold lacquer",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5983_1656578.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "bireno" : [ ]
+    }, {
+      "olimpia" : [ ]
+    } ]
   }, {
     "birth" : "1700",
     "title" : "Bust of Amphitrite",
@@ -791,6 +835,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4896_1638538.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
+    }, {
+      "amphitrite" : [ ]
     } ]
   }, {
     "birth" : "1741",
@@ -813,6 +859,14 @@
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
     }, {
       "thomas" : [ "Seth Thomas", "Thomas the doubting Apostle", "St. Thomas", "Saint Thomas", "Norman Mattoon Thomas", "Dylan Marlais Thomas", "Norman Thomas", "doubting Thomas", "Dylan Thomas", "Lowell Thomas", "Lowell Jackson Thomas" ]
+    }, {
+      "domangeville" : [ ]
+    }, {
+      "srilly" : [ ]
+    }, {
+      "comtesse" : [ ]
+    }, {
+      "pange" : [ ]
     } ]
   }, {
     "birth" : "1814",
@@ -832,6 +886,10 @@
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
     }, {
       "cardinal" : [ "Richmondena Cardinalis", "redbird", "carmine", "primal", "Cardinalis cardinalis", "fundamental", "cardinal number", "central", "key", "cardinal grosbeak" ]
+    }, {
+      "giacomo" : [ ]
+    }, {
+      "antonelli" : [ ]
     } ]
   }, {
     "birth" : "1794",
@@ -852,8 +910,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000156/8103_1681859.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
-    }, {
-      "charles" : [ "Charles Stuart", "Charles II", "Carolus", "Charles IX", "Charles the Great", "Jacques Charles", "Prince Charles", "Charles the Bald", "Jacques Alexandre Cesar Charles", "Charles I", "Charles VII", "Charles River", "Charlemagne" ]
     } ]
   }, {
     "birth" : "1653",
@@ -893,8 +949,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5339_1645939.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
-    }, {
-      "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
     } ]
   }, {
     "birth" : "1674",
@@ -912,6 +966,12 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000250/175453_2952723.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
+    }, {
+      "giovanni" : [ ]
+    }, {
+      "battista" : [ ]
+    }, {
+      "luca" : [ ]
     } ]
   }, {
     "birth" : "1597",
@@ -974,10 +1034,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/3731_1620933.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
-    }, {
-      "baker" : [ "bread maker" ]
-    }, {
-      "swinburne" : [ "Algernon Charles Swinburne" ]
     } ]
   }, {
     "birth" : "1824",
@@ -1036,10 +1092,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000156/8103_1681859.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
-    }, {
-      "pierre" : [ "capital of South Dakota" ]
-    }, {
-      "leonard" : [ "Dutch Leonard", "Elmore Leonard", "Elmore John Leonard" ]
     } ]
   }, {
     "birth" : "1764",
@@ -1084,6 +1136,10 @@
     }, {
       "said" : [ "allege", "articulate", "enunciate", "aforesaid", "state", "enjoin", "pronounce", "aver", "suppose", "order", "aforementioned", "say", "sound out", "read", "tell", "enounce" ]
     }, {
+      "abdullah" : [ ]
+    }, {
+      "darfour" : [ ]
+    }, {
       "people" : [ "mass", "the great unwashed", "multitude", "hoi polloi", "citizenry", "masses" ]
     } ]
   }, {
@@ -1124,8 +1180,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2555_1604742.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
-    }, {
-      "pitt" : [ "William Pitt", "George Dibdin Pitt", "Pitt the Elder", "Second Earl of Chatham", "George Pitt", "Pitt the Younger", "George Dibdin-Pitt", "First Earl of Chatham" ]
     } ]
   }, {
     "birth" : "1725",
@@ -1248,6 +1302,8 @@
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
       "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
+    }, {
+      "baptist" : [ ]
     } ]
   }, {
     "birth" : "1827",
@@ -1265,6 +1321,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/3773_1621425.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
+    }, {
+      "african" : [ ]
     }, {
       "woman" : [ "cleaning woman", "womanhood", "cleaning lady", "char", "fair sex", "charwoman", "adult female" ]
     } ]
@@ -1284,6 +1342,10 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4439_1631803.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
+    }, {
+      "duke" : [ ]
+    }, {
+      "orlans" : [ ]
     } ]
   }, {
     "birth" : "1890",
@@ -1300,6 +1362,8 @@
     "medium" : "Flatiron and 14 iron tacks",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000238/155722_2762963.jpg",
     "synonyms" : [ {
+      "cadeau" : [ ]
+    }, {
       "gift" : [ "endowment", "present", "invest", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
     } ]
   }, {
@@ -1461,7 +1525,9 @@
     "date" : "c. 1891",
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000106/144829_904793.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "carytide" : [ ]
+    } ]
   }, {
     "birth" : "unknown",
     "title" : "Centaur Abducting a Nymph",
@@ -1519,9 +1585,7 @@
     },
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000177/67856_1931893.jpg",
-    "synonyms" : [ {
-      "charles" : [ "Charles Stuart", "Charles II", "Carolus", "Charles IX", "Charles the Great", "Jacques Charles", "Prince Charles", "Charles the Bald", "Jacques Alexandre Cesar Charles", "Charles I", "Charles VII", "Charles River", "Charlemagne" ]
-    } ]
+    "synonyms" : [ ]
   }, {
     "birth" : "1808",
     "title" : "Charles-Guillaume Ètienne",
@@ -1536,6 +1600,10 @@
     "date" : "modeled c. 1832/35 (cast 1929/50)",
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000211/127144_2358394.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "charlesguillaume" : [ ]
+    }, {
+      "tienne" : [ ]
+    } ]
   } ]
 }

@@ -79,6 +79,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "09.14",
@@ -97,6 +99,8 @@
     "provenance" : "Dresden, art market (1887);Detroit, Collection James E. Scripps (purchased in Dresden in 1887);Detroit, Collection Mrs. James E. Scripps (Harriet J. Scripps) by whom given to the DIA in 1909.",
     "title" : "River Scene",
     "synonyms" : [ {
+      "river" : [ ]
+    }, {
       "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -161,10 +165,6 @@
     "title" : "Woman Cleaning Fish",
     "synonyms" : [ {
       "woman" : [ "cleaning woman", "womanhood", "cleaning lady", "char", "fair sex", "charwoman", "adult female" ]
-    }, {
-      "cleaning" : [ "cleanse", "cleanup", "scavenge", "houseclean", "clean", "clean house", "pick", "strip", "make clean", "cleansing" ]
-    }, {
-      "fish" : [ "Pisces", "Pisces the Fishes", "angle" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
@@ -235,6 +235,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "seascape" : [ "waterscape" ]
+    }, {
+      "double portrait" : [ "forked", "double up", "reduplicate", "duplicate", "look-alike", "doubling", "stunt woman", "image", "double over", "treble", "repeat", "two-bagger", "doubled", "double", "duple", "replicate", "dual", "three-fold", "two-fold", "twofold", "bivalent", "threefold", "two-base hit", "two-baser", "stunt man" ]
     } ]
   }, {
     "accession" : "09.24",
@@ -287,6 +289,8 @@
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "mother and child" : [ "female parent", "generate", "get", "mother", "bring forth", "fuss", "sire", "overprotect", "beget", "engender", "father" ]
     }, {
       "genre" : [ "musical genre", "musical style", "writing style", "literary genre", "music genre" ]
     } ]
@@ -365,6 +369,8 @@
     "provenance" : "Gift of the Emil S. Heineman Family in memory of Emil S. Heineman, 1916.",
     "title" : "KONIGSEE",
     "synonyms" : [ {
+      "konigsee" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -388,6 +394,10 @@
     "provenance" : "Toulouse, Collection Arthur Huc, 1892; by descent to Mme. Chaviat, Toulouse;Switzerland, Private Collection, (n.d.);New York, Lynven, Inc. (Jean Pierre Selz, dealer); from whom purchased by The Detroit Institute of Arts in 1985.  ",
     "title" : "La Depeche de Toulouse",
     "synonyms" : [ {
+      "depeche" : [ ]
+    }, {
+      "toulouse" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -415,6 +425,8 @@
     "synonyms" : [ {
       "woman" : [ "cleaning woman", "womanhood", "cleaning lady", "char", "fair sex", "charwoman", "adult female" ]
     }, {
+      "armchair" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -422,6 +434,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "1985.25",
@@ -476,6 +490,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     }, {
       "floral" : [ "flowered" ]
     } ]
@@ -554,6 +570,8 @@
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
+    }, {
       "animalia" : [ "kingdom Animalia", "animal kingdom" ]
     } ]
   }, {
@@ -592,7 +610,13 @@
     "provenance" : "London and New York, Colnaghi & Co., (dealer-1970s--1990), from whom purchased by the Founders Society for the DIA.",
     "title" : "St. Francis of Assisi Comforted by a Cherub with a Violin",
     "synonyms" : [ {
+      "francis" : [ ]
+    }, {
+      "assisi" : [ ]
+    }, {
       "comforted" : [ "console", "soothe", "comfort", "ease", "solace" ]
+    }, {
+      "cherub" : [ ]
     }, {
       "violin" : [ "fiddle" ]
     } ]
@@ -615,7 +639,7 @@
     "provenance" : "Copenhagen, auction (Rasmussen) 20 March, 1969, lot 187;Europe, private collection (purchased at Rasmussen sale - until 1990);London, auction (Christie's) 29 November, 1990, lot 1, where purchased by the Detroit Institute of Arts in 1991.",
     "title" : "Georg Brandes at the University in Copenhagen",
     "synonyms" : [ {
-      "brandes" : [ "brandmark", "post", "trademark", "brand", "mark", "denounce", "stigmatize", "stigmatise" ]
+      "university" : [ ]
     }, {
       "copenhagen" : [ "Kobenhavn", "Danish capital" ]
     } ]
@@ -636,6 +660,8 @@
     "title" : "The Back Garden",
     "synonyms" : [ {
       "back" : [ "second", "punt", "dorsum", "plunk for", "back up", "stake", "plump for", "vertebral column", "cover", "hind", "spinal column", "hinder", "spine", "support", "rear", "book binding", "endorse", "backrest", "game", "gage", "bet on", "rachis", "binding", "indorse", "backbone" ]
+    }, {
+      "garden" : [ ]
     } ]
   }, {
     "accession" : "1992.359",
@@ -716,6 +742,8 @@
       "flowers" : [ "heyday", "prime", "flush", "efflorescence", "peak", "bloom", "flower", "blossom" ]
     }, {
       "glass" : [ "glassful", "spyglass", "meth", "chicken feed", "glaze over", "Methedrine", "glaze", "glass over", "glass in", "deoxyephedrine", "chalk", "field glass", "looking glass", "shabu", "ice", "trash", "drinking glass", "crank", "methamphetamine", "methamphetamine hydrochloride" ]
+    }, {
+      "vase" : [ ]
     } ]
   }, {
     "accession" : "1996.25",
@@ -736,6 +764,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "postman" : [ "letter carrier", "mail carrier", "mailman", "carrier" ]
+    }, {
+      "roulin" : [ ]
     } ]
   }, {
     "accession" : "1998.1",
@@ -754,6 +784,8 @@
     "title" : "View of Caernavon Castle",
     "synonyms" : [ {
       "view" : [ "position", "eyeshot", "watch", "catch", "prospect", "horizon", "thought", "regard", "panorama", "sentiment", "sight", "purview", "reckon", "aspect", "see", "persuasion", "consider", "vista", "look at", "take in", "survey", "scene", "opinion", "perspective" ]
+    }, {
+      "caernavon" : [ ]
     }, {
       "castle" : [ "castling", "palace", "rook" ]
     } ]
@@ -801,6 +833,8 @@
     }, {
       "horseback" : [ "hogback" ]
     }, {
+      "before" : [ ]
+    }, {
       "distant" : [ "upstage", "removed", "remote", "aloof" ]
     }, {
       "hills" : [ "hill", "Alfred Hawthorne", "Hill", "J. J. Hill", "pitcher's mound", "mound", "James Jerome Hill", "Benny Hill" ]
@@ -822,6 +856,8 @@
     "provenance" : "Paris/New York, Durand Ruel Gallery (dealer-1920--stock # 9433) from whom purchased by the DIA in 1920. (painting dated by them as 1896)",
     "title" : "Graziella",
     "synonyms" : [ {
+      "graziella" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -829,6 +865,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "20.113",
@@ -848,6 +886,8 @@
     "title" : "View of Antibes at Sunset",
     "synonyms" : [ {
       "view" : [ "position", "eyeshot", "watch", "catch", "prospect", "horizon", "thought", "regard", "panorama", "sentiment", "sight", "purview", "reckon", "aspect", "see", "persuasion", "consider", "vista", "look at", "take in", "survey", "scene", "opinion", "perspective" ]
+    }, {
+      "antibes" : [ ]
     }, {
       "sunset" : [ "sundown" ]
     }, {
@@ -878,6 +918,10 @@
     "synonyms" : [ {
       "church" : [ "Christian church", "church building", "church service" ]
     }, {
+      "moret" : [ ]
+    }, {
+      "after" : [ ]
+    }, {
       "rain" : [ "pelting", "rainfall", "rain down", "rainwater" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -885,6 +929,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "accession" : "20.94",
@@ -903,6 +949,8 @@
     "provenance" : "Detroit, Collection Dexter M. Ferry, Sr., 1907;by descent to Mrs. Queene Ferry Coonley (Mrs. Avery Coonley) by whom given to the Detroit Institute of Arts in 1920.",
     "title" : "Turkish Women",
     "synonyms" : [ {
+      "turkish" : [ ]
+    }, {
       "women" : [ "cleaning woman", "womanhood", "cleaning lady", "char", "woman", "fair sex", "charwoman", "adult female" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -980,6 +1028,8 @@
       "landscape" : [ "landscape painting" ]
     }, {
       "entrance" : [ "incoming", "captivate", "bewitch", "enamour", "ingress", "catch", "enamor", "entryway", "fascinate", "charm", "spellbind", "beguile", "entry", "becharm", "capture", "entranceway", "entree", "enchant", "entering", "trance" ]
+    }, {
+      "mine" : [ ]
     } ]
   }, {
     "accession" : "2001.63",
@@ -1042,6 +1092,8 @@
     "provenance" : "Paris, Collection Gustave Durufle, acq. from artist Feb. 1877;New York, Christie's, sale 25 October 1996, lot 80;New York, French & Company (dealer, 1997-2002) from whom purchased by the DIA in 2002.",
     "title" : "Diomedes Devoured by His Horses",
     "synonyms" : [ {
+      "diomedes" : [ ]
+    }, {
       "devoured" : [ "raven", "go through", "down", "guttle", "devour", "demolish", "pig", "consume" ]
     }, {
       "horses" : [ "sawhorse", "sawbuck", "buck", "horse", "gymnastic horse", "horse cavalry", "Equus caballus", "knight", "cavalry" ]
@@ -1062,7 +1114,11 @@
     "provenance" : "Paris, coll. Jean-FranÃ§ois Boursault, called Boursault-Malherbe (1752-1842);Paris, auction Boursault-Malherbe (Paillet & C. P. Coutellier), 7 May 1832, lot 8, unsold;Location unknown, Henry Artaria (dealer?), purchased after sale, 1832?;Saltmarche, Herefordshire, collection Edmund Higginson, acquired between 1832-35;London, auction Edmund Higginson (Christie's), 4 June 1846, lot 149;London, Rutley (dealer), 4 June 1846;London, coll. Humphrey St. John-Mildmay (d. 1853); by descent toLondon, coll. Humphrey Francis St. John-Mildmay (eldest son, d. 1866); inherited byLondon, coll. Henry Bingham-Mildmay (brother of H. F. St. John-Mildmay, d. 1905);London, auction Henry Bingham-Mildmay (Christie's), 24 June 1893, lot 4;Lonon, Agnews (dealer), 24 June 1893;Colchester and North Berwick, coll. Walter de Zoete;London, auction Walter de Zoete (Christie's), 5 April 1935, lot 42;Amsterdam, A. Staal (dealer--5 April 1935);Amsterdam, Collection Alfred Cohen (collection expropriated by the Nazis);Heidelberg, auction (Arno Winterberg), 15 October 1999, lot 695 (as in the manner of Ludolf Backhuysen [copy?]), purchased by the Trafalgar Galleries;London, Trafalgar Galleries (dealer--returned to the heirs of the rightful owner in 2001);Restituted to the Cohen family (through the Art Loss Register) from whom purchased by the DIA in 2002.",
     "title" : "Coastal Scene with a Man-of-War and other Vessels",
     "synonyms" : [ {
+      "coastal" : [ ]
+    }, {
       "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
+    }, {
+      "manofwar" : [ ]
     }, {
       "other" : [ "former", "early" ]
     }, {
@@ -1197,6 +1253,8 @@
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
       "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
+    }, {
+      "baptist" : [ ]
     } ]
   }, {
     "accession" : "2004.38",
@@ -1242,6 +1300,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
@@ -1393,6 +1453,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "22.13",
@@ -1425,6 +1487,8 @@
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
@@ -1453,6 +1517,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "23.27",
@@ -1480,6 +1546,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "24.94",
@@ -1506,11 +1574,15 @@
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
+      "predella" : [ ]
+    }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "24.96",
@@ -1528,8 +1600,6 @@
     "provenance" : "New York, Coll. Carl Hamilton (according to J. Stubblebine, Â¦DuccioÂ¦, 1979, vol. 1, p. 89);Prince Léon Ouroussoff (Russian ambassador to Vienna and Paris, until early 1920's);London/New York, Sir Joseph Duveen (dealer-1924), from whom purchased by the City of Detroit for the DIA.",
     "title" : "Madonna and Child",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -1555,6 +1625,8 @@
     }, {
       "nicholas" : [ "Saint Nicholas", "St. Nicholas" ]
     }, {
+      "tolentino" : [ ]
+    }, {
       "restoring" : [ "furbish up", "touch on", "bushel", "doctor", "reestablish", "regenerate", "reinstate", "fix", "restore", "reconstruct", "mend", "restitute", "repair", "rejuvenate" ]
     }, {
       "two" : [ "II", "2", "deuce", "ii" ]
@@ -1566,6 +1638,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "predella" : [ ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
@@ -1627,6 +1701,8 @@
     }, {
       "women" : [ "cleaning woman", "womanhood", "cleaning lady", "char", "woman", "fair sex", "charwoman", "adult female" ]
     }, {
+      "darius" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -1661,6 +1737,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "25.4",
@@ -1694,6 +1772,8 @@
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "25.41",
@@ -1718,15 +1798,21 @@
     }, {
       "saints" : [ "apotheosis", "holy person", "canonise", "ideal", "paragon", "saint", "angel", "nonpareil", "nonesuch", "nonsuch", "enshrine", "holy man", "canonize" ]
     }, {
+      "crucifixon" : [ ]
+    }, {
       "nativity" : [ "birth", "nascence", "nascency", "Virgin Birth" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
+      "triptych" : [ ]
+    }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "25.65",
@@ -1764,6 +1850,8 @@
       "christ" : [ "messiah", "Redeemer", "Saviour", "Deliverer", "Good Shepherd", "Jesus", "Jesus Christ", "the Nazarene", "Jesus of Nazareth", "Savior" ]
     }, {
       "woman" : [ "cleaning woman", "womanhood", "cleaning lady", "char", "fair sex", "charwoman", "adult female" ]
+    }, {
+      "samaria" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -1807,6 +1895,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "26.113",
@@ -1831,6 +1921,8 @@
     }, {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
+      "sebastian" : [ ]
+    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
@@ -1838,6 +1930,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "26.114",
@@ -1856,6 +1950,8 @@
     "provenance" : "Florence, Santo Spirito, Mariotto di Marco della Pala (Palla altarpiece), 1471;London, Coll. Alexander Baker;London, auction, A. Barker (Christie's) 6 June 1874, lot 67; United Kingdom, Herefordshire, Eastnor Castle, Coll. Earl of Somers; United Kingdom, by descent, Lady Henry Somerset;United Kingdom, Reigate, The Priory, Coll. Henry-Charles Somers Somerset;Paris, Trotti and Co., (dealer-1926)",
     "title" : "Tobias and Three Archangels",
     "synonyms" : [ {
+      "tobias" : [ ]
+    }, {
       "three" : [ "triad", "threesome", "iii", "troika", "trine", "tierce", "3", "leash", "ternion", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto" ]
     }, {
       "archangels" : [ "archangel", "garden angelica", "Angelica Archangelica" ]
@@ -1898,6 +1994,8 @@
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "26.296",
@@ -1929,6 +2027,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "26.3",
@@ -1983,8 +2083,6 @@
     "provenance" : "(?) Antwerp, Church of St. Michael's Abbey;Cleydael, Collection Peeters d'Aerselaer, 27 August, 1817, lot 11; Antwerp, auction H. J. Stier d'Aertselaer, 19 July, 1822, lot 11;Brussels, Collection M. J. L. Nieuwenhuys; Collection Grand Duke Henry of Mecklenburg; Paris, auction Mecklenburg, 11 December, 1854, lot 16; Berlin, Collection Carl von Hollitsher; Vienna, Collection Camillo Castiglioni; Amsterdam, auction Castiglioni (F. Muller) 17-20 November, 1925, lot 74, repr.",
     "title" : "Philippe Rubens, the Artist's Brother.",
     "synonyms" : [ {
-      "rubens" : [ "Sir Peter Paul Rubens", "Peter Paul Rubens" ]
-    }, {
       "artists" : [ "creative person", "artist" ]
     }, {
       "brother" : [ "buddy", "comrade", "crony", "pal", "sidekick", "chum", "blood brother" ]
@@ -2021,6 +2119,8 @@
       "virgin" : [ "pure", "Virgo the Virgin", "virginal", "vestal", "virtuous", "Virgo" ]
     }, {
       "rose" : [ "rosiness", "arise", "rise up", "climb", "pink wine", "surface", "rosaceous", "originate", "wax", "roseate", "resurrect", "rosebush", "rise", "develop", "rebel", "stand up", "move up", "prove", "come up", "go up", "climb up", "uprise", "rear", "heighten", "jump", "blush wine", "mount", "get up", "spring up", "grow", "rose wine", "lift", "ascend", "turn out" ]
+    }, {
+      "garden" : [ ]
     }, {
       "oak" : [ "oak tree" ]
     }, {
@@ -2060,6 +2160,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "26.94",
@@ -2093,6 +2195,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "27.10",
@@ -2110,6 +2214,8 @@
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
       "nicholas" : [ "Saint Nicholas", "St. Nicholas" ]
+    }, {
+      "tolentino" : [ ]
     }, {
       "rescuing" : [ "deliver", "rescue" ]
     }, {
@@ -2153,6 +2259,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "27.200",
@@ -2184,6 +2292,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "27.201",
@@ -2211,6 +2321,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "27.202",
@@ -2273,6 +2385,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "27.385",
@@ -2305,6 +2419,8 @@
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
+      "half length" : [ "half-length" ]
+    }, {
       "music" : [ "euphony", "medicine" ]
     } ]
   }, {
@@ -2324,6 +2440,10 @@
     "provenance" : "(?) Collection of Charles Small Pybus, sold June 2, 1808, Christie's, lot 39 (sold to \"JC\" -- possibly James Christie II -- for 5 pounds 5 shillings);(?) Collection of John Douglas, sold Aug. 26/27, 1840 (sale held at Gryn Castle, near Hollywell in Flintshire, Wales, auctioneer:  Winstanley), lot 50 (canvas, 1' 5\" h. x 1' 10\" w.), purchased for 12 1/2 guineas by \"Agnew\";(?) Collection of Thomas Agnew of Manchester;New York, Henry Reinhardt & Son, Inc. (1927), by whom given to the DIA.",
     "title" : "Camillus and Brennus",
     "synonyms" : [ {
+      "camillus" : [ ]
+    }, {
+      "brennus" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2333,6 +2453,8 @@
       "history" : [ "story", "account", "chronicle" ]
     }, {
       "military" : [ "armed forces", "armed services", "war machine", "military machine" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "accession" : "28.115",
@@ -2354,8 +2476,6 @@
     "provenance" : "Venice,  Collection Mocenigo (picture commissioned for the family), until 1815; Venice, Palazzo Vendramin Calergi, Collection Carolina Ferdinanda Luisa, Duchesse de Berry, c.1844-1854; Paris, auction, Duchesse de Berry, (HÃ´tel Drouot), , 19 April,1865, lot. 15 (purchased by Marquis de Podénas acting on behalf of Comte de Chambord or the Duchesse du Berry, to whom picture reverted; sent to Austria 1868); Austria, Brunnsee, Collection  Duchesse de Berry (d. 1870); Austria, Frohsdorf, (by descent), Henri Charles, Comte de Chambord (son of Duchess) (d. 1883); By descent, Maria Teresa, Comtesse de Chambord (d.1886); By descent, Niece of Comtesse de Chambord (d. 1893);Austria, Frohsdorf (by descent), Don Jaime de Bourbon, (by descent); Paris, Collection Vicomte de Canson (1928), from whom purchased by the DIA.",
     "title" : "Madonna and Child",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2369,6 +2489,8 @@
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "landscape" : [ "landscape painting" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "28.42",
@@ -2426,6 +2548,8 @@
     "synonyms" : [ {
       "oyster" : [ "huitre" ]
     }, {
+      "breakfast" : [ ]
+    }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -2466,6 +2590,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "28.8",
@@ -2497,6 +2623,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "28.94",
@@ -2521,6 +2649,8 @@
     }, {
       "weasels" : [ "weasel" ]
     }, {
+      "masonite" : [ ]
+    }, {
       "oak" : [ "oak tree" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2528,6 +2658,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     }, {
       "veneer" : [ "veneering", "facing" ]
     }, {
@@ -2629,6 +2761,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "29.256",
@@ -2651,10 +2785,6 @@
     "title" : "Man Reading Letter",
     "synonyms" : [ {
       "man" : [ "humanity", "Isle of Man", "military man", "valet de chambre", "human being", "humans", "serviceman", "valet", "humankind", "human", "adult male", "mankind", "homo", "gentleman's gentleman", "military personnel", "human race", "human beings", "world", "piece", "gentleman" ]
-    }, {
-      "reading" : [ "recitation", "reading material", "understand", "indication", "meter reading", "interpret", "learn", "study", "show", "version", "recital", "register", "record", "take", "say", "read", "scan", "translate", "interpretation" ]
-    }, {
-      "letter" : [ "letter of the alphabet", "varsity letter", "alphabetic character", "missive" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
@@ -2729,6 +2859,8 @@
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "29.316",
@@ -2762,6 +2894,8 @@
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "29.4",
@@ -2783,8 +2917,6 @@
     "provenance" : "London, Thomas Agnews & Sons, Ltd. (dealer-1929), from whom purchased and given to the DIA by Mr. and Mrs. Charles T. Fisher, Sr.",
     "title" : "Madonna and Child",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -2821,6 +2953,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "mythology" : [ ]
     } ]
   }, {
     "accession" : "29.446",
@@ -2852,6 +2986,8 @@
       "sketch" : [ "adumbrate", "resume", "chalk out", "cartoon", "survey", "study", "vignette", "outline" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "30.280",
@@ -2912,6 +3048,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "30.297",
@@ -2937,6 +3075,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "30.345",
@@ -2970,6 +3110,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "30.370",
@@ -2993,6 +3135,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "30.374",
@@ -3045,8 +3189,6 @@
     "provenance" : "Philadelphia, Collection Frank K. Richards;purchased by the DIA with funds from Mr. and Mrs. Truman H. Newberry, 1930.",
     "title" : "Jacob and Rachel",
     "synonyms" : [ {
-      "jacob" : [ "Francois Jacob" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3085,6 +3227,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "31.23",
@@ -3107,6 +3251,8 @@
     }, {
       "family" : [ "fellowship", "home", "kinsperson", "family line", "mob", "household", "folk", "menage", "kinfolk", "class", "crime syndicate", "house", "kinsfolk", "syndicate", "category", "family unit", "phratry", "kin", "sept" ]
     }, {
+      "anne" : [ ]
+    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
@@ -3114,6 +3260,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     }, {
       "genre" : [ "musical genre", "musical style", "writing style", "literary genre", "music genre" ]
     } ]
@@ -3137,6 +3285,10 @@
       "landscape" : [ "landscape painting" ]
     }, {
       "ruins" : [ "destroy", "ruination", "break", "deflower", "laying waste", "ruin", "bankrupt", "smash", "ruining", "downfall", "wrecking", "dilapidation" ]
+    }, {
+      "rijnsburg" : [ ]
+    }, {
+      "abbey" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -3205,6 +3357,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "34.188",
@@ -3223,6 +3377,8 @@
     "provenance" : "New York, Dr. Siegfried F. Aram, (dealer) from whom purchased by the DIA in Nov., 1934.",
     "title" : "Brazilian Landscape",
     "synonyms" : [ {
+      "brazilian" : [ ]
+    }, {
       "landscape" : [ "landscape painting" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -3254,6 +3410,8 @@
     }, {
       "head" : [ "guide", "straits", "capitulum", "manoeuvre", "lead", "headway", "manoeuver", "drumhead", "principal", "read/write head", "channelize", "head word", "school principal", "top dog", "question", "mind", "brain", "chief", "direct", "headspring", "channelise", "psyche", "promontory", "head teacher", "fountainhead", "caput", "header", "forefront", "pass", "oral sex", "point", "nous", "headland", "steer", "foreland", "maneuver", "heading", "head up" ]
     }, {
+      "holofernes" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3283,11 +3441,15 @@
     }, {
       "interior" : [ "upcountry", "home", "inner", "national", "inside", "midland", "DoI", "Department of the Interior", "internal", "Interior Department" ]
     }, {
+      "mirrored glass" : [ "glassful", "spyglass", "meth", "chicken feed", "Methedrine", "mirror", "deoxyephedrine", "chalk", "field glass", "looking glass", "shabu", "ice", "mirrored", "trash", "glass", "drinking glass", "crank", "methamphetamine", "methamphetamine hydrochloride" ]
+    }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "glass" : [ "glassful", "spyglass", "meth", "chicken feed", "glaze over", "Methedrine", "glaze", "glass over", "glass in", "deoxyephedrine", "chalk", "field glass", "looking glass", "shabu", "ice", "trash", "drinking glass", "crank", "methamphetamine", "methamphetamine hydrochloride" ]
+    }, {
+      "perspective box" : [ "position", "linear perspective", "package", "perspective", "box", "view" ]
     }, {
       "walnut" : [ "walnut tree" ]
     }, {
@@ -3322,6 +3484,8 @@
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
+    }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "floral" : [ "flowered" ]
@@ -3354,6 +3518,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "35.21",
@@ -3379,6 +3545,8 @@
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "35.22",
@@ -3408,6 +3576,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "35.8",
@@ -3426,6 +3596,10 @@
     "provenance" : "Milan, Treccani collection (according to Baccheschi, but almost certainly erroneous)?;Great Britain, Kent, Chislehurst, Frognal, Collection Robert Marsham-Townshend, Earl Sydney (until 1915);Kent, Chislehurst, Frognal, auction, Sydney Collection (Knight, Frank & Rutley), 7 June 1915, lot. 10, repr. (as by Bronzino, Portrait of Eleonora of Toledo) ;New York, Lilienfeld Galleries (dealer--1935), from whom purchased by the DIA in 1935.",
     "title" : "Costanza da Sommaia",
     "synonyms" : [ {
+      "costanza" : [ ]
+    }, {
+      "sommaia" : [ ]
+    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
@@ -3515,11 +3689,15 @@
     "synonyms" : [ {
       "selene" : [ "genus Selene" ]
     }, {
+      "endymion" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "mythology" : [ ]
     } ]
   }, {
     "accession" : "36.14",
@@ -3628,9 +3806,7 @@
     "synonyms" : [ {
       "interior" : [ "upcountry", "home", "inner", "national", "inside", "midland", "DoI", "Department of the Interior", "internal", "Interior Department" ]
     }, {
-      "amsterdam" : [ "Dutch capital", "capital of The Netherlands" ]
-    }, {
-      "church" : [ "Christian church", "church building", "church service" ]
+      "during" : [ ]
     }, {
       "sermon" : [ "preaching", "discourse" ]
     }, {
@@ -3660,8 +3836,6 @@
     "provenance" : "London, Collection S.C. Goldsmid, until 1919;London, auction, Collection Goldsmid, (Christie's), 24 Jan. 1919, lot 87 (sold to A. Nicholson);London, A.L. Nicholson (dealer, 1919-1935);London, auction, Nicholson, (Christie's), 14 June 1935, lot 113 (sold to Turner);Milan, Jakob Heimann (dealer, 1935), from whom purchased by the DIA in 1937.",
     "title" : "Madonna and Child",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -3671,6 +3845,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "37.152",
@@ -3685,7 +3861,15 @@
     "provenance" : "Strasbourg (a wax seal on the back of the panel indicates that the picture passed through customs in Strasbourg at an early, as yet undetermined, date);(?) Lowenberg, Collection Hohenzollern-Hechingen (n. b: this provenance is also cited for the version in Hamburg, Kunsthalle);Hoevelaken, The Netherlands, Collection C. J. K. van Aalst, by whom given to the DIA in 1937. ",
     "title" : "THE NIEUWE KERK AT DELFT WITH THE TOMB OF WILLEM THE SILENT",
     "synonyms" : [ {
+      "nieuwe" : [ ]
+    }, {
+      "kerk" : [ ]
+    }, {
+      "delft" : [ ]
+    }, {
       "tomb" : [ "grave" ]
+    }, {
+      "willem" : [ ]
     }, {
       "silent" : [ "dumb", "unsounded", "tacit", "understood", "still", "soundless", "mum", "mute" ]
     }, {
@@ -3718,6 +3902,8 @@
     }, {
       "writing" : [ "piece of writing", "pen", "indite", "drop a line", "authorship", "save", "penning", "composition", "write", "compose", "written material", "spell", "committal to writing" ]
     }, {
+      "academy board" : [ "honorary society", "get on", "board", "academy", "room" ]
+    }, {
       "board" : [ "panel", "instrument panel", "circuit card", "gameboard", "plank", "table", "get on", "display panel", "display board", "circuit board", "dining table", "card", "control board", "control panel", "plug-in", "add-in", "room" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3745,6 +3931,8 @@
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
       "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
+    }, {
+      "baptist" : [ ]
     } ]
   }, {
     "accession" : "37.21",
@@ -3854,6 +4042,12 @@
     "synonyms" : [ {
       "interior" : [ "upcountry", "home", "inner", "national", "inside", "midland", "DoI", "Department of the Interior", "internal", "Interior Department" ]
     }, {
+      "grote" : [ ]
+    }, {
+      "kerk" : [ ]
+    }, {
+      "haarlem" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -3917,6 +4111,10 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "38.31",
@@ -3939,11 +4137,15 @@
     }, {
       "city" : [ "metropolis", "urban center" ]
     }, {
+      "street" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "animalia" : [ "kingdom Animalia", "animal kingdom" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "accession" : "38.56",
@@ -3965,8 +4167,6 @@
     "provenance" : "Painted for Venice, Scuola dell'Angelo Custode but never installed & remained with the artist;Venice, Collection Zaccaria Sagredo (purchased from the artist shortly after it was painted; died 1729);Venice, Collection Gherardo Sagredo (died 1738);Venice, Collection Cecilia Grimani-Calergi (Gherardo's widow; died 1762);Bartolomeo Vitturi collection? [this ref. from Opera Completa 1982, p. 80]Bologna, Private collection (by 1935); Milan, Collection Prof. D. Botto;Milan, Collection Mario Crespi (currently in his collection per article published in Oct. 1938);Milan, Jacob Heimann (dealer-1938), from whom purchased by Mr. and Mrs. Edsel B. Ford and given to the DIA in 1938.",
     "title" : "Madonna and Child with Adoring Figure",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "adoring" : [ "fond", "doting", "worshipful", "adore" ]
@@ -4006,6 +4206,8 @@
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
+    }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     } ]
   }, {
@@ -4027,6 +4229,8 @@
     "synonyms" : [ {
       "repentant" : [ "penitent" ]
     }, {
+      "magdalen" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -4034,6 +4238,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "38.71",
@@ -4110,6 +4316,8 @@
     "synonyms" : [ {
       "gentleman" : [ "gentleman's gentleman", "valet de chambre", "valet", "man" ]
     }, {
+      "trivulzio" : [ ]
+    }, {
       "family" : [ "fellowship", "home", "kinsperson", "family line", "mob", "household", "folk", "menage", "kinfolk", "class", "crime syndicate", "house", "kinsfolk", "syndicate", "category", "family unit", "phratry", "kin", "sept" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -4117,6 +4325,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
@@ -4142,10 +4352,6 @@
     "provenance" : "Bologna, Marchese Zacchia Rondanini collection (ca. 1928);Milan, Carlo Foresti (dealer, by 1935);Milan/New York, Jacob Heimann (dealer-1938), by whom given to the DIA.",
     "title" : "Jesuit Mission",
     "synonyms" : [ {
-      "jesuit" : [ "Jesuitic", "Jesuitical" ]
-    }, {
-      "mission" : [ "deputation", "delegation", "missionary work", "charge", "missionary post", "missionary station", "military mission", "delegacy", "commission", "foreign mission" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -4214,6 +4420,8 @@
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
+      "christian" : [ ]
+    }, {
       "figure" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
     } ]
   }, {
@@ -4275,6 +4483,8 @@
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "mythology" : [ ]
     } ]
   }, {
     "accession" : "40.129",
@@ -4301,6 +4511,8 @@
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
+    }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     } ]
   }, {
@@ -4323,8 +4535,6 @@
     "provenance" : "England, Private Collection;New York, Schaeffer Galleries (dealer-1940), from whom purchased by the DIA in Sept., 1940.",
     "title" : "Mary Magdalen",
     "synonyms" : [ {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
@@ -4354,9 +4564,15 @@
     }, {
       "tiber" : [ "Tevere" ]
     }, {
+      "castel" : [ ]
+    }, {
+      "santangelo" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "accession" : "40.50",
@@ -4378,6 +4594,8 @@
       "catherine" : [ "Catherine of Aragon", "Catherine the Great", "Catherine II" ]
     }, {
       "aragon" : [ "Louis Aragon" ]
+    }, {
+      "magdalen" : [ ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
@@ -4469,6 +4687,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "41.56",
@@ -4516,6 +4736,8 @@
     "provenance" : "Amsterdam, Collection Johann Christoph Werther (before 1791);Amsterdam, auction J. C. Werther (van der Schley . . . de Bosch) 25/26 April, 1792, lot 38 (as Ruth and Boas);Gift of Mrs. John A. Bryant to the DIA in 1941 in memory of her husband.",
     "title" : "Italian Peasants and Ruins",
     "synonyms" : [ {
+      "italian" : [ ]
+    }, {
       "peasants" : [ "tyke", "boor", "bucolic", "provincial", "tike", "Goth", "churl", "barbarian", "peasant" ]
     }, {
       "ruins" : [ "destroy", "ruination", "break", "deflower", "laying waste", "ruin", "bankrupt", "smash", "ruining", "downfall", "wrecking", "dilapidation" ]
@@ -4544,6 +4766,8 @@
       "cloudy" : [ "muddy", "nebulous", "turbid", "mirky", "nebulose", "murky" ]
     }, {
       "day" : [ "Clarence Shepard Day Jr.", "sidereal day", "daytime", "solar day", "24-hour interval", "twenty-four hours", "Clarence Day", "mean solar day", "twenty-four hour period", "daylight" ]
+    }, {
+      "zuider" : [ ]
     }, {
       "zee" : [ "ezed", "zed", "izzard", "z", "Z" ]
     }, {
@@ -4585,6 +4809,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "41.80",
@@ -4606,8 +4832,6 @@
     "provenance" : "Madrid, Collection Don José Costa and DoÃ±a Amalia Bonells de Costa;by descent to their son José de Costa y Bonells and DoÃ±a Antonia Bayo de Costa, Madrid;by descent to his niece, DoÃ±a Matilde Quesada y Bayo (later Condesa de Gondomar), Madrid (until at least 1924); Lucerne, Fine Arts Company (dealer);Oslo, Collection Count Wedel Jesleberg (sic. Jelleby or Jelleberg);Amsterdam, Collection Tietjen;New York, Arnold Seligmann, Rey & Co.(dealer, by 1937-1941); purchased by the DIA in 1941.",
     "title" : "DONA AMALIA BONELLS DE COSTA",
     "synonyms" : [ {
-      "costa" : [ "rib" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -4615,6 +4839,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "41.89",
@@ -4633,6 +4859,8 @@
     "provenance" : "Newport, RI, coll. Winthrop Astor Chandler;New York, A. F. Mondschein (dealer-1941), from whom purchased by the Founders Society as a gift to the DIA (as The Prodigal Son, by Carlo Saraceni).",
     "title" : "Susannah and the Elders",
     "synonyms" : [ {
+      "susannah" : [ ]
+    }, {
       "elders" : [ "elder", "elderberry bush", "senior" ]
     }, {
       "metal" : [ "metallic element", "alloy", "metallic" ]
@@ -4644,6 +4872,8 @@
       "copper" : [ "fuzz", "cop", "atomic number 29", "Cu", "copper color", "bull", "pig" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "42.11",
@@ -4770,6 +5000,8 @@
       "copper" : [ "fuzz", "cop", "atomic number 29", "Cu", "copper color", "bull", "pig" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "42.57",
@@ -4797,9 +5029,13 @@
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
+    }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "double portrait" : [ "forked", "double up", "reduplicate", "duplicate", "look-alike", "doubling", "stunt woman", "image", "double over", "treble", "repeat", "two-bagger", "doubled", "double", "duple", "replicate", "dual", "three-fold", "two-fold", "twofold", "bivalent", "threefold", "two-base hit", "two-baser", "stunt man" ]
     } ]
   }, {
     "accession" : "43.36",
@@ -4821,6 +5057,10 @@
       "woman" : [ "cleaning woman", "womanhood", "cleaning lady", "char", "fair sex", "charwoman", "adult female" ]
     }, {
       "warming" : [ "warm", "calefacient", "heating", "thaw", "thawing", "warm up" ]
+    }, {
+      "herself" : [ ]
+    }, {
+      "before" : [ ]
     }, {
       "fire" : [ "fervor", "terminate", "firing", "blast", "can", "raise", "ardour", "burn down", "flame", "sack", "ignite", "fuel", "fervour", "ardor", "discharge", "light", "send away", "kindle", "fervency", "flame up", "give the sack", "elicit", "evoke", "fervidness", "open fire", "go off", "flack", "flak", "displace", "give the axe", "flaming", "arouse", "enkindle", "force out", "give notice", "attack", "provoke", "burn", "dismiss" ]
     }, {
@@ -4851,9 +5091,15 @@
     "synonyms" : [ {
       "piazza" : [ "place", "plaza" ]
     }, {
+      "san" : [ ]
+    }, {
+      "marco" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "accession" : "43.417",
@@ -4872,6 +5118,10 @@
     "provenance" : "London, Collection Lord Hertford; London, Collection Sir Richard Wallace; Paris, Collection Sir John Murray Scott; Paris, auction Jacques Seligmann (Georges Petit), 18 May 1925, sold for 39000 francs (Gimpel journal indicates hammer price was 30,000 francs);Paris, coll. Cailleux (sold to Wildenstein for 80,000 francs, through Marcel Jonas as agent); Paris, Felix Wildenstein (dealer-had it by 4 Sept. 1925; asked 1,800,000 FF for it); Collection William Randolph Hearst (until 1943); New York, Gimbel Brothers (& Dr. Armand Hammer-dealers-1943, representing the Hearst estate), from whom purchased by the DIA in Jan., 1943 with gift of funds from Mr. & Mrs. Edgar B. Whitcomb. ",
     "title" : "Madame Henriette de France as a Vestal Virgin",
     "synonyms" : [ {
+      "madame" : [ ]
+    }, {
+      "henriette" : [ ]
+    }, {
       "france" : [ "French Republic", "Anatole France", "Jacques Anatole Francois Thibault" ]
     }, {
       "vestal" : [ "pure", "virginal", "virtuous", "virgin" ]
@@ -4887,6 +5137,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "allegory" : [ "emblem", "parable", "apologue", "fable" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "43.418",
@@ -4922,6 +5174,8 @@
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "43.478",
@@ -4951,6 +5205,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "43.56",
@@ -4975,6 +5231,8 @@
     }, {
       "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
     }, {
+      "magdalene" : [ ]
+    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
@@ -4982,6 +5240,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "44.213",
@@ -5015,6 +5275,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "44.265",
@@ -5046,6 +5308,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "44.266",
@@ -5064,6 +5328,10 @@
     "provenance" : "Antwerp, Collection Jeremias Wildens, 1653 (?); Antwerp, Collection Count Charles de Proli; Antwerp, auction Ch. de Proli (Grange), 23 July & following, 1785, lot 1 (as Cleopatra), sold for 580 florins to Beechmans; Amsterdam, auction Pieter de Smeth van Alphen (van der Schley . . . de Vries), 1/2 August, 1810, lot 84 (as Hebe), sold for 800 florins to De Vries;Lokeren, Collection H. Francken; Antwerp, auction H. Francken of Lokeren (  ), 15 May, 1838, lot 2 (as Cleopatra), bought for 1,500 francs by De Vis, agent for Charles J. Nieuwenhuys; Brussels, Collection Charles J. Nieuwenhuys;Paris, auction Nieuwenhuys, 1840 (or London, auction C. J. Nieuwenhuys [Christie's] 3/4 May, 1833--actually held on May 10th); Brussels, Collection Joseph Allard;Brussels, Collection Senator Prosper Crabbe; Paris, auction Crabbe (Galerie Sedelmeyer), 12 June 1890, lot 47, repor, bought by Sedelmeyer for 145,000 francs; [According to L. van Puyvelde] Paris, collection Comtesse d'Herbemont;Paris, auction Mme la baronne d'H...(Galerie Charpentier) 9 June, 1936, lot 28, repr., sold for 44,000 francs;London, Martin B. Ascher (dealer - nd); New York, Schaeffer Galleries, Inc. (dealer - by March 1937); Birmingham, MI, Collection Mr. & Mrs. Henry Reichhold; Given by Mrs. Reichhold  to the DIA in 1944.",
     "title" : "Hygeia, Goddess of Health",
     "synonyms" : [ {
+      "hygeia" : [ ]
+    }, {
+      "goddess" : [ ]
+    }, {
       "health" : [ "wellness" ]
     }, {
       "oak" : [ "oak tree" ]
@@ -5077,6 +5345,8 @@
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "medicine" : [ "music", "medication", "medicinal drug", "medical specialty", "medicament", "practice of medicine", "medicate" ]
+    }, {
+      "mythology" : [ ]
     }, {
       "animalia" : [ "kingdom Animalia", "animal kingdom" ]
     } ]
@@ -5097,6 +5367,8 @@
     "provenance" : "England, Collection T. T. Friedlander Esq.;New York, Schaeffer Galleries Inc., (dealer-1944-45), from whom purchased by the DIA in 1945 with partial funds from Mr. and Mrs. Edgar B. Whitcomb.",
     "title" : "The Barnyard",
     "synonyms" : [ {
+      "barnyard" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -5159,9 +5431,13 @@
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
+      "triptych" : [ ]
+    }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "46.133",
@@ -5191,6 +5467,10 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "group portrait" : [ "chemical group", "grouping", "group", "radical", "mathematical group", "aggroup" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "46.359",
@@ -5220,6 +5500,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "46.56",
@@ -5246,11 +5528,15 @@
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
+      "predella" : [ ]
+    }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "47.92",
@@ -5282,6 +5568,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "landscape" : [ "landscape painting" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "47.93",
@@ -5309,6 +5597,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "accession" : "47.94",
@@ -5336,6 +5626,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "accession" : "48.13",
@@ -5416,11 +5708,15 @@
     "synonyms" : [ {
       "view" : [ "position", "eyeshot", "watch", "catch", "prospect", "horizon", "thought", "regard", "panorama", "sentiment", "sight", "purview", "reckon", "aspect", "see", "persuasion", "consider", "vista", "look at", "take in", "survey", "scene", "opinion", "perspective" ]
     }, {
+      "delft" : [ ]
+    }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "accession" : "48.279",
@@ -5506,6 +5802,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "48.4",
@@ -5524,6 +5822,10 @@
     "provenance" : "Willersley, Collection Frederick C. Arkwright;by descent to great grandson of Richard Arkwright, (patron of Wright's) Cromford, Derby;New York, Durlacher Brothers [dealer--by 1948], from whom purchased by the DIA in 1948.",
     "title" : "Matlock Tor by Moonlight",
     "synonyms" : [ {
+      "matlock" : [ ]
+    }, {
+      "tor" : [ ]
+    }, {
       "moonlight" : [ "moonshine", "Moon" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -5553,6 +5855,8 @@
     "synonyms" : [ {
       "flight" : [ "flying", "flight of stairs", "fledge", "flight of steps", "trajectory", "escape" ]
     }, {
+      "into" : [ ]
+    }, {
       "egypt" : [ "United Arab Republic", "Egyptian Empire", "Arab Republic of Egypt" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -5562,6 +5866,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "49.347",
@@ -5592,6 +5898,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "49.463",
@@ -5610,6 +5918,8 @@
     "provenance" : "William, Earl of Lonsdale (died 1872);London, sale of coll. of William, Earl of Lonsdale, Christie's, 13-18 June 1887, lot ? (for 285 guineas);London, Colnaghi's (dealer);London, coll. Mr. and Mrs. Arthur James;London, sale of coll. of Mrs. Arthur James, Christie's, 15 Oct. 1948, lot 85 (for 2400 guineas);London, Thomas Agnew and Sons (dealer);from whom purchased by the Detroit Institute of Arts in 1949.",
     "title" : "The Bath",
     "synonyms" : [ {
+      "bath" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -5640,11 +5950,7 @@
     "provenance" : "Great Britain, Capheaton, Collection Swinburne family, until about 1928;New York, Howard Young Gallery (dealer, 1928); New York, Collection Mrs. Byron C. Foy (daughter of Mrs. Walter P. Chrysler), by whom given to the DIA in 1949. ",
     "title" : "Sir John Edward Swinburne",
     "synonyms" : [ {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "edward" : [ "Albert Edward", "Edward I", "Edward VIII", "Edward VII", "Edward V", "Prince Edward", "Edward III", "Edward IV", "Edward VI", "Black Prince", "Edward II", "Duke of Windsor", "Edward Antony Richard Louis" ]
-    }, {
-      "swinburne" : [ "Algernon Charles Swinburne" ]
+      "sir" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -5653,6 +5959,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "49.508",
@@ -5674,10 +5982,6 @@
     "provenance" : "Great Britain, Capheaton, Collection Swinburne family, until about 1928;New York, Howard Young Gallery (dealer-1928); New York, Collection Mrs. Byron C. Foy (daughter of Mrs. Walter P. Chrysler) by whom given to the DIA in 1949. ",
     "title" : "Edward Swinburne",
     "synonyms" : [ {
-      "edward" : [ "Albert Edward", "Edward I", "Edward VIII", "Edward VII", "Edward V", "Prince Edward", "Edward III", "Edward IV", "Edward VI", "Black Prince", "Edward II", "Duke of Windsor", "Edward Antony Richard Louis" ]
-    }, {
-      "swinburne" : [ "Algernon Charles Swinburne" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -5685,6 +5989,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "49.531",
@@ -5710,6 +6016,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "50.194",
@@ -5729,9 +6037,13 @@
     "provenance" : "London, Collection Sir William Brereton;by descent to Brereton family;by descent to Mr. H. Brereton Trelawny;by descent to Trelawny family;Detroit, Collection Miss P. Trelawny;",
     "title" : "SIR WILLIAM BRERETON, 1579",
     "synonyms" : [ {
+      "sir" : [ ]
+    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
@@ -5789,6 +6101,8 @@
     "synonyms" : [ {
       "playing" : [ "recreate", "bring", "encounter", "run", "wager", "flirt", "toy", "take on", "performing", "make for", "act as", "trifle", "fiddle", "spiel", "work", "diddle", "wreak", "play", "playact", "meet", "playacting", "roleplay", "represent", "dally", "bet", "acting", "act" ]
     }, {
+      "soldier" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -5823,6 +6137,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "50.88",
@@ -5872,6 +6188,8 @@
     "provenance" : "Italy (?), unknown collector/collection;Detroit, Pietro Cardiello, Italian Vice-counsel (d. 1929; purchased it in Italy in the late 19th c.); Detroit, by bequest, Mrs. Pietro Cardiello (1951), from whom acquired for the DIA.",
     "title" : "Street Musicians",
     "synonyms" : [ {
+      "street" : [ ]
+    }, {
       "musicians" : [ "player", "instrumentalist", "musician" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -5910,6 +6228,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "group portrait" : [ "chemical group", "grouping", "group", "radical", "mathematical group", "aggroup" ]
     } ]
   }, {
     "accession" : "51.232",
@@ -5986,6 +6306,8 @@
     }, {
       "head" : [ "guide", "straits", "capitulum", "manoeuvre", "lead", "headway", "manoeuver", "drumhead", "principal", "read/write head", "channelize", "head word", "school principal", "top dog", "question", "mind", "brain", "chief", "direct", "headspring", "channelise", "psyche", "promontory", "head teacher", "fountainhead", "caput", "header", "forefront", "pass", "oral sex", "point", "nous", "headland", "steer", "foreland", "maneuver", "heading", "head up" ]
     }, {
+      "holofernes" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -6013,15 +6335,21 @@
     "synonyms" : [ {
       "agony" : [ "suffering", "excruciation", "torment", "torture" ]
     }, {
+      "garden" : [ ]
+    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "predella" : [ ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "53.352",
@@ -6063,7 +6391,11 @@
     "nationality" : "French",
     "provenance" : "[Possibly from the collection of the Duc de Liancourt?];Paris, Lucien Guiraud (dealer);Paris, coll. Wildenstein;Monsieur Destrem, 20 rue Roquepine, Paris from whom acquired by R. Gimpel on 5 January 1923;Paris, René Gimpel (dealer) from whom purchased by Mr. & Mrs. Edgar B. Whitcomb in 1925 (invoiced 21 July 1925; paid 16 Nov. 1925); Detroit, Collection Mr. and Mrs. Edgar B. Whitcomb, by whom bequeathed to the DIA  in 1953.",
     "title" : "The Goddess Minerva",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "goddess" : [ ]
+    }, {
+      "minerva" : [ ]
+    } ]
   }, {
     "accession" : "53.356",
     "birth" : "1577",
@@ -6081,9 +6413,13 @@
     "provenance" : "Antwerp, collection of the artist, until his death in 1640;Antwerp, Collection Joan Baptista Anthoine, until 1691; inherited by his daughter Isabella Clara (part of lot A in deceased's division of artwork);London, â?�Great Piazzaâ?�, Covent Garden, Collection Dr. Richard Mead (1673-1754), by 1724; London, â?�Great Piazzaâ?�, Covent Garden, auction Mead, 20-22 March 1754, lot 111 (in manuscript catalogue) and lot 53 (in printed catalgoue);  purchased by \"Johnson,\" perhaps on behalf of Fulke Greville;London, Collection R. Fulke Greville; London, auction Fulke Greville (Christie's), 1794, lot 49; purchased by \"Sandilands\"Rome, Private collection (?) until 1829; acquired in Rome by G. J. VernonSudbury Hall, near Derby, Collection (Baron) George John Vernon, acquired 1829; London, auction Baron Vernon (Christie's), 16 April 1831, lot 27 (or 26?), bought in;by descent to the Vernon Family; London, auction Vernon (Sotheby's), 14 June 1922, lot 63 (or 62?); purchased byLondon, Colnaghi (dealer); presumably purchased byNew York, Henry Reinhardt and Son, Inc. (dealer-1926-1927) from whom purchased by Mr. & Mrs. Edgar B. Whitcomb in 1927; Detroit, Collection Mr. and Mrs. Edgar B. Whitcomb, by whom bequeathed to the DIA in 1953. ",
     "title" : "Briseis Given Back to Achilles",
     "synonyms" : [ {
+      "briseis" : [ ]
+    }, {
       "given" : [ "apply", "gift", "grant", "generate", "have", "yield", "give", "granted", "dedicate", "give way", "hand", "open", "break", "throw", "sacrifice", "reach", "leave", "commit", "pay", "feed", "minded", "cave in", "devote", "kick in", "presumption", "founder", "collapse", "apt", "consecrate", "hold", "return", "establish", "contribute", "tending", "render", "pass", "chip in", "ease up", "present", "pass on", "precondition", "move over", "turn over", "make", "impart", "disposed", "fall in", "afford" ]
     }, {
       "back" : [ "second", "punt", "dorsum", "plunk for", "back up", "stake", "plump for", "vertebral column", "cover", "hind", "spinal column", "hinder", "spine", "support", "rear", "book binding", "endorse", "backrest", "game", "gage", "bet on", "rachis", "binding", "indorse", "backbone" ]
+    }, {
+      "achilles" : [ ]
     }, {
       "oak" : [ "oak tree" ]
     }, {
@@ -6098,6 +6434,8 @@
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "literature" : [ "lit" ]
+    }, {
+      "mythology" : [ ]
     }, {
       "allegory" : [ "emblem", "parable", "apologue", "fable" ]
     }, {
@@ -6121,6 +6459,10 @@
     "title" : "View of Dolo on the Brenta",
     "synonyms" : [ {
       "view" : [ "position", "eyeshot", "watch", "catch", "prospect", "horizon", "thought", "regard", "panorama", "sentiment", "sight", "purview", "reckon", "aspect", "see", "persuasion", "consider", "vista", "look at", "take in", "survey", "scene", "opinion", "perspective" ]
+    }, {
+      "dolo" : [ ]
+    }, {
+      "brenta" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -6151,6 +6493,8 @@
     "synonyms" : [ {
       "lady" : [ "gentlewoman", "dame", "noblewoman", "madam", "peeress", "ma'am" ]
     }, {
+      "beechey" : [ ]
+    }, {
       "baby" : [ "child", "mollycoddle", "featherbed", "pamper", "cosset", "infant", "indulge", "spoil", "coddle", "babe", "cocker" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -6158,6 +6502,10 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
+    }, {
+      "double portrait" : [ "forked", "double up", "reduplicate", "duplicate", "look-alike", "doubling", "stunt woman", "image", "double over", "treble", "repeat", "two-bagger", "doubled", "double", "duple", "replicate", "dual", "three-fold", "two-fold", "twofold", "bivalent", "threefold", "two-base hit", "two-baser", "stunt man" ]
     } ]
   }, {
     "accession" : "53.468",
@@ -6212,13 +6560,13 @@
     "provenance" : "England, Gladwin family by descent toEngland, H. Gladwin-Errington (great-great-grandson of sitter) from whom purchased by the DIA in 1953 with funds from Dexter Ferry.",
     "title" : "HENRY GLADWIN",
     "synonyms" : [ {
-      "henry" : [ "William Henry", "Patrick Henry", "H", "Joseph Henry" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "54.1",
@@ -6281,6 +6629,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "interior" : [ "upcountry", "home", "inner", "national", "inside", "midland", "DoI", "Department of the Interior", "internal", "Interior Department" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "54.441",
@@ -6331,13 +6681,13 @@
     "provenance" : "Cornwall, Collection Ralston Melville;New York, Collection S. M. Carper (1928);Grosse Pointe, Collection Mrs. William E. Scripps, by whom given to the DIA in 1954. ",
     "title" : "Ewan Law, M.P.",
     "synonyms" : [ {
-      "law" : [ "practice of law", "jurisprudence", "constabulary", "police", "law of nature", "police force", "natural law", "legal philosophy" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "54.458",
@@ -6452,6 +6802,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "56.183",
@@ -6477,6 +6829,8 @@
       "study" : [ "field of study", "work", "sketch", "examine", "hit the books", "subject", "learn", "contemplate", "bailiwick", "written report", "field", "analyze", "canvass", "subject area", "consider", "take", "report", "read", "survey", "meditate", "discipline", "subject field", "cogitation", "analyse" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     }, {
       "figure" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
     } ]
@@ -6528,6 +6882,8 @@
     "synonyms" : [ {
       "landscape" : [ "landscape painting" ]
     }, {
+      "sheep" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -6558,8 +6914,6 @@
     "provenance" : "Paris, Baron Maurice de Rothschild; sold toNew York, Rosenberg & Steibel (dealer), by 1955, from whom purchased by the DIA in 1956.",
     "title" : "Madonna and Child with Angels",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "angels" : [ "Angel Falls", "angel", "holy person", "backer", "Angel", "holy man", "saint" ]
@@ -6571,6 +6925,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "57.1",
@@ -6602,6 +6958,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "57.17",
@@ -6623,10 +6981,6 @@
     "provenance" : "Munich, auction (Helbing) May 3, 1909, lot 59;Blaschkow, Collection G. von Mallamann (1910);Budapest, Collection Baron Leopold Maurus Herzog (aka Mor Lipot); Vienna, Collection Oscar Bondy (Bondy collection confiscated by the Nazis in Vienna in 1939 but was restituted to Bondy's widow, Elizabeth A. Bondy in 1947);New York, auction Estate of Oscar Bondy (Kende Galleries) March 3, 1949, lot 66;New York, Julius Weitzner (dealer) by whom given to the DIA in 1957. ",
     "title" : "Laban Searching for His Gods",
     "synonyms" : [ {
-      "laban" : [ "Rudolph Laban" ]
-    }, {
-      "searching" : [ "look", "explore", "probing", "search", "trenchant", "inquisitory", "research", "look for", "seek" ]
-    }, {
       "gods" : [ "god", "divinity", "immortal", "deity", "God", "Supreme Being", "idol", "graven image" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -6634,6 +6988,8 @@
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "mythology" : [ ]
     } ]
   }, {
     "accession" : "57.180",
@@ -6653,6 +7009,8 @@
     "title" : "Girl with a Mandolin",
     "synonyms" : [ {
       "girl" : [ "little girl", "young woman", "missy", "female child", "fille", "girlfriend", "daughter", "young lady", "miss", "lady friend" ]
+    }, {
+      "mandolin" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -6737,11 +7095,17 @@
     "provenance" : "London, Alfred Brod Gallery (dealer-1958);Detroit, Collection Mr. & Mrs. Arthur Fleischman, by whom given to the DIA in 1958.",
     "title" : "Vanitas",
     "synonyms" : [ {
+      "vanitas" : [ ]
+    }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
+    }, {
+      "vanitas" : [ ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     } ]
@@ -6762,9 +7126,15 @@
     "provenance" : "(?) Antwerp, auction J.-F. Wolschot (A. van Camp & Martinez) September 1, 1817, lot 279;London, Alfred Brod Ltd (dealer), by whom given to the DIA in Dec. 1958.",
     "title" : "Vanitas",
     "synonyms" : [ {
+      "vanitas" : [ ]
+    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
+    }, {
+      "vanitas" : [ ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     } ]
@@ -6792,6 +7162,8 @@
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "mother and child" : [ "female parent", "generate", "get", "mother", "bring forth", "fuss", "sire", "overprotect", "beget", "engender", "father" ]
     }, {
       "genre" : [ "musical genre", "musical style", "writing style", "literary genre", "music genre" ]
     } ]
@@ -6852,6 +7224,8 @@
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "60.63",
@@ -6877,6 +7251,8 @@
       "handing" : [ "hand", "pass on", "reach", "give", "turn over", "pass" ]
     }, {
       "letter" : [ "letter of the alphabet", "varsity letter", "alphabetic character", "missive" ]
+    }, {
+      "uriah" : [ ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
@@ -6939,6 +7315,10 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "heraldry" : [ ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "61.347",
@@ -6960,8 +7340,6 @@
     "provenance" : "Florence, Bellini (dealer), according to photograph in Witt Library, London;Berlin, Paul Bottenweiser (dealer-1927);Detroit, Collection Julius H. Haass (d. 4/17/30);Detroit, by inheritance, Collection Lillian Henkel Haass, by whom given to the DIA in 1961.",
     "title" : "Madonna and Child",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -6971,6 +7349,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "61.397",
@@ -7002,6 +7382,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "64.116",
@@ -7023,6 +7405,8 @@
       "gathering" : [ "garner", "pull together", "assembly", "foregather", "cumulate", "tuck", "meet", "assemblage", "conglomerate", "gain", "forgather", "get together", "assemble", "gather", "pucker", "accumulate", "pile up", "amass", "collect" ]
     }, {
       "fruit" : [ "yield" ]
+    }, {
+      "mortefontaine" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -7049,6 +7433,8 @@
     "provenance" : "Chicago,Henry Reinhardt Galleries (dealer-1913) from whom purchased by Ms. Stella Ford (later Mrs. Joseph B. Schlotman) on November 8, 1913 for $31,500.00.Detroit, Collection Mrs. Joseph B. Schlotman by whom given to the DIA in 1964.",
     "title" : "The Glebe Farm",
     "synonyms" : [ {
+      "glebe" : [ ]
+    }, {
       "farm" : [ "raise", "grow", "produce" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -7107,6 +7493,8 @@
     "provenance" : "Paris, Galerie Charles Sedelmeyer (dealer-1895);Paris, auction (Ch. Sedelmeyer), 25 May, 1907, lot. 137, repr. (sold for frs. 5650);New York, Blakeslee Galleries (dealer-1915);New York, auction Blakeslee Galleries (American Art Association) 21 April, 1915, lot. 81, repr, bought by Joseph Breck (on behalf of the MIA) for $375;Minneapolis, The Minneapolis Institute of Arts, inv. 15.21 (deaccessioned in 1956 and bought by Victor SparkNew York, Victor Spark (dealer-1956-1957).Grosse Point, Collection Mr. David B. Moreing, by whom given to the D.I.A. in 1964.",
     "title" : "The Sinfonia",
     "synonyms" : [ {
+      "sinfonia" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -7147,6 +7535,8 @@
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "65.10",
@@ -7201,6 +7591,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "65.386",
@@ -7226,6 +7618,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "65.9",
@@ -7244,6 +7638,8 @@
     "provenance" : "Monaco or Southern France, Private collection (n.d.);Nice, Art market (sold c. 1960);Italy, Private collection;London, P. & D. Colnaghi & Co., 1963, by whom sold to the DIA 10/2/1965.",
     "title" : "Solomon Worshiping the Pagan Gods",
     "synonyms" : [ {
+      "solomon" : [ ]
+    }, {
       "worshiping" : [ "idolise", "revere", "idolize", "worship", "hero-worship" ]
     }, {
       "pagan" : [ "ethnic", "gentile", "pleasure seeker", "heathen", "hedonist", "heathenish", "infidel" ]
@@ -7279,6 +7675,8 @@
     }, {
       "catherine" : [ "Catherine of Aragon", "Catherine the Great", "Catherine II" ]
     }, {
+      "siena" : [ ]
+    }, {
       "dictating" : [ "dictate", "order", "prescribe" ]
     }, {
       "dialogues" : [ "negotiation", "dialogue", "talks", "dialog", "duologue" ]
@@ -7292,6 +7690,8 @@
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "66.191",
@@ -7322,6 +7722,8 @@
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
     } ]
   }, {
@@ -7341,6 +7743,8 @@
     "provenance" : "Paris, Baron James de Rothschild (d. 1868);By descent to Baron Henri de Rothschild;Paris, auction, Baron Henri de Rothschild (HÃ´tel Drouot), June 15-16, 1933, lot 42, repr.; Paris, Jean Bloch (n.d.);Paris, Galerie Charpentier, by 1957;New York, Jacques Seligmann and Co., (dealer, Spring 1964-1966), from whom purchased by the DIA with funds from Rosemarie and Ernest Kanzler, Detroit.",
     "title" : "AN ALDERMAN OF PARIS",
     "synonyms" : [ {
+      "alderman" : [ ]
+    }, {
       "paris" : [ "capital of France", "genus Paris", "City of Light", "French capital" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -7348,6 +7752,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -7416,6 +7822,8 @@
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "mythology" : [ ]
     } ]
   }, {
     "accession" : "67.114",
@@ -7457,6 +7865,10 @@
     "provenance" : "Great Britain, Collection Count de Aulby (n.d.); Great Britain, Collection Wilbur Foshay (n.d.); Brown and Bigelow (dealer, n.d.);New York, Robert Edward Peters (by 1965);New York, Max Schweitzer (dealer, 1968), from whom purchased by the DIA Founders Society.",
     "title" : "Celadon and Amelia",
     "synonyms" : [ {
+      "celadon" : [ ]
+    }, {
+      "amelia" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -7497,6 +7909,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "68.298",
@@ -7541,8 +7955,6 @@
     "provenance" : "Paris, Collection Dr. Marcel Lermoyez;New York, Howard Young Galleries (1928); Detroit, Collection Mr. and Mrs. Lawrence P. Fisher, by whom bequeathed to the DIA. ",
     "title" : "Titus, Rembrandt's Son",
     "synonyms" : [ {
-      "titus" : [ "Titus Vespasianus Augustus", "Epistle to Titus", "Titus Flavius Vespasianus", "Epistle of Paul the Apostle to Titus" ]
-    }, {
       "rembrandts" : [ "Rembrandt van Rijn", "Rembrandt van Ryn", "Rembrandt Harmensz van Rijn", "Rembrandt" ]
     }, {
       "son" : [ "Word", "Logos", "boy" ]
@@ -7576,6 +7988,10 @@
     "provenance" : "Paris, Count Henri de Castellane, by 1925;Paris, Galerie Cailleux;New York, Howard Young coll., 1928;Detroit, Mr. and Mrs. Lawrence P. Fisher, perhaps before 1930;given by them to D.I.A. 1968",
     "title" : "THE COUNTESS DE BRAC AS AURORA",
     "synonyms" : [ {
+      "countess" : [ ]
+    }, {
+      "brac" : [ ]
+    }, {
       "aurora" : [ "dayspring", "first light", "break of the day", "dawning", "dawn", "break of day", "sunup", "sunrise", "daybreak", "morning", "cockcrow" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -7583,6 +7999,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarters" : [ "3", "draw", "billet", "draw and quarter", "three", "three-quarters", "three-fourths", "iii", "canton", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
@@ -7641,6 +8059,8 @@
       "violin" : [ "fiddle" ]
     }, {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
+    }, {
+      "cecilia" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -7708,6 +8128,8 @@
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
     } ]
   }, {
@@ -7727,6 +8149,8 @@
     "provenance" : "(?) Collection Jacques Augustin de Silvestre, drawing master to the royal family (according to Grisebach); (?) Paris, auction Silvestre (Regnault) 28 February-25 March, 1811, lot 39 sold with Grisebach no. 28 for frs. 167 (according to Grisebach);Paris, Collection Mr. Lavallée (Secretary General for French Museums); Paris, auction Lavallée (Paillet & Bénard), 9 March, 1811, lot 8 sold together with Grisebach no. 28 for frs. 200;Berlin, auction (Lepke) 7 May, 1895, lot 306 (Kupferkessel und GemÃ¼se bei einem KÃ¼chenschranke, im Hintergrund KÃ¶chin einen Korb tragend), (Grisebach no. 28 was lot 305 in this sale);Probably Munich, auction (Helbing), 25 April, 1904, lot 60 (but according to Grisebach this could also refer to cat. 28);New York, Arnold, Seligman, Rey and Co. (dealer, 1935); Detroit, Collection E. Raymond Field (sold in 1964); Detroit, Collection Mr. and Mrs. Bernard F. Walker (1964), by whom given to the DIA in 1969 in memory of Robert H. Tannahill.",
     "title" : "A Kitchen Corner",
     "synonyms" : [ {
+      "kitchen" : [ ]
+    }, {
       "corner" : [ "street corner", "tree", "recession", "niche", "turning point", "quoin", "recess", "box", "nook" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -7769,6 +8193,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "70.158",
@@ -7818,6 +8244,10 @@
     "synonyms" : [ {
       "bank" : [ "look", "depository financial institution", "rely", "count", "deposit", "depend", "calculate", "money box", "bank building", "reckon", "banking concern", "coin bank", "banking company", "cant", "bet", "swear", "savings bank", "camber" ]
     }, {
+      "oise" : [ ]
+    }, {
+      "auvers" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -7843,6 +8273,8 @@
     "provenance" : "Paris, Ambroise Vollard, (dealer);Paris, Collection Auguste Pellerin;Merion, PA, Collection Dr. Albert C. Barnes;Paris, Étienne Bignou, (dealer);New York, Knoedler & Co., (dealer);Detroit, Collection Robert H. Tannahill by whom bequeathed to the DIA in 1970. ",
     "title" : "Madame Cezanne",
     "synonyms" : [ {
+      "madame" : [ ]
+    }, {
       "cezanne" : [ "Paul Cezanne" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -7850,6 +8282,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -7870,6 +8304,10 @@
     "provenance" : "Paris, Ambroise Vollard, (dealer);New York, Knoedler and Company (dealer-1933) from whom purchased by R. H. Tannahill in 1933; Detroit, Collection Robert H. Tannahill, by whom bequeathed to the DIA in 1970.",
     "title" : "Mont Sainte-Victoire",
     "synonyms" : [ {
+      "mont" : [ ]
+    }, {
+      "saintevictoire" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -7933,6 +8371,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "70.164",
@@ -7960,6 +8400,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "accession" : "70.165",
@@ -7982,11 +8424,15 @@
     }, {
       "girl" : [ "little girl", "young woman", "missy", "female child", "fille", "girlfriend", "daughter", "young lady", "miss", "lady friend" ]
     }, {
+      "mandolin" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -8017,13 +8463,21 @@
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
+      "oil crayon" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour", "oil" ]
+    }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
+      "pastel crayon" : [ "pastel", "crayon" ]
+    }, {
       "crayon" : [ "wax crayon" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "music" : [ "euphony", "medicine" ]
+    }, {
+      "double portrait" : [ "forked", "double up", "reduplicate", "duplicate", "look-alike", "doubling", "stunt woman", "image", "double over", "treble", "repeat", "two-bagger", "doubled", "double", "duple", "replicate", "dual", "three-fold", "two-fold", "twofold", "bivalent", "threefold", "two-base hit", "two-baser", "stunt man" ]
     } ]
   }, {
     "accession" : "70.168",
@@ -8044,11 +8498,15 @@
     "synonyms" : [ {
       "woman" : [ "cleaning woman", "womanhood", "cleaning lady", "char", "fair sex", "charwoman", "adult female" ]
     }, {
+      "headband" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "70.173",
@@ -8067,6 +8525,8 @@
     "provenance" : "Paris, Collection of the artist (Manet Estate Inventory, no. 59); Lochard (unnumbered photograph); Guérard; Paris, Galerie Bernheim-Jeune, (dealer), bt. August Pellerin, 20 September, 1904;Paris, Collection Auguste Pellerin; Berlin, Galerie Paul Cassirer, (dealer), 1905; Paris, Galerie Bernheim-Jeune, (dealer), 1905;Paris, Galerie Durand-Ruel, (dealer), 1906; Vienna, Miethke, (dealer), 1910; Berlin, Collection Hugo Perls, by at least 1927; (?) Between A. Pellerin in 1904 and Mauthner-Markhof by 1928, it may have been with a \"M. Salzburg\";Vienna, Collection Mlle Magda von Mauthner-Markhof, by at least 1928; Paris, E. Bignou, (dealer); Paris, Paul Guillaume, (dealer), by at least 1931; New York, Wildenstein, (dealer), 1933-1935, from whom purchased by Robert H. Tannahill in October,1935; Grosse Pointe Farms Collection Robert H. Tannahill, by whom bequeathed to The Detroit Institute of Arts in 1970. ",
     "title" : "ON THE BEACH",
     "synonyms" : [ {
+      "beach" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -8125,6 +8585,8 @@
     "synonyms" : [ {
       "white" : [ "Theodore Harold White", "E. B. White", "Andrew Dickson White", "albumen", "gabardine", "White person", "bloodless", "tweed", "Edward D. White", "whitened", "livid", "egg white", "Caucasian", "clean", "blanched", "Edward White", "white-hot", "White River", "whiten", "Elwyn Brooks White", "flannel", "whiteness", "blank", "T. H. White", "Patrick Victor Martindale White", "Stanford White", "ashen", "snowy", "lily-white", "Edward Douglas White Jr.", "Andrew D. White", "ovalbumin", "Patrick White" ]
     }, {
+      "pierrot" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -8132,6 +8594,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "70.183",
@@ -8151,6 +8615,10 @@
     "title" : "View of Le Crotoy from Upstream",
     "synonyms" : [ {
       "view" : [ "position", "eyeshot", "watch", "catch", "prospect", "horizon", "thought", "regard", "panorama", "sentiment", "sight", "purview", "reckon", "aspect", "see", "persuasion", "consider", "vista", "look at", "take in", "survey", "scene", "opinion", "perspective" ]
+    }, {
+      "crotoy" : [ ]
+    }, {
+      "upstream" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -8211,10 +8679,6 @@
     "synonyms" : [ {
       "honorable" : [ "honourable", "estimable", "ethical", "good", "respectable", "honest" ]
     }, {
-      "savage" : [ "brutal", "wild", "barbaric", "fell", "uncivilized", "ferocious", "blast", "wildcat", "roughshod", "feral", "cruel", "beast", "brute", "uncivilised", "wolf", "fierce", "vicious", "furious", "ferine", "pillory", "barbarous", "crucify", "barbarian" ]
-    }, {
-      "nassau" : [ "capital of the Bahamas" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -8222,6 +8686,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "71.170",
@@ -8245,8 +8711,6 @@
     "synonyms" : [ {
       "lady" : [ "gentlewoman", "dame", "noblewoman", "madam", "peeress", "ma'am" ]
     }, {
-      "hamilton" : [ "Alice Hamilton", "Lady Emma Hamilton", "Alexander Hamilton", "Amy Lyon", "William Rowan Hamilton", "Sir William Rowan Hamilton" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -8254,6 +8718,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "71.171",
@@ -8277,6 +8743,8 @@
     "synonyms" : [ {
       "lady" : [ "gentlewoman", "dame", "noblewoman", "madam", "peeress", "ma'am" ]
     }, {
+      "rowley" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -8284,6 +8752,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "71.30",
@@ -8313,6 +8783,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "71.301",
@@ -8331,6 +8803,8 @@
     "provenance" : "England, private collection (n.d.);Collection Hennessy (1878);Grosse Pointe, MI, Degrimme Art Gallery (dealer-1971);Detroit, Collection Dr. & Mrs. Coleman Mopper, by whom given to the DIA in 1971 (purchased by DIA with funds provided by Moppers?).",
     "title" : "A Cove with Fishermen",
     "synonyms" : [ {
+      "cove" : [ ]
+    }, {
       "fishermen" : [ "fisher", "fisherman" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -8358,6 +8832,8 @@
     "provenance" : "Possibly Paris, the HÃ´tel de Mortemart-Rochechouart in the 18th century;?northern France, private collection; Paris, Baron Roger Portalis;Paris, Eugen Kraemer [sic] by 1907; his sale Paris, sale Eugène Kraemer [sic], 5-6 May 1913, lot 32 (with 71.391-393 and 2 other canvases from the same series; sale cat. is annotated to say they were purchased by \"Lévy\"; below this (later?) was written \"Judge Garry, NY\"); [New York, Wildenstein, dealer, with E. Gimpel, by 1914]; New York, Judge Elbert H. Gary (d. Aug. 15, 1927);[New York, Duveen Brothers, dealer];Grosse Pointe Farms, Anna Thomson Dodge, acquired 1935; her saleLondon, Christie's, 25 June 1971, lot 6, purchased by DIA ",
     "title" : "The Shepherdess",
     "synonyms" : [ {
+      "shepherdess" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -8468,6 +8944,10 @@
     }, {
       "plumed" : [ "fleece", "hook", "overcharge", "plume", "primp", "surcharge", "pluck", "preen", "crested", "gazump", "rob", "pride", "dress", "soak", "plumate", "congratulate", "plumy", "plumose" ]
     }, {
+      "beret" : [ ]
+    }, {
+      "gorget" : [ ]
+    }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -8476,7 +8956,11 @@
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "72.222",
@@ -8497,6 +8981,8 @@
     "synonyms" : [ {
       "flight" : [ "flying", "flight of stairs", "fledge", "flight of steps", "trajectory", "escape" ]
     }, {
+      "into" : [ ]
+    }, {
       "egypt" : [ "United Arab Republic", "Egyptian Empire", "Arab Republic of Egypt" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -8506,6 +8992,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "72.296",
@@ -8524,11 +9012,17 @@
     "provenance" : "Paris, Sold as part of lot 3 at the Villers sale, Dec. 2, 1795, held at \"Salle de vente, rue FranÃ§aise no. 13, près celle du Petit-Lion\" (very likely consigned by Lagrenée himself; this lot was part of the appendix to the sale and was almost certainly not the property of Villers himself);Paris, auction Dubourg, 1869;Paris, auction (HÃ´tel Drouot), 23 March 1908, lot 31, repr. (titled La Sculpture--bought by Lesour de Villers);(?) Paris, Galerie Joseph Hahn (acc. to Loves of the Gods exh. cat., p. 502);New York, H. Shickman Gallery (dealer-1972) from whom purchased by the DIA in 1972.NB:  Although once listed here, our painting was not in the Paris, Péreire 1872 auction.  The painting of this subject in that sale measured 104 x 85 cm and was signed and dated 1777.  This is likely the Helsinki painting.",
     "title" : "Pygmalion and Galatea",
     "synonyms" : [ {
+      "pygmalion" : [ ]
+    }, {
+      "galatea" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "mythology" : [ ]
     } ]
   }, {
     "accession" : "72.434",
@@ -8558,6 +9052,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "72.465",
@@ -8618,6 +9114,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "73.169",
@@ -8636,13 +9134,21 @@
     "provenance" : "France, Collection Countess Berthilde-Victoire-Angélique de Cambourg;By inheritance to the grandson of the sitter (in whose collection Mme Lanvin saw the picture in 1967 and into the early 1970s);Paris, Galerie Jacques Fischer (dealer-1973) from whom purchased by the DIA in 1973.",
     "title" : "Madame Louis Antoine de Cambourg",
     "synonyms" : [ {
+      "madame" : [ ]
+    }, {
       "louis" : [ "Joseph Louis Barrow", "Joe Louis" ]
+    }, {
+      "antoine" : [ ]
+    }, {
+      "cambourg" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -8666,7 +9172,7 @@
     "provenance" : "Arezzo, Collection Panzani Family;Legally exported through the dogana in Milan in 1897;Collection Indalecio GÃ³mez, Argentine Ambassador to Berlin (acquired in Paris between 1904-1909); Salta Province and subsequently Buenos Aires, Argentina, by descent, Collection Carlos GÃ³mez de Alzaga, grandson of Indalecio (1973);London, auction, Ambassador Carlos GÃ³mez de Alzaga [Christie's] 25 June 1971, lot 21 (bought in);Sold by owner, C. GÃ³mez de Alzaga, to the DIA in 1973 (through David Carritt).",
     "title" : "MARTHA AND MARY MAGDALENE",
     "synonyms" : [ {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
+      "martha" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -8679,6 +9185,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "73.5",
@@ -8708,6 +9216,8 @@
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "figure" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "73.59",
@@ -8753,6 +9263,8 @@
     "provenance" : "Paris, Jacques Blot, (dealer, n.d.), not in collection in 1924;Amsterdam, E. G. Van Wisselingh and Co. (dealer, n.d.);New York, Hammer Galleries, (dealer, 1966);Detroit/Miami, Collection Mr. and Mrs. Lee Hills, by whom given to the DIA in 1974.",
     "title" : "Schoolboy",
     "synonyms" : [ {
+      "schoolboy" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -8760,6 +9272,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "74.241",
@@ -8781,19 +9295,21 @@
     "provenance" : "Scotland, Collection Sir James Montgomery, 2nd Baronet of Stanhope;by descent to his daughter (by first wife Elizabeth Dunbar) Helen-Ann, m. William Forbes-Mackenzie, 1830;by descent to their son, Colin J. Mackenzie, Esq., Portmore, until at least 1876;Brighton, Brighton Art Galleries, (on loan from the Trustees of the late C.J. Mackenzie, Esq., of Portmore,) until at least 1911;London, Leggatt Gallery (dealer-1927); New York, Howard Young Galleries, (dealer-1928); Detroit, Collection Mr. and Mrs. Charles T. Fisher, by whom given to the DIA in 1961.   ",
     "title" : "Sir James Montgomery, Second Baronet of Stanhope",
     "synonyms" : [ {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "montgomery" : [ "Lucy Maud Montgomery", "Sir Bernard Law Montgomery", "L. M. Montgomery", "capital of Alabama", "Bernard Law Montgomery", "1st Viscount Montgomery of Alamein" ]
+      "sir" : [ ]
     }, {
       "second" : [ "2nd", "mo", "moment", "second gear", "back", "endorse", "minute", "bit", "second base", "s", "arcsecond", "secondment", "sec", "2d", "irregular", "indorsement", "endorsement", "instant", "indorse" ]
     }, {
       "baronet" : [ "Bart" ]
+    }, {
+      "stanhope" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -8880,6 +9396,8 @@
     }, {
       "sea" : [ "ocean" ]
     }, {
+      "galilee" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -8887,6 +9405,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "76.23",
@@ -8905,6 +9425,8 @@
     "provenance" : "Paris, Collection J.V., 1857; Paris, auction M. V. J (van Isacker or Isaac) (Hotel Drouot) 24 April, 1857, lot 5 (L'Enfant au Tambour), sold for F frs 5825;Paris, Private Collection, 1880;(?) Possibly USA, private collection (1880s); New York, Ira Spanierman, Inc., (dealer, by 1967, until 1976), from whom purchased by the DIA. ",
     "title" : "DRUMMER BOY",
     "synonyms" : [ {
+      "drummer" : [ ]
+    }, {
       "boy" : [ "male child", "son" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -8992,6 +9514,8 @@
     "provenance" : "(?) Fiesoli, Convent of San Domenico;(?) Possibly collection Cardinal Desiderio Scaglia (1621);Paris, collection Baron Dominique-Vivant Denon;Paris, auction Baron Vivant Denon, 1 May 1826, lot 41;Great Britain, Fonthill Abbey, Collection William Beckford;By inheritance, daughter of Beckford;Glasgow, Hamilton Palace, collection Duke of Hamilton (entered collection through marriage to Beckford's daughter);Glasgow, Hamilton Palace, collection Duke of Hamilton;London, auction, 12th Duke of Hamilton (Christie's) 24 June 1882, lot 356; acquired by Winckworth [collector?, dealer?], 1882;London, collection John Edward Taylor;London, auction (Christie's) 5 July 1912, lot 11;Paris, Galerie Sedelmeyer (until after 1913);New York, collection Carl W. Hamilton;Detroit, Grosse Pointe Farms, collection Mr. and Mrs. Edsel Ford (1925); bequeathed by Eleanor Clay Ford to the Detroit Institute of Arts in 1977).",
     "title" : "Annunciatory Angel",
     "synonyms" : [ {
+      "annunciatory" : [ ]
+    }, {
       "angel" : [ "Angel Falls", "holy person", "backer", "holy man", "saint" ]
     }, {
       "metal" : [ "metallic element", "alloy", "metallic" ]
@@ -9002,11 +9526,15 @@
     }, {
       "gold" : [ "Au", "gilt", "amber", "aureate", "gilded", "atomic number 79", "golden" ]
     }, {
+      "gold leaf" : [ "riff", "flick", "gilt", "aureate", "gold", "leaf", "gilded", "thumb", "golden", "flip", "riffle" ]
+    }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "77.1.2",
@@ -9037,11 +9565,15 @@
     }, {
       "gold" : [ "Au", "gilt", "amber", "aureate", "gilded", "atomic number 79", "golden" ]
     }, {
+      "gold leaf" : [ "riff", "flick", "gilt", "aureate", "gold", "leaf", "gilded", "thumb", "golden", "flip", "riffle" ]
+    }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "77.2",
@@ -9072,9 +9604,13 @@
     }, {
       "gold" : [ "Au", "gilt", "amber", "aureate", "gilded", "atomic number 79", "golden" ]
     }, {
+      "gold leaf" : [ "riff", "flick", "gilt", "aureate", "gold", "leaf", "gilded", "thumb", "golden", "flip", "riffle" ]
+    }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "77.3",
@@ -9096,8 +9632,6 @@
     "provenance" : "Perugia, Collection Francesco Baglioni, 1784;Florence, Giovanni Metzgar (dealer-1828); Bavaria, Collection Ludwig I, King of Bavaria, by 1831; Munich, Alte Pinakothek (acc. no. 1036), placed on deposit in 1850 following Ludwig I's abidcation in 1848;Munich, Galerie Drey, (dealer--1925);London/New York, Duveen Bros., (dealer--1925);New York, Collection John D. Rockefeller, Jr. (acquired from Duveen in 1927 and returned to same dealer, by exchange, in 1930);New York, Duveen Bros., (dealer--1930), from whom purchased by Edsel & Eleanor Ford;Detroit, Collection Mr. and Mrs. Edsel B. Ford, 1932, and bequeathed byEleanor Clay Ford to the DIA in 1977. ",
     "title" : "Madonna and Child",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -9109,6 +9643,8 @@
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "77.4",
@@ -9136,6 +9672,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "77.6",
@@ -9159,8 +9697,6 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "boswell" : [ "James Boswell" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -9168,6 +9704,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "77.7",
@@ -9191,8 +9729,6 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "paul" : [ "Apostle Paul", "Alice Paul", "Saul", "Saul of Tarsus", "Apostle of the Gentiles", "St. Paul", "Paul the Apostle", "Saint Paul" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -9200,6 +9736,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "77.72",
@@ -9246,8 +9784,6 @@
     "provenance" : "Chadley, Wellesbourne, Warwickshire, London, Collection Colonel Bernard Granville, D.S.O.,; New York, Duveen Brothers Inc., (dealers) bt. Mr. & Mrs. Edsel Ford, 1928; Detroit, (Grosse Pointe Farms), Collection Mr. & Mrs. Edsel Ford;by descent to Eleanor Clay Ford, by whom bequeathed to the DIA in 1977.",
     "title" : "John Granville",
     "synonyms" : [ {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -9255,6 +9791,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "77.81",
@@ -9286,6 +9824,8 @@
       "tempera" : [ "poster paint", "poster colour", "poster color" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "accession" : "78.10",
@@ -9315,6 +9855,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "mythology" : [ ]
     } ]
   }, {
     "accession" : "78.11",
@@ -9365,8 +9907,6 @@
     "provenance" : "Florence, (?) private collector (n.d., see \"Inscriptions\" for seal at one time on verso of painting);Ireland, County Wicklow, Coll. Major J. McVeagh, (1924);Sotheby's London, 20 April 1977;London, Julius Weitzner and Colnaghi (dual ownership, dealers, 1977), from whom purchased by DIA via Stabilimento Falivo, Vaduz (Liechtenstein) and Zurich.",
     "title" : "Madonna and Child",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -9376,6 +9916,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "accession" : "78.44",
@@ -9412,6 +9954,8 @@
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
+    }, {
       "animalia" : [ "kingdom Animalia", "animal kingdom" ]
     } ]
   }, {
@@ -9433,6 +9977,8 @@
     "synonyms" : [ {
       "leisure" : [ "leisure time" ]
     }, {
+      "hours" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -9440,6 +9986,10 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "group portrait" : [ "chemical group", "grouping", "group", "radical", "mathematical group", "aggroup" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "accession" : "78.67",
@@ -9469,6 +10019,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "religion" : [ "faith", "religious belief", "organized religion" ]
+    }, {
+      "christian" : [ ]
     } ]
   } ]
 }

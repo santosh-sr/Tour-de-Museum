@@ -14,6 +14,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000128/159265_1302302.jpg",
     "synonyms" : [ {
+      "icebound" : [ ]
+    }, {
       "falls" : [ "go down", "waterfall", "return", "precipitate", "come", "shine", "lessen", "flow", "hang", "pass", "strike", "diminish", "fall", "fall down", "accrue", "descend", "settle", "light", "decrease", "devolve", "come down" ]
     } ]
   }, {
@@ -32,6 +34,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000068/36869_591193.jpg",
     "synonyms" : [ {
       "last" : [ "live on", "final", "last-place", "death", "utmost", "net", "stopping point", "cobbler's last", "close", "hold out", "finish", "finale", "terminal", "survive", "finis", "endure", "conclusion", "hold up", "concluding", "shoemaker's last", "lowest", "end", "live", "go" ]
+    }, {
+      "supper" : [ ]
     } ]
   }, {
     "birth" : "1872",
@@ -47,7 +51,9 @@
     "date" : "1922",
     "medium" : "Oil on ivory",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000157/9020_1691888.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "timebinder" : [ ]
+    } ]
   }, {
     "birth" : "1884",
     "title" : "Path by the Sea",
@@ -82,6 +88,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/984_1585014.jpg",
     "synonyms" : [ {
+      "among" : [ ]
+    }, {
       "redwoods" : [ "sequoia", "redwood" ]
     } ]
   }, {
@@ -121,6 +129,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000156/7918_1679754.jpg",
     "synonyms" : [ {
       "end" : [ "stop", "terminate", "last", "remnant", "death", "cease", "destruction", "oddment", "goal", "ending", "close", "remainder", "finish", "terminal", "conclusion", "closing" ]
+    }, {
+      "street" : [ ]
     } ]
   }, {
     "birth" : "1882",
@@ -158,10 +168,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3432_1617303.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
-    }, {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "block" : [ "pulley", "stop", "occlusion", "blockage", "stymy", "immobilize", "blank out", "block up", "choke up", "parry", "occlude", "draw a blank", "deflect", "obstruct", "stymie", "barricade", "engine block", "stoppage", "hinder", "jam", "lug", "cylinder block", "pulley block", "impede", "block off", "mental block", "embarrass", "close up", "auction block", "immobilise", "blocking", "stuff", "city block", "freeze", "kibosh", "pulley-block", "closure", "cube", "halt", "bar", "obturate", "blockade", "forget" ]
     } ]
   }, {
     "birth" : "1856",
@@ -254,6 +260,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/1822_1594976.jpg",
     "synonyms" : [ {
+      "sacramental" : [ ]
+    }, {
       "trees" : [ "Sir Herbert Beerbohm Tree", "tree diagram", "tree", "corner", "Tree", "shoetree" ]
     } ]
   }, {
@@ -294,8 +302,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000158/9819_1699462.jpg",
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
-    }, {
-      "martin" : [ "Dino Paul Crocetti", "Steve Martin", "St. Martin", "Mary Martin", "Dean Martin" ]
     } ]
   }, {
     "birth" : "1904",
@@ -311,7 +317,9 @@
     "date" : "1936",
     "medium" : "Egg tempera on panel",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2048_1598645.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "mocho" : [ ]
+    } ]
   }, {
     "birth" : "1862",
     "title" : "Barnacles",
@@ -343,7 +351,9 @@
     "date" : "1917",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2038_1598483.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "querena" : [ ]
+    } ]
   }, {
     "birth" : "1899",
     "title" : "Landscape",
@@ -381,6 +391,8 @@
       "hickory" : [ "hickory tree" ]
     }, {
       "leaves" : [ "result", "provide", "allow", "depart", "pull up stakes", "give", "leafage", "go away", "lead", "leaf", "get out", "leave", "foliage", "leave alone", "entrust", "go forth", "go out", "exit", "pass on", "folio", "allow for", "leave behind", "will", "let alone", "forget", "impart", "bequeath" ]
+    }, {
+      "daisy" : [ ]
     } ]
   }, {
     "birth" : "1898",
@@ -423,6 +435,8 @@
       "harbor" : [ "seaport", "nurse", "hold", "harbour", "haven", "entertain", "shield" ]
     }, {
       "pier" : [ "wharf", "dock", "wharfage" ]
+    }, {
+      "brighton" : [ ]
     } ]
   }, {
     "birth" : "1897",
@@ -459,6 +473,8 @@
       "golden" : [ "favourable", "lucky", "prosperous", "gilt", "halcyon", "aureate", "gold", "fortunate", "gilded", "favorable" ]
     }, {
       "sea" : [ "ocean" ]
+    }, {
+      "garden" : [ ]
     } ]
   }, {
     "birth" : "1853",
@@ -474,7 +490,11 @@
     "date" : "1876",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000157/8591_1687307.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "nantasket" : [ ]
+    }, {
+      "beach" : [ ]
+    } ]
   }, {
     "birth" : "1883",
     "title" : "Jean Bellows",
@@ -510,6 +530,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4362_1630856.jpg",
     "synonyms" : [ {
       "cave" : [ "spelunk", "undermine" ]
+    }, {
+      "canem" : [ ]
     } ]
   }, {
     "birth" : "1836",
@@ -544,6 +566,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2503_1603923.jpg",
     "synonyms" : [ {
       "song" : [ "call", "vocal", "birdcall", "strain", "Sung", "birdsong", "Sung dynasty", "Song dynasty" ]
+    }, {
+      "poet" : [ ]
     } ]
   }, {
     "birth" : "1906",
@@ -559,7 +583,9 @@
     "date" : "1942",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000161/17793_1737362.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "river" : [ ]
+    } ]
   }, {
     "birth" : "1883",
     "title" : "The Alameda",
@@ -574,7 +600,9 @@
     "date" : "1928",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4662_1634760.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "alameda" : [ ]
+    } ]
   }, {
     "birth" : "1909",
     "title" : "The Past and the Present",
@@ -611,6 +639,8 @@
     "synonyms" : [ {
       "new" : [ "raw", "Modern", "fresh", "young", "unexampled", "novel" ]
     }, {
+      "england" : [ ]
+    }, {
       "country" : [ "commonwealth", "area", "land", "state", "rural area", "res publica", "body politic", "nation" ]
     }, {
       "seat" : [ "buttocks", "derriere", "can", "tush", "fanny", "backside", "ass", "hindquarters", "hind end", "nates", "rump", "prat", "butt", "induct", "place", "sit down", "buns", "fundament", "behind", "rear", "stern", "keister", "tail", "rear end", "sit", "invest", "arse", "posterior", "tail end", "tooshie", "bum", "bottom" ]
@@ -633,6 +663,8 @@
       "striptease" : [ "striptease artist", "peeler", "stripper", "strip", "ecdysiast", "exotic dancer", "stripteaser", "strip show" ]
     }, {
       "new" : [ "raw", "Modern", "fresh", "young", "unexampled", "novel" ]
+    }, {
+      "gotham" : [ ]
     }, {
       "theatre" : [ "field", "theater of operations", "dramaturgy", "field of operations", "dramatics", "theatre of operations", "dramatic art", "theater", "house" ]
     } ]
@@ -682,10 +714,6 @@
       "accident" : [ "chance event", "stroke", "fortuity" ]
     }, {
       "off" : [ "sour", "bump off", "murder", "turned", "remove", "polish off", "hit", "cancelled", "dispatch", "slay" ]
-    }, {
-      "sandy" : [ "flaxen", "arenaceous", "sandlike" ]
-    }, {
-      "hook" : [ "fleece", "glom", "hooking", "accost", "cop", "swipe", "lure", "pluck", "pilfer", "gazump", "draw", "snarf", "addict", "thieve", "snare", "snitch", "abstract", "pinch", "purloin", "solicit", "crochet", "crotchet", "plume", "overcharge", "sweetener", "surcharge", "rob", "hook shot", "bait", "cabbage", "soak", "lift", "come-on", "nobble", "claw", "sneak", "filch", "knock off" ]
     }, {
       "new" : [ "raw", "Modern", "fresh", "young", "unexampled", "novel" ]
     }, {
@@ -760,7 +788,9 @@
     "date" : "1935",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4848_1637709.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "selfportrait" : [ ]
+    } ]
   }, {
     "birth" : "1885",
     "title" : "Flowers and Lamp",
@@ -777,6 +807,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4849_1637739.jpg",
     "synonyms" : [ {
       "flowers" : [ "heyday", "prime", "flush", "efflorescence", "peak", "bloom", "flower", "blossom" ]
+    }, {
+      "lamp" : [ ]
     } ]
   }, {
     "birth" : "1885",
@@ -833,6 +865,8 @@
     "medium" : "Tempera on plywood",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2700_1607072.jpg",
     "synonyms" : [ {
+      "mine" : [ ]
+    }, {
       "disaster" : [ "calamity", "cataclysm", "tragedy", "catastrophe" ]
     } ]
   }, {
@@ -852,6 +886,8 @@
     "synonyms" : [ {
       "maya" : [ "Mayan", "Mayan language" ]
     }, {
+      "mirror" : [ ]
+    }, {
       "illusions" : [ "fancy", "conjuring trick", "illusion", "delusion", "fantasy", "deception", "conjuration", "magic trick", "magic", "thaumaturgy", "head game", "semblance", "legerdemain", "trick", "phantasy" ]
     } ]
   }, {
@@ -868,7 +904,9 @@
     "date" : "1891",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/376_1578449.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "moonrise" : [ ]
+    } ]
   }, {
     "birth" : "1880",
     "title" : "Towering Trees",
@@ -902,7 +940,9 @@
     "date" : "c. 1922",
     "medium" : "Oil and silver paint on wood",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2749_1607881.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "lantern" : [ ]
+    } ]
   }, {
     "birth" : "1880",
     "title" : "From a Wasp",
@@ -938,6 +978,8 @@
       "dogs" : [ "bounder", "frank", "domestic dog", "wienerwurst", "tag", "blackguard", "click", "chase", "frankfurter", "cad", "firedog", "andiron", "trail", "weenie", "chase after", "go after", "dog-iron", "give chase", "Canis familiaris", "heel", "track", "detent", "tail", "pawl", "frump", "wiener", "hound", "hot dog", "hotdog", "dog" ]
     }, {
       "chasing" : [ "furrow", "chamfer", "give chase", "tag", "trail", "track", "chase", "chase after", "go after", "dog", "tail" ]
+    }, {
+      "each" : [ ]
     }, {
       "other" : [ "former", "early" ]
     } ]
@@ -1060,6 +1102,10 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000163/20048_1763151.jpg",
     "synonyms" : [ {
       "north" : [ "due north", "Frederick North", "magnetic north", "compass north", "Second Earl of Guilford", "Union", "N", "northward" ]
+    }, {
+      "river" : [ ]
+    }, {
+      "shad" : [ ]
     } ]
   }, {
     "birth" : "1887",
@@ -1209,8 +1255,6 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/545_1581496.jpg",
     "synonyms" : [ {
-      "leo" : [ "Lion", "Leo the Lion" ]
-    }, {
       "piano" : [ "forte-piano", "pianoforte", "soft", "pianissimo" ]
     } ]
   }, {
@@ -1229,6 +1273,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3081_1612032.jpg",
     "synonyms" : [ {
       "ancient" : [ "antediluvian" ]
+    }, {
+      "windows" : [ ]
     } ]
   }, {
     "birth" : "1913",
@@ -1395,6 +1441,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4512_1632742.jpg",
     "synonyms" : [ {
       "western" : [ "horse opera", "westerly", "western sandwich" ]
+    }, {
+      "industrial" : [ ]
     } ]
   }, {
     "birth" : "1897",
@@ -1412,6 +1460,10 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4525_1632999.jpg",
     "synonyms" : [ {
       "wherefore" : [ "why" ]
+    }, {
+      "now" : [ ]
+    }, {
+      "ariseth" : [ ]
     }, {
       "illusion" : [ "fancy", "conjuring trick", "delusion", "fantasy", "deception", "magic trick", "conjuration", "magic", "thaumaturgy", "head game", "semblance", "legerdemain", "trick", "phantasy" ]
     }, {
@@ -1474,11 +1526,19 @@
     "synonyms" : [ {
       "pray" : [ "beg", "implore" ]
     }, {
+      "these" : [ ]
+    }, {
       "little" : [ "short", "lilliputian", "fiddling", "niggling", "petty", "footling", "slight", "piffling", "trivial", "minuscule", "piddling", "small", "picayune" ]
     }, {
       "ones" : [ "1", "single", "unity", "one", "ace", "I" ]
     }, {
+      "perforce" : [ ]
+    }, {
+      "they" : [ ]
+    }, {
       "live" : [ "live on", "dwell", "last", "lively", "unrecorded", "inhabit", "alive", "know", "subsist", "hold out", "springy", "survive", "populate", "resilient", "endure", "hot", "experience", "bouncy", "hold up", "exist", "be", "go" ]
+    }, {
+      "together" : [ ]
     } ]
   }, {
     "birth" : "1897",
@@ -1513,6 +1573,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4533_1633180.jpg",
     "synonyms" : [ {
       "walk" : [ "manner of walking", "base on balls", "walking", "walk of life", "paseo", "walkway", "take the air", "pass" ]
+    }, {
+      "fro" : [ ]
     }, {
       "through" : [ "through with", "done" ]
     }, {
@@ -1603,11 +1665,27 @@
     "synonyms" : [ {
       "poor" : [ "short", "piteous", "pitiful", "miserable", "inadequate", "wretched", "pitiable", "pathetic", "hapless", "jejune", "misfortunate", "poor people" ]
     }, {
+      "roomthere" : [ ]
+    }, {
       "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
     }, {
       "end" : [ "stop", "terminate", "last", "remnant", "death", "cease", "destruction", "oddment", "goal", "ending", "close", "remainder", "finish", "terminal", "conclusion", "closing" ]
     }, {
+      "today" : [ ]
+    }, {
+      "yesterday" : [ ]
+    }, {
+      "tomorrow" : [ ]
+    }, {
       "only" : [ "solitary", "lone", "alone", "sole", "lonesome" ]
+    }, {
+      "forever" : [ ]
+    }, {
+      "forever" : [ ]
+    }, {
+      "forever" : [ ]
+    }, {
+      "without" : [ ]
     }, {
       "end" : [ "stop", "terminate", "last", "remnant", "death", "cease", "destruction", "oddment", "goal", "ending", "close", "remainder", "finish", "terminal", "conclusion", "closing" ]
     } ]
@@ -1655,8 +1733,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4544_1633426.jpg",
     "synonyms" : [ {
       "captain" : [ "police captain", "maitre d'hotel", "headwaiter", "sea captain", "police chief", "skipper", "chieftain", "senior pilot", "maitre d'", "master" ]
-    }, {
-      "joseph" : [ "Chief Joseph" ]
     } ]
   }, {
     "birth" : "1897",
@@ -1695,6 +1771,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4528_1633055.jpg",
     "synonyms" : [ {
       "study" : [ "field of study", "work", "sketch", "examine", "hit the books", "subject", "learn", "contemplate", "bailiwick", "written report", "field", "analyze", "canvass", "subject area", "consider", "take", "report", "read", "survey", "meditate", "discipline", "subject field", "cogitation", "analyse" ]
+    }, {
+      "vermonter" : [ ]
     } ]
   }, {
     "birth" : "1907",
@@ -1711,7 +1789,11 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2541_1604501.jpg",
     "synonyms" : [ {
+      "joan" : [ ]
+    }, {
       "arc" : [ "curve", "electric discharge", "arch", "bow", "discharge", "spark", "electric arc" ]
+    }, {
+      "montebourg" : [ ]
     } ]
   } ]
 }

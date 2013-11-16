@@ -27,7 +27,7 @@ import org.codehaus.jackson.node.ObjectNode;
 import edu.usc.tourdemuseum.wordnet.Synonyms;
 
 public class AddSynonyms {
-	
+
 	private static Map<String, Float> tfidfMap;
 
 	public static Map<String, Float> loadTFIDF() throws FileNotFoundException, IOException{
@@ -80,7 +80,7 @@ public class AddSynonyms {
 				personList = new ArrayList<>();
 				orgList = new ArrayList<>();
 
-				personNode = entityNode.get("person");
+				personNode = entityNode.get("Person");
 				if(personNode != null){
 					personArrayNode = (ArrayNode) personNode;
 					Iterator<JsonNode> personNodeIter = personArrayNode.iterator();
@@ -91,7 +91,7 @@ public class AddSynonyms {
 					}
 				}
 
-				orgNode = entityNode.get("organization");
+				orgNode = entityNode.get("Organization");
 				if(orgNode != null){
 					orgArrayNode = (ArrayNode) orgNode;
 					Iterator<JsonNode> orgNodeIter = orgArrayNode.iterator();
@@ -111,7 +111,9 @@ public class AddSynonyms {
 						if(title.contains(person)){
 							int substr = title.indexOf(person);
 							buffer.append(title.substring(0, substr));
-							buffer.append(title.substring(substr + 1, title.length()));
+							int endLen = substr + person.length();
+							if(endLen < title.length())
+								buffer.append(title.substring(endLen + 1, title.length()));
 
 							title = buffer.toString();
 							buffer.setLength(0);
@@ -124,7 +126,9 @@ public class AddSynonyms {
 						if(title.contains(org)){
 							int substr = title.indexOf(org);
 							buffer.append(title.substring(0, substr));
-							buffer.append(title.substring(substr + 1, title.length()));
+							int endLen = substr + org.length();
+							if(endLen < title.length())
+								buffer.append(title.substring(endLen + 1, title.length()));
 
 							title = buffer.toString();
 							buffer.setLength(0);
@@ -137,17 +141,17 @@ public class AddSynonyms {
 					val = val.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
 					if(tfidfMap.containsKey(val + "@" + fileName)){
 						Set<String> synonyms = Synonyms.getSynonyms(val, POS.VERB, POS.NOUN, POS.ADJECTIVE);
+						termSynonymsNode = objectMapper.createArrayNode();
 						if(!synonyms.isEmpty()){
-							termSynonymsNode = objectMapper.createArrayNode();
 							for(String syn : synonyms){
 								termSynonymsNode.add(syn);
 							}
-
-							ObjectNode titleSynNode = objectMapper.createObjectNode();
-							titleSynNode.put(val, termSynonymsNode);
-
-							synonymsArrayNode.add(titleSynNode);
 						}
+						
+						ObjectNode titleSynNode = objectMapper.createObjectNode();
+						titleSynNode.put(val, termSynonymsNode);
+
+						synonymsArrayNode.add(titleSynNode);
 					}
 				}
 			}
@@ -160,7 +164,9 @@ public class AddSynonyms {
 						if(description.contains(person)){
 							int substr = description.indexOf(person);
 							buffer.append(description.substring(0, substr));
-							buffer.append(description.substring(substr + 1, title.length()));
+							int endLen = substr + person.length();
+							if(endLen < title.length())
+								buffer.append(title.substring(endLen + 1, title.length()));
 
 							description = buffer.toString();
 							buffer.setLength(0);
@@ -173,7 +179,9 @@ public class AddSynonyms {
 						if(description.contains(org)){
 							int substr = description.indexOf(org);
 							buffer.append(description.substring(0, substr));
-							buffer.append(description.substring(substr + 1, title.length()));
+							int endLen = substr + org.length();
+							if(endLen < title.length())
+								buffer.append(title.substring(endLen + 1, title.length()));
 
 							description = buffer.toString();
 							buffer.setLength(0);
@@ -186,17 +194,17 @@ public class AddSynonyms {
 					val = val.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
 					if(tfidfMap.containsKey(val + "@" + fileName)){
 						Set<String> synonyms = Synonyms.getSynonyms(val, POS.VERB, POS.NOUN, POS.ADJECTIVE);
+						termSynonymsNode = objectMapper.createArrayNode();
 						if(!synonyms.isEmpty()){
-							termSynonymsNode = objectMapper.createArrayNode();
 							for(String syn : synonyms){
 								termSynonymsNode.add(syn);
 							}
-
-							ObjectNode descSynNode = objectMapper.createObjectNode();
-							descSynNode.put(val, termSynonymsNode);
-
-							synonymsArrayNode.add(descSynNode);
 						}
+						
+						ObjectNode descSynNode = objectMapper.createObjectNode();
+						descSynNode.put(val, termSynonymsNode);
+
+						synonymsArrayNode.add(descSynNode);
 					}
 				}
 			}
@@ -219,17 +227,17 @@ public class AddSynonyms {
 					keywords = keywords.toLowerCase();
 					if(tfidfMap.containsKey(keywords + "@" + fileName)){
 						Set<String> synonyms = Synonyms.getSynonyms(keywords, POS.VERB, POS.NOUN, POS.ADJECTIVE);
+						termSynonymsNode = objectMapper.createArrayNode();
 						if(!synonyms.isEmpty()){
-							termSynonymsNode = objectMapper.createArrayNode();
 							for(String syn : synonyms){
 								termSynonymsNode.add(syn);
 							}
-
-							ObjectNode keywordsSynNode = objectMapper.createObjectNode();
-							keywordsSynNode.put(keywords, termSynonymsNode);
-
-							synonymsArrayNode.add(keywordsSynNode);
 						}
+						
+						ObjectNode keywordsSynNode = objectMapper.createObjectNode();
+						keywordsSynNode.put(keywords, termSynonymsNode);
+
+						synonymsArrayNode.add(keywordsSynNode);
 					}
 				}
 			}

@@ -112,11 +112,11 @@
     "synonyms" : [ {
       "young" : [ "Danton True Young", "Brigham Young", "vernal", "unseasoned", "Edward Young", "Pres Young", "untested", "youth", "Loretta Young", "new", "Whitney Moore Young Jr.", "untried", "Whitney Young", "youthful", "immature", "Lester Willis Young", "Thomas Young", "Cy Young", "offspring" ]
     }, {
+      "sophocles" : [ ]
+    }, {
       "leading" : [ "guide", "result", "lead", "run", "conduct", "leave", "head", "in the lead", "top", "direct", "conduce", "leadership", "extend", "ahead", "stellar", "moderate", "star", "contribute", "pass", "chair", "prima", "take", "precede", "starring", "preeminent", "go" ]
     }, {
-      "chorus" : [ "chorus line", "Greek chorus", "refrain", "choir" ]
-    }, {
-      "victory" : [ "triumph" ]
+      "after" : [ ]
     }, {
       "battle" : [ "struggle", "fight", "combat", "conflict", "engagement" ]
     }, {
@@ -217,6 +217,8 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000169/50626_1832511.jpg",
     "synonyms" : [ {
+      "acrobat" : [ ]
+    }, {
       "upside" : [ "top side", "upper side", "top" ]
     }, {
       "down" : [ "bolt down", "land", "kill", "down feather", "pop", "mastered", "go through", "toss off", "low-spirited", "knock down", "refine", "consume", "grim", "shoot down", "cut down", "down pat", "drink down", "belt down", "dispirited", "John L. H. Down", "downward", "pile", "pull down", "down in the mouth", "push down", "fine-tune", "demolish", "downcast", "depressed", "blue", "pour down", "low", "downhearted", "devour", "gloomy", "polish" ]
@@ -309,7 +311,11 @@
     "date" : "1980/1989",
     "medium" : "Anagama-fired stoneware",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000171/55356_1861887.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "anagama" : [ ]
+    }, {
+      "vase" : [ ]
+    } ]
   }, {
     "birth" : "1922",
     "title" : "Untitled",
@@ -497,9 +503,7 @@
     },
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000220/137236_2485742.jpg",
-    "synonyms" : [ {
-      "frank" : [ "wienerwurst", "blunt", "candid", "outspoken", "forthright", "frankfurter", "free-spoken", "postmark", "wiener", "hot dog", "straight-from-the-shoulder", "weenie", "hotdog", "dog", "point-blank", "plainspoken" ]
-    } ]
+    "synonyms" : [ ]
   }, {
     "birth" : "1898",
     "title" : "Sister Tuesday",
@@ -569,7 +573,9 @@
     "date" : "1880/1907",
     "medium" : "Wood, fabric, and paint",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000248/172602_2924547.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "cristo" : [ ]
+    } ]
   }, {
     "birth" : "1908",
     "title" : "Standing Figure",
@@ -660,7 +666,9 @@
     "date" : "1838/1843",
     "medium" : "Marble",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/238_1576091.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "abdiel" : [ ]
+    } ]
   }, {
     "birth" : "1863",
     "title" : "Nathan Hale",
@@ -678,9 +686,7 @@
     },
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1197_1587072.jpg",
-    "synonyms" : [ {
-      "hale" : [ "squeeze", "George Ellery Hale", "pressure", "coerce", "whole", "Edward Everett Hale", "drag", "cart", "force", "Nathan Hale", "haul" ]
-    } ]
+    "synonyms" : [ ]
   }, {
     "birth" : "1866",
     "title" : "The Moqui Runner (The Moqui Prayer for Rainâ€”The Returning of the Snakes)",
@@ -696,9 +702,15 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1237_1587685.jpg",
     "synonyms" : [ {
+      "moqui" : [ ]
+    }, {
       "runner" : [ "moon-curser", "stolon", "ball carrier", "smuggler", "Caranx crysos", "contrabandist", "offset", "blue runner", "base runner", "moon curser" ]
     }, {
+      "moqui" : [ ]
+    }, {
       "prayer" : [ "entreaty", "petition", "supplication", "appeal", "supplicant", "orison" ]
+    }, {
+      "rainthe" : [ ]
     }, {
       "returning" : [ "take back", "bring back", "regress", "generate", "give", "yield", "hark back", "retort", "return", "reversive", "pass", "render", "retrovert", "give back", "deliver", "revert", "refund", "recall", "fall", "riposte", "repay", "turn back", "reverting", "reelect", "come back", "devolve", "rejoin" ]
     }, {
@@ -738,6 +750,8 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5660_1651682.jpg",
     "synonyms" : [ {
+      "filatrice" : [ ]
+    }, {
       "spinners" : [ "spinner", "spinster", "thread maker" ]
     } ]
   }, {
@@ -757,11 +771,7 @@
     },
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4507_1632626.jpg",
-    "synonyms" : [ {
-      "violet" : [ "purplish", "purple", "reddish blue" ]
-    }, {
-      "sargent" : [ "John Singer Sargent" ]
-    } ]
+    "synonyms" : [ ]
   }, {
     "birth" : "1861",
     "title" : "The Bronco Buster",
@@ -857,7 +867,11 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/5181_1643308.jpg",
     "synonyms" : [ {
+      "bacchante" : [ ]
+    }, {
       "infant" : [ "baby", "babe" ]
+    }, {
+      "faun" : [ ]
     } ]
   }, {
     "birth" : "1850",
@@ -878,21 +892,7 @@
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/5100_1642242.jpg",
     "synonyms" : [ {
-      "abraham" : [ "Ibrahim" ]
-    }, {
-      "lincoln" : [ "President Abraham Lincoln", "Abraham Lincoln", "President Lincoln", "capital of Nebraska" ]
-    }, {
-      "congress" : [ "United States Congress", "coming together", "US Congress", "meeting", "U.S. Congress" ]
-    }, {
-      "democratic" : [ "popular" ]
-    }, {
-      "party" : [ "political party", "company" ]
-    }, {
       "leader" : [ "loss leader", "drawing card" ]
-    }, {
-      "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
-    }, {
-      "washington" : [ "George Washington", "WA", "Evergreen State", "Booker T. Washington", "Wash.", "Washington D.C.", "American capital", "President Washington", "Capital", "Booker Taliaferro Washington", "capital of the United States" ]
     } ]
   }, {
     "birth" : "1819",
@@ -911,11 +911,7 @@
     },
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5316_1645574.jpg",
-    "synonyms" : [ {
-      "daniel" : [ "Book of the Prophet Daniel", "Book of Daniel" ]
-    }, {
-      "webster" : [ "Noah Webster", "Daniel Webster", "John Webster" ]
-    } ]
+    "synonyms" : [ ]
   }, {
     "birth" : "1850",
     "title" : "Abraham Lincoln",
@@ -933,11 +929,7 @@
     },
     "medium" : "Bronze",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5810_1654084.jpg",
-    "synonyms" : [ {
-      "abraham" : [ "Ibrahim" ]
-    }, {
-      "lincoln" : [ "President Abraham Lincoln", "Abraham Lincoln", "President Lincoln", "capital of Nebraska" ]
-    } ]
+    "synonyms" : [ ]
   }, {
     "birth" : "1876",
     "title" : "The End of the Trail",
@@ -1051,6 +1043,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/176_1575135.jpg",
     "synonyms" : [ {
       "lost" : [ "confounded", "confused", "bemused", "suffer", "bewildered", "lose", "doomed", "baffled", "mixed-up", "befuddled", "turn a loss", "disoriented", "preoccupied", "missed", "helpless", "at sea", "miss", "mazed" ]
+    }, {
+      "pleiade" : [ ]
     } ]
   }, {
     "birth" : "1843",
@@ -1086,11 +1080,15 @@
     "medium" : "Marble",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/248_1576316.jpg",
     "synonyms" : [ {
+      "nydia" : [ ]
+    }, {
       "blind" : [ "dim", "screen", "unreasoning", "subterfuge", "unsighted" ]
     }, {
       "flower" : [ "heyday", "prime", "flush", "efflorescence", "peak", "bloom", "blossom" ]
     }, {
       "girl" : [ "little girl", "young woman", "missy", "female child", "fille", "girlfriend", "daughter", "young lady", "miss", "lady friend" ]
+    }, {
+      "pompeii" : [ ]
     } ]
   }, {
     "birth" : "1844",
@@ -1200,6 +1198,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000051/41464_348184.jpg",
     "synonyms" : [ {
       "horses" : [ "sawhorse", "sawbuck", "buck", "horse", "gymnastic horse", "horse cavalry", "Equus caballus", "knight", "cavalry" ]
+    }, {
+      "anahita" : [ ]
     } ]
   }, {
     "birth" : "1848",
@@ -1217,6 +1217,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4939_1639365.jpg",
     "synonyms" : [ {
       "amor" : [ "Cupid" ]
+    }, {
+      "caritas" : [ ]
     } ]
   }, {
     "birth" : "1830",
@@ -1255,6 +1257,8 @@
     "medium" : "Marble",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000160/17025_1726431.jpg",
     "synonyms" : [ {
+      "hagar" : [ ]
+    }, {
       "ishmael" : [ "pariah", "outcast", "castaway" ]
     } ]
   }, {
@@ -1363,10 +1367,6 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5223_1643977.jpg",
     "synonyms" : [ {
       "general" : [ "world-wide", "ecumenical", "full general", "universal", "superior general", "oecumenical", "worldwide", "cosmopolitan" ]
-    }, {
-      "andrew" : [ "St. Andrew", "Saint Andrew", "Saint Andrew the Apostle" ]
-    }, {
-      "jackson" : [ "Glenda Jackson", "Jesse Louis Jackson", "Jesse Jackson", "Helen Maria Fiske Hunt Jackson", "capital of Mississippi", "Thomas Jonathan Jackson", "Mahalia Jackson", "Andrew Jackson", "Stonewall Jackson", "Helen Hunt Jackson", "Old Hickory", "Michael Jackson", "Michael Joe Jackson", "Thomas Jackson", "Thomas J. Jackson" ]
     } ]
   }, {
     "birth" : "1843",
@@ -1384,6 +1384,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/253_1576396.jpg",
     "synonyms" : [ {
       "soul" : [ "person", "psyche", "mortal", "individual", "someone", "somebody", "soulfulness" ]
+    }, {
+      "contentment" : [ ]
     }, {
       "black" : [ "melanize", "sinister", "Shirley Temple Black", "mordant", "inkiness", "black-market", "blackness", "Negroid", "smuggled", "pitch-dark", "ignominious", "Negro", "grim", "dim", "pitch blackness", "fateful", "contraband", "bleak", "blackened", "Joseph Black", "dark", "African-American", "smutty", "disastrous", "lightlessness", "Shirley Temple", "blacken", "calamitous", "disgraceful", "melanise", "fatal", "opprobrious", "inglorious", "total darkness", "shameful", "bootleg", "pitch-black" ]
     }, {
@@ -1407,6 +1409,8 @@
       "indian" : [ "American-Indian language", "Native American", "Amerind", "Amerindic", "American Indian", "Amerindian language" ]
     }, {
       "pronghorn" : [ "American antelope", "prongbuck", "Antilocapra americana", "pronghorn antelope" ]
+    }, {
+      "antelope" : [ ]
     } ]
   }, {
     "birth" : "1872",
@@ -1462,6 +1466,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000155/6152_1659670.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "eva" : [ ]
     } ]
   }, {
     "birth" : "1922",

@@ -69,6 +69,8 @@
     "credit" : "Gift of the artist",
     "imageURL" : "http://www.dia.org/user_area/comping/06.1-D1.jpg",
     "synonyms" : [ {
+      "river" : [ ]
+    }, {
       "seine" : [ "Seine River" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -95,6 +97,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/06.2-D1.jpg",
     "synonyms" : [ {
       "seashore" : [ "sea-coast", "seacoast", "coast" ]
+    }, {
+      "masonite" : [ ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
@@ -140,7 +144,11 @@
     "credit" : "Detroit Museum of Art Purchase, Picture Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/06.6-S1.jpg",
     "synonyms" : [ {
+      "before" : [ ]
+    }, {
       "sunrise" : [ "dayspring", "first light", "break of the day", "dawning", "dawn", "break of day", "aurora", "sunup", "daybreak", "morning", "cockcrow" ]
+    }, {
+      "june" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -224,13 +232,11 @@
     "credit" : "Gift of the Estate of James E. Scripps",
     "imageURL" : "http://www.dia.org/user_area/comping/07.2-D1.jpg",
     "synonyms" : [ {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "scripps" : [ "James Edmund Scripps", "Edward Wyllis Scripps" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -256,15 +262,15 @@
     "synonyms" : [ {
       "first" : [ "first gear", "initiatory", "number 1", "starting time", "beginning", "low gear", "foremost", "outset", "first-class honours degree", "number one", "inaugural", "commencement", "first base", "start", "kickoff", "1st", "get-go", "showtime", "maiden", "low", "offset", "world-class", "initiative" ]
     }, {
-      "board" : [ "panel", "instrument panel", "circuit card", "gameboard", "plank", "table", "get on", "display panel", "display board", "circuit board", "dining table", "card", "control board", "control panel", "plug-in", "add-in", "room" ]
-    }, {
-      "trustees" : [ "regent", "legal guardian", "trustee" ]
-    }, {
       "detroit" : [ "Motown", "Motor City" ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "group portrait" : [ "chemical group", "grouping", "group", "radical", "mathematical group", "aggroup" ]
     } ]
   }, {
     "provenance" : "Julius C. RolshovenDIA in July 1907 (purchased by museum subscription)",
@@ -281,7 +287,15 @@
     "date" : "c. 1907",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/07.8-D1.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "refectory" : [ ]
+    }, {
+      "san" : [ ]
+    }, {
+      "damiano" : [ ]
+    }, {
+      "assisi" : [ ]
+    } ]
   }, {
     "birth" : "1853",
     "keywords" : [ "canvas", "paint", "landscape" ],
@@ -330,7 +344,13 @@
     }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
+      "pastel" : [ ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
+    }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "group portrait" : [ "chemical group", "grouping", "group", "radical", "mathematical group", "aggroup" ]
     } ]
   }, {
     "birth" : "1851",
@@ -594,6 +614,10 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1840",
@@ -612,7 +636,13 @@
     "credit" : "Gift of friends of the artist",
     "imageURL" : "http://www.dia.org/user_area/comping/11.3.jpg",
     "synonyms" : [ {
+      "garden" : [ ]
+    }, {
       "villa" : [ "Pancho Villa", "Doroteo Arango", "Francisco Villa" ]
+    }, {
+      "castello" : [ ]
+    }, {
+      "capri" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -636,6 +666,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/11.4.jpg",
     "synonyms" : [ {
       "chief" : [ "tribal chief", "principal", "headman", "foreman", "primary", "boss", "gaffer", "top dog", "chieftain", "honcho", "head", "master", "main" ]
+    }, {
+      "shoppenegons" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -661,6 +693,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/11.5-D1.jpg",
     "synonyms" : [ {
       "place" : [ "position", "berth", "home", "lieu", "send", "put", "range", "set", "space", "spot", "blank space", "pose", "rank", "come out", "rate", "order", "seat", "commit", "grade", "situation", "locate", "billet", "office", "shoes", "site", "direct", "post", "localize", "station", "lay", "come in", "identify", "stead", "property", "localise", "topographic point", "point", "invest", "aim", "target", "piazza", "plaza" ]
+    }, {
+      "centrale" : [ ]
     }, {
       "fort" : [ "garrison", "fort up", "fortify", "fortress" ]
     }, {
@@ -709,6 +743,8 @@
     "credit" : "Gift of A. Leonard Nicholson",
     "imageURL" : "http://www.dia.org/user_area/comping/13.11-S1.jpg",
     "synonyms" : [ {
+      "belisarius" : [ ]
+    }, {
       "boy" : [ "male child", "son" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -816,6 +852,8 @@
     "credit" : "City of Detroit Purchase",
     "imageURL" : "http://www.dia.org/user_area/comping/14.5.jpg",
     "synonyms" : [ {
+      "culebra" : [ ]
+    }, {
       "cut" : [ "curve", "snub", "skip", "thin out", "swerve", "cut down", "hack", "write out", "trim down", "bring down", "thinned", "swing", "make out", "edit out", "rationalize", "trend", "abbreviate", "contract", "foreshorten", "dilute", "reduce", "shortened", "cold shoulder", "cutting off", "veer", "shorten", "mown", "excision", "weakened", "slue", "thin", "trimmed", "burn", "cut off", "switch off", "issue", "undercut", "gash", "slashed", "abridge", "rationalise", "stinger", "tailor", "trim back", "trim", "sheer", "ignore", "baseball swing", "slash", "disregard", "prune", "gelded", "edit", "track", "emasculated", "cutting", "deletion", "turn off", "cut back", "cut of meat", "slew", "slice", "turn out", "geld" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -837,7 +875,9 @@
     "date" : "1913",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/15.10-D1.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "crosslights" : [ ]
+    } ]
   }, {
     "provenance" : "Macbeth Gallery, New YorkDIA in 1915 (purchased with funds provided museum-board member Elliott T. Slocum)",
     "birth" : "1872",
@@ -908,6 +948,8 @@
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
+      "masonite" : [ ]
+    }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "landscape" : [ "landscape painting" ]
@@ -934,6 +976,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "self portrait" : [ "self-portrait", "self" ]
     }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
     } ]
@@ -978,6 +1022,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/16.31-D1.jpg",
     "synonyms" : [ {
       "daughter" : [ "girl" ]
+    }, {
+      "elisabeth" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -1053,6 +1099,8 @@
     "synonyms" : [ {
       "day" : [ "Clarence Shepard Day Jr.", "sidereal day", "daytime", "solar day", "24-hour interval", "twenty-four hours", "Clarence Day", "mean solar day", "twenty-four hour period", "daylight" ]
     }, {
+      "june" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -1110,6 +1158,8 @@
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
@@ -1160,6 +1210,8 @@
     "credit" : "Detroit Museum of Art Purchase, Lizzie Merrill Palmer Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/18.2-D1.jpg",
     "synonyms" : [ {
+      "vineclad" : [ ]
+    }, {
       "trees" : [ "Sir Herbert Beerbohm Tree", "tree diagram", "tree", "corner", "Tree", "shoetree" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -1213,6 +1265,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/19.149-S1.jpg",
     "synonyms" : [ {
+      "beach" : [ ]
+    }, {
       "hat" : [ "lid", "chapeau" ]
     } ]
   }, {
@@ -1304,10 +1358,6 @@
     "credit" : "Founders Society Purchase, Robert H. Tannahill Foundation Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/1983.23-S1.jpg",
     "synonyms" : [ {
-      "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
-    }, {
-      "boone" : [ "Daniel Boone" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -1315,6 +1365,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1858",
@@ -1373,6 +1425,8 @@
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
+    }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
   }, {
@@ -1395,9 +1449,9 @@
     "credit" : "Founders Society Purchase, Robert H. Tannahill Foundation Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/1986.60.jpg",
     "synonyms" : [ {
-      "alexander" : [ "black lovage", "horse parsley", "Smyrnium olusatrum", "Alexanders", "Alexander the Great" ]
-    }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "provenance" : "Formerly in the collection of: Mrs. Gordon V. K. Reid ",
@@ -1417,8 +1471,6 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/1987.33.jpg",
     "synonyms" : [ {
-      "peck" : [ "mountain", "pick at", "muckle", "plenty", "mess", "nag", "pick up", "mickle", "passel", "flock", "pot", "peck at", "heap", "mass", "sight", "deal", "tidy sum", "hatful", "pick", "pile", "great deal", "quite a little", "hen-peck", "mint", "batch", "smack", "slew", "beak", "lot", "spate", "stack", "raft", "good deal", "wad" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -1426,6 +1478,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "provenance" : "Stanford White.  Associate of Stanford White.Descendant of August Belmont.George Guerry, 1962.Mr. and Mrs. George J. Arden, New York, 1968-87.Berry-Hill Galleries, New York, 1987.DIA in 1991.",
@@ -1447,10 +1501,6 @@
     "imageURL" : "http://www.dia.org/user_area/comping/1991.112.jpg",
     "synonyms" : [ {
       "irises" : [ "flag", "iris diaphragm", "fleur-de-lis", "iris", "sword lily" ]
-    }, {
-      "calla" : [ "arum lily", "Zantedeschia aethiopica", "genus Calla", "calla lily" ]
-    }, {
-      "lilies" : [ "lily" ]
     } ]
   }, {
     "provenance" : "Kidde Family, Chappaqua, New York, 1930; Babcock Galleries, New York, 1932; Milch Galleries, New York, by 1932; Stuart Pivar, New York, by 1987; Jordan-Volpe Galleries, New York, 1987-1992; DIA in 1992.",
@@ -1488,6 +1538,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/1993.18.jpg",
     "synonyms" : [ {
+      "mosquito" : [ ]
+    }, {
       "nets" : [ "earnings", "lucre", "profit", "net profit", "web", "nett", "cyberspace", "net", "network", "meshing", "profits", "sack", "clear", "net income", "meshwork", "internet", "mesh", "sack up" ]
     } ]
   }, {
@@ -1566,6 +1618,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/1994.36.jpg",
     "synonyms" : [ {
       "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
+    }, {
+      "macbeth" : [ ]
     } ]
   }, {
     "provenance" : "Private collection, house on Mission Hill, Milton, Mass.Mrs. Brundidge of Milton, Mass., or of Hyde Park, close to Milton, ca. 1916. Adelson Gallery, Boston.Ira Spanierman, New YorkDrawing Shop-Galerie, now Shepherd Gallery, New York, 1966.On consignment at Kennedy Galleries, New York.Richard Manoogian, DetroitKennedy Galleries, New YorkShepherd Gallery, New York, 1984Private collector, 1984Joseph Feldman, Mich., 1984; His wife, Sally Feldman.Acquired in 1993",
@@ -1602,7 +1656,9 @@
     "date" : "1868",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/1994.88-S1.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "baptism" : [ ]
+    } ]
   }, {
     "provenance" : "Maxim Karolik collection, Newport, RI., 1959.  Mr. J. Watson Webb.  His wife, Electra Havemeyer Webb.  Shelburne Museum, Shelburne, Vt. Altman/Burke, New York.  Acquired in 1991.",
     "birth" : "1819",
@@ -1643,8 +1699,6 @@
     "credit" : "Gift of the Witenagemote Club",
     "imageURL" : "http://www.dia.org/user_area/comping/20.42.jpg",
     "synonyms" : [ {
-      "robert" : [ "Henry Martyn Robert", "Henry M. Robert" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -1792,6 +1846,8 @@
     "credit" : "Gift of Dr. Charles W. Hitchcock",
     "imageURL" : "http://www.dia.org/user_area/comping/22.139-S1.jpg",
     "synonyms" : [ {
+      "lake" : [ ]
+    }, {
       "mountains" : [ "mountain", "muckle", "plenty", "mess", "mickle", "passel", "flock", "pot", "mass", "heap", "sight", "deal", "tidy sum", "hatful", "peck", "pile", "great deal", "quite a little", "mint", "mount", "batch", "slew", "lot", "spate", "stack", "raft", "good deal", "wad" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -1817,6 +1873,8 @@
     "credit" : "Gift of Dr. Ernest G. Stillman",
     "imageURL" : "http://www.dia.org/user_area/comping/22.6-S1.jpg",
     "synonyms" : [ {
+      "garden" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -1824,6 +1882,10 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
+    }, {
+      "double portrait" : [ "forked", "double up", "reduplicate", "duplicate", "look-alike", "doubling", "stunt woman", "image", "double over", "treble", "repeat", "two-bagger", "doubled", "double", "duple", "replicate", "dual", "three-fold", "two-fold", "twofold", "bivalent", "threefold", "two-base hit", "two-baser", "stunt man" ]
     } ]
   }, {
     "birth" : "1825",
@@ -1873,6 +1935,8 @@
     "synonyms" : [ {
       "hudson" : [ "William Henry Hudson", "W. H. Hudson", "Henry Hudson", "Hudson River" ]
     }, {
+      "river" : [ ]
+    }, {
       "valley" : [ "vale" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -1916,6 +1980,8 @@
     "credit" : "Founders Society Purchase, General Membership Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/24.2-D2.jpg",
     "synonyms" : [ {
+      "mcsorleys" : [ ]
+    }, {
       "bar" : [ "cake", "stop", "measure", "block up", "block off", "block", "saloon", "exclude", "banish", "stripe", "barricade", "streak", "legal community", "barroom", "Browning automatic rifle", "prevention", "legal profession", "taproom", "debar", "blockade", "relegate", "ginmill" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -2028,10 +2094,6 @@
     "credit" : "City of Detroit Purchase",
     "imageURL" : "http://www.dia.org/user_area/comping/26.89-S1.jpg",
     "synonyms" : [ {
-      "edward" : [ "Albert Edward", "Edward I", "Edward VIII", "Edward VII", "Edward V", "Prince Edward", "Edward III", "Edward IV", "Edward VI", "Black Prince", "Edward II", "Duke of Windsor", "Edward Antony Richard Louis" ]
-    }, {
-      "hudson" : [ "William Henry Hudson", "W. H. Hudson", "Henry Hudson", "Hudson River" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2039,6 +2101,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1783",
@@ -2062,10 +2126,6 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "edward" : [ "Albert Edward", "Edward I", "Edward VIII", "Edward VII", "Edward V", "Prince Edward", "Edward III", "Edward IV", "Edward VI", "Black Prince", "Edward II", "Duke of Windsor", "Edward Antony Richard Louis" ]
-    }, {
-      "hudson" : [ "William Henry Hudson", "W. H. Hudson", "Henry Hudson", "Hudson River" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2073,6 +2133,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1862",
@@ -2235,8 +2297,6 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "clark" : [ "Joe Clark", "Mark Wayne Clark", "William Clark", "Kenneth Bancroft Clark", "Mark Clark", "Kenneth Clark", "Charles Joseph Clark" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2244,6 +2304,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1844",
@@ -2265,8 +2327,6 @@
     "credit" : "City of Detroit Purchase",
     "imageURL" : "http://www.dia.org/user_area/comping/30.296-S1.jpg",
     "synonyms" : [ {
-      "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2274,6 +2334,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1870",
@@ -2301,6 +2363,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1849",
@@ -2323,7 +2387,11 @@
     }, {
       "daughter" : [ "girl" ]
     }, {
+      "dorothy" : [ ]
+    }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1886",
@@ -2366,6 +2434,8 @@
       "east" : [ "eastern United States", "E", "eastward", "Orient", "due east" ]
     }, {
       "wall" : [ "fence", "palisade", "rampart", "fence in", "paries", "surround", "bulwark" ]
+    }, {
+      "fresco" : [ ]
     } ]
   }, {
     "birth" : "1886",
@@ -2389,6 +2459,8 @@
       "north" : [ "due north", "Frederick North", "magnetic north", "compass north", "Second Earl of Guilford", "Union", "N", "northward" ]
     }, {
       "wall" : [ "fence", "palisade", "rampart", "fence in", "paries", "surround", "bulwark" ]
+    }, {
+      "fresco" : [ ]
     } ]
   }, {
     "birth" : "1886",
@@ -2412,6 +2484,8 @@
       "south" : [ "Confederate States", "Dixieland", "Dixie", "Confederate States of America", "Confederacy", "S", "due south", "southward" ]
     }, {
       "wall" : [ "fence", "palisade", "rampart", "fence in", "paries", "surround", "bulwark" ]
+    }, {
+      "fresco" : [ ]
     } ]
   }, {
     "birth" : "1886",
@@ -2435,6 +2509,8 @@
       "west" : [ "Cicily Isabel Fairfield", "W", "Occident", "Benjamin West", "due west", "Rebecca West", "western United States", "Mae West", "Dame Rebecca West", "westward" ]
     }, {
       "wall" : [ "fence", "palisade", "rampart", "fence in", "paries", "surround", "bulwark" ]
+    }, {
+      "fresco" : [ ]
     } ]
   }, {
     "provenance" : "Theodor Lagerquist (dealer), Berlin, Germany.DIA in 1934.",
@@ -2491,6 +2567,10 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1822",
@@ -2538,6 +2618,8 @@
     "synonyms" : [ {
       "natures" : [ "nature" ]
     }, {
+      "wonderland" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2574,6 +2656,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "self portrait" : [ "self-portrait", "self" ]
     } ]
   }, {
     "birth" : "1811",
@@ -2597,13 +2681,13 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "page" : [ "Thomas Nelson Page", "foliate", "pageboy", "varlet", "Sir Frederick Handley Page", "paginate" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "provenance" : "The  A. B. Frost Family.Sold from the collection of Henry W. Lanier, American Art Association, Anderson Galleries, Inc., New York, Feb 11, 1937, lot 102.Purchased by Dr. Karl Lilienfeld, Lilienfeld Galleries, New York, for the Detroit Institute of Arts.Acquired in 1937.",
@@ -2623,10 +2707,6 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/37.69-S1.jpg",
     "synonyms" : [ {
-      "arthur" : [ "Chester A. Arthur", "King Arthur", "Chester Alan Arthur", "President Arthur" ]
-    }, {
-      "frost" : [ "Robert Lee Frost", "hoar", "Robert Frost", "freeze", "ice", "icing", "rime", "hoarfrost" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2682,15 +2762,13 @@
     "credit" : "Founders Society Purchase, Dexter M. Ferry, Jr. Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/38.13-S1.jpg",
     "synonyms" : [ {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "trumbull" : [ "John Trumbull", "Jonathan Trumbull" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -2711,6 +2789,8 @@
     "credit" : "Gift of Dexter M. Ferry, Jr.",
     "imageURL" : "http://www.dia.org/user_area/comping/38.60.jpg",
     "synonyms" : [ {
+      "banjo" : [ ]
+    }, {
       "player" : [ "histrion", "role player", "participant", "instrumentalist", "musician", "actor", "thespian" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -2844,7 +2924,7 @@
     "credit" : "Founders Society Purchase, Gibbs-Williams Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/41.37-S1.jpg",
     "synonyms" : [ {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
+      "colonel" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -2853,6 +2933,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1751",
@@ -2874,8 +2956,6 @@
     "credit" : "Founders Society Purchase, Dexter M. Ferry, Jr. Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/41.4-S1.jpg",
     "synonyms" : [ {
-      "bradley" : [ "Omar Bradley", "Tom Bradley", "Thomas Bradley", "Omar Nelson Bradley" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2883,6 +2963,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1780",
@@ -2904,10 +2986,6 @@
     "credit" : "Gift of Dexter M. Ferry, Jr.",
     "imageURL" : "http://www.dia.org/user_area/comping/41.55-S1.jpg",
     "synonyms" : [ {
-      "jacob" : [ "Francois Jacob" ]
-    }, {
-      "houseman" : [ "interne", "medical intern", "intern" ]
-    }, {
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -2915,6 +2993,8 @@
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1814",
@@ -2933,6 +3013,8 @@
     "credit" : "Gift of Mrs. Blanche Ferry Hooker",
     "imageURL" : "http://www.dia.org/user_area/comping/41.63-S1.jpg",
     "synonyms" : [ {
+      "prairie" : [ ]
+    }, {
       "indian" : [ "American-Indian language", "Native American", "Amerind", "Amerindic", "American Indian", "Amerindian language" ]
     }, {
       "encampment" : [ "camp", "cantonment", "bivouac", "camping", "camping ground", "bivouacking", "camping site", "campground", "campsite", "camping area", "tenting" ]
@@ -2994,8 +3076,6 @@
     "synonyms" : [ {
       "general" : [ "world-wide", "ecumenical", "full general", "universal", "superior general", "oecumenical", "worldwide", "cosmopolitan" ]
     }, {
-      "north" : [ "due north", "Frederick North", "magnetic north", "compass north", "Second Earl of Guilford", "Union", "N", "northward" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3055,15 +3135,13 @@
     "credit" : "Founders Society Purchase, Gibbs-Williams Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/43.30-S1.jpg",
     "synonyms" : [ {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "gray" : [ "grizzly", "grayness", "Asa Gray", "hoary", "greyish", "greyness", "white-haired", "Robert Gray", "Gy", "grey-haired", "hoar", "grey-headed", "Thomas Gray", "gray-haired", "grey", "Louis Harold Gray", "gray-headed", "grayish" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -3084,6 +3162,8 @@
     "credit" : "Founders Society Purchase, Dexter M. Ferry, Jr. Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/43.31-S1.jpg",
     "synonyms" : [ {
+      "italian" : [ ]
+    }, {
       "landscape" : [ "landscape painting" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -3147,6 +3227,8 @@
       "black" : [ "melanize", "sinister", "Shirley Temple Black", "mordant", "inkiness", "black-market", "blackness", "Negroid", "smuggled", "pitch-dark", "ignominious", "Negro", "grim", "dim", "pitch blackness", "fateful", "contraband", "bleak", "blackened", "Joseph Black", "dark", "African-American", "smutty", "disastrous", "lightlessness", "Shirley Temple", "blacken", "calamitous", "disgraceful", "melanise", "fatal", "opprobrious", "inglorious", "total darkness", "shameful", "bootleg", "pitch-black" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1728",
@@ -3168,8 +3250,6 @@
     "credit" : "Gift of Dexter M. Ferry, Jr.",
     "imageURL" : "http://www.dia.org/user_area/comping/44.140-S1.jpg",
     "synonyms" : [ {
-      "thomas" : [ "Seth Thomas", "Thomas the doubting Apostle", "St. Thomas", "Saint Thomas", "Norman Mattoon Thomas", "Dylan Marlais Thomas", "Norman Thomas", "doubting Thomas", "Dylan Thomas", "Lowell Thomas", "Lowell Jackson Thomas" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3194,6 +3274,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/44.165-S1.jpg",
     "synonyms" : [ {
       "flight" : [ "flying", "flight of stairs", "fledge", "flight of steps", "trajectory", "escape" ]
+    }, {
+      "florimell" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -3220,6 +3302,8 @@
     "credit" : "Gift of Dexter M. Ferry, Jr.",
     "imageURL" : "http://www.dia.org/user_area/comping/44.166-S1.jpg",
     "synonyms" : [ {
+      "italian" : [ ]
+    }, {
       "shepherd" : [ "sheepman", "sheepherder" ]
     }, {
       "boy" : [ "male child", "son" ]
@@ -3231,6 +3315,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1705",
@@ -3254,10 +3340,6 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "banister" : [ "balusters", "bannister", "handrail", "balustrade" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3265,6 +3347,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1755",
@@ -3287,8 +3371,6 @@
     "imageURL" : "http://www.dia.org/user_area/comping/45.17-S1.jpg",
     "synonyms" : [ {
       "general" : [ "world-wide", "ecumenical", "full general", "universal", "superior general", "oecumenical", "worldwide", "cosmopolitan" ]
-    }, {
-      "davis" : [ "Jefferson Davis", "Miles Dewey Davis Jr.", "Stuart Davis", "Dwight Filley Davis", "Dwight Davis", "John Davis", "Davys", "John Davys", "Miles Davis", "Bette Davis" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
@@ -3331,6 +3413,8 @@
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
+      "self portrait" : [ "self-portrait", "self" ]
+    }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
     } ]
   }, {
@@ -3351,6 +3435,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/46.134-S1.jpg",
     "synonyms" : [ {
       "top" : [ "tiptop", "circus tent", "top side", "go past", "peak", "crown", "lead", "tip", "clear", "top of the inning", "cover", "whirligig", "height", "top off", "pinnacle", "top out", "upside", "pinch", "transcend", "elevation", "exceed", "acme", "big top", "spinning top", "superlative", "pass", "overstep", "teetotum", "upper side", "round top", "meridian", "summit", "crest" ]
+    }, {
+      "kaaterskill" : [ ]
     }, {
       "falls" : [ "go down", "waterfall", "return", "precipitate", "come", "shine", "lessen", "flow", "hang", "pass", "strike", "diminish", "fall", "fall down", "accrue", "descend", "settle", "light", "decrease", "devolve", "come down" ]
     }, {
@@ -3398,6 +3484,14 @@
     "imageURL" : "http://www.dia.org/user_area/comping/46.224-S1.jpg",
     "synonyms" : [ {
       "west" : [ "Cicily Isabel Fairfield", "W", "Occident", "Benjamin West", "due west", "Rebecca West", "western United States", "Mae West", "Dame Rebecca West", "westward" ]
+    }, {
+      "street" : [ ]
+    }, {
+      "campus" : [ ]
+    }, {
+      "hillsdale" : [ ]
+    }, {
+      "college" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -3492,6 +3586,8 @@
     "synonyms" : [ {
       "watson" : [ "John Broadus Watson", "James Dewey Watson", "James Watson", "Thomas Augustus Watson" ]
     }, {
+      "shark" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3548,6 +3644,8 @@
     "synonyms" : [ {
       "king" : [ "B. B. King", "queen", "big businessman", "top executive", "male monarch", "baron", "Riley B King", "Billie Jean Moffitt King", "tycoon", "Rex", "magnate", "power", "Martin Luther King Jr.", "world-beater", "business leader", "Martin Luther King", "mogul", "Billie Jean King" ]
     }, {
+      "montauks" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3603,8 +3701,6 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "aaron" : [ "Henry Louis Aaron", "Hank Aaron" ]
-    }, {
       "son" : [ "Word", "Logos", "boy" ]
     }, {
       "joshua" : [ "Josue", "Book of Joshua" ]
@@ -3616,6 +3712,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "double portrait" : [ "forked", "double up", "reduplicate", "duplicate", "look-alike", "doubling", "stunt woman", "image", "double over", "treble", "repeat", "two-bagger", "doubled", "double", "duple", "replicate", "dual", "three-fold", "two-fold", "twofold", "bivalent", "threefold", "two-base hit", "two-baser", "stunt man" ]
     } ]
   }, {
     "provenance" : "Descended in the family of Mary Hirst Pepperrell.[Goodspeed Bookstore, Boston]Childs Gallery, BostonOld Print Shop, New YorkDexter M. Ferry, Jr., DetroitAcquired in 1948",
@@ -3633,17 +3731,19 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/48.163.jpg",
     "synonyms" : [ {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
       "later" : [ "posterior", "late", "ulterior" ]
     }, {
       "lady" : [ "gentlewoman", "dame", "noblewoman", "madam", "peeress", "ma'am" ]
+    }, {
+      "pepperell" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1756",
@@ -3727,6 +3827,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/48.386-S1.jpg",
     "synonyms" : [ {
+      "after" : [ ]
+    }, {
       "nights" : [ "Night", "nighttime", "dark", "night", "Nox" ]
     }, {
       "study" : [ "field of study", "work", "sketch", "examine", "hit the books", "subject", "learn", "contemplate", "bailiwick", "written report", "field", "analyze", "canvass", "subject area", "consider", "take", "report", "read", "survey", "meditate", "discipline", "subject field", "cogitation", "analyse" ]
@@ -3751,7 +3853,7 @@
     "credit" : "Bequest of Helen Lothrop Prall",
     "imageURL" : "http://www.dia.org/user_area/comping/50.130.jpg",
     "synonyms" : [ {
-      "helen" : [ "Helen of Troy" ]
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -3808,9 +3910,7 @@
     "credit" : "Gift of Dexter M. Ferry, Jr.",
     "imageURL" : "http://www.dia.org/user_area/comping/50.139-S1.jpg",
     "synonyms" : [ {
-      "oliver" : [ "King Oliver", "Joseph Oliver" ]
-    }, {
-      "hazard" : [ "take a chance", "jeopardy", "gamble", "luck", "endangerment", "peril", "chance", "fortune", "risk", "take chances", "adventure", "stake", "guess", "pretend", "venture", "jeopardize", "run a risk" ]
+      "commodore" : [ ]
     }, {
       "perry" : [ "Ralph Barton Perry", "Matthew Calbraith Perry", "Commodore Perry", "Oliver Hazard Perry" ]
     }, {
@@ -3866,6 +3966,8 @@
     "synonyms" : [ {
       "grandmas" : [ "granny", "nanna", "nan", "gran", "grannie", "grandma", "grandmother" ]
     }, {
+      "hearthstone" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3894,8 +3996,6 @@
     "credit" : "Founders Society Purchase with funds from Dexter M. Ferry, Jr.",
     "imageURL" : "http://www.dia.org/user_area/comping/50.58-D1.jpg",
     "synonyms" : [ {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -3903,6 +4003,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1825",
@@ -3951,6 +4053,8 @@
       "inviting" : [ "tempt", "invite", "ask over", "call for", "ask round", "ask for", "take in", "ask in", "receive", "bid", "pay for" ]
     }, {
       "shot" : [ "flash", "bourgeon", "barb", "photograph", "frivol away", "snap", "fool", "dart", "stroke", "shooter", "hit", "tear", "pellet", "guesswork", "crack", "spud", "chatoyant", "scud", "fritter away", "shoot", "pullulate", "sprout", "scene", "dead reckoning", "jibe", "blast", "dissipate", "gibe", "shoot down", "scoot", "iridescent", "blastoff", "buck", "dig", "burgeon forth", "fritter", "film", "fool away", "snapshot", "inject", "injection", "guessing", "germinate", "shaft", "charge", "dash", "take", "guess", "pip", "stab", "nip", "changeable", "shooting", "slam" ]
+    }, {
+      "before" : [ ]
     }, {
       "petersburg" : [ "Petersburg Campaign" ]
     }, {
@@ -4039,11 +4143,15 @@
     }, {
       "tweedy" : [ "homespun", "nubbly", "nubby", "slubbed" ]
     }, {
+      "brooklyn" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1719",
@@ -4072,6 +4180,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "provenance" : "Artist's estate, 1905; Anna Richards (Mrs. William T.)     Brewster, daughter of the artist.National Academy of Design, 1952Acquired in 1953",
@@ -4090,6 +4200,12 @@
     "imageURL" : "http://www.dia.org/user_area/comping/53.379-S1.jpg",
     "synonyms" : [ {
       "glade" : [ "clearing" ]
+    }, {
+      "oldmixon" : [ ]
+    }, {
+      "chester" : [ ]
+    }, {
+      "county" : [ ]
     }, {
       "pennsylvania" : [ "University of Pennsylvania", "Keystone State", "Penn", "Pa.", "PA" ]
     } ]
@@ -4144,8 +4260,6 @@
     "credit" : "Gift of Mr. and Mrs. Ernest Kanzler",
     "imageURL" : "http://www.dia.org/user_area/comping/54.100-S1.jpg",
     "synonyms" : [ {
-      "judith" : [ "Book of Judith" ]
-    }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -4155,6 +4269,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1825",
@@ -4229,6 +4345,8 @@
     "credit" : "Gift of Katherine French Rockwell",
     "imageURL" : "http://www.dia.org/user_area/comping/56.185-S1.jpg",
     "synonyms" : [ {
+      "kaaterskill" : [ ]
+    }, {
       "falls" : [ "go down", "waterfall", "return", "precipitate", "come", "shine", "lessen", "flow", "hang", "pass", "strike", "diminish", "fall", "fall down", "accrue", "descend", "settle", "light", "decrease", "devolve", "come down" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -4256,6 +4374,8 @@
     "credit" : "Founders Society Purchase with funds from Mr. and Mrs. James S. Whitcomb",
     "imageURL" : "http://www.dia.org/user_area/comping/56.19-S1.jpg",
     "synonyms" : [ {
+      "fiesole" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -4280,6 +4400,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/56.31.jpg",
     "synonyms" : [ {
       "american" : [ "American language", "American English" ]
+    }, {
+      "lake" : [ ]
     }, {
       "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
     }, {
@@ -4307,6 +4429,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/56.96-S1.jpg",
     "synonyms" : [ {
+      "shinnecock" : [ ]
+    }, {
       "hills" : [ "hill", "Alfred Hawthorne", "Hill", "J. J. Hill", "pitcher's mound", "mound", "James Jerome Hill", "Benny Hill" ]
     }, {
       "landscape" : [ "landscape painting" ]
@@ -4328,6 +4452,10 @@
     "credit" : "Founders Society Purchase, Merrill Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/57.235-S1.jpg",
     "synonyms" : [ {
+      "cumaean" : [ ]
+    }, {
+      "sibyl" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -4351,6 +4479,8 @@
     "credit" : "Founders Society Purchase, Dexter M. Ferry, Jr, Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/57.248.jpg",
     "synonyms" : [ {
+      "cherokee" : [ ]
+    }, {
       "roses" : [ "rosiness", "arise", "rise up", "climb", "pink wine", "surface", "originate", "wax", "resurrect", "rosebush", "rise", "develop", "rebel", "stand up", "move up", "prove", "come up", "go up", "climb up", "uprise", "rear", "heighten", "jump", "rose", "blush wine", "mount", "get up", "spring up", "grow", "rose wine", "lift", "ascend", "turn out" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -4380,6 +4510,8 @@
     }, {
       "state" : [ "commonwealth", "Department of State", "submit", "United States Department of State", "put forward", "land", "state of matter", "express", "nation", "country", "DoS", "say", "province", "res publica", "tell", "body politic", "posit", "State Department" ]
     }, {
+      "election" : [ ]
+    }, {
       "detroit" : [ "Motown", "Motor City" ]
     }, {
       "michigan" : [ "Mich.", "stops", "boodle", "Lake Michigan", "MI", "Wolverine State", "Newmarket", "Chicago", "Great Lakes State" ]
@@ -4387,6 +4519,8 @@
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "birth" : "1688",
@@ -4409,10 +4543,6 @@
     "imageURL" : "http://www.dia.org/user_area/comping/58.353-S1.jpg",
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
-    }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "pitts" : [ "William Pitt", "George Dibdin Pitt", "Pitt the Elder", "Second Earl of Chatham", "George Pitt", "Pitt", "Pitt the Younger", "George Dibdin-Pitt", "First Earl of Chatham" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -4442,13 +4572,13 @@
     "credit" : "Founders Society Purchase, Gibbs-Williams Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/58.354-S1.jpg",
     "synonyms" : [ {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -4474,15 +4604,13 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "pitts" : [ "William Pitt", "George Dibdin Pitt", "Pitt the Elder", "Second Earl of Chatham", "George Pitt", "Pitt", "Pitt the Younger", "George Dibdin-Pitt", "First Earl of Chatham" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -4506,15 +4634,13 @@
     "credit" : "Founders Society Purchase, Gibbs-Williams Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/58.357-S1.jpg",
     "synonyms" : [ {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "pitts" : [ "William Pitt", "George Dibdin Pitt", "Pitt the Elder", "Second Earl of Chatham", "George Pitt", "Pitt", "Pitt the Younger", "George Dibdin-Pitt", "First Earl of Chatham" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -4543,6 +4669,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -4665,9 +4793,7 @@
     "credit" : "Gift of Mrs. James Couzens",
     "imageURL" : "http://www.dia.org/user_area/comping/61.163-S1.jpg",
     "synonyms" : [ {
-      "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
-    }, {
-      "washington" : [ "George Washington", "WA", "Evergreen State", "Booker T. Washington", "Wash.", "Washington D.C.", "American capital", "President Washington", "Capital", "Booker Taliaferro Washington", "capital of the United States" ]
+      "gadsdenmorrisclarke" : [ ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
@@ -4727,6 +4853,8 @@
     "synonyms" : [ {
       "wolf" : [ "beast", "brute", "Friedrich August Wolf", "wildcat", "savage", "skirt chaser", "masher", "woman chaser", "Hugo Wolf", "wolf down" ]
     }, {
+      "river" : [ ]
+    }, {
       "kansas" : [ "Sunflower State", "Kansa", "Kaw River", "KS", "Kansas River", "Kan." ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -4754,6 +4882,8 @@
     "credit" : "Gift of Dr. and Mrs. Irving Levitt",
     "imageURL" : "http://www.dia.org/user_area/comping/63.238.jpg",
     "synonyms" : [ {
+      "belfield" : [ ]
+    }, {
       "farm" : [ "raise", "grow", "produce" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -4780,10 +4910,6 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "charles" : [ "Charles Stuart", "Charles II", "Carolus", "Charles IX", "Charles the Great", "Jacques Charles", "Prince Charles", "Charles the Bald", "Jacques Alexandre Cesar Charles", "Charles I", "Charles VII", "Charles River", "Charlemagne" ]
-    }, {
-      "carroll" : [ "Charles Dodgson", "Lewis Carroll", "Dodgson", "Charles Lutwidge Dodgson", "Reverend Dodgson" ]
-    }, {
       "annapolis" : [ "capital of Maryland" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -4791,6 +4917,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -4814,12 +4942,6 @@
     "credit" : "Bequest of Alfred J. Fisher",
     "imageURL" : "http://www.dia.org/user_area/comping/67.118.jpg",
     "synonyms" : [ {
-      "fishermans" : [ "fisher", "fisherman" ]
-    }, {
-      "wedding" : [ "splice", "tie", "wed", "espouse", "nuptials", "marriage", "get hitched with", "wedding party", "conjoin", "hook up with", "hymeneals", "get married", "marriage ceremony", "marry", "wedding ceremony" ]
-    }, {
-      "party" : [ "political party", "company" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -4864,8 +4986,6 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "chase" : [ "Salmon P. Chase", "Salmon Portland Chase", "give chase", "tag", "track", "tail", "pursuit", "furrow", "chamfer", "following", "trail", "chase after", "dog", "go after", "pursual" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -4894,6 +5014,10 @@
     "imageURL" : "http://www.dia.org/user_area/comping/68.345.jpg",
     "synonyms" : [ {
       "lagoon" : [ "laguna", "lagune" ]
+    }, {
+      "guayaquil" : [ ]
+    }, {
+      "river" : [ ]
     }, {
       "ecuador" : [ "Republic of Ecuador" ]
     }, {
@@ -4926,6 +5050,8 @@
     }, {
       "head" : [ "guide", "straits", "capitulum", "manoeuvre", "lead", "headway", "manoeuver", "drumhead", "principal", "read/write head", "channelize", "head word", "school principal", "top dog", "question", "mind", "brain", "chief", "direct", "headspring", "channelise", "psyche", "promontory", "head teacher", "fountainhead", "caput", "header", "forefront", "pass", "oral sex", "point", "nous", "headland", "steer", "foreland", "maneuver", "heading", "head up" ]
     }, {
+      "lake" : [ ]
+    }, {
       "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -4953,6 +5079,8 @@
     "credit" : "Bequest of Mr. and Mrs. Charles M. Swift",
     "imageURL" : "http://www.dia.org/user_area/comping/69.527-D2.jpg",
     "synonyms" : [ {
+      "communicant" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -4976,6 +5104,8 @@
     "credit" : "Bequest of Robert H. Tannahill",
     "imageURL" : "http://www.dia.org/user_area/comping/70.150-S1.jpg",
     "synonyms" : [ {
+      "fourleaf" : [ ]
+    }, {
       "clover" : [ "trefoil" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -5004,11 +5134,11 @@
     "credit" : "Founders Society Purchase with funds from Mr. and Mrs. Richard A. Manoogian",
     "imageURL" : "http://www.dia.org/user_area/comping/70.560.A-S1.jpg",
     "synonyms" : [ {
-      "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
-    }, {
-      "lewis" : [ "Jerry Lee Lewis", "Carl Lewis", "Harry Sinclair Lewis", "Sinclair Lewis", "Clive Staples Lewis", "John Llewelly Lewis", "John L. Lewis", "C. S. Lewis", "Frederick Carleton Lewis", "Meriwether Lewis" ]
+      "colonel" : [ ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1761",
@@ -5031,6 +5161,8 @@
     }, {
       "charles" : [ "Charles Stuart", "Charles II", "Carolus", "Charles IX", "Charles the Great", "Jacques Charles", "Prince Charles", "Charles the Bald", "Jacques Alexandre Cesar Charles", "Charles I", "Charles VII", "Charles River", "Charlemagne" ]
     }, {
+      "william" : [ ]
+    }, {
       "park" : [ "ballpark", "parking lot", "common", "car park", "Mungo Park", "green", "commons", "parkland", "parking area" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -5040,6 +5172,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1823",
@@ -5060,7 +5194,11 @@
     "synonyms" : [ {
       "sunset" : [ "sundown" ]
     }, {
+      "after" : [ ]
+    }, {
       "storm" : [ "violent storm", "tempest", "force", "rage", "surprise", "ramp" ]
+    }, {
+      "catskill" : [ ]
     }, {
       "mountains" : [ "mountain", "muckle", "plenty", "mess", "mickle", "passel", "flock", "pot", "mass", "heap", "sight", "deal", "tidy sum", "hatful", "peck", "pile", "great deal", "quite a little", "mint", "mount", "batch", "slew", "lot", "spate", "stack", "raft", "good deal", "wad" ]
     }, {
@@ -5091,6 +5229,8 @@
     "synonyms" : [ {
       "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
     }, {
+      "giverny" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -5117,9 +5257,7 @@
     "credit" : "Founders Society Purchase, Robert H. Tannahill Foundation Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/70.831-S1.jpg",
     "synonyms" : [ {
-      "lot" : [ "dispense", "mountain", "mete out", "set", "muckle", "plenty", "circle", "allot", "mess", "fortune", "mickle", "passel", "flock", "pot", "fate", "draw", "heap", "mass", "sight", "band", "deal out", "distribute", "deal", "administer", "tidy sum", "hatful", "peck", "pile", "shell out", "bunch", "dole out", "portion", "great deal", "caboodle", "circumstances", "quite a little", "luck", "mint", "destiny", "parcel out", "batch", "slew", "spate", "stack", "raft", "dish out", "good deal", "wad" ]
-    }, {
-      "fleeing" : [ "flee", "fly", "take flight" ]
+      "sodom" : [ ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
@@ -5157,6 +5295,8 @@
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
+    }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
   }, {
@@ -5179,13 +5319,15 @@
     "credit" : "City of Detroit Purchase, Insurance Recovery Funds",
     "imageURL" : "http://www.dia.org/user_area/comping/70.953.jpg",
     "synonyms" : [ {
-      "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
-    }, {
-      "augustus" : [ "Gaius Octavianus", "Octavian", "Gaius Julius Caesar Octavianus" ]
+      "sir" : [ ]
     }, {
       "first" : [ "first gear", "initiatory", "number 1", "starting time", "beginning", "low gear", "foremost", "outset", "first-class honours degree", "number one", "inaugural", "commencement", "first base", "start", "kickoff", "1st", "get-go", "showtime", "maiden", "low", "offset", "world-class", "initiative" ]
     }, {
       "lord" : [ "nobleman", "overlord", "God Almighty", "Creator", "Almighty", "noble", "Divine", "master", "Jehovah", "Godhead", "Maker" ]
+    }, {
+      "heathfield" : [ ]
+    }, {
+      "gibralter" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -5219,13 +5361,13 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "benjamin" : [ "gum benjamin", "asa dulcis", "gum benzoin", "benzoin" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -5246,6 +5388,12 @@
     "credit" : "Gift of Mr. and Mrs. Harold O. Love",
     "imageURL" : "http://www.dia.org/user_area/comping/72.249.jpg",
     "synonyms" : [ {
+      "hoc" : [ ]
+    }, {
+      "signo" : [ ]
+    }, {
+      "vinces" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -5278,6 +5426,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1851",
@@ -5311,6 +5461,8 @@
       "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
     }, {
       "figure" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
+    }, {
+      "folding screen" : [ "foldable", "shut down", "pen up", "protein folding", "turn up", "fold up", "foldaway", "close down", "folding", "fold", "close up", "close" ]
     } ]
   }, {
     "birth" : "1847",
@@ -5384,6 +5536,8 @@
     }, {
       "shot" : [ "flash", "bourgeon", "barb", "photograph", "frivol away", "snap", "fool", "dart", "stroke", "shooter", "hit", "tear", "pellet", "guesswork", "crack", "spud", "chatoyant", "scud", "fritter away", "shoot", "pullulate", "sprout", "scene", "dead reckoning", "jibe", "blast", "dissipate", "gibe", "shoot down", "scoot", "iridescent", "blastoff", "buck", "dig", "burgeon forth", "fritter", "film", "fool away", "snapshot", "inject", "injection", "guessing", "germinate", "shaft", "charge", "dash", "take", "guess", "pip", "stab", "nip", "changeable", "shooting", "slam" ]
     }, {
+      "after" : [ ]
+    }, {
       "hunt" : [ "James Henry Leigh Hunt", "Holman Hunt", "Richard Morris Hunt", "search", "trace", "hound", "track down", "hunt club", "Leigh Hunt", "hunting", "William Holman Hunt", "run", "hunt down" ]
     }, {
       "adirondacks" : [ "Adirondack Mountains" ]
@@ -5418,7 +5572,7 @@
     "credit" : "Founders Society Purchase with funds from Mr. and Mrs. Richard A. Manoogian, the Beatrice Rogers Fund, Gibbs-Williams Fund and Ralph Harman Booth Bequest Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/73.41.jpg",
     "synonyms" : [ {
-      "paul" : [ "Apostle Paul", "Alice Paul", "Saul", "Saul of Tarsus", "Apostle of the Gentiles", "St. Paul", "Paul the Apostle", "Saint Paul" ]
+      "madame" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -5427,6 +5581,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "full length" : [ "full-length", "uncut", "full phase of the moon", "full-of-the-moon", "full", "wax", "full moon" ]
     } ]
   }, {
     "birth" : "1873",
@@ -5448,6 +5604,8 @@
       "apples" : [ "apple", "Malus pumila", "orchard apple tree" ]
     }, {
       "les" : [ "LE", "lupus erythematosus" ]
+    }, {
+      "pommes" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -5475,6 +5633,8 @@
       "still" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "distillery", "tranquillise", "static", "lull", "quiet", "soundless", "stillness", "unruffled", "relieve", "hush up", "silence", "tranquillize", "allay" ]
     }, {
       "life" : [ "life-time", "lifetime", "animation", "sprightliness", "life history", "life story", "spirit", "life sentence", "aliveness", "liveliness", "lifespan", "living", "biography" ]
+    }, {
+      "lobster" : [ ]
     } ]
   }, {
     "birth" : "1828",
@@ -5529,6 +5689,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "birth" : "1826",
@@ -5547,6 +5709,8 @@
     "credit" : "Founders Society  Purchase, Robert H. Tannahill Foundation Fund, Gibbs-Williams Fund, Dexter M. Ferry Jr. Fund, Merrill Fund, Beatrice W. Rogers Fund, and Richard A. Manoogian Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/76.89.jpg",
     "synonyms" : [ {
+      "cotopaxi" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -5574,9 +5738,9 @@
     "credit" : "Bequest of Eleanor Clay Ford",
     "imageURL" : "http://www.dia.org/user_area/comping/77.5.jpg",
     "synonyms" : [ {
-      "ford" : [ "crossing", "Gerald R. Ford", "Ford Madox Ford", "Ford Hermann Hueffer", "Henry Ford", "Henry Ford II", "fording", "President Ford", "Gerald Rudolph Ford", "John Ford", "Gerald Ford", "Edsel Bryant Ford" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
+    }, {
+      "masonite" : [ ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
@@ -5585,6 +5749,8 @@
       "panel" : [ "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1738",
@@ -5709,6 +5875,8 @@
       "religion" : [ "faith", "religious belief", "organized religion" ]
     }, {
       "allegory" : [ "emblem", "parable", "apologue", "fable" ]
+    }, {
+      "christian" : [ ]
     } ]
   }, {
     "birth" : "1738",
@@ -5728,6 +5896,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/80.101.jpg",
     "synonyms" : [ {
       "last" : [ "live on", "final", "last-place", "death", "utmost", "net", "stopping point", "cobbler's last", "close", "hold out", "finish", "finale", "terminal", "survive", "finis", "endure", "conclusion", "hold up", "concluding", "shoemaker's last", "lowest", "end", "live", "go" ]
+    }, {
+      "supper" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -5755,13 +5925,13 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/81.839.jpg",
     "synonyms" : [ {
-      "blair" : [ "Anthony Charles Lynton Blair", "Tony Blair" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -5821,6 +5991,8 @@
     }, {
       "story" : [ "taradiddle", "narrative", "fib", "history", "level", "narration", "floor", "tale", "storey", "write up", "tarradiddle", "report", "account", "news report", "chronicle" ]
     }, {
+      "oenone" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -5847,10 +6019,6 @@
     "credit" : "Gift of George H. Scripps",
     "imageURL" : "http://www.dia.org/user_area/comping/85.3.jpg",
     "synonyms" : [ {
-      "court" : [ "court of law", "motor lodge", "judicature", "motor inn", "solicit", "courtroom", "law court", "homage", "romance", "tribunal", "court of justice", "woo", "motor hotel", "Margaret Court", "courtyard", "lawcourt", "tourist court", "royal court" ]
-    }, {
-      "death" : [ "last", "destruction", "demise", "decease", "dying", "end", "expiry" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -5897,10 +6065,6 @@
     "credit" : "Detroit Museum of Art Purchase",
     "imageURL" : "http://www.dia.org/user_area/comping/88.1-S1.jpg",
     "synonyms" : [ {
-      "surprise" : [ "surprisal", "storm" ]
-    }, {
-      "party" : [ "political party", "company" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
@@ -5951,6 +6115,8 @@
     "credit" : "Detroit Museum of Art Purchase, Popular Subscription Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/89.1-S1.jpg",
     "synonyms" : [ {
+      "lily" : [ ]
+    }, {
       "pond" : [ "pool" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -5983,11 +6149,11 @@
     "synonyms" : [ {
       "queen" : [ "queer", "queen mole rat", "nance", "fairy", "king", "fag", "pouf", "queen regnant", "faggot", "pansy", "poove", "female monarch", "world-beater", "tabby", "fagot", "poof" ]
     }, {
-      "interceding" : [ "liaise", "mediate", "arbitrate", "intercede", "intermediate" ]
-    }, {
       "lives" : [ "live on", "dwell", "last", "inhabit", "life story", "life sentence", "subsist", "hold out", "life-time", "life", "survive", "populate", "experience", "aliveness", "lifespan", "exist", "live", "be", "lifetime", "animation", "life history", "living", "liveliness", "biography", "know", "sprightliness", "endure", "spirit", "hold up", "go" ]
     }, {
       "burghers" : [ "bourgeois", "burgess", "burgher" ]
+    }, {
+      "calais" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -6036,8 +6202,6 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.dia.org/user_area/comping/92.1-D1.jpg",
     "synonyms" : [ {
-      "discovering" : [ "reveal", "unwrap", "uncover", "let on", "find out", "light upon", "pick up", "happen upon", "break", "hear", "strike", "expose", "key out", "name", "describe", "get a line", "notice", "key", "find", "come across", "chance upon", "chance on", "attain", "detect", "let out", "disclose", "identify", "discover", "learn", "get word", "get wind", "fall upon", "give away", "divulge", "see", "observe", "distinguish", "come upon", "bring out" ]
-    }, {
       "affianced" : [ "engage", "plight", "affiance", "betroth" ]
     }, {
       "hospital" : [ "infirmary" ]
@@ -6093,7 +6257,11 @@
     }, {
       "pink" : [ "pinko", "knock", "rap", "garden pink", "tap", "ping", "pinkish" ]
     }, {
+      "pastel" : [ ]
+    }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1839",
@@ -6115,6 +6283,8 @@
       "water" : [ "water system", "irrigate", "water supply", "piss", "H2O", "body of water", "weewee", "pee", "urine", "piddle" ]
     }, {
       "carriers" : [ "bearer", "letter carrier", "aircraft carrier", "mailman", "mail carrier", "common carrier", "attack aircraft carrier", "postman", "carrier wave", "toter", "immune carrier", "newsboy", "carrier", "flattop" ]
+    }, {
+      "masonite" : [ ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
@@ -6144,13 +6314,13 @@
     "synonyms" : [ {
       "mrs" : [ "Mrs." ]
     }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]

@@ -33,7 +33,7 @@ public class CalculateInverseDocumentFrequency {
 				}
 				
 				while((line = reader.readLine()) != null){
-					String[] splitValues = line.split(" ");
+					String[] splitValues = line.split("->");
 					String term = splitValues[0];
 					int val = Integer.parseInt(splitValues[1]);
 					if(termStatsFrequency.containsKey(term)){

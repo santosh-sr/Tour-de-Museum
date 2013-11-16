@@ -11,7 +11,9 @@
     "date" : "Italy, Florence, 1708",
     "medium" : "Polychrome porcelain",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833993-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "piet" : [ ]
+    } ]
   }, {
     "provenance" : "James E. Clark Bequest (M.87.119.25)",
     "title" : "Apollo",
@@ -139,43 +141,7 @@
     }, {
       "balzac" : [ "Honore Balzac", "Honore de Balzac" ]
     }, {
-      "ruth" : [ "pity", "Book of Ruth", "Babe Ruth", "George Herman Ruth", "pathos", "commiseration", "Sultan of Swat" ]
-    }, {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "wagner" : [ "Otto Wagner", "Richard Wagner", "Wilhelm Richard Wagner" ]
-    }, {
-      "romantics" : [ "romanticist", "romantic" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
-    }, {
-      "painting" : [ "picture", "house painting", "paint" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "ullibutler" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Camilla Chandler Frost (M.91.269.1)",
@@ -297,6 +263,8 @@
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
       "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
+    }, {
+      "baptist" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Camilla Chandler Frost in memory of Dorothy Buffum Chandler (AC1999.51.1)",
@@ -314,8 +282,6 @@
     "medium" : "Terracotta with traces of gilding and polychromy",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31770581-WEB.jpg",
     "synonyms" : [ {
-      "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
-    }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     } ]
   }, {
@@ -337,6 +303,8 @@
     }, {
       "fort" : [ "garrison", "fort up", "fortify", "fortress" ]
     }, {
+      "manoel" : [ ]
+    }, {
       "valletta" : [ "capital of Malta", "Valetta" ]
     } ]
   }, {
@@ -353,6 +321,12 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833664-WEB.jpg",
     "synonyms" : [ {
       "apotheosis" : [ "nonpareil", "nonesuch", "nonsuch", "ideal", "paragon", "deification", "saint", "exaltation" ]
+    }, {
+      "antonio" : [ ]
+    }, {
+      "manoel" : [ ]
+    }, {
+      "vilhena" : [ ]
     }, {
       "grand" : [ "rarified", "magisterial", "G", "opulent", "yard", "imposing", "rattling", "high-minded", "chiliad", "M", "marvellous", "K", "wondrous", "princely", "terrific", "lofty", "august", "rarefied", "noble-minded", "wonderful", "lordly", "expansive", "luxurious", "grand piano", "thou", "lush", "one thousand", "sublime", "distinguished", "thousand", "sumptuous", "gilded", "fantastic", "exalted", "tremendous", "marvelous", "high-flown", "heroic", "deluxe", "howling", "idealistic", "1000", "elevated" ]
     }, {
@@ -402,23 +376,75 @@
     }, {
       "viii" : [ "octonary", "ogdoad", "eighter", "eighter from Decatur", "octad", "8", "octet", "eight" ]
     }, {
+      "ullivalentiner" : [ ]
+    }, {
       "gothic" : [ "black letter", "mediaeval", "medieval", "Gothic architecture" ]
     }, {
       "renaissance" : [ "rebirth", "Renascence" ]
     }, {
+      "scupltures" : [ ]
+    }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
     }, {
+      "european" : [ ]
+    }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
@@ -427,8 +453,6 @@
       "york" : [ "House of York" ]
     }, {
       "thames" : [ "River Thames", "Thames River" ]
-    }, {
-      "hudson" : [ "William Henry Hudson", "W. H. Hudson", "Henry Hudson", "Hudson River" ]
     } ]
   }, {
     "provenance" : "Gift of Anna Bing Arnold (M.76.12)",
@@ -461,6 +485,10 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-2398795-WEB.jpg",
     "synonyms" : [ {
       "venus" : [ "genus Venus", "Urania" ]
+    }, {
+      "aeneas" : [ ]
+    }, {
+      "achilles" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Times Mirror Foundation (M.76.78)",
@@ -496,10 +524,6 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31834644-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
-    }, {
-      "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
-    }, {
-      "washington" : [ "George Washington", "WA", "Evergreen State", "Booker T. Washington", "Wash.", "Washington D.C.", "American capital", "President Washington", "Capital", "Booker Taliaferro Washington", "capital of the United States" ]
     } ]
   }, {
     "provenance" : "William Randolph Hearst Collection (48.24.9)",
@@ -514,6 +538,8 @@
     "medium" : "Lead-glazed terracotta",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-34755101-WEB.jpg",
     "synonyms" : [ {
+      "buonafede" : [ ]
+    }, {
       "nativity" : [ "birth", "nascence", "nascency", "Virgin Birth" ]
     } ]
   }, {
@@ -538,27 +564,95 @@
     }, {
       "goldfinch" : [ "Spinus tristis", "Carduelis carduelis", "New World goldfinch", "yellowbird" ]
     }, {
+      "ullivalentiner" : [ ]
+    }, {
       "gothic" : [ "black letter", "mediaeval", "medieval", "Gothic architecture" ]
     }, {
       "renaissance" : [ "rebirth", "Renascence" ]
     }, {
+      "scupltures" : [ ]
+    }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "kenneth" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "handbook" : [ "vade mecum", "enchiridion" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
@@ -595,6 +689,10 @@
       "male" : [ "virile", "manly", "manlike", "manful", "male person" ]
     }, {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
+    }, {
+      "cosmas" : [ ]
+    }, {
+      "damian" : [ ]
     } ]
   }, {
     "provenance" : "Mr. and Mrs. George Gard De Sylva Collection (M.46.8.7)",
@@ -613,47 +711,11 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31773158-WEB.jpg",
     "synonyms" : [ {
-      "mrs" : [ "Mrs." ]
+      "grande" : [ ]
     }, {
-      "george" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George IV" ]
+      "arabesque" : [ ]
     }, {
-      "sylva" : [ "silva" ]
-    }, {
-      "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
-    }, {
-      "french" : [ "Daniel Chester French", "Gallic", "French people" ]
-    }, {
-      "impressionist" : [ "impressionistic" ]
-    }, {
-      "modern" : [ "Bodoni font", "modern font", "mod", "advanced", "New", "modernistic", "Bodoni", "innovative", "forward-looking" ]
-    }, {
-      "paintings" : [ "picture", "house painting", "painting" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "henry" : [ "William Henry", "Patrick Henry", "H", "Joseph Henry" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "illustrated" : [ "exemplify", "instance", "illustrate" ]
-    }, {
-      "handbook" : [ "vade mecum", "enchiridion" ]
-    }, {
-      "west" : [ "Cicily Isabel Fairfield", "W", "Occident", "Benjamin West", "due west", "Rebecca West", "western United States", "Mae West", "Dame Rebecca West", "westward" ]
-    }, {
-      "germany" : [ "FRG", "Federal Republic of Germany", "Deutschland" ]
-    }, {
-      "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
-    }, {
-      "painting" : [ "picture", "house painting", "paint" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "ullivalentiner" : [ ]
     } ]
   }, {
     "provenance" : "William Randolph Hearst Collection (51.18.5)",
@@ -669,6 +731,12 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31835064-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "marchese" : [ ]
+    }, {
+      "bartholomeo" : [ ]
+    }, {
+      "ruspoli" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Mr. and Mrs. William T. Sesnon, Jr. (M.51.11)",
@@ -724,27 +792,95 @@
     }, {
       "cross" : [ "thwartwise", "crossing", "queer", "bilk", "scotch", "hybridise", "traverse", "crisscross", "grumpy", "get across", "cover", "hybridisation", "get over", "transverse", "interbreed", "spoil", "ill-tempered", "hybridizing", "hybridization", "frustrate", "crown of thorns", "baffle", "bad-tempered", "fussy", "track", "grouchy", "crabby", "transversal", "cut across", "mark", "pass over", "sweep", "crossbreeding", "hybridize", "crabbed", "cut through", "foil", "intersect", "thwart", "hybrid", "interbreeding", "crossbreed", "span" ]
     }, {
+      "ullivalentiner" : [ ]
+    }, {
       "gothic" : [ "black letter", "mediaeval", "medieval", "Gothic architecture" ]
     }, {
       "renaissance" : [ "rebirth", "Renascence" ]
     }, {
+      "scupltures" : [ ]
+    }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "kenneth" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "handbook" : [ "vade mecum", "enchiridion" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
@@ -762,6 +898,12 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31835007-WEB.jpg",
     "synonyms" : [ {
       "panels" : [ "panel", "instrument panel", "gore", "dialog box", "impanel", "venire", "empanel", "board", "control board", "control panel", "jury" ]
+    }, {
+      "retable" : [ ]
+    }, {
+      "agns" : [ ]
+    }, {
+      "beaufremont" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Mr. and Mrs. Archie Preissman (M.62.57.1)",
@@ -775,7 +917,9 @@
     "date" : "England, 1767",
     "medium" : "Painted plaster",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31834405-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "capitoline" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of Count Cecil Charles Pecci-Blunt (62.18)",
     "title" : "Portrait of Giuseppe Balsamo (called Count Alessandro Cagliostro)",
@@ -797,8 +941,6 @@
       "called" : [ "call", "phone", "forebode", "call up", "visit", "shout out", "anticipate", "holler", "name", "hollo", "squall", "bid", "ring", "scream", "be known as", "promise", "call in", "cry", "foretell", "yell", "know as", "call off", "address", "predict", "prognosticate", "send for", "telephone", "shout" ]
     }, {
       "count" : [ "look", "rely", "matter", "calculate", "depend", "number", "enumerate", "numeration", "weigh", "reckon", "tally", "counting", "consider", "bet", "swear", "numerate", "bank", "enumeration", "reckoning" ]
-    }, {
-      "cagliostro" : [ "Giuseppe Balsamo", "Count Alessandro di Cagliostro" ]
     } ]
   }, {
     "provenance" : "Gift of Mr. and Mrs. Archie Preissman (M.62.57.2)",
@@ -812,7 +954,9 @@
     "date" : "England, 1767",
     "medium" : "Painted plaster",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31280101-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "capitoline" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of Mrs. Marguerite Brunswig Staude (M.64.17)",
     "title" : "Herakles-The Archer",
@@ -826,6 +970,8 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31834419-WEB.jpg",
     "synonyms" : [ {
+      "heraklesthe" : [ ]
+    }, {
       "archer" : [ "bowman", "Sagittarius the Archer", "Sagittarius" ]
     } ]
   }, {
@@ -846,9 +992,9 @@
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
-      "law" : [ "practice of law", "jurisprudence", "constabulary", "police", "law of nature", "police force", "natural law", "legal philosophy" ]
-    }, {
       "marquis" : [ "Donald Robert Perry Marquis", "marquess", "Don Marquis" ]
+    }, {
+      "lauriston" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Leona Cantor Palmer (M.72.81.1)",
@@ -863,6 +1009,10 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31299268-WEB.jpg",
     "synonyms" : [ {
+      "minotaur" : [ ]
+    }, {
+      "faun" : [ ]
+    }, {
       "nymph" : [ "houri" ]
     } ]
   }, {
@@ -878,6 +1028,10 @@
     "medium" : "Plaster",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31773565-WEB.jpg",
     "synonyms" : [ {
+      "minotaur" : [ ]
+    }, {
+      "faun" : [ ]
+    }, {
       "nymph" : [ "houri" ]
     } ]
   }, {
@@ -919,245 +1073,13 @@
     }, {
       "seafarers" : [ "Jack", "gob", "Jack-tar", "mariner", "tar", "seaman", "seafarer", "sea dog", "old salt" ]
     }, {
+      "because" : [ ]
+    }, {
       "role" : [ "office", "theatrical role", "use", "purpose", "part", "persona", "character", "function" ]
     }, {
+      "apocryphal" : [ ]
+    }, {
       "tale" : [ "story", "taradiddle", "narration", "narrative", "tarradiddle", "fib" ]
-    }, {
-      "evidence" : [ "certify", "prove", "demonstrate", "testify", "attest", "manifest", "tell", "show", "bear witness", "grounds" ]
-    }, {
-      "figure" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
-    }, {
-      "raphael" : [ "Raffaello Sanzio", "Raffaello Santi" ]
-    }, {
-      "accompanied" : [ "go with", "attended", "companion", "company", "play along", "accompany", "keep company", "come with", "attach to", "follow" ]
-    }, {
-      "book" : [ "Bible", "al-Qur'an", "rule book", "hold", "record book", "Scripture", "Holy Writ", "script", "record", "Quran", "Word", "Word of God", "Good Book", "Koran", "playscript", "volume", "reserve", "leger", "Holy Scripture", "account book", "book of account", "Christian Bible", "ledger" ]
-    }, {
-      "tells" : [ "William Tell", "separate", "secern", "secernate", "severalize", "narrate", "recount", "evidence", "differentiate", "state", "enjoin", "assure", "severalise", "order", "say", "recite", "Tell", "tell apart", "distinguish", "tell" ]
-    }, {
-      "young" : [ "Danton True Young", "Brigham Young", "vernal", "unseasoned", "Edward Young", "Pres Young", "untested", "youth", "Loretta Young", "new", "Whitney Moore Young Jr.", "untried", "Whitney Young", "youthful", "immature", "Lester Willis Young", "Thomas Young", "Cy Young", "offspring" ]
-    }, {
-      "man" : [ "humanity", "Isle of Man", "military man", "valet de chambre", "human being", "humans", "serviceman", "valet", "humankind", "human", "adult male", "mankind", "homo", "gentleman's gentleman", "military personnel", "human race", "human beings", "world", "piece", "gentleman" ]
-    }, {
-      "raphael" : [ "Raffaello Sanzio", "Raffaello Santi" ]
-    }, {
-      "offered" : [ "offer up", "put up", "declare oneself", "provide", "propose", "extend", "volunteer", "tender", "proffer", "pop the question", "offer", "bid" ]
-    }, {
-      "travel" : [ "move around", "traveling", "change of location", "travelling", "locomote", "journey", "trip", "locomotion", "jaunt", "move", "go" ]
-    }, {
-      "first" : [ "first gear", "initiatory", "number 1", "starting time", "beginning", "low gear", "foremost", "outset", "first-class honours degree", "number one", "inaugural", "commencement", "first base", "start", "kickoff", "1st", "get-go", "showtime", "maiden", "low", "offset", "world-class", "initiative" ]
-    }, {
-      "journey" : [ "journeying", "travel" ]
-    }, {
-      "away" : [ "outside" ]
-    }, {
-      "home" : [ "interior", "domicile", "abode", "household", "national", "menage", "home plate", "plate", "dwelling house", "house", "nursing home", "dwelling", "habitation", "rest home", "family", "base", "place", "home base", "internal" ]
-    }, {
-      "recover" : [ "recoup", "regain", "retrieve", "reclaim", "recuperate", "go back", "convalesce", "find" ]
-    }, {
-      "owed" : [ "owe" ]
-    }, {
-      "poor" : [ "short", "piteous", "pitiful", "miserable", "inadequate", "wretched", "pitiable", "pathetic", "hapless", "jejune", "misfortunate", "poor people" ]
-    }, {
-      "aged" : [ "of age", "cured", "senesce", "maturate", "older", "mature", "age", "ripened", "elderly", "get on", "senior" ]
-    }, {
-      "father" : [ "don", "founding father", "get", "generate", "male parent", "sire", "beginner", "Fatherhood", "Father of the Church", "Father-God", "mother", "bring forth", "forefather", "Padre", "Church Father", "beget", "engender", "begetter", "founder" ]
-    }, {
-      "angels" : [ "Angel Falls", "angel", "holy person", "backer", "Angel", "holy man", "saint" ]
-    }, {
-      "care" : [ "upkeep", "forethought", "tutelage", "guardianship", "handle", "wish", "caution", "maintenance", "concern", "give care", "manage", "aid", "like", "tending", "precaution", "charge", "deal", "worry", "attention", "fear" ]
-    }, {
-      "instruction" : [ "statement", "pedagogy", "program line", "teaching", "direction", "command", "educational activity", "didactics", "education" ]
-    }, {
-      "met" : [ "satisfy", "foregather", "encounter", "adjoin", "contact", "fulfil", "forgather", "fit", "take on", "gather", "receive", "come across", "fill", "fulfill", "play", "suffer", "meet", "run across", "get together", "assemble", "see", "touch", "conform to", "converge", "run into" ]
-    }, {
-      "overcame" : [ "defeat", "get the best", "overcome", "overpower", "subdue", "get the better of", "surmount", "master", "overwhelm", "whelm", "get over", "have the best", "sweep over", "overtake" ]
-    }, {
-      "hazards" : [ "take a chance", "jeopardy", "gamble", "luck", "endangerment", "hazard", "peril", "chance", "fortune", "risk", "take chances", "adventure", "stake", "guess", "pretend", "venture", "jeopardize", "run a risk" ]
-    }, {
-      "figures" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "figure", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
-    }, {
-      "graceful" : [ "elegant", "refined" ]
-    }, {
-      "beauty" : [ "dish", "mantrap", "smasher", "stunner", "looker", "peach", "sweetheart", "knockout", "lulu", "beaut", "ravisher" ]
-    }, {
-      "slender" : [ "slim", "slight", "thin", "svelte" ]
-    }, {
-      "proportions" : [ "proportion", "balance", "proportionality", "dimension", "ratio", "symmetry" ]
-    }, {
-      "link" : [ "radio link", "relate", "unite", "connection", "connect", "tie", "nexus", "colligate", "data link", "join", "contact", "linkup", "associate", "connexion", "inter-group communication", "tie in", "tie-in", "yoke", "liaison", "connectedness", "link up" ]
-    }, {
-      "late" : [ "tardy", "previous", "later", "belated", "former", "recent" ]
-    }, {
-      "renaissance" : [ "rebirth", "Renascence" ]
-    }, {
-      "style" : [ "fashion", "trend", "elan", "flair", "way", "mode", "vogue", "panache", "title", "dash", "manner", "stylus", "expressive style" ]
-    }, {
-      "unsettling" : [ "faze", "unnerve", "unsettle", "enervate" ]
-    }, {
-      "character" : [ "fiber", "type", "reference", "fictional character", "eccentric", "grapheme", "graph", "lineament", "theatrical role", "character reference", "quality", "role", "graphic symbol", "case", "part", "fictitious character", "fibre", "persona" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "gave" : [ "apply", "gift", "grant", "generate", "have", "yield", "give", "dedicate", "give way", "hand", "open", "break", "throw", "sacrifice", "reach", "leave", "commit", "pay", "feed", "cave in", "devote", "kick in", "founder", "collapse", "consecrate", "hold", "return", "establish", "contribute", "render", "pass", "chip in", "ease up", "present", "pass on", "move over", "turn over", "make", "impart", "fall in", "afford" ]
-    }, {
-      "way" : [ "fashion", "style", "direction", "elbow room", "path", "means", "agency", "manner", "room", "way of life", "mode" ]
-    }, {
-      "classicizing" : [ "classicise", "classicize" ]
-    }, {
-      "balance" : [ "proportion", "poise", "equilibrize", "residue", "equipoise", "remainder", "proportionality", "balance wheel", "symmetricalness", "residuum", "Libra the Balance", "counterbalance", "correspondence", "counterweight", "equaliser", "counterpoise", "residual", "Libra", "Libra the Scales", "equilibrium", "equalizer", "equilibrate", "equilibrise", "rest", "symmetry" ]
-    }, {
-      "technique" : [ "proficiency" ]
-    }, {
-      "used" : [ "apply", "utilise", "victimized", "ill-used", "expend", "use", "put-upon", "employ", "victimised", "practice", "exploited", "secondhand", "utilize", "habituate" ]
-    }, {
-      "color" : [ "colourize", "coloring material", "colorise", "colouring material", "discolour", "colouring", "colourise", "colour in", "gloss", "colouration", "colour", "emblazon", "vividness", "distort", "semblance", "coloring", "color in", "discolor", "coloration", "colorize", "tinge" ]
-    }, {
-      "angels" : [ "Angel Falls", "angel", "holy person", "backer", "Angel", "holy man", "saint" ]
-    }, {
-      "tunic" : [ "tunica", "adventitia" ]
-    }, {
-      "imitating" : [ "simulate", "imitate", "copy" ]
-    }, {
-      "called" : [ "call", "phone", "forebode", "call up", "visit", "shout out", "anticipate", "holler", "name", "hollo", "squall", "bid", "ring", "scream", "be known as", "promise", "call in", "cry", "foretell", "yell", "know as", "call off", "address", "predict", "prognosticate", "send for", "telephone", "shout" ]
-    }, {
-      "graffito" : [ "graffiti" ]
-    }, {
-      "wood" : [ "woodwind instrument", "Mrs. Henry Wood", "Grant Wood", "Ellen Price Wood", "Natalie Wood", "Sir Henry Joseph Wood", "Sir Henry Wood", "forest", "woodwind", "woods" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "covered" : [ "cover up", "breed", "handle", "insure", "underwrite", "enshroud", "traverse", "plow", "get across", "shroud", "cover", "hide", "deal", "get over", "report", "embrace", "comprehend", "extend", "spread over", "track", "cut across", "brood", "pass over", "overcompensate", "cut through", "overlay", "address", "incubate", "continue", "hatch", "encompass", "compensate", "wrap up", "treat", "cross" ]
-    }, {
-      "gold" : [ "Au", "gilt", "amber", "aureate", "gilded", "atomic number 79", "golden" ]
-    }, {
-      "leaf" : [ "riff", "flick", "folio", "foliage", "leafage", "thumb", "flip", "riffle" ]
-    }, {
-      "painted" : [ "calico", "varicoloured", "pied", "multi-colour", "particolored", "motley", "multicolor", "multi-color", "varicolored", "paint", "multicoloured", "multicolored", "piebald", "multi-colored", "multi-coloured", "particoloured", "multicolour" ]
-    }, {
-      "designs" : [ "conception", "invention", "intention", "designing", "contrive", "purpose", "intent", "excogitation", "project", "figure", "plan", "pattern", "aim", "blueprint", "innovation", "design" ]
-    }, {
-      "incised" : [ "graven", "incise", "inscribed", "engraved", "etched" ]
-    }, {
-      "paint" : [ "rouge", "blusher", "key", "pigment" ]
-    }, {
-      "reveal" : [ "break", "let out", "give away", "divulge", "unwrap", "expose", "disclose", "uncover", "discover", "let on", "unveil", "bring out" ]
-    }, {
-      "patterns" : [ "traffic pattern", "model", "radiation pattern", "form", "normal", "convention", "shape", "approach pattern", "radiation diagram", "figure", "pattern", "practice", "rule", "blueprint", "design", "formula" ]
-    }, {
-      "gold" : [ "Au", "gilt", "amber", "aureate", "gilded", "atomic number 79", "golden" ]
-    }, {
-      "raphaels" : [ "Raffaello Sanzio", "Raphael", "Raffaello Santi" ]
-    }, {
-      "hand" : [ "mitt", "give", "script", "pass", "reach", "pass on", "bridge player", "deal", "manus", "paw", "hired man", "helping hand", "hired hand", "turn over", "handwriting" ]
-    }, {
-      "indicates" : [ "point", "betoken", "argue", "designate", "indicate", "bespeak", "show", "signal" ]
-    }, {
-      "divine" : [ "God Almighty", "ecclesiastic", "Creator", "Almighty", "churchman", "elysian", "godly", "Godhead", "Lord", "godlike", "inspired", "Jehovah", "cleric", "providential", "Maker" ]
-    }, {
-      "mission" : [ "deputation", "delegation", "missionary work", "charge", "missionary post", "missionary station", "military mission", "delegacy", "commission", "foreign mission" ]
-    }, {
-      "serves" : [ "serve", "dish", "attend", "answer", "serve well", "assist", "function", "process", "help", "wait on", "service", "serve up", "do", "suffice", "attend to", "swear out", "dish out", "dish up" ]
-    }, {
-      "reminder" : [ "monitor", "admonisher" ]
-    }, {
-      "faith" : [ "religion", "trust", "religious belief", "organized religion" ]
-    }, {
-      "god" : [ "divinity", "immortal", "deity", "Supreme Being", "idol", "graven image" ]
-    }, {
-      "sandals" : [ "sandal" ]
-    }, {
-      "girdle" : [ "corset", "deaden", "waistband", "stays", "cincture", "waistcloth", "gird", "sash" ]
-    }, {
-      "tunic" : [ "tunica", "adventitia" ]
-    }, {
-      "recall" : [ "remember", "think", "hark back", "call up", "return", "call in", "echo", "reminiscence", "recollection", "retrieve", "withdraw", "callback", "call back", "recollect", "come back" ]
-    }, {
-      "roman" : [ "romish", "roman letters", "Roman Catholic", "papist", "papistic", "papistical", "popish", "R.C.", "Romanic", "roman type", "Romanist", "roman print" ]
-    }, {
-      "military" : [ "armed forces", "armed services", "war machine", "military machine" ]
-    }, {
-      "dress" : [ "snip", "set", "garment", "tog", "dress up", "dress out", "get dressed", "primp", "coiffure", "crop", "garnish", "full-dress", "do", "trim", "clip", "coiffe", "decorate", "frock", "lop", "clothes", "prune", "enclothe", "plume", "garb", "preen", "curry", "apparel", "arrange", "attire", "cut back", "raiment", "wearing apparel", "line up", "clothe", "habilitate", "groom", "fit out", "coif" ]
-    }, {
-      "reference" : [ "citation", "point of reference", "acknowledgment", "reference point", "computer address", "character", "extension", "cite", "consultation", "denotation", "source", "book of facts", "address", "character reference", "reference book", "mention", "credit", "quotation", "reference work" ]
-    }, {
-      "archangels" : [ "archangel", "garden angelica", "Angelica Archangelica" ]
-    }, {
-      "identity" : [ "identicalness", "personal identity", "identity element", "indistinguishability", "identity operator", "individuality" ]
-    }, {
-      "powerful" : [ "brawny", "hefty", "potent", "herculean", "knock-down", "sinewy", "muscular" ]
-    }, {
-      "paladin" : [ "champion", "hero", "fighter" ]
-    }, {
-      "christ" : [ "messiah", "Redeemer", "Saviour", "Deliverer", "Good Shepherd", "Jesus", "Jesus Christ", "the Nazarene", "Jesus of Nazareth", "Savior" ]
-    }, {
-      "while" : [ "patch", "spell", "piece" ]
-    }, {
-      "stance" : [ "position", "posture" ]
-    }, {
-      "drapery" : [ "pall", "drape", "mantle", "curtain" ]
-    }, {
-      "can" : [ "can buoy", "bathroom", "tin", "potty", "pot", "hind end", "rump", "crapper", "seat", "prat", "lavatory", "give the sack", "buns", "put up", "behind", "canful", "tail", "displace", "arse", "tooshie", "bottom", "force out", "buttocks", "terminate", "derriere", "tush", "fanny", "john", "backside", "ass", "hindquarters", "commode", "sack", "nates", "toilet", "tin can", "butt", "send away", "lav", "fundament", "rear", "stern", "stool", "keister", "fire", "rear end", "throne", "give the axe", "posterior", "tail end", "bum", "give notice", "privy", "dismiss" ]
-    }, {
-      "interpreted" : [ "understand", "see", "interpret", "read", "taken", "translate", "construe", "rede", "represent", "render" ]
-    }, {
-      "forward" : [ "advancing", "send on", "forward-moving" ]
-    }, {
-      "stride" : [ "footstep", "pace", "step", "tread" ]
-    }, {
-      "angels" : [ "Angel Falls", "angel", "holy person", "backer", "Angel", "holy man", "saint" ]
-    }, {
-      "body" : [ "organic structure", "substance", "torso", "trunk", "dead body", "personify", "consistence", "soundbox", "consistency" ]
-    }, {
-      "thrust" : [ "hurtle", "jab", "push up", "poking", "shove", "push", "throw", "driving force", "pierce", "squeeze", "stuff", "drive", "poke", "stab", "lunge", "hurl", "force", "jabbing", "thrusting", "knife thrust" ]
-    }, {
-      "forward" : [ "advancing", "send on", "forward-moving" ]
-    }, {
-      "edges" : [ "sharpness", "march", "edge", "inch", "abut", "butt against", "butt", "adjoin", "border", "bound", "boundary", "butt on" ]
-    }, {
-      "elaborate" : [ "expatiate", "complicate", "lucubrate", "rarify", "dilate", "flesh out", "refine", "expound", "enlarge", "elaborated", "exposit", "detailed", "luxuriant", "expand", "work out" ]
-    }, {
-      "robes" : [ "drape", "cloak", "gown", "clothe", "robe", "vest" ]
-    }, {
-      "curl" : [ "curve", "kink", "whorl", "Robert Curl", "scroll", "ringlet", "lock", "curl up", "Robert F. Curl", "Robert Floyd Curl Jr.", "draw in", "roll", "curlicue", "loop", "wave", "coil", "gyre" ]
-    }, {
-      "creating" : [ "create", "make", "produce" ]
-    }, {
-      "sensation" : [ "champion", "whiz", "maven", "sense datum", "genius", "virtuoso", "sentiency", "star", "hotshot", "sentience", "wizard", "sense", "ace", "esthesis", "mavin", "sense impression", "sensory faculty", "whizz", "sense experience", "wiz", "superstar", "aesthesis", "adept" ]
-    }, {
-      "surrounded" : [ "skirt", "ring", "encircled", "palisade", "environ", "fence in", "circumvent", "surround", "fence", "beleaguer", "border", "smother", "besiege", "wall", "hem in" ]
-    }, {
-      "spiritual" : [ "phantasmal", "apparitional", "unearthly", "ghostlike", "Negro spiritual", "religious", "spectral", "ghostly" ]
-    }, {
-      "wind" : [ "breaking wind", "curve", "wander", "wind instrument", "wind up", "lead", "tip", "current of air", "nothingness", "roll", "thread", "confidential information", "meander", "fart", "wrap", "idle words", "winding", "farting", "flatus", "hoist", "jazz", "hint", "malarky", "scent", "wreathe", "air current", "malarkey", "twine", "steer", "weave", "twist", "lift", "nose" ]
-    }, {
-      "indicated" : [ "point", "betoken", "argue", "designate", "indicate", "bespeak", "show", "signal" ]
-    }, {
-      "special" : [ "especial", "peculiar", "limited", "extra", "particular", "exceptional" ]
-    }, {
-      "holiness" : [ "sanctitude", "sanctity" ]
-    }, {
-      "earlier" : [ "earliest" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "despite" : [ "scorn", "disdain", "contempt" ]
-    }, {
-      "beauty" : [ "dish", "mantrap", "smasher", "stunner", "looker", "peach", "sweetheart", "knockout", "lulu", "beaut", "ravisher" ]
-    }, {
-      "magnificent" : [ "glorious", "splendid", "brilliant" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "identity" : [ "identicalness", "personal identity", "identity element", "indistinguishability", "identity operator", "individuality" ]
-    }, {
-      "its" : [ "information technology", "IT" ]
-    }, {
-      "creator" : [ "God Almighty", "Lord", "Almighty", "Divine", "Jehovah", "Godhead", "Maker" ]
-    }, {
-      "remains" : [ "clay", "stay", "remain", "archeological remains", "continue", "cadaver", "persist", "rest", "stiff", "corpse", "stay on" ]
-    }, {
-      "unknown" : [ "strange", "unidentified", "unknown quantity", "terra incognita", "unknown region", "unsung", "obscure", "alien", "unnamed", "stranger", "nameless" ]
     } ]
   }, {
     "provenance" : "Art Museum Council Fund (M.78.27)",
@@ -1189,6 +1111,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832474-WEB.jpg",
     "synonyms" : [ {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
+    }, {
+      "lamp" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.2)",
@@ -1255,7 +1179,9 @@
     "date" : "France, first modelled probably 1890-1900, this cast 1969 (Musée Rodin 4/12)",
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31773774-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "orpheus" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.5)",
     "title" : "Marsyas (Torso of  &#039;The Falling Man&#039;)",
@@ -1269,6 +1195,8 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31773783-WEB.jpg",
     "synonyms" : [ {
+      "marsyas" : [ ]
+    }, {
       "torso" : [ "body", "trunk" ]
     }, {
       "falling" : [ "go down", "return", "precipitate", "come", "shine", "lessen", "flow", "hang", "pass", "strike", "diminish", "dropping", "fall", "fall down", "accrue", "descend", "settle", "light", "decrease", "devolve", "come down" ]
@@ -1325,6 +1253,8 @@
       "head" : [ "guide", "straits", "capitulum", "manoeuvre", "lead", "headway", "manoeuver", "drumhead", "principal", "read/write head", "channelize", "head word", "school principal", "top dog", "question", "mind", "brain", "chief", "direct", "headspring", "channelise", "psyche", "promontory", "head teacher", "fountainhead", "caput", "header", "forefront", "pass", "oral sex", "point", "nous", "headland", "steer", "foreland", "maneuver", "heading", "head up" ]
     }, {
       "pierre" : [ "capital of South Dakota" ]
+    }, {
+      "wissant" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.1)",
@@ -1362,45 +1292,13 @@
     }, {
       "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
     }, {
+      "baptist" : [ ]
+    }, {
       "preaching" : [ "prophesy", "preach", "sermon", "advocate", "discourse" ]
     }, {
-      "ruth" : [ "pity", "Book of Ruth", "Babe Ruth", "George Herman Ruth", "pathos", "commiseration", "Sultan of Swat" ]
+      "ullibutler" : [ ]
     }, {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "wagner" : [ "Otto Wagner", "Richard Wagner", "Wilhelm Richard Wagner" ]
-    }, {
-      "romantics" : [ "romanticist", "romantic" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
-    }, {
-      "painting" : [ "picture", "house painting", "paint" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "preaching" : [ "prophesy", "preach", "sermon", "advocate", "discourse" ]
     } ]
   }, {
     "provenance" : "Michael J. Connell Foundation (M.74.8)",
@@ -1435,6 +1333,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31834630-WEB.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
+    }, {
+      "neptune" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by the Times Mirror Foundation and Camilla Chandler Frost (M.75.103)",
@@ -1450,6 +1350,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31314904-WEB.jpg",
     "synonyms" : [ {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
+    }, {
+      "scholastica" : [ ]
     } ]
   }, {
     "provenance" : "Gift of The Ahmanson Foundation (M.75.101)",
@@ -1489,6 +1391,8 @@
     }, {
       "crowning" : [ "coronate", "crown", "top" ]
     }, {
+      "putto" : [ ]
+    }, {
       "laurel" : [ "laurel wreath", "Stan Laurel", "bay wreath", "Arthur Stanley Jefferson Laurel" ]
     }, {
       "wreath" : [ "coronal", "garland", "lei", "chaplet" ]
@@ -1509,6 +1413,8 @@
       "spoils" : [ "mollycoddle", "spoilation", "scotch", "corrupt", "bollix", "mishandle", "screw up", "despoil", "spoliation", "bollocks up", "bollix up", "fuck up", "botch", "indulge", "itch", "fumble", "despoliation", "violate", "featherbed", "foil", "bobble", "coddle", "thwart", "fluff", "ball up", "impair", "cross", "queer", "pamper", "bilk", "bollocks", "vitiate", "muff", "cocker", "bodge", "spoil", "go bad", "mar", "baby", "frustrate", "blow", "baffle", "plunder", "rape", "deflower", "mess up", "cosset", "bumble", "botch up", "muck up", "spoiling", "despoilment", "spoilage", "flub", "foul up", "bungle", "despoilation", "louse up" ]
     }, {
       "temple" : [ "tabernacle", "synagogue" ]
+    }, {
+      "after" : [ ]
     }, {
       "relief" : [ "embossment", "moderation", "succour", "easing", "reliever", "fill-in", "respite", "ease", "substitute", "easement", "alleviation", "sculptural relief", "succor", "rilievo", "rest period", "stand-in", "backup man", "assuagement", "relievo", "rest", "ministration", "backup" ]
     }, {
@@ -1540,263 +1446,7 @@
     }, {
       "jupiter" : [ "Jove" ]
     }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "english" : [ "English people", "side", "English language" ]
-    }, {
-      "sculptor" : [ "sculpturer", "statue maker", "carver" ]
-    }, {
-      "spent" : [ "worn out", "fagged", "exhausted", "drop", "fatigued", "dog-tired", "expend", "washed-out", "gone", "worn-out", "played out", "pass", "spend" ]
-    }, {
-      "entire" : [ "total", "stallion", "full", "intact", "integral" ]
-    }, {
-      "professional" : [ "professional person", "pro", "master" ]
-    }, {
-      "career" : [ "vocation", "life history", "calling" ]
-    }, {
-      "rome" : [ "capital of Italy", "Italian capital", "Eternal City", "Roma" ]
-    }, {
-      "commissioned" : [ "accredited", "licenced", "licensed", "commission" ]
-    }, {
-      "royal" : [ "purple", "imperial", "majestic", "royal stag", "regal" ]
-    }, {
-      "academy" : [ "honorary society" ]
-    }, {
-      "make" : [ "pass water", "constitute", "realize", "make believe", "cause", "score", "ready", "pull in", "draw", "get to", "hit", "take a leak", "attain", "work", "cook", "form", "get", "relieve oneself", "hold", "ca-ca", "prepare", "wee-wee", "create", "spend a penny", "bring in", "micturate", "puddle", "shit", "arrive at", "piss", "progress to", "have", "give", "take a shit", "build", "seduce", "clear", "reach", "throw", "make water", "fix", "take a crap", "name", "take in", "urinate", "do", "defecate", "nominate", "crap", "shuffling", "realise", "induce", "pee-pee", "establish", "stool", "wee", "stimulate", "lay down", "piddle", "gain", "make up", "shuffle", "take", "brand", "pee", "pretend", "construct", "earn", "produce" ]
-    }, {
-      "relief" : [ "embossment", "moderation", "succour", "easing", "reliever", "fill-in", "respite", "ease", "substitute", "easement", "alleviation", "sculptural relief", "succor", "rilievo", "rest period", "stand-in", "backup man", "assuagement", "relievo", "rest", "ministration", "backup" ]
-    }, {
-      "exhibition" : [ "exposition", "expo" ]
-    }, {
-      "style" : [ "fashion", "trend", "elan", "flair", "way", "mode", "vogue", "panache", "title", "dash", "manner", "stylus", "expressive style" ]
-    }, {
-      "subject" : [ "topic", "field of study", "matter", "national", "dependent", "issue", "theme", "depicted object", "study", "capable", "bailiwick", "content", "field", "open", "subjugate", "subject area", "case", "discipline", "subject field", "guinea pig" ]
-    }, {
-      "matter" : [ "topic", "weigh", "affair", "count", "subject", "issue", "thing" ]
-    }, {
-      "reflects" : [ "muse", "speculate", "mull over", "reverberate", "shine", "think over", "ruminate", "contemplate", "ponder", "chew over", "meditate", "mull", "reflect", "excogitate" ]
-    }, {
-      "neoclassical" : [ "neoclassic" ]
-    }, {
-      "taste" : [ "gustation", "appreciation", "gustatory modality", "gustatory sensation", "discernment", "predilection", "penchant", "savour", "perceptiveness", "savor", "mouthful", "taste perception", "gustatory perception", "preference", "sense of taste", "smack", "tasting", "try out", "taste sensation", "try", "sample" ]
-    }, {
-      "perfection" : [ "beau ideal", "ne plus ultra", "flawlessness", "idol", "paragon" ]
-    }, {
-      "philosophers" : [ "philosopher" ]
-    }, {
-      "age" : [ "old age", "senesce", "maturate", "mature", "long time", "years", "eld", "get on", "historic period", "geezerhood" ]
-    }, {
-      "reason" : [ "conclude", "reasonableness", "intellect", "argue", "cause", "reason out", "ground", "understanding", "grounds", "rationality" ]
-    }, {
-      "believed" : [ "think", "trust", "consider", "conceive", "believe" ]
-    }, {
-      "man" : [ "humanity", "Isle of Man", "military man", "valet de chambre", "human being", "humans", "serviceman", "valet", "humankind", "human", "adult male", "mankind", "homo", "gentleman's gentleman", "military personnel", "human race", "human beings", "world", "piece", "gentleman" ]
-    }, {
-      "society" : [ "bon ton", "fellowship", "smart set", "gild", "beau monde", "high society", "social club", "order", "companionship", "club", "company", "guild", "lodge" ]
-    }, {
-      "through" : [ "through with", "done" ]
-    }, {
-      "systematic" : [ "taxonomical", "taxonomic" ]
-    }, {
-      "study" : [ "field of study", "work", "sketch", "examine", "hit the books", "subject", "learn", "contemplate", "bailiwick", "written report", "field", "analyze", "canvass", "subject area", "consider", "take", "report", "read", "survey", "meditate", "discipline", "subject field", "cogitation", "analyse" ]
-    }, {
-      "classical" : [ "serious music", "Greco-Roman", "Graeco-Roman", "classical music", "classic" ]
-    }, {
-      "learning" : [ "con", "erudition", "memorise", "determine", "find out", "study", "pick up", "encyclopaedism", "acquisition", "hear", "instruct", "memorize", "get a line", "read", "acquire", "check", "encyclopedism", "scholarship", "watch", "discover", "learn", "ascertain", "get word", "get wind", "larn", "teach", "see", "take", "learnedness", "eruditeness" ]
-    }, {
-      "arts" : [ "humanistic discipline", "humanities", "liberal arts" ]
-    }, {
-      "return" : [ "proceeds", "regress", "payoff", "generate", "regaining", "yield", "give", "issue", "takings", "restitution", "return key", "give back", "replication", "revert", "deliver", "refund", "repay", "getting even", "rejoinder", "reelect", "devolve", "bring back", "take back", "restoration", "comeback", "coming back", "retort", "hark back", "counter", "reappearance", "tax return", "income tax return", "render", "pass", "homecoming", "retrovert", "recurrence", "take", "recall", "turn back", "riposte", "fall", "paying back", "come back", "rejoin" ]
-    }, {
-      "golden" : [ "favourable", "lucky", "prosperous", "gilt", "halcyon", "aureate", "gold", "fortunate", "gilded", "favorable" ]
-    }, {
-      "age" : [ "old age", "senesce", "maturate", "mature", "long time", "years", "eld", "get on", "historic period", "geezerhood" ]
-    }, {
-      "paralleling" : [ "twin", "parallel", "duplicate", "collimate" ]
-    }, {
-      "classical" : [ "serious music", "Greco-Roman", "Graeco-Roman", "classical music", "classic" ]
-    }, {
-      "antiquity" : [ "ancientness" ]
-    }, {
-      "relief" : [ "embossment", "moderation", "succour", "easing", "reliever", "fill-in", "respite", "ease", "substitute", "easement", "alleviation", "sculptural relief", "succor", "rilievo", "rest period", "stand-in", "backup man", "assuagement", "relievo", "rest", "ministration", "backup" ]
-    }, {
-      "embodies" : [ "personify", "substantiate", "incarnate", "body forth", "embody", "be" ]
-    }, {
-      "ideal" : [ "apotheosis", "nonpareil", "nonesuch", "nonsuch", "idealistic", "paragon", "saint" ]
-    }, {
-      "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
-    }, {
-      "homers" : [ "kor", "homing pigeon", "Homer", "home run", "Winslow Homer", "homer" ]
-    }, {
-      "source" : [ "reservoir", "author", "beginning", "rootage", "root", "seed", "germ", "origin", "generator", "reference", "informant" ]
-    }, {
-      "contemporary" : [ "present-day", "contemporaneous", "modern-day", "coeval" ]
-    }, {
-      "archaeological" : [ "archeologic", "archeological", "archaeologic" ]
-    }, {
-      "discoveries" : [ "uncovering", "breakthrough", "discovery", "find" ]
-    }, {
-      "had" : [ "bear", "birth", "cause", "get", "give", "have", "let", "accept", "induce", "hold", "suffer", "stimulate", "consume", "give birth", "throw", "sustain", "have got", "ingest", "deliver", "take", "take in", "possess", "feature", "experience", "own", "make", "receive" ]
-    }, {
-      "created" : [ "create", "make", "produce" ]
-    }, {
-      "renewed" : [ "regenerate", "renew", "reincarnate" ]
-    }, {
-      "interest" : [ "involvement", "stake", "matter to", "pastime", "sake", "interestingness", "concern", "interest group", "pursuit", "worry", "occupy" ]
-    }, {
-      "enthroned" : [ "invest", "throne", "enthrone", "vest" ]
-    }, {
       "jupiter" : [ "Jove" ]
-    }, {
-      "sits" : [ "ride", "sit", "pose", "sit down", "model", "sit around", "seat", "babysit", "baby-sit", "posture" ]
-    }, {
-      "gods" : [ "god", "divinity", "immortal", "deity", "God", "Supreme Being", "idol", "graven image" ]
-    }, {
-      "wedding" : [ "splice", "tie", "wed", "espouse", "nuptials", "marriage", "get hitched with", "wedding party", "conjoin", "hook up with", "hymeneals", "get married", "marriage ceremony", "marry", "wedding ceremony" ]
-    }, {
-      "left" : [ "left hand", "result", "provide", "allow", "depart", "pull up stakes", "give", "go away", "lead", "get out", "remaining", "leftfield", "leave", "leave alone", "entrust", "unexpended", "left field", "go forth", "go out", "exit", "leftover", "left over", "left wing", "pass on", "allow for", "leave behind", "will", "left-hand", "odd", "let alone", "forget", "impart", "bequeath" ]
-    }, {
-      "except" : [ "leave off", "take out", "omit", "leave out", "exclude", "demur" ]
-    }, {
-      "discord" : [ "disaccord", "discordance", "disagree", "dissension", "strife" ]
-    }, {
-      "were" : [ "constitute", "make up", "personify", "embody", "comprise", "equal", "cost", "exist", "live", "follow", "represent", "be" ]
-    }, {
-      "invited" : [ "tempt", "invite", "ask over", "call for", "ask round", "ask for", "take in", "ask in", "receive", "bid", "pay for" ]
-    }, {
-      "spiteful" : [ "despiteful", "vindictive" ]
-    }, {
-      "tossed" : [ "throw away", "fling", "thrash about", "slash", "dispose", "toss away", "chuck out", "chuck", "toss out", "thrash", "discard", "thresh about", "put away", "cast aside", "jactitate", "cast out", "sky", "cast away", "toss", "convulse", "pitch", "flip", "throw out", "thresh" ]
-    }, {
-      "golden" : [ "favourable", "lucky", "prosperous", "gilt", "halcyon", "aureate", "gold", "fortunate", "gilded", "favorable" ]
-    }, {
-      "apple" : [ "Malus pumila", "orchard apple tree" ]
-    }, {
-      "inscribed" : [ "scratch", "encipher", "cypher", "graven", "incised", "engraved", "grave", "enter", "etched", "code", "write in code", "recruit", "autograph", "encrypt", "inscribe", "engrave", "cipher", "enrol", "enroll" ]
-    }, {
-      "fairest" : [ "just", "middling", "bonny", "sightly", "fairish", "clean", "mediocre", "bonnie", "honest", "fair", "average", "comely", "reasonable" ]
-    }, {
-      "guests" : [ "node", "Guest", "client", "guest", "invitee", "Edgar Albert Guest", "Edgar Guest" ]
-    }, {
-      "venus" : [ "genus Venus", "Urania" ]
-    }, {
-      "claimed" : [ "take", "exact", "arrogate", "claim", "lay claim" ]
-    }, {
-      "jupiter" : [ "Jove" ]
-    }, {
-      "refusing" : [ "refuse", "turn down", "pass up", "reject", "deny", "decline", "defy", "turn away", "resist" ]
-    }, {
-      "pick" : [ "pickax", "choice", "foot", "woof", "cull", "pluck", "plunk", "plectron", "filling", "cream", "selection", "break up", "picking", "plectrum", "find fault", "pickaxe", "clean", "weft", "peck", "beak", "nibble", "option", "piece", "blame" ]
-    }, {
-      "formidable" : [ "unnerving", "redoubtable" ]
-    }, {
-      "trio" : [ "triad", "threesome", "troika", "trine", "tierce", "3", "leash", "ternion", "triple", "three", "ternary", "trey", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto" ]
-    }, {
-      "has" : [ "birth", "cause", "have", "give", "accept", "consume", "throw", "ingest", "have got", "sustain", "deliver", "hour angle", "possess", "take in", "experience", "feature", "receive", "bear", "get", "let", "induce", "HA", "hold", "suffer", "stimulate", "give birth", "take", "own", "make" ]
-    }, {
-      "handed" : [ "hand", "pass on", "reach", "give", "turn over", "pass" ]
-    }, {
-      "apple" : [ "Malus pumila", "orchard apple tree" ]
-    }, {
-      "messenger" : [ "courier" ]
-    }, {
-      "mercury" : [ "atomic number 80", "hydrargyrum", "quicksilver", "Hg" ]
-    }, {
-      "flies" : [ "flee", "fell", "wing", "fly", "pilot", "aviate", "take flight", "vanish", "vaporize" ]
-    }, {
-      "giving" : [ "apply", "gift", "freehanded", "grant", "generate", "have", "yield", "give", "dedicate", "give way", "hand", "open", "break", "throw", "sacrifice", "reach", "leave", "commit", "liberal", "pay", "feed", "cave in", "devote", "kick in", "founder", "collapse", "consecrate", "bountiful", "hold", "return", "establish", "contribute", "render", "pass", "bounteous", "chip in", "ease up", "present", "pass on", "openhanded", "bighearted", "move over", "turn over", "handsome", "big", "make", "impart", "fall in", "afford" ]
-    }, {
-      "instructions" : [ "operating instructions", "book of instructions", "instruction manual" ]
-    }, {
-      "pass" : [ "guide", "whirl", "base on balls", "hap", "straits", "mountain pass", "take place", "qualifying", "authorise", "cash in one's chips", "lead", "croak", "draw", "pass along", "perish", "kick the bucket", "communicate", "come about", "head", "slip by", "happen", "devolve", "overtake", "fling", "choke", "crack", "elapse", "liberty chit", "sink", "snuff it", "overhaul", "go on", "exit", "fleet", "pass on", "give-up the ghost", "pass away", "overstep", "drop dead", "laissez passer", "travel by", "legislate", "toss", "turn over", "passing play", "passing", "walk", "eliminate", "go", "passing game", "give", "go past", "conk", "glide by", "slide by", "fall out", "blow over", "put across", "strait", "run", "make it", "notch", "hand", "clear", "egest", "reach", "lapse", "die", "make pass", "pass by", "flip", "go along", "top", "expire", "go by", "fade", "transcend", "pop off", "buy the farm", "extend", "return", "exceed", "slip away", "offer", "bye", "spend", "authorize", "surpass", "evanesce", "fall", "decease", "passport", "pass off", "excrete", "occur" ]
-    }, {
-      "thankless" : [ "unthankful", "ungratifying", "ungrateful", "unappreciated" ]
-    }, {
-      "task" : [ "labor", "project", "tax", "job", "undertaking", "chore" ]
-    }, {
-      "mortal" : [ "person", "individual", "someone", "deathly", "soul", "somebody", "deadly" ]
-    }, {
-      "paris" : [ "capital of France", "genus Paris", "City of Light", "French capital" ]
-    }, {
-      "represents" : [ "constitute", "typify", "exemplify", "correspond", "play", "interpret", "stage", "represent", "present", "symbolise", "make up", "lay out", "symbolize", "map", "stand for", "comprise", "defend", "act", "be" ]
-    }, {
-      "three" : [ "triad", "threesome", "iii", "troika", "trine", "tierce", "3", "leash", "ternion", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto" ]
-    }, {
-      "goddesses" : [ "goddess" ]
-    }, {
-      "challenging" : [ "thought-provoking", "challenge", "dispute", "intriguing", "take exception", "ambitious", "gainsay" ]
-    }, {
-      "jupiter" : [ "Jove" ]
-    }, {
-      "pariss" : [ "capital of France", "genus Paris", "City of Light", "French capital", "Paris" ]
-    }, {
-      "decision" : [ "determination", "decisiveness", "conclusion" ]
-    }, {
-      "lead" : [ "guide", "result", "lead-in", "atomic number 82", "run", "tip", "conduct", "lead story", "principal", "leave", "trail", "confidential information", "head", "jumper lead", "top", "direct", "lede", "wind", "conduce", "jumper cable", "extend", "Pb", "moderate", "track", "star", "spark advance", "hint", "booster cable", "contribute", "pass", "leash", "chair", "leading", "take", "steer", "tether", "precede", "pencil lead", "go" ]
-    }, {
-      "trojan" : [ "Dardanian", "trojan horse", "Dardan" ]
-    }, {
-      "war" : [ "state of war", "warfare" ]
-    }, {
-      "here" : [ "Hera" ]
-    }, {
-      "evoked" : [ "conjure", "call down", "elicit", "evoke", "stir", "raise", "elicited", "conjure up", "put forward", "paint a picture", "call forth", "suggest", "kick up", "fire", "extract", "bring up", "invoke", "arouse", "enkindle", "draw out", "provoke", "educe", "kindle" ]
-    }, {
-      "mars" : [ "deflower", "mutilate", "Red Planet", "vitiate", "spoil", "mar", "impair" ]
-    }, {
-      "god" : [ "divinity", "immortal", "deity", "Supreme Being", "idol", "graven image" ]
-    }, {
-      "war" : [ "state of war", "warfare" ]
-    }, {
-      "shown" : [ "demo", "depict", "demonstrate", "prove", "shew", "evidence", "establish", "indicate", "show up", "show", "express", "render", "exhibit", "register", "picture", "record", "point", "present", "usher", "testify", "designate", "read", "evince", "bear witness" ]
-    }, {
-      "far" : [ "Army for the Liberation of Rwanda", "Interahamwe", "Former Armed Forces", "ALIR" ]
-    }, {
-      "right" : [ "one", "right field", "good", "right hand", "correct", "rightfield", "veracious", "ripe", "rectify", "right-hand", "proper", "compensate", "right wing", "redress", "rightfulness" ]
-    }, {
-      "carving" : [ "sculpture", "chip at", "cut up", "cutting", "carve" ]
-    }, {
-      "varies" : [ "diverge", "deviate", "depart", "change", "motley", "variegate", "vary", "alter" ]
-    }, {
-      "flat" : [ "insipid", "flatbed", "unconditional", "apartment", "matte", "monotonous", "matted", "flavourless", "vapid", "level", "flat tire", "flatcar", "categoric", "two-dimensional", "2-dimensional", "savorless", "categorical", "mat", "flavorless", "monotone", "matt", "monotonic", "compressed", "prostrate", "plane", "savourless", "bland" ]
-    }, {
-      "background" : [ "setting", "scope", "play down", "background knowledge", "ground", "desktop", "screen background", "backcloth", "backdrop", "background signal", "downplay" ]
-    }, {
-      "figures" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "figure", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
-    }, {
-      "round" : [ "labialise", "round off", "daily round", "rung", "flesh out", "round out", "circle", "labialize", "circular", "stave", "brush up", "round of golf", "one shot", "pear-shaped", "lash out", "round of drinks", "round down", "rhythm", "assault", "polish up", "cycle", "turn", "beat", "fill out", "unit of ammunition", "snipe", "bout", "rotund", "orotund", "troll", "assail", "attack", "polish" ]
-    }, {
-      "renaissance" : [ "rebirth", "Renascence" ]
-    }, {
-      "technique" : [ "proficiency" ]
-    }, {
-      "gives" : [ "apply", "gift", "grant", "generate", "have", "yield", "give", "springiness", "dedicate", "spring", "give way", "hand", "open", "break", "throw", "sacrifice", "reach", "leave", "commit", "pay", "feed", "cave in", "devote", "kick in", "founder", "collapse", "consecrate", "hold", "return", "establish", "contribute", "render", "pass", "chip in", "ease up", "present", "pass on", "move over", "turn over", "make", "impart", "fall in", "afford" ]
-    }, {
-      "illusion" : [ "fancy", "conjuring trick", "delusion", "fantasy", "deception", "magic trick", "conjuration", "magic", "thaumaturgy", "head game", "semblance", "legerdemain", "trick", "phantasy" ]
-    }, {
-      "space" : [ "blank space", "infinite", "distance", "quad", "blank", "outer space", "place" ]
-    }, {
-      "forms" : [ "constitute", "var.", "bod", "mold", "sort", "strain", "descriptor", "physical body", "organize", "take shape", "mannequin", "build", "conformation", "variant", "material body", "spring", "kind", "word form", "course", "chassis", "figure", "anatomy", "mould", "manikin", "imprint", "grade", "mannikin", "work", "contour", "form", "take form", "class", "shape", "forge", "variety", "manakin", "frame", "cast", "pattern", "flesh", "organise", "physique", "soma", "signifier", "configuration", "phase", "human body", "make" ]
-    }, {
-      "bodies" : [ "organic structure", "substance", "torso", "body", "trunk", "dead body", "personify", "consistence", "soundbox", "consistency" ]
-    }, {
-      "idealized" : [ "idealize", "idealise", "idealised" ]
-    }, {
-      "smooth" : [ "fluent", "suave", "still", "shine", "quiet", "smooth out", "smoothen", "placid", "unruffled", "tranquil", "liquid", "politic", "fluid", "legato", "bland", "polish" ]
-    }, {
-      "refined" : [ "complicate", "rarify", "fine-tune", "refine", "processed", "urbane", "elaborate", "elegant", "rectify", "polished", "down", "graceful", "polish" ]
-    }, {
-      "important" : [ "crucial", "significant", "of import", "authoritative" ]
-    }, {
-      "english" : [ "English people", "side", "English language" ]
-    }, {
-      "neoclassical" : [ "neoclassic" ]
-    }, {
-      "relief" : [ "embossment", "moderation", "succour", "easing", "reliever", "fill-in", "respite", "ease", "substitute", "easement", "alleviation", "sculptural relief", "succor", "rilievo", "rest period", "stand-in", "backup man", "assuagement", "relievo", "rest", "ministration", "backup" ]
-    }, {
-      "united" : [ "unite", "joined", "connect", "link", "merge", "combine", "join", "unify", "link up" ]
-    }, {
-      "states" : [ "commonwealth", "Department of State", "submit", "United States Department of State", "state", "put forward", "land", "state of matter", "express", "nation", "country", "DoS", "State", "say", "province", "res publica", "tell", "body politic", "posit", "State Department" ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Camilla Chandler Frost (M.79.52)",
@@ -1832,6 +1482,8 @@
     }, {
       "xiii" : [ "13", "long dozen", "baker's dozen", "thirteen" ]
     }, {
+      "anne" : [ ]
+    }, {
       "austria" : [ "Oesterreich", "Republic of Austria" ]
     } ]
   }, {
@@ -1852,6 +1504,8 @@
       "victoria" : [ "capital of Seychelles", "Queen Victoria", "Victoria Falls" ]
     }, {
       "grand" : [ "rarified", "magisterial", "G", "opulent", "yard", "imposing", "rattling", "high-minded", "chiliad", "M", "marvellous", "K", "wondrous", "princely", "terrific", "lofty", "august", "rarefied", "noble-minded", "wonderful", "lordly", "expansive", "luxurious", "grand piano", "thou", "lush", "one thousand", "sublime", "distinguished", "thousand", "sumptuous", "gilded", "fantastic", "exalted", "tremendous", "marvelous", "high-flown", "heroic", "deluxe", "howling", "idealistic", "1000", "elevated" ]
+    }, {
+      "duchess" : [ ]
     }, {
       "tuscany" : [ "Toscana" ]
     }, {
@@ -1895,7 +1549,11 @@
     "date" : "1725",
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-35318341-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "eques" : [ ]
+    }, {
+      "bernardinus" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of Leona Cantor Palmer (M.82.197.1)",
     "title" : "America, from Caryatids of the Four Continents",
@@ -1930,6 +1588,8 @@
     "medium" : "Patinated plaster with wood",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31774530-WEB.jpg",
     "synonyms" : [ {
+      "africa" : [ ]
+    }, {
       "caryatids" : [ "caryatid" ]
     }, {
       "four" : [ "iv", "four-spot", "quadruplet", "tetrad", "4", "quaternion", "Little Joe", "quartet", "quatern", "IV", "foursome", "quaternity", "quaternary" ]
@@ -1949,6 +1609,8 @@
     "medium" : "Patinated plaster",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31776303-WEB.jpg",
     "synonyms" : [ {
+      "asia" : [ ]
+    }, {
       "caryatids" : [ "caryatid" ]
     }, {
       "four" : [ "iv", "four-spot", "quadruplet", "tetrad", "4", "quaternion", "Little Joe", "quartet", "quatern", "IV", "foursome", "quaternity", "quaternary" ]
@@ -1984,7 +1646,9 @@
     "date" : "Italy, circa 1770",
     "medium" : "Terracotta with traces of polychromy",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832740-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "magdalen" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of Leona Cantor Palmer (M.82.197.3)",
     "title" : "Europe, from Caryatids of the Four Continents",
@@ -2025,33 +1689,91 @@
     "synonyms" : [ {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
+      "michael" : [ ]
+    }, {
       "casting" : [ "wander", "honk", "drop", "stray", "draw", "roll", "upchuck", "barf", "molding", "tramp", "purge", "throw away", "hurtle", "throw up", "regurgitate", "contrive", "spue", "retch", "project", "frame", "spew", "cast", "vomit", "regorge", "sick", "shake off", "vomit up", "roam", "cat", "mold", "put", "range", "chuck", "cast off", "drift", "ramble", "be sick", "throw", "mould", "throw off", "puke", "rove", "vagabond", "redact", "disgorge", "shed", "couch", "swan", "hurl" ]
     }, {
       "satan" : [ "the Tempter", "Beelzebub", "Old Nick", "Devil", "Lucifer", "Prince of Darkness" ]
     }, {
+      "into" : [ ]
+    }, {
       "hell" : [ "Inferno", "nether region", "the pits", "snake pit", "netherworld", "hell on earth", "hellhole", "inferno", "Hades", "infernal region", "underworld", "blaze", "perdition", "Scheol", "pit" ]
     }, {
+      "ullischaefer" : [ ]
+    }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "philip" : [ "Prince Philip", "Duke of Edinburgh" ]
     }, {
+      "ahmanson" : [ ]
+    }, {
       "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
+    }, {
+      "european" : [ ]
     }, {
       "masterpieces" : [ "masterpiece", "chef-d'oeuvre" ]
     }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
     }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
@@ -2060,8 +1782,6 @@
       "york" : [ "House of York" ]
     }, {
       "thames" : [ "River Thames", "Thames River" ]
-    }, {
-      "hudson" : [ "William Henry Hudson", "W. H. Hudson", "Henry Hudson", "Hudson River" ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Mr. and Mrs. Harrison Chandler, Mr. and Mrs. George Gard De Sylva Collection, B. Gerald Cantor, Florence and Maurice Chez, Mrs. William May Garland in memory of her husband, Mr. and Mrs. Allan C. Balch Collection, Jones Foundation, Museum Associates Acquisition Fund, Carl O. Swenson, Robert Majer Collection, and Thyra Boldsen by exchange (M.82.70)",
@@ -2118,31 +1838,101 @@
     }, {
       "angel" : [ "Angel Falls", "holy person", "backer", "holy man", "saint" ]
     }, {
+      "ullischaefer" : [ ]
+    }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "lorna" : [ ]
     }, {
       "masterpieces" : [ "masterpiece", "chef-d'oeuvre" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "philip" : [ "Prince Philip", "Duke of Edinburgh" ]
     }, {
+      "ahmanson" : [ ]
+    }, {
       "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
+    }, {
+      "european" : [ ]
     }, {
       "masterpieces" : [ "masterpiece", "chef-d'oeuvre" ]
     }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
@@ -2160,6 +1950,10 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-2800673-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "marie" : [ ]
+    }, {
+      "mdicis" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Anna Bing Arnold (M.81.39)",
@@ -2176,7 +1970,11 @@
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
+      "cosimo" : [ ]
+    }, {
       "de039" : [ "First State", "Delaware", "Diamond State", "DE", "Del." ]
+    }, {
+      "medici" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Chandis Securities Company and Camilla Chandler Frost (M.81.22.1)",
@@ -2214,7 +2012,7 @@
     "synonyms" : [ {
       "medal" : [ "palm", "laurel wreath", "medallion", "decoration", "ribbon" ]
     }, {
-      "unveiling" : [ "reveal", "entry", "first appearance", "launching", "unveil", "debut", "bring out", "introduction" ]
+      "nature" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Mary Pickford Foundation by exchange and Museum Acquisition Fund (M.81.156)",
@@ -2230,6 +2028,12 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31341401-WEB.jpg",
     "synonyms" : [ {
       "blessed" : [ "goddam", "darned", "consecrate", "sanctify", "damn", "goddamn", "sign", "blest", "damned", "hallow", "bless", "blasted", "goddamned", "beatified", "infernal", "blamed", "deuced", "blame" ]
+    }, {
+      "nicol" : [ ]
+    }, {
+      "albergati" : [ ]
+    }, {
+      "circa" : [ ]
     } ]
   }, {
     "provenance" : "Decorative Arts Council Fund (M.81.190)",
@@ -2266,6 +2070,10 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-34314367-WEB.jpg",
     "synonyms" : [ {
       "triumph" : [ "victory", "wallow", "rejoice", "jubilate", "exult", "crow", "prevail", "exuberate", "gloat" ]
+    }, {
+      "neptune" : [ ]
+    }, {
+      "europa" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by James E. Clark (M.84.65.1)",
@@ -2295,6 +2103,10 @@
     "medium" : "Terracotta on painted wood base",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-3659771-WEB.jpg",
     "synonyms" : [ {
+      "bozzetto" : [ ]
+    }, {
+      "marble" : [ ]
+    }, {
       "assumption" : [ "effrontery", "Assumption of Mary", "premise", "presumptuousness", "laying claim", "supposition", "supposal", "premiss", "August 15", "presumption" ]
     }, {
       "virgin039" : [ "pure", "Virgo the Virgin", "virginal", "vestal", "virtuous", "Virgo", "virgin", "Virgin" ]
@@ -2339,37 +2151,73 @@
     "synonyms" : [ {
       "monument" : [ "memorial", "repository" ]
     }, {
+      "honore" : [ ]
+    }, {
       "balzac" : [ "Honore Balzac", "Honore de Balzac" ]
+    }, {
+      "ullidonahue" : [ ]
+    }, {
+      "kenneth" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "handbook" : [ "vade mecum", "enchiridion" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
   }, {
     "provenance" : "Gift of Camilla Chandler Frost (M.86.322.2)",
@@ -2425,6 +2273,8 @@
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
       "pie" : [ "Proto-Indo European" ]
+    }, {
+      "ghislieri" : [ ]
     } ]
   }, {
     "provenance" : "Mr. and Mrs. Allan C. Balch Collection (M.45.3.476)",
@@ -2460,9 +2310,15 @@
     }, {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
+      "possibly" : [ ]
+    }, {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
+      "longinus" : [ ]
+    }, {
       "model" : [ "good example", "simulate", "role model", "mold", "poser", "exemplary", "modelling", "mannequin", "framework", "simulation", "fashion model", "manakin", "theoretical account", "sit", "pose", "pattern", "mould", "manikin", "modeling", "example", "mannikin", "exemplar", "posture", "mock up" ]
+    }, {
+      "reliquary" : [ ]
     } ]
   }, {
     "provenance" : "",
@@ -2486,27 +2342,95 @@
     }, {
       "disciples" : [ "disciple", "adherent" ]
     }, {
+      "ullivalentiner" : [ ]
+    }, {
       "gothic" : [ "black letter", "mediaeval", "medieval", "Gothic architecture" ]
     }, {
       "renaissance" : [ "rebirth", "Renascence" ]
     }, {
+      "scupltures" : [ ]
+    }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "kenneth" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "handbook" : [ "vade mecum", "enchiridion" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
@@ -2539,7 +2463,11 @@
     "date" : "France, circa 1860, this cast (Barbédienne) later",
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31515972-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "theseus" : [ ]
+    }, {
+      "minotaur" : [ ]
+    } ]
   }, {
     "provenance" : "James E. Clark Bequest (M.87.119.8)",
     "title" : "Portrait of Alphonse Roussel",
@@ -2605,6 +2533,8 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833034-WEB.jpg",
     "synonyms" : [ {
+      "helmeted" : [ ]
+    }, {
       "male" : [ "virile", "manly", "manlike", "manful", "male person" ]
     }, {
       "nude" : [ "nude painting", "nude sculpture", "nude person", "naked", "bare", "au naturel", "nude statue" ]
@@ -2688,6 +2618,8 @@
       "horse" : [ "sawhorse", "sawbuck", "buck", "gymnastic horse", "horse cavalry", "Equus caballus", "knight", "cavalry" ]
     }, {
       "attacked" : [ "aggress", "lash out", "snipe", "assault", "round", "set on", "assail", "attack" ]
+    }, {
+      "lioness" : [ ]
     } ]
   }, {
     "provenance" : "James E. Clark Bequest (M.87.119.27)",
@@ -2746,6 +2678,8 @@
     "synonyms" : [ {
       "dancing" : [ "saltation", "terpsichore", "trip the light fantastic toe", "trip the light fantastic", "dance" ]
     }, {
+      "neapolitan" : [ ]
+    }, {
       "boy" : [ "male child", "son" ]
     } ]
   }, {
@@ -2784,8 +2718,6 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "medallion" : [ "palm", "laurel wreath", "decoration", "ribbon", "medal" ]
-    }, {
-      "hawthorne" : [ "Nathaniel Hawthorne" ]
     } ]
   }, {
     "provenance" : "James E. Clark Bequest (M.87.119.11)",
@@ -2801,6 +2733,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832978-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "prud039hon" : [ ]
     } ]
   }, {
     "provenance" : "James E. Clark Bequest (M.87.119.20)",
@@ -2829,7 +2763,9 @@
     "date" : "England, after 1881",
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833124-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "teucer" : [ ]
+    } ]
   }, {
     "provenance" : "James E. Clark Bequest (M.87.119.21)",
     "title" : "The Education of Achilles",
@@ -2844,6 +2780,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833090-WEB.jpg",
     "synonyms" : [ {
       "education" : [ "Department of Education", "training", "pedagogy", "breeding", "teaching", "educational activity", "instruction", "didactics", "Education Department" ]
+    }, {
+      "achilles" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Iris and B. Gerald Cantor (M.87.167)",
@@ -2857,7 +2795,13 @@
     "date" : "France, first modelled circa 1910-1913, this cast 1966 (Musée Rodin 3/12)",
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833195-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "pas" : [ ]
+    }, {
+      "deux" : [ ]
+    }, {
+      "quotgquot" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of Laurie and Peter Fusco in honor of Scott Schaefer (M.87.261)",
     "title" : "Head of a Faun",
@@ -2872,6 +2816,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833208-WEB.jpg",
     "synonyms" : [ {
       "head" : [ "guide", "straits", "capitulum", "manoeuvre", "lead", "headway", "manoeuver", "drumhead", "principal", "read/write head", "channelize", "head word", "school principal", "top dog", "question", "mind", "brain", "chief", "direct", "headspring", "channelise", "psyche", "promontory", "head teacher", "fountainhead", "caput", "header", "forefront", "pass", "oral sex", "point", "nous", "headland", "steer", "foreland", "maneuver", "heading", "head up" ]
+    }, {
+      "faun" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by the William Randolph Hearst Collection by exchange and other donors (91.1a-b)",
@@ -2887,6 +2833,10 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833412-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "madame" : [ ]
+    }, {
+      "roland" : [ ]
     } ]
   }, {
     "provenance" : "Anonymous gift in memory of Vicki Blumka (M.91.199)",
@@ -2921,6 +2871,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-1868083-WEB.jpg",
     "synonyms" : [ {
       "reclining" : [ "recline", "lean back", "recumb", "repose" ]
+    }, {
+      "bacchante" : [ ]
     } ]
   }, {
     "provenance" : "Gift of the Iris and B. Gerald Cantor Foundation (AC1992.72.1)",
@@ -2935,9 +2887,13 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833482-WEB.jpg",
     "synonyms" : [ {
+      "roger" : [ ]
+    }, {
       "angelica" : [ "angelique" ]
     }, {
       "borne" : [ "birth", "have", "yield", "accept", "comport", "digest", "expect", "conduct", "tolerate", "stick out", "deliver", "pay", "carry", "acquit", "bear", "support", "put up", "brook", "have a bun in the oven", "hold", "suffer", "abide", "give birth", "deport", "stand", "take over", "endure", "contain", "gestate", "assume", "turn out", "behave", "wear", "stomach" ]
+    }, {
+      "hippogriff" : [ ]
     } ]
   }, {
     "provenance" : "Anonymous gift in honor of  Peter Fusco (M.84.119)",
@@ -2951,7 +2907,9 @@
     "date" : "France, circa 1795",
     "medium" : "Bronze on gilded bronze and granite base",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832858-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "cleopatra" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.85.268.1)",
     "title" : "Left Hand of a Pianist",
@@ -3003,7 +2961,11 @@
     "medium" : "Plaster and wax",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833361-WEB.jpg",
     "synonyms" : [ {
+      "nereid" : [ ]
+    }, {
       "arranging" : [ "coiffe", "put", "set", "set up", "format", "stage", "coiffure", "arrange", "arrangement", "order", "dress", "do", "fix up", "transcription", "coif" ]
+    }, {
+      "necklace" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Mr. and Mrs. Andrea Rothe (M.91.277)",
@@ -3019,6 +2981,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31777219-WEB.jpg",
     "synonyms" : [ {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
+    }, {
+      "blaise" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Laurie and Peter Fusco in honor of Rusty Powell (AC1992.102.1)",
@@ -3034,6 +2998,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833426-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "louisphilippe" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Mr. and Mrs. Eric Lidow (AC1992.225.1)",
@@ -3085,6 +3051,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31770132-WEB.jpg",
     "synonyms" : [ {
       "diana" : [ "Princess of Wales", "Princess Diana", "Lady Diana Frances Spencer" ]
+    }, {
+      "callisto" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Iris and B. Gerald Cantor Foundation in honor of Earl A. Powell, III (AC1992.248.1)",
@@ -3119,6 +3087,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833496-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "mme" : [ ]
     }, {
       "renoir" : [ "Pierre Auguste Renoir" ]
     } ]
@@ -3278,6 +3248,8 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833650-WEB.jpg",
     "synonyms" : [ {
+      "douleur" : [ ]
+    }, {
       "porte" : [ "Sublime Porte" ]
     } ]
   }, {
@@ -3349,6 +3321,8 @@
       "hand" : [ "mitt", "give", "script", "pass", "reach", "pass on", "bridge player", "deal", "manus", "paw", "hired man", "helping hand", "hired hand", "turn over", "handwriting" ]
     }, {
       "pierre" : [ "capital of South Dakota" ]
+    }, {
+      "wissant" : [ ]
     } ]
   }, {
     "provenance" : "Gift of the 2002 Collectors Committee (M.2002.45)",
@@ -3381,12 +3355,6 @@
     "medium" : "Patinated terra cotta with painted and gilded wood frame",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31230009-WEB.jpg",
     "synonyms" : [ {
-      "iii" : [ "triad", "threesome", "troika", "trine", "tierce", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "terzetto" ]
-    }, {
-      "lorraine" : [ "Lothringen" ]
-    }, {
-      "triumphing" : [ "wallow", "rejoice", "jubilate", "exult", "crow", "prevail", "exuberate", "gloat", "triumph" ]
-    }, {
       "over" : [ "complete", "concluded", "terminated", "all over", "ended" ]
     }, {
       "turks" : [ "Turk" ]
@@ -3406,6 +3374,8 @@
     "synonyms" : [ {
       "science" : [ "scientific discipline", "skill" ]
     }, {
+      "citizenship" : [ ]
+    }, {
       "medallion" : [ "palm", "laurel wreath", "decoration", "ribbon", "medal" ]
     } ]
   }, {
@@ -3421,6 +3391,8 @@
     "medium" : "Stoneware; leather and suede",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31264649-WEB.jpg",
     "synonyms" : [ {
+      "terrassier" : [ ]
+    }, {
       "road" : [ "route" ]
     }, {
       "builder" : [ "detergent builder", "constructor" ]
@@ -3458,27 +3430,95 @@
     }, {
       "dove" : [ "Columba", "squab", "dive", "peacenik", "plunk", "plunge" ]
     }, {
+      "ullivalentiner" : [ ]
+    }, {
       "gothic" : [ "black letter", "mediaeval", "medieval", "Gothic architecture" ]
     }, {
       "renaissance" : [ "rebirth", "Renascence" ]
     }, {
+      "scupltures" : [ ]
+    }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
     }, {
+      "european" : [ ]
+    }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "lorna" : [ ]
     }, {
       "masterpieces" : [ "masterpiece", "chef-d'oeuvre" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
@@ -3494,11 +3534,11 @@
     }, {
       "representations" : [ "internal representation", "mental representation", "representation", "histrionics", "theatrical", "agency", "theatrical performance", "delegacy" ]
     }, {
+      "virginity" : [ ]
+    }, {
+      "bloomington" : [ ]
+    }, {
       "indianapolis" : [ "capital of Indiana" ]
-    }, {
-      "indiana" : [ "Ind.", "Robert Indiana", "IN", "Hoosier State" ]
-    }, {
-      "press" : [ "crush", "fight", "weightlift", "closet", "push", "iron", "printing press", "compact", "squeeze", "press out", "exhort", "wardrobe", "constrict", "jam", "military press", "campaign", "weight-lift", "bid", "public press", "iron out", "imperativeness", "conjure", "pressure", "contract", "urge on", "insistency", "entreat", "pressing", "compress", "insistence", "weigh", "urge", "beseech", "adjure", "mechanical press", "agitate", "crusade" ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Hans Hollander and the European Sculpture Acquisition Fund (M.89.140a-b)",
@@ -3585,6 +3625,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31834700-WEB.jpg",
     "synonyms" : [ {
       "hercules" : [ "Herakles", "Heracles", "Alcides" ]
+    }, {
+      "lychas" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by the William Randolph Hearst Collection by exchange (90.3)",
@@ -3603,8 +3645,6 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833370-WEB.jpg",
     "synonyms" : [ {
-      "joshua" : [ "Josue", "Book of Joshua" ]
-    }, {
       "returning" : [ "take back", "bring back", "regress", "generate", "give", "yield", "hark back", "retort", "return", "reversive", "pass", "render", "retrovert", "give back", "deliver", "revert", "refund", "recall", "fall", "riposte", "repay", "turn back", "reverting", "reelect", "come back", "devolve", "rejoin" ]
     }, {
       "grapes" : [ "grapevine", "grape", "grapeshot", "grape vine" ]
@@ -3620,6 +3660,8 @@
       "door" : [ "doorway", "room access", "threshold" ]
     }, {
       "basilica" : [ "Roman basilica" ]
+    }, {
+      "loreto" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by William Randolph Hearst by exchange (90.6.1)",
@@ -3635,6 +3677,10 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31833390-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "alexandre" : [ ]
+    }, {
+      "charpentier" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by William Randolph Hearst by exchange (90.6.2)",
@@ -3676,43 +3722,7 @@
     "synonyms" : [ {
       "resistance" : [ "electric resistance", "ohmic resistance", "electrical resistance", "immunity", "opposition", "underground", "resistivity", "resistor", "impedance" ]
     }, {
-      "ruth" : [ "pity", "Book of Ruth", "Babe Ruth", "George Herman Ruth", "pathos", "commiseration", "Sultan of Swat" ]
-    }, {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "wagner" : [ "Otto Wagner", "Richard Wagner", "Wilhelm Richard Wagner" ]
-    }, {
-      "romantics" : [ "romanticist", "romantic" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
-    }, {
-      "painting" : [ "picture", "house painting", "paint" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "ullibutler" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Times Mirror Foundation (M.76.77.2)",
@@ -3732,6 +3742,10 @@
       "walker" : [ "footer", "Zimmer frame", "pedestrian", "Zimmer", "John Walker", "go-cart", "baby-walker", "Alice Malsenior Walker", "Alice Walker" ]
     }, {
       "king" : [ "B. B. King", "queen", "big businessman", "top executive", "male monarch", "baron", "Riley B King", "Billie Jean Moffitt King", "tycoon", "Rex", "magnate", "power", "Martin Luther King Jr.", "world-beater", "business leader", "Martin Luther King", "mogul", "Billie Jean King" ]
+    }, {
+      "bishop" : [ ]
+    }, {
+      "rochester" : [ ]
     } ]
   }, {
     "provenance" : "Los Angeles County Fund (23.3.2)",
@@ -3766,6 +3780,8 @@
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
       "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
+    }, {
+      "baptist" : [ ]
     } ]
   }, {
     "provenance" : "William Randolph Hearst Collection (51.13.8)",
@@ -3781,6 +3797,10 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31835036-WEB.jpg",
     "synonyms" : [ {
       "fragment" : [ "shard", "fragmentise", "fragmentize", "sherd", "break up" ]
+    }, {
+      "seraph" : [ ]
+    }, {
+      "enframed" : [ ]
     }, {
       "wings" : [ "wing", "fly" ]
     } ]
@@ -3836,6 +3856,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31834392-WEB.jpg",
     "synonyms" : [ {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
+    }, {
+      "sebastian" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Spencer Samuels (50.27)",
@@ -3896,39 +3918,65 @@
     }, {
       "child" : [ "tyke", "tiddler", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
     }, {
+      "ullivalentiner" : [ ]
+    }, {
       "gothic" : [ "black letter", "mediaeval", "medieval", "Gothic architecture" ]
     }, {
       "renaissance" : [ "rebirth", "Renascence" ]
     }, {
+      "scupltures" : [ ]
+    }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "gerald" : [ ]
     }, {
       "image" : [ "icon", "fancy", "range", "look-alike", "paradigm", "visualize", "mental image", "epitome", "double", "prototype", "simulacrum", "picture", "project", "figure", "see", "envision", "trope", "figure of speech", "effigy", "range of a function", "ikon", "visualise", "persona" ]
     }, {
       "great" : [ "enceinte", "old", "smashing", "groovy", "nifty", "not bad", "peachy", "heavy", "capital", "bang-up", "dandy", "expectant", "with child", "bully", "majuscule", "swell", "neat", "gravid", "slap-up", "corking", "cracking", "keen", "big", "outstanding", "large" ]
     }, {
+      "goddess" : [ ]
+    }, {
       "indian" : [ "American-Indian language", "Native American", "Amerind", "Amerindic", "American Indian", "Amerindian language" ]
     }, {
+      "asia" : [ ]
+    }, {
       "madonna" : [ "Mary", "Blessed Virgin", "Madonna Louise Ciccone", "The Virgin", "Virgin Mary" ]
+    }, {
+      "christian" : [ ]
     }, {
       "culture" : [ "finish", "refinement", "civilisation", "civilization", "cultivation", "polish", "acculturation" ]
     }, {
       "santa" : [ "Santa Claus", "Saint Nicholas", "Saint Nick", "St. Nick", "Father Christmas", "Kriss Kringle" ]
     }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "barbara" : [ ]
     }, {
-      "california" : [ "Calif.", "CA", "Golden State" ]
-    }, {
-      "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
-    }, {
-      "painting" : [ "picture", "house painting", "paint" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
+      "ucsb" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "museum" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Mr. and Mrs. Burnham Marsh (53.39)",
@@ -3947,10 +3995,6 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-2265760-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
-    }, {
-      "andrews" : [ "Roy Chapman Andrews" ]
-    }, {
-      "clark" : [ "Joe Clark", "Mark Wayne Clark", "William Clark", "Kenneth Bancroft Clark", "Mark Clark", "Kenneth Clark", "Charles Joseph Clark" ]
     } ]
   }, {
     "provenance" : "Gift of Kurt and Werner Scharff (M.67.91)",
@@ -4005,6 +4049,8 @@
       "left" : [ "left hand", "result", "provide", "allow", "depart", "pull up stakes", "give", "go away", "lead", "get out", "remaining", "leftfield", "leave", "leave alone", "entrust", "unexpended", "left field", "go forth", "go out", "exit", "leftover", "left over", "left wing", "pass on", "allow for", "leave behind", "will", "left-hand", "odd", "let alone", "forget", "impart", "bequeath" ]
     }, {
       "hand" : [ "mitt", "give", "script", "pass", "reach", "pass on", "bridge player", "deal", "manus", "paw", "hired man", "helping hand", "hired hand", "turn over", "handwriting" ]
+    }, {
+      "carpeaux" : [ ]
     } ]
   }, {
     "provenance" : "The Phil Berg Collection (M.71.73.379)",
@@ -4022,6 +4068,8 @@
       "standing" : [ "bear", "put up", "support", "fend", "brook", "suffer", "digest", "abide", "resist", "stick out", "tolerate", "stand", "endure", "place upright", "remain firm", "stand up", "stomach" ]
     }, {
       "female" : [ "female person", "distaff" ]
+    }, {
+      "faun" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Leona Cantor Palmer (M.72.40)",
@@ -4058,7 +4106,9 @@
     "date" : "Belgium, circa 1872",
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31834524-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "suzon" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of Leona Cantor Palmer (M.72.81.7)",
     "title" : "Man with the Broken Nose",
@@ -4114,35 +4164,7 @@
     "synonyms" : [ {
       "satan" : [ "the Tempter", "Beelzebub", "Old Nick", "Devil", "Lucifer", "Prince of Darkness" ]
     }, {
-      "ruth" : [ "pity", "Book of Ruth", "Babe Ruth", "George Herman Ruth", "pathos", "commiseration", "Sultan of Swat" ]
-    }, {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "wagner" : [ "Otto Wagner", "Richard Wagner", "Wilhelm Richard Wagner" ]
-    }, {
-      "romantics" : [ "romanticist", "romantic" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
-    }, {
-      "painting" : [ "picture", "house painting", "paint" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "masterpieces" : [ "masterpiece", "chef-d'oeuvre" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "ullibutler" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor (M.77.79)",
@@ -4161,47 +4183,15 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832432-WEB.jpg",
     "synonyms" : [ {
+      "hebe" : [ ]
+    }, {
       "eagle" : [ "bird of Jove", "double birdie" ]
     }, {
       "jupiter" : [ "Jove" ]
     }, {
-      "ruth" : [ "pity", "Book of Ruth", "Babe Ruth", "George Herman Ruth", "pathos", "commiseration", "Sultan of Swat" ]
+      "ullibutler" : [ ]
     }, {
-      "james" : [ "King James", "St. James", "crush", "occlude", "block", "James I", "pack", "Jesse James", "obstruct", "chock up", "Saint James the Apostle", "jampack", "Henry James", "pile", "Epistle of James", "jam", "St. James the Apostle", "James IV", "William James", "Saint James", "cram", "mob", "impede", "James II", "close up", "James River", "throng", "King James I", "ram", "obturate", "wad" ]
-    }, {
-      "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
-    }, {
-      "wagner" : [ "Otto Wagner", "Richard Wagner", "Wilhelm Richard Wagner" ]
-    }, {
-      "romantics" : [ "romanticist", "romantic" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
-    }, {
-      "painting" : [ "picture", "house painting", "paint" ]
-    }, {
-      "sculpture" : [ "carving", "grave", "sculpt" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "jupiter" : [ "Jove" ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Michael J. Connell Foundation, and Mrs. Roy C. Markus and Miss Carlotta Mabury by exchange (M.78.7)",
@@ -4220,10 +4210,6 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832487-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
-    }, {
-      "voltaire" : [ "Arouet", "Francois-Marie Arouet" ]
-    }, {
-      "arouet" : [ "Voltaire", "Francois-Marie Arouet" ]
     } ]
   }, {
     "provenance" : "Gift of Michael Hall in honor of Kenneth Donahue (M.78.20)",
@@ -4244,8 +4230,6 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "painter" : [ "cougar", "Felis concolor", "catamount", "mountain lion", "puma", "panther" ]
-    }, {
-      "thomas" : [ "Seth Thomas", "Thomas the doubting Apostle", "St. Thomas", "Saint Thomas", "Norman Mattoon Thomas", "Dylan Marlais Thomas", "Norman Thomas", "doubting Thomas", "Dylan Thomas", "Lowell Thomas", "Lowell Jackson Thomas" ]
     } ]
   }, {
     "provenance" : "Gift of The Ahmanson Foundation (M.78.77)",
@@ -4282,13 +4266,7 @@
     "medium" : "Alabaster",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31774076-WEB.jpg",
     "synonyms" : [ {
-      "latona" : [ "Leto" ]
-    }, {
       "children" : [ "tyke", "tiddler", "child", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
-    }, {
-      "apollo" : [ "Phoebus Apollo", "Phoebus" ]
-    }, {
-      "diana" : [ "Princess of Wales", "Princess Diana", "Lady Diana Frances Spencer" ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor (M.78.117)",
@@ -4328,6 +4306,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "artist" : [ "creative person" ]
+    }, {
+      "giraud" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.13)",
@@ -4343,6 +4323,10 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31773642-WEB.jpg",
     "synonyms" : [ {
       "fallen" : [ "go down", "return", "precipitate", "come", "shine", "lessen", "flow", "hang", "pass", "strike", "diminish", "fall", "fall down", "accrue", "descend", "settle", "light", "decrease", "devolve", "come down" ]
+    }, {
+      "caryatid" : [ ]
+    }, {
+      "urn" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.14)",
@@ -4395,10 +4379,6 @@
       "heroic" : [ "expansive", "epic", "larger-than-life", "grand", "heroic meter", "desperate", "heroical", "heroic verse" ]
     }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
-    }, {
-      "victor" : [ "superior", "winner", "master" ]
-    }, {
-      "hugo" : [ "Victor Hugo", "Victor-Marie Hugo" ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.4)",
@@ -4433,6 +4413,8 @@
       "monumental" : [ "massive", "monolithic" ]
     }, {
       "mask" : [ "dissemble", "masquerade", "cloak", "block out", "masque", "disguise", "masquerade party" ]
+    }, {
+      "hanako" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.15)",
@@ -4446,7 +4428,9 @@
     "date" : "France, first modelled 1885-1889, this cast 1967 (Musée Rodin 4/12)",
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31773669-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "danad" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.22)",
     "title" : "The Falling Man",
@@ -4480,6 +4464,8 @@
       "kneeling" : [ "kneel" ]
     }, {
       "female" : [ "female person", "distaff" ]
+    }, {
+      "faun" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.11)",
@@ -4498,49 +4484,45 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31834553-WEB.jpg",
     "synonyms" : [ {
-      "iris" : [ "flag", "iris diaphragm", "fleur-de-lis", "sword lily" ]
-    }, {
       "messenger" : [ "courier" ]
     }, {
       "gods" : [ "god", "divinity", "immortal", "deity", "God", "Supreme Being", "idol", "graven image" ]
     }, {
+      "ullischaefer" : [ ]
+    }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "park" : [ "ballpark", "parking lot", "common", "car park", "Mungo Park", "green", "commons", "parkland", "parking area" ]
-    }, {
-      "tarbell" : [ "Ida Tarbell", "Ida Minerva Tarbell", "Ida M. Tarbell" ]
-    }, {
-      "figure" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
-    }, {
-      "american" : [ "American language", "American English" ]
-    }, {
-      "question" : [ "interrogation", "dubiousness", "oppugn", "query", "interrogative", "doubt", "interrogative sentence", "interrogate", "enquiry", "inquiry", "interview", "doubtfulness", "wonder", "call into question", "motion", "head" ]
-    }, {
-      "modernity" : [ "modernism", "modernness", "contemporaneousness", "contemporaneity" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.19)",
@@ -4636,35 +4618,69 @@
     }, {
       "d039aire" : [ "D", "d", "cholecalciferol", "calciferol", "five hundred", "vitamin D", "ergocalciferol", "viosterol", "500" ]
     }, {
+      "ullidonahue" : [ ]
+    }, {
+      "kenneth" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "handbook" : [ "vade mecum", "enchiridion" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
     }, {
+      "european" : [ ]
+    }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Foundation (M.73.108.17)",
@@ -4683,6 +4699,10 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31773683-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "della" : [ ]
+    }, {
+      "torre" : [ ]
     }, {
       "mrs" : [ "Mrs." ]
     }, {
@@ -4726,6 +4746,8 @@
     }, {
       "love" : [ "screw", "have intercourse", "sexual love", "dear", "eff", "beloved", "lovemaking", "honey", "fuck", "have a go at it", "making love", "dearest", "bonk", "passion", "be intimate", "sleep together", "bang", "make out", "do it", "erotic love", "have it off", "bed", "jazz", "lie with", "get it on", "enjoy", "get laid", "know", "have sex", "make love", "have it away", "hump", "love life", "roll in the hay", "sleep with" ]
     }, {
+      "fugit" : [ ]
+    }, {
       "amor" : [ "Cupid" ]
     } ]
   }, {
@@ -4741,7 +4763,11 @@
     "medium" : "Terra-cotta on gray marble base",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832585-WEB.jpg",
     "synonyms" : [ {
+      "democritus" : [ ]
+    }, {
       "laughing" : [ "laugh", "express mirth", "express joy", "riant" ]
+    }, {
+      "philosopher" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by the Anita M. Baldwin Bequest (79.4.40)",
@@ -4781,6 +4807,8 @@
     "medium" : "Silver",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-17272361-WEB.jpg",
     "synonyms" : [ {
+      "archbishop" : [ ]
+    }, {
       "bishops" : [ "bishop" ]
     } ]
   }, {
@@ -4802,10 +4830,6 @@
       "commemoration" : [ "memorial", "remembrance", "memorialization", "memorialisation" ]
     }, {
       "medal" : [ "palm", "laurel wreath", "medallion", "decoration", "ribbon" ]
-    }, {
-      "thomas" : [ "Seth Thomas", "Thomas the doubting Apostle", "St. Thomas", "Saint Thomas", "Norman Mattoon Thomas", "Dylan Marlais Thomas", "Norman Thomas", "doubting Thomas", "Dylan Thomas", "Lowell Thomas", "Lowell Jackson Thomas" ]
-    }, {
-      "carlyle" : [ "Thomas Carlyle" ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Joseph B. Koepfli (79.4.348)",
@@ -4842,7 +4866,9 @@
     },
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31835337-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "cardi" : [ ]
+    } ]
   }, {
     "provenance" : "Purchased with funds provided by the Paul Rodman Mabury Bequest by exchange (79.4.387)",
     "title" : "Benjamin Franklin (1706-1790)",
@@ -4879,15 +4905,7 @@
     "synonyms" : [ {
       "homage" : [ "court" ]
     }, {
-      "georges" : [ "George II", "Saint George", "St. George", "George I", "George III", "George V", "George VI", "George", "George IV" ]
-    }, {
       "president" : [ "chair", "chairman", "United States President", "Chief Executive", "chairwoman", "chairperson", "President of the United States", "prexy" ]
-    }, {
-      "union" : [ "labor union", "trade union", "conjugation", "sum", "conglutination", "coupling", "Federal", "join", "brotherhood", "marriage", "uniting", "trades union", "sexual union", "spousal relationship", "matrimony", "pairing", "unification", "wedlock", "North", "mating", "jointure" ]
-    }, {
-      "bronze" : [ "bronzy", "tan" ]
-    }, {
-      "manufacturers" : [ "manufacturer", "maker", "producer", "manufacturing business" ]
     } ]
   }, {
     "provenance" : "Gift of James E. Clark (M.82.210.2)",
@@ -4903,6 +4921,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832712-WEB.jpg",
     "synonyms" : [ {
       "dancing" : [ "saltation", "terpsichore", "trip the light fantastic toe", "trip the light fantastic", "dance" ]
+    }, {
+      "faun" : [ ]
     } ]
   }, {
     "provenance" : "Gift of the Arnhold Family (M.82.211)",
@@ -4954,6 +4974,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832754-WEB.jpg",
     "synonyms" : [ {
       "little" : [ "short", "lilliputian", "fiddling", "niggling", "petty", "footling", "slight", "piffling", "trivial", "minuscule", "piddling", "small", "picayune" ]
+    }, {
+      "blacksmith" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Michael Hall (M.82.286.9)",
@@ -4987,9 +5009,7 @@
     },
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31973176-WEB.jpg",
-    "synonyms" : [ {
-      "gutenberg" : [ "Johann Gutenberg", "Johannes Gutenberg" ]
-    } ]
+    "synonyms" : [ ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Collections (M.82.126.1)",
     "title" : "Bust of a Puddler",
@@ -5004,6 +5024,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31774462-WEB.jpg",
     "synonyms" : [ {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
+    }, {
+      "puddler" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Collections (M.82.126.4)",
@@ -5031,6 +5053,8 @@
       "over" : [ "complete", "concluded", "terminated", "all over", "ended" ]
     }, {
       "cadaver" : [ "clay", "remains", "stiff", "corpse" ]
+    }, {
+      "monarchy" : [ ]
     } ]
   }, {
     "provenance" : "Gift of B. Gerald Cantor Art Collections (M.82.126.3)",
@@ -5044,7 +5068,9 @@
     "date" : "France, 1837",
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31774475-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "philopoemen" : [ ]
+    } ]
   }, {
     "provenance" : "Purchased with funds provided by Camilla Chandler Frost (M.80.26)",
     "title" : "Standing Portrait of the Painter Jean-Louis-Ernest Meissonier",
@@ -5066,6 +5092,8 @@
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
       "painter" : [ "cougar", "Felis concolor", "catamount", "mountain lion", "puma", "panther" ]
+    }, {
+      "jean" : [ "dungaree", "denim" ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Chandis Securities Company (M.80.90)",
@@ -5080,6 +5108,8 @@
     "medium" : "Alabaster",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31774181-WEB.jpg",
     "synonyms" : [ {
+      "cronus" : [ ]
+    }, {
       "carrying" : [ "comport", "pack", "express", "run", "expect", "convey", "conduct", "stock", "stockpile", "transport", "carry", "acquit", "bear", "transmit", "post", "extend", "have a bun in the oven", "hold", "deport", "dribble", "sway", "take", "persuade", "contain", "gestate", "channel", "behave", "impart" ]
     }, {
       "off" : [ "sour", "bump off", "murder", "turned", "remove", "polish off", "hit", "cancelled", "dispatch", "slay" ]
@@ -5105,6 +5135,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832628-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "actress" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Ronald E. Fritz (M.80.208)",
@@ -5126,10 +5158,6 @@
     }, {
       "group" : [ "chemical group", "grouping", "radical", "mathematical group", "aggroup" ]
     }, {
-      "jean" : [ "dungaree", "denim" ]
-    }, {
-      "fontaine039s" : [ "sulphur", "mho", "atomic number 16", "second", "entropy", "reciprocal ohm", "due south", "randomness", "s", "sec", "S", "siemens", "sulfur", "south", "southward" ]
-    }, {
       "young" : [ "Danton True Young", "Brigham Young", "vernal", "unseasoned", "Edward Young", "Pres Young", "untested", "youth", "Loretta Young", "new", "Whitney Moore Young Jr.", "untried", "Whitney Young", "youthful", "immature", "Lester Willis Young", "Thomas Young", "Cy Young", "offspring" ]
     }, {
       "child039" : [ "tyke", "tiddler", "child", "nipper", "youngster", "tike", "nestling", "minor", "small fry", "baby", "fry", "shaver", "kid" ]
@@ -5147,6 +5175,8 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31774209-WEB.jpg",
     "synonyms" : [ {
+      "funerary" : [ ]
+    }, {
       "genius" : [ "champion", "whiz", "brainiac", "maven", "flair", "virtuoso", "sensation", "star", "hotshot", "wizard", "ace", "mavin", "whizz", "wizardry", "wiz", "brain", "Einstein", "superstar", "mastermind", "adept", "brilliance" ]
     } ]
   }, {
@@ -5162,6 +5192,8 @@
     "medium" : "Marble",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832674-WEB.jpg",
     "synonyms" : [ {
+      "between" : [ ]
+    }, {
       "two" : [ "II", "2", "deuce", "ii" ]
     }, {
       "loves" : [ "screw", "have intercourse", "sexual love", "dear", "eff", "beloved", "lovemaking", "honey", "love", "fuck", "have a go at it", "making love", "dearest", "bonk", "passion", "be intimate", "sleep together", "bang", "make out", "do it", "erotic love", "have it off", "bed", "jazz", "lie with", "get it on", "enjoy", "get laid", "know", "have sex", "make love", "have it away", "hump", "love life", "roll in the hay", "sleep with" ]
@@ -5199,6 +5231,12 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31831848-WEB.jpg",
     "synonyms" : [ {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "actress" : [ ]
+    }, {
+      "aimeolympe" : [ ]
+    }, {
+      "descle" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Dr. A. S. Ciechanowiecki (M.81.263)",
@@ -5250,6 +5288,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832768-WEB.jpg",
     "synonyms" : [ {
       "death" : [ "last", "destruction", "demise", "decease", "dying", "end", "expiry" ]
+    }, {
+      "hyacinthus" : [ ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by James E. Clark (M.84.37)",
@@ -5287,39 +5327,77 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31776491-WEB.jpg",
     "synonyms" : [ {
+      "she" : [ ]
+    }, {
       "helmetmaker039s" : [ "sulphur", "mho", "atomic number 16", "second", "entropy", "reciprocal ohm", "due south", "randomness", "s", "sec", "S", "siemens", "sulfur", "south", "southward" ]
+    }, {
+      "beautiful" : [ ]
     }, {
       "wife" : [ "married woman" ]
     }, {
+      "ullischaefer" : [ ]
+    }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "lorna" : [ ]
     }, {
       "masterpieces" : [ "masterpiece", "chef-d'oeuvre" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
   }, {
     "provenance" : "Gift of James E. Clark (M.84.165)",
@@ -5333,7 +5411,9 @@
     "date" : "France, 1839; cast 1844 (?)",
     "medium" : "Bronze (Vittoz cast)",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31439800-WEB.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "vellda" : [ ]
+    } ]
   }, {
     "provenance" : "Gift of The Christian Humann Foundation (M.84.209)",
     "title" : "Portrait of François-Louis Carpezat (1827-1876)",
@@ -5385,6 +5465,8 @@
     "medium" : "Wax with metal and wood accoutrements",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31832894-WEB.jpg",
     "synonyms" : [ {
+      "dionysus" : [ ]
+    }, {
       "attended" : [ "look", "serve", "go to", "take care", "attend", "advert", "assist", "hang", "see", "tended to", "accompanied", "wait on", "pay heed", "attend to", "give ear" ]
     }, {
       "two" : [ "II", "2", "deuce", "ii" ]
@@ -5441,6 +5523,8 @@
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31776743-WEB.jpg",
     "synonyms" : [ {
       "balzac" : [ "Honore Balzac", "Honore de Balzac" ]
+    }, {
+      "frockcoat" : [ ]
     } ]
   }, {
     "provenance" : "Gift of Iris and B. Gerald Cantor (M.86.219.1)",
@@ -5461,43 +5545,41 @@
     "synonyms" : [ {
       "peasant" : [ "tyke", "boor", "bucolic", "provincial", "tike", "Goth", "churl", "barbarian" ]
     }, {
+      "ullischaefer" : [ ]
+    }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
-    }, {
-      "rodin" : [ "Francois Auguste Rene Rodin", "Auguste Rodin" ]
-    }, {
-      "time" : [ "clock time", "clip", "metre", "meter", "prison term", "clock", "sentence", "fourth dimension" ]
-    }, {
-      "cantor" : [ "precentor", "hazan", "choirmaster" ]
-    }, {
-      "gifts" : [ "endowment", "present", "invest", "gift", "endow", "give", "endue", "talent", "natural endowment", "giving", "indue", "empower" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
-    }, {
-      "park" : [ "ballpark", "parking lot", "common", "car park", "Mungo Park", "green", "commons", "parkland", "parking area" ]
-    }, {
-      "tarbell" : [ "Ida Tarbell", "Ida Minerva Tarbell", "Ida M. Tarbell" ]
-    }, {
-      "figure" : [ "bod", "fancy", "visualize", "fig", "calculate", "physical body", "public figure", "build", "estimate", "material body", "chassis", "count on", "anatomy", "name", "compute", "work out", "visualise", "cypher", "form", "forecast", "image", "number", "enter", "shape", "digit", "picture", "project", "reckon", "frame", "pattern", "see", "flesh", "envision", "trope", "physique", "soma", "cipher", "figure of speech", "human body", "design" ]
-    }, {
-      "american" : [ "American language", "American English" ]
-    }, {
-      "question" : [ "interrogation", "dubiousness", "oppugn", "query", "interrogative", "doubt", "interrogative sentence", "interrogate", "enquiry", "inquiry", "interview", "doubtfulness", "wonder", "call into question", "motion", "head" ]
-    }, {
-      "modernity" : [ "modernism", "modernness", "contemporaneousness", "contemporaneity" ]
-    }, {
-      "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
   }, {
     "provenance" : "Purchased with funds provided by Mr. and Mrs. Walter Zifkin (M.80.44)",
@@ -5538,6 +5620,8 @@
     }, {
       "ferdinand" : [ "King Ferdinand", "Ferdinand V", "Ferdinand the Catholic", "Ferdinand of Aragon" ]
     }, {
+      "catholic" : [ ]
+    }, {
       "king" : [ "B. B. King", "queen", "big businessman", "top executive", "male monarch", "baron", "Riley B King", "Billie Jean Moffitt King", "tycoon", "Rex", "magnate", "power", "Martin Luther King Jr.", "world-beater", "business leader", "Martin Luther King", "mogul", "Billie Jean King" ]
     }, {
       "aragon" : [ "Louis Aragon" ]
@@ -5546,27 +5630,95 @@
     }, {
       "naples" : [ "Napoli" ]
     }, {
+      "ullivalentiner" : [ ]
+    }, {
       "gothic" : [ "black letter", "mediaeval", "medieval", "Gothic architecture" ]
     }, {
       "renaissance" : [ "rebirth", "Renascence" ]
     }, {
+      "scupltures" : [ ]
+    }, {
       "collection" : [ "ingathering", "aggregation", "collecting", "appeal", "solicitation", "compendium", "assembling", "assemblage", "accumulation" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "kenneth" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "handbook" : [ "vade mecum", "enchiridion" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     }, {
       "scott" : [ "Winfield Scott", "Robert Scott", "Sir Walter Scott", "Robert Falcon Scott", "Dred Scott", "Walter Scott", "George C. Scott" ]
+    }, {
+      "european" : [ ]
     }, {
       "painting" : [ "picture", "house painting", "paint" ]
     }, {
       "sculpture" : [ "carving", "grave", "sculpt" ]
     }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
+    }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "los" : [ ]
+    }, {
+      "angeles" : [ ]
+    }, {
+      "county" : [ ]
+    }, {
+      "museum" : [ ]
     }, {
       "art" : [ "artistic creation", "prowess", "artistry", "artistic production", "nontextual matter", "fine art", "graphics", "artwork" ]
     } ]
@@ -5588,6 +5740,8 @@
       "study" : [ "field of study", "work", "sketch", "examine", "hit the books", "subject", "learn", "contemplate", "bailiwick", "written report", "field", "analyze", "canvass", "subject area", "consider", "take", "report", "read", "survey", "meditate", "discipline", "subject field", "cogitation", "analyse" ]
     }, {
       "head" : [ "guide", "straits", "capitulum", "manoeuvre", "lead", "headway", "manoeuver", "drumhead", "principal", "read/write head", "channelize", "head word", "school principal", "top dog", "question", "mind", "brain", "chief", "direct", "headspring", "channelise", "psyche", "promontory", "head teacher", "fountainhead", "caput", "header", "forefront", "pass", "oral sex", "point", "nous", "headland", "steer", "foreland", "maneuver", "heading", "head up" ]
+    }, {
+      "gwen" : [ ]
     }, {
       "john" : [ "lav", "can", "John Lackland", "Saint John", "St. John the Apostle", "bathroom", "John the Evangelist", "toilet", "St. John", "Saint John the Apostle", "John the Divine", "lavatory", "King John", "privy", "trick", "Gospel According to John", "whoremaster", "whoremonger" ]
     } ]
@@ -5621,6 +5775,8 @@
     "synonyms" : [ {
       "fallen" : [ "go down", "return", "precipitate", "come", "shine", "lessen", "flow", "hang", "pass", "strike", "diminish", "fall", "fall down", "accrue", "descend", "settle", "light", "decrease", "devolve", "come down" ]
     }, {
+      "caryatid" : [ ]
+    }, {
       "carrying" : [ "comport", "pack", "express", "run", "expect", "convey", "conduct", "stock", "stockpile", "transport", "carry", "acquit", "bear", "transmit", "post", "extend", "have a bun in the oven", "hold", "deport", "dribble", "sway", "take", "persuade", "contain", "gestate", "channel", "behave", "impart" ]
     }, {
       "stone" : [ "gemstone", "Lucy Stone", "Harlan Fisk Stone", "rock", "Edward Durell Stone", "Isidor Feinstein Stone", "Harlan F. Stone", "I. F. Stone", "Harlan Fiske Stone", "lapidate", "pit", "endocarp", "gem", "Oliver Stone", "Harlan Stone" ]
@@ -5638,6 +5794,8 @@
     "medium" : "Bronze",
     "imageURL" : "http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31835365-WEB.jpg",
     "synonyms" : [ {
+      "wolffers" : [ ]
+    }, {
       "bust" : [ "stone-broke", "raid", "flop", "fizzle", "snap", "wear out", "burst", "bout", "broke", "stony-broke", "binge", "break", "rupture", "tear", "fall apart", "wear", "female chest", "skint" ]
     }, {
       "bronze" : [ "bronzy", "tan" ]

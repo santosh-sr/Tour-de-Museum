@@ -14,7 +14,9 @@
     "date" : "1944",
     "medium" : "Painted and varnished plaster",
     "imageURL" : "http://www.dia.org/user_area/comping/1986.102.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "moonmad" : [ ]
+    } ]
   }, {
     "provenance" : "Barry Friedman, Ltd. (dealer), New York",
     "title" : "Dinner Plate",
@@ -33,6 +35,10 @@
       "plate" : [ "shell", "scale", "home", "photographic plate", "collection plate", "crustal plate", "plateful", "dental plate", "home plate", "home base", "denture" ]
     }, {
       "clay" : [ "Lucius Clay", "mud", "remains", "Lucius DuBignon Clay", "cadaver", "Henry Clay", "stiff", "corpse", "the Great Compromiser" ]
+    }, {
+      "porcelain" : [ ]
+    }, {
+      "tableware" : [ ]
     }, {
       "plate" : [ "shell", "scale", "home", "photographic plate", "collection plate", "crustal plate", "plateful", "dental plate", "home plate", "home base", "denture" ]
     } ]
@@ -54,6 +60,10 @@
       "plate" : [ "shell", "scale", "home", "photographic plate", "collection plate", "crustal plate", "plateful", "dental plate", "home plate", "home base", "denture" ]
     }, {
       "clay" : [ "Lucius Clay", "mud", "remains", "Lucius DuBignon Clay", "cadaver", "Henry Clay", "stiff", "corpse", "the Great Compromiser" ]
+    }, {
+      "porcelain" : [ ]
+    }, {
+      "tableware" : [ ]
     }, {
       "plate" : [ "shell", "scale", "home", "photographic plate", "collection plate", "crustal plate", "plateful", "dental plate", "home plate", "home base", "denture" ]
     } ]
@@ -77,6 +87,8 @@
       "small" : [ "humble", "pocket-size", "minor", "small-scale", "pocket-sized", "little", "minuscule", "lowly", "low", "diminished", "belittled", "modest" ]
     }, {
       "landscape" : [ "landscape painting" ]
+    }, {
+      "garden" : [ ]
     }, {
       "door" : [ "doorway", "room access", "threshold" ]
     }, {
@@ -234,7 +246,9 @@
     "date" : "c. 1883",
     "medium" : "Glass",
     "imageURL" : "http://www.dia.org/user_area/comping/1993.155.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "vase" : [ ]
+    } ]
   }, {
     "provenance" : "Haslam & Whiteway (dealers), London;William and Ellen Taubman, after 1983",
     "birth" : "1868",
@@ -273,11 +287,15 @@
     }, {
       "near" : [ "nigh", "draw close", "go up", "draw near", "come near", "good", "dear", "penny-pinching", "close", "cheeseparing", "come on", "approximate", "approach", "skinny" ]
     }, {
+      "dresden" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "landscape" : [ "landscape painting" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "birth" : "1880",
@@ -296,7 +314,11 @@
     "credit" : "City of Detroit Purchase",
     "imageURL" : "http://www.dia.org/user_area/comping/21.204-S1.jpg",
     "synonyms" : [ {
+      "coastal" : [ ]
+    }, {
       "landscape" : [ "landscape painting" ]
+    }, {
+      "fehmarn" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -329,6 +351,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     }, {
@@ -377,6 +401,8 @@
     "credit" : "City of Detroit Purchase",
     "imageURL" : "http://www.dia.org/user_area/comping/21.207-S1.jpg",
     "synonyms" : [ {
+      "cactus" : [ ]
+    }, {
       "bloom" : [ "heyday", "prime", "rosiness", "flush", "efflorescence", "peak", "blooming", "salad days", "bloom of youth", "blush", "flower", "blossom" ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
@@ -384,6 +410,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     }, {
       "plant" : [ "constitute", "institute", "flora", "set", "industrial plant", "engraft", "establish", "implant", "plant life", "imbed", "embed", "works", "found" ]
     }, {
@@ -406,6 +434,8 @@
     "credit" : "City of Detroit Purchase",
     "imageURL" : "http://www.dia.org/user_area/comping/21.208.jpg",
     "synonyms" : [ {
+      "sidewheeler" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -431,6 +461,8 @@
     "imageURL" : "http://www.dia.org/user_area/comping/21.209.jpg",
     "synonyms" : [ {
       "sunflowers" : [ "helianthus", "sunflower" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "provenance" : "Dirkan G. Kelekian (Sale, American Art Association, New York, 30 January 1922, no. 160, bought by Ralph Booth)",
@@ -476,6 +508,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "birth" : "1878",
@@ -538,6 +572,10 @@
       "gilt" : [ "engild", "begild", "gild", "aureate", "gold", "gilding", "gilded", "golden" ]
     }, {
       "box" : [ "corner", "box seat", "package", "boxwood", "loge", "boxful" ]
+    }, {
+      "cigarette box" : [ "cigarette", "fag", "package", "butt", "box", "cigaret", "coffin nail" ]
+    }, {
+      "container" : [ ]
     } ]
   }, {
     "birth" : "1882",
@@ -562,6 +600,8 @@
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "birth" : "1883",
@@ -625,6 +665,8 @@
     "synonyms" : [ {
       "bay" : [ "true laurel", "bay laurel", "Laurus nobilis", "embayment", "alcove", "bay tree", "quest" ]
     }, {
+      "ciotat" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -684,6 +726,8 @@
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
     } ]
   }, {
     "birth" : "1860",
@@ -703,6 +747,12 @@
     "imageURL" : "http://www.dia.org/user_area/comping/29.327-S1.jpg",
     "synonyms" : [ {
       "ballet" : [ "concert dance" ]
+    }, {
+      "ferique" : [ ]
+    }, {
+      "jardin" : [ ]
+    }, {
+      "damour" : [ ]
     }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
@@ -726,6 +776,8 @@
     "credit" : "City of Detroit Purchase",
     "imageURL" : "http://www.dia.org/user_area/comping/29.331-S1.jpg",
     "synonyms" : [ {
+      "assunta" : [ ]
+    }, {
       "bronze" : [ "bronzy", "tan" ]
     }, {
       "cast" : [ "wander", "honk", "drop", "stray", "draw", "dramatis personae", "roll", "upchuck", "casting", "plaster cast", "barf", "tramp", "purge", "throw away", "hurtle", "throw up", "regurgitate", "form", "contrive", "shape", "spue", "retch", "project", "frame", "spew", "vomit", "regorge", "sick", "shake off", "vomit up", "roam", "cat", "mold", "put", "range", "chuck", "cast off", "drift", "ramble", "be sick", "throw", "mould", "throw off", "puke", "plaster bandage", "rove", "vagabond", "stamp", "redact", "disgorge", "shed", "couch", "swan", "hurl", "cast of characters" ]
@@ -763,6 +815,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     }, {
       "interior" : [ "upcountry", "home", "inner", "national", "inside", "midland", "DoI", "Department of the Interior", "internal", "Interior Department" ]
     } ]
@@ -804,6 +858,8 @@
     "credit" : "Gift of Robert H. Tannahill",
     "imageURL" : "http://www.dia.org/user_area/comping/44.231.jpg",
     "synonyms" : [ {
+      "vase" : [ ]
+    }, {
       "metal" : [ "metallic element", "alloy", "metallic" ]
     }, {
       "copper" : [ "fuzz", "cop", "atomic number 29", "Cu", "copper color", "bull", "pig" ]
@@ -811,6 +867,10 @@
       "enamel" : [ "tooth enamel" ]
     }, {
       "enameled" : [ "enamel" ]
+    }, {
+      "vase" : [ ]
+    }, {
+      "container" : [ ]
     }, {
       "enamel" : [ "tooth enamel" ]
     } ]
@@ -1059,6 +1119,8 @@
     "credit" : "Founders Society Purchase, Metropolitan Opera Benefit Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/62.141-D1.jpg",
     "synonyms" : [ {
+      "sylvette" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
@@ -1086,7 +1148,17 @@
     "credit" : "Founders Society Purchase, General Membership Fund",
     "imageURL" : "http://www.dia.org/user_area/comping/63.126.jpg",
     "synonyms" : [ {
+      "entre" : [ ]
+    }, {
+      "feuille" : [ ]
+    }, {
+      "oiseau" : [ ]
+    }, {
       "carved" : [ "chip at", "cut up", "carven", "carve" ]
+    }, {
+      "granite" : [ ]
+    }, {
+      "statue" : [ ]
     }, {
       "stone" : [ "gemstone", "Lucy Stone", "Harlan Fisk Stone", "rock", "Edward Durell Stone", "Isidor Feinstein Stone", "Harlan F. Stone", "I. F. Stone", "Harlan Fiske Stone", "lapidate", "pit", "endocarp", "gem", "Oliver Stone", "Harlan Stone" ]
     }, {
@@ -1172,7 +1244,11 @@
     "date" : "1960",
     "medium" : "Bronze",
     "imageURL" : "http://www.dia.org/user_area/comping/65.5.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "simplicite" : [ ]
+    }, {
+      "sinuese" : [ ]
+    } ]
   }, {
     "birth" : "1871",
     "keywords" : [ "canvas", "oil", "paint", "seascape", "abstraction" ],
@@ -1271,6 +1347,8 @@
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
+    }, {
+      "half length" : [ "half-length" ]
     } ]
   }, {
     "birth" : "1881",
@@ -1323,6 +1401,8 @@
     }, {
       "anis" : [ "ani" ]
     }, {
+      "del" : [ ]
+    }, {
       "mono" : [ "monophonic", "glandular fever", "infectious mononucleosis", "mononucleosis", "single-channel", "kissing disease" ]
     } ]
   }, {
@@ -1346,11 +1426,15 @@
     }, {
       "seated" : [ "sit", "invest", "sit down", "sitting", "seat", "induct" ]
     }, {
+      "armchair" : [ ]
+    }, {
       "canvas" : [ "canvass", "sail", "sheet", "canvas tent" ]
     }, {
       "oil" : [ "vegetable oil", "embrocate", "anoint", "rock oil", "inunct", "anele", "crude", "fossil oil", "crude oil", "petroleum", "oil color", "oil colour" ]
     }, {
       "paint" : [ "rouge", "blusher", "key", "pigment" ]
+    }, {
+      "three quarter length" : [ "billet", "triad", "threesome", "draw and quarter", "iii", "canton", "trine", "troika", "tierce", "draw", "3", "leash", "ternion", "three", "ternary", "trey", "trio", "triplet", "trinity", "deuce-ace", "tercet", "III", "terzetto", "quarter" ]
     }, {
       "portrait" : [ "portraiture", "portrayal" ]
     } ]
@@ -1444,6 +1528,8 @@
     }, {
       "gladioli" : [ "corpus sternum", "glad", "gladiola", "sword lily", "gladiolus" ]
     }, {
+      "still life" : [ "calm", "motionless", "silent", "smooth", "quieten", "noneffervescent", "ease", "shut up", "placid", "inactive", "tranquil", "calm down", "hush", "tranquilize", "tranquillise", "static", "lull", "still", "quiet", "soundless", "unruffled", "relieve", "silence", "hush up", "tranquillize", "allay" ]
+    }, {
       "flower" : [ "heyday", "prime", "flush", "efflorescence", "peak", "bloom", "blossom" ]
     } ]
   }, {
@@ -1463,6 +1549,12 @@
     "credit" : "Gift of Madame Jean Arp",
     "imageURL" : "http://www.dia.org/user_area/comping/74.125.jpg",
     "synonyms" : [ {
+      "between" : [ ]
+    }, {
+      "lily" : [ ]
+    }, {
+      "elephant" : [ ]
+    }, {
       "tusk" : [ "ivory", "horn", "detusk" ]
     }, {
       "plaster" : [ "plasterwork", "plaster over", "adhesive plaster", "stick on", "cataplasm", "beplaster", "plaster of Paris", "poultice", "sticking plaster", "daub" ]
@@ -1484,6 +1576,8 @@
     "credit" : "Gift of Madame Jean Arp",
     "imageURL" : "http://www.dia.org/user_area/comping/74.126.jpg",
     "synonyms" : [ {
+      "pistil" : [ ]
+    }, {
       "plaster" : [ "plasterwork", "plaster over", "adhesive plaster", "stick on", "cataplasm", "beplaster", "plaster of Paris", "poultice", "sticking plaster", "daub" ]
     } ]
   }, {
@@ -1525,11 +1619,17 @@
     "credit" : "Gift of Ben L. Silberstein",
     "imageURL" : "http://www.dia.org/user_area/comping/76.77.jpg",
     "synonyms" : [ {
+      "flore" : [ ]
+    }, {
+      "nue" : [ ]
+    }, {
       "bronze" : [ "bronzy", "tan" ]
     }, {
       "cast" : [ "wander", "honk", "drop", "stray", "draw", "dramatis personae", "roll", "upchuck", "casting", "plaster cast", "barf", "tramp", "purge", "throw away", "hurtle", "throw up", "regurgitate", "form", "contrive", "shape", "spue", "retch", "project", "frame", "spew", "vomit", "regorge", "sick", "shake off", "vomit up", "roam", "cat", "mold", "put", "range", "chuck", "cast off", "drift", "ramble", "be sick", "throw", "mould", "throw off", "puke", "plaster bandage", "rove", "vagabond", "stamp", "redact", "disgorge", "shed", "couch", "swan", "hurl", "cast of characters" ]
     }, {
       "metal" : [ "metallic element", "alloy", "metallic" ]
+    }, {
+      "statue" : [ ]
     } ]
   }, {
     "birth" : "1869",
@@ -1555,6 +1655,8 @@
       "charcoal" : [ "oxford grey", "charcoal gray", "charcoal grey", "oxford gray", "fusain", "wood coal", "charcoal-grey", "charcoal-gray" ]
     }, {
       "paper" : [ "newspaper publisher", "theme", "wallpaper", "report", "composition", "newspaper" ]
+    }, {
+      "gouache" : [ ]
     } ]
   }, {
     "provenance" : "Formerly in the collection of: Private Collection Pierre Matisse Gallery, New York ",
@@ -1601,6 +1703,8 @@
       "cast" : [ "wander", "honk", "drop", "stray", "draw", "dramatis personae", "roll", "upchuck", "casting", "plaster cast", "barf", "tramp", "purge", "throw away", "hurtle", "throw up", "regurgitate", "form", "contrive", "shape", "spue", "retch", "project", "frame", "spew", "vomit", "regorge", "sick", "shake off", "vomit up", "roam", "cat", "mold", "put", "range", "chuck", "cast off", "drift", "ramble", "be sick", "throw", "mould", "throw off", "puke", "plaster bandage", "rove", "vagabond", "stamp", "redact", "disgorge", "shed", "couch", "swan", "hurl", "cast of characters" ]
     }, {
       "metal" : [ "metallic element", "alloy", "metallic" ]
+    }, {
+      "statue" : [ ]
     }, {
       "abstraction" : [ "abstract", "generalization", "abstract entity", "abstractedness", "generalisation" ]
     } ]

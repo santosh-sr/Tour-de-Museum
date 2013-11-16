@@ -106,8 +106,6 @@
       "lady" : [ "gentlewoman", "dame", "noblewoman", "madam", "peeress", "ma'am" ]
     }, {
       "reading" : [ "recitation", "reading material", "understand", "indication", "meter reading", "interpret", "learn", "study", "show", "version", "recital", "register", "record", "take", "say", "read", "scan", "translate", "interpretation" ]
-    }, {
-      "mary" : [ "Blessed Virgin", "The Virgin", "Virgin Mary", "Madonna" ]
     } ]
   }, {
     "birth" : "1817",
@@ -124,7 +122,11 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000165/23448_1783545.jpg",
     "synonyms" : [ {
+      "lamplight" : [ ]
+    }, {
       "study" : [ "field of study", "work", "sketch", "examine", "hit the books", "subject", "learn", "contemplate", "bailiwick", "written report", "field", "analyze", "canvass", "subject area", "consider", "take", "report", "read", "survey", "meditate", "discipline", "subject field", "cogitation", "analyse" ]
+    }, {
+      "herr" : [ ]
     }, {
       "joachim" : [ "Joseph Joachim" ]
     } ]
@@ -293,6 +295,10 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000156/8227_1683056.jpg",
     "synonyms" : [ {
       "sunday" : [ "William Ashley Sunday", "Lord's Day", "Sun", "Billy Sunday", "Dominicus" ]
+    }, {
+      "grande" : [ ]
+    }, {
+      "jatte" : [ ]
     } ]
   }, {
     "birth" : "1839",
@@ -330,9 +336,13 @@
     "synonyms" : [ {
       "view" : [ "position", "eyeshot", "watch", "catch", "prospect", "horizon", "thought", "regard", "panorama", "sentiment", "sight", "purview", "reckon", "aspect", "see", "persuasion", "consider", "vista", "look at", "take in", "survey", "scene", "opinion", "perspective" ]
     }, {
+      "vianen" : [ ]
+    }, {
       "herdsman" : [ "herder", "drover" ]
     }, {
       "cattle" : [ "oxen", "Bos taurus", "cows", "kine" ]
+    }, {
+      "river" : [ ]
     } ]
   }, {
     "birth" : "1607",
@@ -350,6 +360,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000240/159502_2793779.jpg",
     "synonyms" : [ {
       "witches" : [ "glamour", "bewitch", "beldam", "hex", "witch", "Wiccan", "crone", "beldame", "hag", "jinx", "enchant", "enchantress" ]
+    }, {
+      "sabbath" : [ ]
     } ]
   }, {
     "birth" : "unknown",
@@ -369,6 +381,8 @@
       "abrahams" : [ "Ibrahim", "Abraham" ]
     }, {
       "sacrifice" : [ "give", "forfeiture", "forfeit", "ritual killing" ]
+    }, {
+      "isaac" : [ ]
     } ]
   }, {
     "birth" : "1879",
@@ -386,6 +400,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5625_1651137.jpg",
     "synonyms" : [ {
       "abstract" : [ "pinch", "hook", "purloin", "swipe", "outline", "pilfer", "nonfigurative", "nonobjective", "abstractionist", "cabbage", "abstraction", "precis", "snarf", "lift", "synopsis", "nobble", "sneak", "filch" ]
+    }, {
+      "cityscape" : [ ]
     } ]
   }, {
     "birth" : "1887",
@@ -422,6 +438,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000215/131409_2407120.jpg",
     "synonyms" : [ {
       "abstraction" : [ "abstract", "generalization", "abstract entity", "abstractedness", "generalisation" ]
+    }, {
+      "guitar" : [ ]
     }, {
       "glass" : [ "glassful", "spyglass", "meth", "chicken feed", "glaze over", "Methedrine", "glaze", "glass over", "glass in", "deoxyephedrine", "chalk", "field glass", "looking glass", "shabu", "ice", "trash", "drinking glass", "crank", "methamphetamine", "methamphetamine hydrochloride" ]
     } ]
@@ -464,7 +482,9 @@
     "date" : "November 1949",
     "medium" : "Encaustic and collage on paper on board",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/7_1572553.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "acolo" : [ ]
+    } ]
   }, {
     "birth" : "1841",
     "title" : "Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg)",
@@ -486,6 +506,10 @@
       "acrobats" : [ "acrobat" ]
     }, {
       "cirque" : [ "cwm", "corrie" ]
+    }, {
+      "fernando" : [ ]
+    }, {
+      "francisca" : [ ]
     } ]
   }, {
     "birth" : "1472",
@@ -522,7 +546,7 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4556_1633772.jpg",
     "synonyms" : [ {
-      "adam" : [ "hug drug", "ecstasy", "XTC", "disco biscuit", "X", "cristal", "go", "Robert Adam" ]
+      "gask" : [ ]
     } ]
   }, {
     "birth" : "1657",
@@ -579,7 +603,11 @@
     "medium" : "Oil on panel",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/3684_1620275.jpg",
     "synonyms" : [ {
+      "aeneas" : [ ]
+    }, {
       "rescuing" : [ "deliver", "rescue" ]
+    }, {
+      "anchises" : [ ]
     }, {
       "burning" : [ "sunburn", "sting", "burn down", "combustion", "glow", "fire", "burn up", "electrocution", "incinerate", "bite", "cauterise", "cauterize", "cut", "burn", "burn off", "combust", "burning at the stake" ]
     }, {
@@ -599,7 +627,11 @@
     "date" : "1534/35",
     "medium" : "Oil on panel",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/1714_1593008.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "alessandro" : [ ]
+    }, {
+      "medici" : [ ]
+    } ]
   }, {
     "birth" : "1750",
     "title" : "Alexander at the Tomb of Cyrus the Great",
@@ -640,9 +672,7 @@
     },
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000250/176806_2959875.jpg",
-    "synonyms" : [ {
-      "alfred" : [ "Alfred the Great" ]
-    } ]
+    "synonyms" : [ ]
   }, {
     "birth" : "1832",
     "title" : "Allegorical Figure",
@@ -699,6 +729,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000167/47209_1810174.jpg",
     "synonyms" : [ {
       "alphabet" : [ "first principles", "ABC", "ABC's", "ABCs", "rudiments" ]
+    }, {
+      "tte" : [ ]
     } ]
   }, {
     "birth" : "1832",
@@ -715,6 +747,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/4027_1625091.jpg",
     "synonyms" : [ {
+      "alpine" : [ ]
+    }, {
       "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
     } ]
   }, {
@@ -732,6 +766,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000159/39482_1721478.jpg",
     "synonyms" : [ {
       "altarpiece" : [ "reredos" ]
+    }, {
+      "thuisonlesabbeville" : [ ]
     }, {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
@@ -753,7 +789,11 @@
     "synonyms" : [ {
       "altarpiece" : [ "reredos" ]
     }, {
+      "thuisonlesabbeville" : [ ]
+    }, {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
+    }, {
+      "hugh" : [ ]
     }, {
       "lincoln" : [ "President Abraham Lincoln", "Abraham Lincoln", "President Lincoln", "capital of Nebraska" ]
     } ]
@@ -773,6 +813,8 @@
     "synonyms" : [ {
       "altarpiece" : [ "reredos" ]
     }, {
+      "thuisonlesabbeville" : [ ]
+    }, {
       "ascension" : [ "Ascension of Christ", "rising", "rise", "ascending", "ascent", "Ascension of the Lord", "Ascension Day" ]
     } ]
   }, {
@@ -791,6 +833,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000125/165509_1263551.jpg",
     "synonyms" : [ {
       "america" : [ "United States", "USA", "US", "U.S.", "the States", "United States of America", "U.S.A." ]
+    }, {
+      "windows" : [ ]
     } ]
   }, {
     "birth" : "1780",
@@ -807,7 +851,11 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/4265_1629274.jpg",
     "synonyms" : [ {
+      "amdedavid" : [ ]
+    }, {
       "comte" : [ "Auguste Comte", "Isidore Auguste Marie Francois Comte" ]
+    }, {
+      "pastoret" : [ ]
     } ]
   }, {
     "birth" : "1819",
@@ -824,6 +872,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/274_1576867.jpg",
     "synonyms" : [ {
+      "alpine" : [ ]
+    }, {
       "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
     } ]
   }, {
@@ -897,11 +947,11 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2915_1610330.jpg",
     "synonyms" : [ {
-      "maria" : [ "mare", "Calophyllum longifolium" ]
-    }, {
       "later" : [ "posterior", "late", "ulterior" ]
     }, {
       "marchioness" : [ "marquise" ]
+    }, {
+      "ely" : [ ]
     } ]
   }, {
     "birth" : "1682",
@@ -956,7 +1006,11 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4673_1634961.jpg",
     "synonyms" : [ {
+      "antiochus" : [ ]
+    }, {
       "yearning" : [ "ache", "yen", "hungriness", "longing", "pine", "yearn", "long", "languish", "hanker" ]
+    }, {
+      "stratonice" : [ ]
     } ]
   }, {
     "birth" : "1882",
@@ -1000,6 +1054,8 @@
     }, {
       "drive" : [ "ride", "repulse", "cause", "parkway", "driveway", "driving", "push", "driving force", "motor", "movement", "campaign", "thrust", "get", "force back", "effort", "labour", "labor", "ram", "aim", "beat back", "take", "repel", "force", "private road", "crusade", "push back", "tug" ]
     }, {
+      "chariot" : [ ]
+    }, {
       "sun" : [ "solarize", "Lord's Day", "solarise", "insolate", "sunshine", "sunbathe", "sunlight", "Dominicus", "Sunday" ]
     } ]
   }, {
@@ -1018,6 +1074,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000209/125062_2335438.jpg",
     "synonyms" : [ {
       "apollo" : [ "Phoebus Apollo", "Phoebus" ]
+    }, {
+      "marsyas" : [ ]
     } ]
   }, {
     "birth" : "1869",
@@ -1130,9 +1188,15 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/4026_1625069.jpg",
     "synonyms" : [ {
+      "architectural" : [ ]
+    }, {
       "landscape" : [ "landscape painting" ]
     }, {
+      "belisarius" : [ ]
+    }, {
       "receiving" : [ "invite", "obtain", "get", "incur", "have", "take in", "experience", "encounter", "meet", "welcome", "pick up", "receive", "find" ]
+    }, {
+      "alms" : [ ]
     } ]
   }, {
     "birth" : "1703",
@@ -1149,9 +1213,15 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000204/119536_2274431.jpg",
     "synonyms" : [ {
+      "they" : [ ]
+    }, {
       "thinking" : [ "intelligent", "remember", "think", "imagine", "cogitate", "thought process", "call up", "thought", "believe", "opine", "cerebration", "suppose", "reckon", "reasoning", "mentation", "intellection", "recall", "retrieve", "consider", "guess", "call back", "cerebrate", "mean", "recollect", "intend", "conceive" ]
     }, {
       "grape" : [ "grapevine", "grapeshot", "grape vine" ]
+    }, {
+      "pensentils" : [ ]
+    }, {
+      "raisin" : [ ]
     } ]
   }, {
     "birth" : "1796",
@@ -1168,6 +1238,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/749_1583256.jpg",
     "synonyms" : [ {
+      "arleuxpalluel" : [ ]
+    }, {
       "bridge" : [ "bridge circuit", "bridge deck", "bridgework", "nosepiece", "bridge over", "span" ]
     }, {
       "trysts" : [ "rendezvous", "tryst", "assignation" ]
@@ -1186,7 +1258,11 @@
     "date" : "1888",
     "medium" : "Oil on jute",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000252/182981_2989331.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "arlsiennes" : [ ]
+    }, {
+      "mistral" : [ ]
+    } ]
   }, {
     "birth" : "1696",
     "title" : "Armida Abandoned by Rinaldo",
@@ -1202,7 +1278,11 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000157/9573_1696758.jpg",
     "synonyms" : [ {
+      "armida" : [ ]
+    }, {
       "abandoned" : [ "vacate", "desert", "desolate", "forsake", "empty", "give up", "derelict", "abandon", "deserted" ]
+    }, {
+      "rinaldo" : [ ]
     } ]
   }, {
     "birth" : "1696",
@@ -1219,9 +1299,13 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000254/187434_3026627.jpg",
     "synonyms" : [ {
+      "armida" : [ ]
+    }, {
       "encounters" : [ "face-off", "play", "showdown", "encounter", "chance", "bump", "meet", "confrontation", "run across", "skirmish", "see", "take on", "meeting", "brush", "happen", "clash", "run into", "receive", "coming upon", "find", "come across" ]
     }, {
       "sleeping" : [ "slumber", "quiescence", "log Z's", "kip", "sleep", "dormancy", "catch some Z's", "dormant", "quiescency" ]
+    }, {
+      "rinaldo" : [ ]
     } ]
   }, {
     "birth" : "1840",
@@ -1243,6 +1327,10 @@
       "normandy" : [ "Normandie" ]
     }, {
       "train" : [ "civilize", "gearing", "civilise", "gear", "trail", "rail", "develop", "take aim", "discipline", "direct", "check", "condition", "coach", "railroad train", "prepare", "power train", "wagon train", "school", "caravan", "aim", "take", "cultivate", "string", "geartrain", "groom", "educate" ]
+    }, {
+      "gare" : [ ]
+    }, {
+      "saintlazare" : [ ]
     } ]
   }, {
     "birth" : "1879",
@@ -1354,6 +1442,8 @@
     "synonyms" : [ {
       "autumn" : [ "fall" ]
     }, {
+      "river" : [ ]
+    }, {
       "scene" : [ "setting", "picture", "fit", "aspect", "vista", "prospect", "scenery", "view", "conniption", "tantrum", "shot", "panorama" ]
     }, {
       "brook" : [ "bear", "tolerate", "stick out", "put up", "support", "stand", "creek", "endure", "suffer", "abide", "digest", "stomach" ]
@@ -1373,6 +1463,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/1856_1595640.jpg",
     "synonyms" : [ {
+      "auvers" : [ ]
+    }, {
       "panoramic" : [ "bird's-eye" ]
     }, {
       "view" : [ "position", "eyeshot", "watch", "catch", "prospect", "horizon", "thought", "regard", "panorama", "sentiment", "sight", "purview", "reckon", "aspect", "see", "persuasion", "consider", "vista", "look at", "take in", "survey", "scene", "opinion", "perspective" ]
@@ -1472,6 +1564,8 @@
     }, {
       "fleeing" : [ "flee", "fly", "take flight" ]
     }, {
+      "before" : [ ]
+    }, {
       "storm" : [ "violent storm", "tempest", "force", "rage", "surprise", "ramp" ]
     } ]
   }, {
@@ -1490,6 +1584,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000240/159203_2792803.jpg",
     "synonyms" : [ {
       "bathers" : [ "natator", "bather", "swimmer" ]
+    }, {
+      "river" : [ ]
     } ]
   }, {
     "birth" : "1796",
@@ -1557,6 +1653,8 @@
     }, {
       "channel" : [ "transmit", "channelise", "transfer", "duct", "epithelial duct", "groove", "line", "communication channel", "distribution channel", "canal", "TV channel", "transmission channel", "convey", "conduct", "transport", "channelize", "television channel", "carry", "impart" ]
     }, {
+      "between" : [ ]
+    }, {
       "american" : [ "American language", "American English" ]
     }, {
       "ship" : [ "send", "embark", "transport" ]
@@ -1564,6 +1662,8 @@
       "wasp" : [ "white Anglo-Saxon Protestant" ]
     }, {
       "english" : [ "English people", "side", "English language" ]
+    }, {
+      "brig" : [ ]
     }, {
       "reindeer" : [ "Rangifer tarandus", "Greenland caribou", "caribou" ]
     } ]
@@ -1581,7 +1681,13 @@
     "date" : "1891â€“92",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/5065_1641703.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "beach" : [ ]
+    }, {
+      "cabasson" : [ ]
+    }, {
+      "baignecul" : [ ]
+    } ]
   }, {
     "birth" : "1828",
     "title" : "Beata Beatrix",
@@ -1618,6 +1724,8 @@
       "beggar" : [ "pauperize", "mendicant", "pauperise" ]
     }, {
       "oysters" : [ "oyster", "huitre" ]
+    }, {
+      "philosopher" : [ ]
     } ]
   }, {
     "birth" : "1832",
@@ -1639,6 +1747,8 @@
       "duffle" : [ "duffle bag", "duffel bag", "duffel" ]
     }, {
       "coat" : [ "coating", "cake", "surface", "pelage" ]
+    }, {
+      "philosopher" : [ ]
     } ]
   }, {
     "birth" : "1887",
@@ -1672,6 +1782,8 @@
     "medium" : "Tempera on panel",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000128/169918_1304485.jpg",
     "synonyms" : [ {
+      "bishop" : [ ]
+    }, {
       "saint" : [ "angel", "apotheosis", "nonpareil", "holy person", "canonise", "nonesuch", "nonsuch", "ideal", "enshrine", "paragon", "holy man", "canonize" ]
     }, {
       "enthroned" : [ "invest", "throne", "enthrone", "vest" ]
@@ -1692,6 +1804,10 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000258/178895_3091098.jpg",
     "synonyms" : [ {
       "boats" : [ "gravy holder", "boat", "gravy boat", "sauceboat" ]
+    }, {
+      "beach" : [ ]
+    }, {
+      "tretat" : [ ]
     } ]
   }, {
     "birth" : "1871",
@@ -1707,7 +1823,9 @@
     "date" : "c. 1925",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3347_1616313.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "bonimenteur" : [ ]
+    } ]
   }, {
     "birth" : "1840",
     "title" : "Bordighera",
@@ -1722,7 +1840,9 @@
     "date" : "1884",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000252/183236_2991091.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "bordighera" : [ ]
+    } ]
   }, {
     "birth" : "1568",
     "title" : "Bouquet of Flowers in an Earthenware Vase",
@@ -1741,6 +1861,10 @@
       "bouquet" : [ "nosegay", "fragrance", "redolence", "posy", "sweetness", "corsage", "fragrancy" ]
     }, {
       "flowers" : [ "heyday", "prime", "flush", "efflorescence", "peak", "bloom", "flower", "blossom" ]
+    }, {
+      "earthenware" : [ ]
+    }, {
+      "vase" : [ ]
     } ]
   }, {
     "birth" : "1746",
@@ -1779,6 +1903,8 @@
       "boy" : [ "male child", "son" ]
     }, {
       "pitcher" : [ "twirler", "mound", "pitcherful", "ewer", "hurler" ]
+    }, {
+      "rgalade" : [ ]
     } ]
   }, {
     "birth" : "1840",
@@ -1800,6 +1926,8 @@
       "seine" : [ "Seine River" ]
     }, {
       "near" : [ "nigh", "draw close", "go up", "draw near", "come near", "good", "dear", "penny-pinching", "close", "cheeseparing", "come on", "approximate", "approach", "skinny" ]
+    }, {
+      "giverny" : [ ]
     }, {
       "mist" : [ "becloud", "befog", "fog", "haze over", "cloud", "obscure", "obnubilate", "mist over" ]
     }, {
@@ -1863,6 +1991,8 @@
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2010_1597992.jpg",
     "synonyms" : [ {
       "sea" : [ "ocean" ]
+    }, {
+      "dieppe" : [ ]
     } ]
   }, {
     "birth" : "1834",
@@ -1879,6 +2009,8 @@
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3223_1614300.jpg",
     "synonyms" : [ {
+      "caf" : [ ]
+    }, {
       "singer" : [ "vocaliser", "vocalizer", "Isaac M. Singer", "Isaac Bashevis Singer", "vocalist", "Isaac Merrit Singer" ]
     } ]
   }, {
@@ -1895,7 +2027,9 @@
     "date" : "1910",
     "medium" : "Oil on canvas",
     "imageURL" : "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3500_1617768.jpg",
-    "synonyms" : [ ]
+    "synonyms" : [ {
+      "cagnes" : [ ]
+    } ]
   }, {
     "birth" : "1848",
     "title" : "Calf's Head and Ox Tongue",
