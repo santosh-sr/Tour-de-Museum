@@ -24,18 +24,14 @@ public class JsonTest {
 		{
 			try {
 
-				//			FileReader fr =new File
-				//			Object obj = parser.parse(new FileReader("C:\\cygwin64\\home\\Ankit\\cs548\\Project\\data and scripts\\data_artic_sculpture.json"));
 				Object obj = parser.parse(new FileReader(args[i]));
 				JSONObject jsonObject = (JSONObject) obj;
-				//			JSONObject newjsonObj = new JSONObject();
 
 				// loop array
 				JSONArray paintings = (JSONArray) jsonObject.get("paintings");
 				Iterator<JSONObject> iterator = paintings.iterator();
 				while (iterator.hasNext()) {
 					JSONObject jsonObject1 = iterator.next();
-					//			String title = (String) jsonObject1.get("title");
 					HttpClientPost httpClientPost = new HttpClientPost();
 					if(jsonObject1.containsKey("description"))
 					{
@@ -49,34 +45,12 @@ public class JsonTest {
 					if (!entityMap.isEmpty())
 					{
 						jsonObject1.put("entities", entityMap);					
-						//				jsonObject1.putAll(entityMap);
 					}
-					//For description
-					//					if(jsonObject1.containsKey("description"))
-					//					{
-					//						httpClientPost.openCalais((String) jsonObject1.get("description"));
-					//						Map<String, ArrayList<String>> entityMap1 = httpClientPost.getMap();
-					//						ArrayList<String> arrList = new ArrayList<>();
-					//						JSONObject jsonObject2 = new JSONObject();
-					//						if (!entityMap.isEmpty())
-					//						{
-					//							if (jsonObject1.containsKey("entities"))
-					//							{
-					//								jsonObject2 = (JSONObject) jsonObject1.get("entities");
-					//								arrList = jsonObject2.get(key)
-					//								
-					//							}
-					//							jsonObject1.put("entities", entityMap1);					
-					//							//				jsonObject1.putAll(entityMap);
-					//						}
-					//					}
-					System.out.println("HAHAHHAA"+jsonObject1.toJSONString());
-					//			System.out.println(title);
 				}
 
 				String content = jsonObject.toJSONString();
 
-				File file = new File(args[i]+"_new.json");
+				File file = new File(args[i]+"_opencalais.json");
 
 				// if file doesnt exists, then create it
 				if (!file.exists()) {
