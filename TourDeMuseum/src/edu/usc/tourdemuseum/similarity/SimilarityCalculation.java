@@ -1,6 +1,9 @@
 package edu.usc.tourdemuseum.similarity;
 
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -47,11 +50,11 @@ public class SimilarityCalculation {
 			{
 				simVal= s;
 			}
-			if(word1.toLowerCase().contains(word2.toLowerCase()))
+			if(word1.toLowerCase().contains(word2.toLowerCase()) && word2.length()>2)
 			{
 				simVal=16;
 			}
-			if (s >= 4 || word1.toLowerCase().contains(word2.toLowerCase()))
+			if (s >= 4 || (word1.toLowerCase().contains(word2.toLowerCase()) && word2.length()>2))
 				System.out.println(word1+" "+word2+" : "+s);	
 
 
@@ -62,6 +65,7 @@ public class SimilarityCalculation {
 		int i = 0;
 		while(i != args.length)
 		{
+			System.out.println("haha : "+i);
 			getSynonyms(args[i]);
 			//                run( "emotional","romantic" );
 			i++;
@@ -98,11 +102,25 @@ public class SimilarityCalculation {
 						}
 
 					}	
-//					System.out.println(words);
+					//					System.out.println(words);
 				}
 				//Calling Similarity function
 				Similarity(words,paintingJsonObject);
 			}
+			String content = jsonObject.toJSONString();
+
+			File file1 = new File(file+"_sim.json");
+
+			// if file doesnt exists, then create it
+			if (!file1.exists()) {
+				file1.createNewFile();
+			}
+
+			FileWriter fw = new FileWriter(file1.getAbsoluteFile());
+			BufferedWriter bw = new BufferedWriter(fw);
+			bw.write(content);
+			bw.close();
+
 		} catch (IOException | ParseException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
