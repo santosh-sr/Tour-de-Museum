@@ -324,6 +324,7 @@ public class JSONConvertor {
 			//painted year
 			entityPaintingList = similarity.getArtworksList("painted_year");
 			String paintedOn = artWork.getPaintedYear().getYear();
+			//System.out.println(paintedOn);
 			if(entityPaintingList == null || entityPaintingList.size() <= 0){
 				entityPainting = new EntityWithPainting(paintedOn);
 				entityPainting.addArtwork(artWork);
@@ -335,7 +336,6 @@ public class JSONConvertor {
 					if(entityName != null && painterName != null && (paintedOn.equals(entityName) || 
 							paintedOn.contains(entityName) || entityName.contains(paintedOn))){
 						entityPaintingObj.addArtwork(artWork);
-						System.out.println(entityName + "-->" + paintedOn + "-->" + artWork.getMuseum());
 						addedArtwork = true;
 						break;
 					}
@@ -357,15 +357,15 @@ public class JSONConvertor {
 		}
 
 		try(PrintWriter writer = new PrintWriter(personClusterPath.toFile())){
-			writer.write("key_painter, matching_painter, image_url, museum\n");
+			writer.write("key_painter| matching_painter| image_url| museum\n");
 
 			StringBuffer buffer = new StringBuffer();
 			for(EntityWithPainting entityPaintingObj : entityPaintingList){
 				List<ArtWork> matchingArtworkList = entityPaintingObj.getArtworkList();
 				for(ArtWork artwork : matchingArtworkList){
-					buffer.append(entityPaintingObj.getEntityName()).append(",");
-					buffer.append(artwork.getPainter().getPainterName()).append(",")
-					.append(artwork.getImageUrl()).append(",").append(artwork.getMuseum().name().toLowerCase()).append("\n");
+					buffer.append(entityPaintingObj.getEntityName()).append("|");
+					buffer.append(artwork.getPainter().getPainterName()).append("|")
+					.append(artwork.getImageUrl()).append("|").append(artwork.getMuseum().name().toLowerCase()).append("\n");
 					
 					writer.write(buffer.toString());
 					buffer.setLength(0);
@@ -381,23 +381,21 @@ public class JSONConvertor {
 		}
 
 		try(PrintWriter writer = new PrintWriter(paintedYearClusterPath.toFile())){
-			writer.write("keyword_painted_year , matching_year, image_url, museum\n");
+			writer.write("keyword_painted_year | matching_year| image_url| museum\n");
 
 			StringBuffer buffer = new StringBuffer();
 			for(EntityWithPainting entityPaintingObj : entityPaintingList){
 				List<ArtWork> matchingArtworkList = entityPaintingObj.getArtworkList();
 				for(ArtWork artwork : matchingArtworkList){
-					buffer.append(entityPaintingObj.getEntityName()).append(",");
-					buffer.append(artwork.getPaintedYear()).append(",")
-					.append(artwork.getImageUrl()).append(",").append(artwork.getMuseum().name().toLowerCase()).append("\n");
+					buffer.append(entityPaintingObj.getEntityName()).append("|");
+					buffer.append(artwork.getPaintedYear().getYear()).append("|")
+					.append(artwork.getImageUrl()).append("|").append(artwork.getMuseum().name().toLowerCase()).append("\n");
 					
 					writer.write(buffer.toString());
 					buffer.setLength(0);
 				}
 			}
 		}
-
-		System.out.println(artWorkList.size());
 	}
 
 	private static Museum getMuseum(String museumType) {
