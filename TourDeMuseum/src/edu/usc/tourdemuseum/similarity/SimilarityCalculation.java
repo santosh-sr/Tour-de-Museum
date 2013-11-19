@@ -129,18 +129,26 @@ public class SimilarityCalculation {
 	private static void Similarity(ArrayList<String> words,
 			JSONObject paintingJsonObject) {
 		// TODO Auto-generated method stub
-		int i=0;
-		for (i=0; i<keywords.length ; i++)
+		
+		for (int i=0; i<keywords.length ; i++)
 		{
 			simVal=0;
 			Iterator<String> wordsIterator = words.iterator();
+			String currentKeyword = keywords[i];
 			while(wordsIterator.hasNext())
 			{
 				String word = wordsIterator.next();
-				String currentKeyword = keywords[i];
 				run(currentKeyword,word);
+				if (simVal >= 4)
+				{
+					break;
+				}
 				String stemWord = stemWord(word);
 				run(currentKeyword,stemWord);
+				if (simVal >= 4)
+				{
+					break;
+				}
 			}
 			if (simVal >=4)
 			{
