@@ -26,7 +26,7 @@ import org.json.simple.parser.ParseException;
 
 public class SimilarityCalculation {
 
-	protected static int simVal = 0;
+	protected static double simVal = 0;
 	protected static String[] keywords = {"battle", "still life", "seascape"};
 
 	private static ILexicalDatabase db = new NictWordNet();
@@ -42,10 +42,18 @@ public class SimilarityCalculation {
 			double s = rc.calcRelatednessOfWords(word1, word2);
 			//                        if (s >= (double)5)
 			//			System.out.println( rc.getClass().getName()+"\t"+s );
-			
-				if (s >= 4 || word1.toLowerCase().contains(word2.toLowerCase()))
-					System.out.println(word1+" "+word2+" : "+s);	
-			
+
+			if (s>simVal)
+			{
+				simVal= s;
+			}
+			if(word1.toLowerCase().contains(word2.toLowerCase()))
+			{
+				simVal=16;
+			}
+			if (s >= 4 || word1.toLowerCase().contains(word2.toLowerCase()))
+				System.out.println(word1+" "+word2+" : "+s);	
+
 
 		}
 	}
@@ -90,7 +98,7 @@ public class SimilarityCalculation {
 						}
 
 					}	
-					System.out.println(words);
+//					System.out.println(words);
 				}
 				//Calling Similarity function
 				Similarity(words,paintingJsonObject);
@@ -106,10 +114,6 @@ public class SimilarityCalculation {
 		int i=0;
 		for (i=0; i<keywords.length ; i++)
 		{
-			if (simVal >=4)
-			{
-				
-			}
 			simVal=0;
 			Iterator<String> wordsIterator = words.iterator();
 			while(wordsIterator.hasNext())
@@ -119,6 +123,22 @@ public class SimilarityCalculation {
 				run(currentKeyword,word);
 				String stemWord = stemWord(word);
 				run(currentKeyword,stemWord);
+			}
+			if (simVal >=4)
+			{
+				ArrayList<String> value;
+				if(paintingJsonObject.containsKey("classifier"))
+				{
+					value = (ArrayList<String>) paintingJsonObject.get("classifier");
+				}
+				else
+				{
+					value = new ArrayList<>();				
+				}
+				value.add(keywords[i]);
+				paintingJsonObject.put("classifier", value);
+				System.out.println(paintingJsonObject.toJSONString());
+
 			}
 
 		}		
