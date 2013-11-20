@@ -1,0 +1,4101 @@
+{
+    "paintings": [
+        {
+            "birth": "1873",
+            "department": "American Art",
+            "death": "1939",
+            "synonyms": [
+                {
+                    "icebound": []
+                },
+                {
+                    "falls": [
+                        "go down",
+                        "waterfall",
+                        "return",
+                        "precipitate",
+                        "come",
+                        "shine",
+                        "lessen",
+                        "flow",
+                        "hang",
+                        "pass",
+                        "strike",
+                        "diminish",
+                        "fall",
+                        "fall down",
+                        "accrue",
+                        "descend",
+                        "settle",
+                        "light",
+                        "decrease",
+                        "devolve",
+                        "come down"
+                    ]
+                }
+            ],
+            "date": "1919",
+            "medium": "Oil on canvas",
+            "title": "Ice-Bound Falls",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ernest Lawson",
+            "accession": "1921.97",
+            "dimensions": "100.3 x 127 cm (39 1/2 x 50 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000128/159265_1302302.jpg"
+        },
+        {
+            "birth": "1923",
+            "department": "American Art",
+            "death": "unknown",
+            "synonyms": [
+                {
+                    "last": [
+                        "live on",
+                        "final",
+                        "last-place",
+                        "death",
+                        "utmost",
+                        "net",
+                        "stopping point",
+                        "cobbler's last",
+                        "close",
+                        "hold out",
+                        "finish",
+                        "finale",
+                        "terminal",
+                        "survive",
+                        "finis",
+                        "endure",
+                        "conclusion",
+                        "hold up",
+                        "concluding",
+                        "shoemaker's last",
+                        "lowest",
+                        "end",
+                        "live",
+                        "go"
+                    ]
+                },
+                {
+                    "supper": []
+                }
+            ],
+            "date": "1944",
+            "medium": "Oil and encaustic on Masonite",
+            "title": "The Last Supper",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "David Aronson",
+            "accession": "1946.58",
+            "dimensions": "50.5 x 215.9 cm (20 x 85 in.)",
+            "credit": "Gift of Society for Contemporary American Art",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000068/36869_591193.jpg"
+        },
+        {
+            "birth": "1872",
+            "department": "American Art",
+            "death": "1954",
+            "synonyms": [
+                {
+                    "timebinder": []
+                }
+            ],
+            "date": "1922",
+            "medium": "Oil on ivory",
+            "title": "The Time-Binder",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Mira Edgerly-Korzybska",
+            "accession": "1922.4426",
+            "dimensions": "14.6 x 14 cm (5 3/4 x 5 1/2 in.)",
+            "credit": "Gift of John G. Shedd",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000157/9020_1691888.jpg"
+        },
+        {
+            "birth": "1884",
+            "department": "American Art",
+            "death": "1974",
+            "synonyms": [
+                {
+                    "path": [
+                        "course",
+                        "route",
+                        "track",
+                        "itinerary",
+                        "way",
+                        "way of life"
+                    ]
+                },
+                {
+                    "sea": [
+                        "ocean"
+                    ]
+                }
+            ],
+            "date": "c. 1929",
+            "medium": "Oil on canvas",
+            "title": "Path by the Sea",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Leon Kroll",
+            "accession": "1930.1000",
+            "classifier": [
+                "seascape"
+            ],
+            "dimensions": "66 x 108 cm (26 x 42 1/2 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/7420_1592364.jpg"
+        },
+        {
+            "birth": "1854",
+            "department": "American Art",
+            "death": "1930",
+            "synonyms": [
+                {
+                    "among": []
+                },
+                {
+                    "redwoods": [
+                        "sequoia",
+                        "redwood"
+                    ]
+                }
+            ],
+            "date": "1920",
+            "medium": "Oil on canvas",
+            "title": "Among the Redwoods",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Wallace L. DeWolf",
+            "accession": "1922.5520",
+            "dimensions": "76.8 x 64.8 cm (30 1/4 x 25 1/2 in.)",
+            "credit": "Gift of Wallace L. DeWolf",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/984_1585014.jpg"
+        },
+        {
+            "birth": "1882",
+            "department": "American Art",
+            "death": "1971",
+            "synonyms": [
+                {
+                    "mount": [
+                        "ride",
+                        "climb",
+                        "put on",
+                        "mountain",
+                        "jump on",
+                        "climb on",
+                        "climb up",
+                        "go up",
+                        "wax",
+                        "get on",
+                        "backing",
+                        "bestride",
+                        "setting",
+                        "mount up",
+                        "riding horse",
+                        "saddle horse",
+                        "rise",
+                        "hop on"
+                    ]
+                },
+                {
+                    "equinox": [
+                        "equinoctial point"
+                    ]
+                },
+                {
+                    "winter": [
+                        "overwinter",
+                        "wintertime"
+                    ]
+                }
+            ],
+            "date": "1921",
+            "medium": "Oil on canvas",
+            "title": "Mount Equinox, Winter",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Rockwell Kent",
+            "accession": "1923.51",
+            "dimensions": "86.6 x 111.9 cm (34 1/8 x 44 1/4 in.)",
+            "credit": "Gift of Gertrude V. Whitney",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1215_1587366.jpg"
+        },
+        {
+            "birth": "1867",
+            "department": "American Art",
+            "death": "1940",
+            "synonyms": [
+                {
+                    "end": [
+                        "stop",
+                        "terminate",
+                        "last",
+                        "remnant",
+                        "death",
+                        "cease",
+                        "destruction",
+                        "oddment",
+                        "goal",
+                        "ending",
+                        "close",
+                        "remainder",
+                        "finish",
+                        "terminal",
+                        "conclusion",
+                        "closing"
+                    ]
+                },
+                {
+                    "street": []
+                }
+            ],
+            "date": "1922",
+            "medium": "Oil on canvas",
+            "title": "The End of the Street",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Jerome Myers",
+            "accession": "1923.974",
+            "dimensions": "62.2 x 74.9 cm (24 1/2 x 29 1/2 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000156/7918_1679754.jpg"
+        },
+        {
+            "birth": "1882",
+            "department": "American Art",
+            "death": "1925",
+            "synonyms": [
+                {
+                    "mother": [
+                        "female parent",
+                        "generate",
+                        "get",
+                        "bring forth",
+                        "fuss",
+                        "sire",
+                        "overprotect",
+                        "beget",
+                        "engender",
+                        "father"
+                    ]
+                }
+            ],
+            "date": "March 1921",
+            "medium": "Oil on canvas",
+            "title": "My Mother",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "George Wesley Bellows",
+            "accession": "1923.975",
+            "dimensions": "210.8 x 124.5 cm (83 x 49 in.)",
+            "credit": "Frank Russell Wadsworth Memorial",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1222_1587466.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "portrait": [
+                        "portraiture",
+                        "portrayal"
+                    ]
+                }
+            ],
+            "date": "1955–57",
+            "entities": {
+                "Person": [
+                    "Mary Block"
+                ]
+            },
+            "medium": "Oil on canvas",
+            "title": "Portrait of Mary Block",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1959.7",
+            "dimensions": "99.4 x 76.2 cm (39 1/8 x 30 in.)",
+            "credit": "Gift of Mary and Leigh Block",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3432_1617303.jpg"
+        },
+        {
+            "birth": "1856",
+            "department": "American Art",
+            "death": "1933",
+            "synonyms": [
+                {
+                    "northwest": [
+                        "northwesterly",
+                        "northwestern",
+                        "NW",
+                        "nor'-west",
+                        "northwestward",
+                        "northwestern United States"
+                    ]
+                },
+                {
+                    "wind": [
+                        "breaking wind",
+                        "curve",
+                        "wander",
+                        "wind instrument",
+                        "wind up",
+                        "lead",
+                        "tip",
+                        "current of air",
+                        "nothingness",
+                        "roll",
+                        "thread",
+                        "confidential information",
+                        "meander",
+                        "fart",
+                        "wrap",
+                        "idle words",
+                        "winding",
+                        "farting",
+                        "flatus",
+                        "hoist",
+                        "jazz",
+                        "hint",
+                        "malarky",
+                        "scent",
+                        "wreathe",
+                        "air current",
+                        "malarkey",
+                        "twine",
+                        "steer",
+                        "weave",
+                        "twist",
+                        "lift",
+                        "nose"
+                    ]
+                }
+            ],
+            "date": "1914",
+            "medium": "Oil on canvas",
+            "title": "The Northwest Wind",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Charles Harold Davis",
+            "accession": "1924.907",
+            "dimensions": "125.7 x 100.3 cm (49 1/2 x 39 1/2 in.)",
+            "credit": "Walter H. Schulze Memorial Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1263_1588113.jpg"
+        },
+        {
+            "birth": "1886",
+            "department": "American Art",
+            "death": "1981",
+            "synonyms": [
+                {
+                    "washday": [
+                        "washing day"
+                    ]
+                },
+                {
+                    "spring": [
+                        "take a hop",
+                        "form",
+                        "give",
+                        "take form",
+                        "springiness",
+                        "outflow",
+                        "reverberate",
+                        "take shape",
+                        "resile",
+                        "bounce",
+                        "jump",
+                        "saltation",
+                        "ricochet",
+                        "fountain",
+                        "rebound",
+                        "leaping",
+                        "springtime",
+                        "recoil",
+                        "outpouring",
+                        "leap",
+                        "bound",
+                        "natural spring"
+                    ]
+                }
+            ],
+            "date": "1924",
+            "medium": "Oil on canvas",
+            "title": "Washday in Spring",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "John R. Grabach",
+            "accession": "1924.951",
+            "dimensions": "78.1 x 73.7 cm (30 3/4 x 29 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1266_1588185.jpg"
+        },
+        {
+            "birth": "1876",
+            "department": "American Art",
+            "death": "1934",
+            "synonyms": [
+                {
+                    "light": [
+                        "faint",
+                        "low-cal",
+                        "light source",
+                        "unaccented",
+                        "unclouded",
+                        "dismount",
+                        "loose",
+                        "twinkle",
+                        "Christ Within",
+                        "visible light",
+                        "illumine",
+                        "scant",
+                        "fire up",
+                        "igniter",
+                        "illume",
+                        "ignite",
+                        "get off",
+                        "wanton",
+                        "light-headed",
+                        "light up",
+                        "tripping",
+                        "alight",
+                        "get down",
+                        "lightheaded",
+                        "Inner Light",
+                        "spark",
+                        "abstemious",
+                        "Light Within",
+                        "lightsome",
+                        "unhorse",
+                        "visible radiation",
+                        "luminousness",
+                        "sparkle",
+                        "lighter",
+                        "short",
+                        "brightness",
+                        "clear",
+                        "sluttish",
+                        "lightness",
+                        "easy",
+                        "brightness level",
+                        "clean",
+                        "light-colored",
+                        "lite",
+                        "illumination",
+                        "perch",
+                        "promiscuous",
+                        "wakeful",
+                        "calorie-free",
+                        "swooning",
+                        "luminance",
+                        "fire",
+                        "illuminate",
+                        "ignitor",
+                        "idle",
+                        "lighting",
+                        "fall",
+                        "weak",
+                        "luminosity"
+                    ]
+                },
+                {
+                    "shadow": [
+                        "shade off",
+                        "trace",
+                        "phantasm",
+                        "phantom",
+                        "tail",
+                        "apparition",
+                        "fantasm",
+                        "shadower",
+                        "dwarf",
+                        "tincture",
+                        "phantasma",
+                        "dark",
+                        "overshadow",
+                        "shade",
+                        "vestige",
+                        "darkness"
+                    ]
+                }
+            ],
+            "date": "c. 1924",
+            "medium": "Oil on canvas",
+            "title": "Light and Shadow",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "John Warner Norton",
+            "accession": "1924.953",
+            "dimensions": "90.2 x 105.4 cm (35 1/2 x 41 1/2 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1267_1588208.jpg"
+        },
+        {
+            "birth": "1862",
+            "department": "American Art",
+            "death": "1928",
+            "synonyms": [
+                {
+                    "choral": [
+                        "chorale"
+                    ]
+                },
+                {
+                    "sea": [
+                        "ocean"
+                    ]
+                }
+            ],
+            "date": "1915",
+            "medium": "Oil on canvas",
+            "title": "Choral Sea",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Arthur B. Davies",
+            "accession": "1933.1189",
+            "classifier": [
+                "seascape"
+            ],
+            "dimensions": "45.1 x 100 cm (17 x 39 3/8 in.)",
+            "credit": "Mr. and Mrs. Martin A. Ryerson Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/1821_1594947.jpg"
+        },
+        {
+            "birth": "1862",
+            "department": "American Art",
+            "death": "1928",
+            "synonyms": [
+                {
+                    "sacramental": []
+                },
+                {
+                    "trees": [
+                        "Sir Herbert Beerbohm Tree",
+                        "tree diagram",
+                        "tree",
+                        "corner",
+                        "Tree",
+                        "shoetree"
+                    ]
+                }
+            ],
+            "date": "1915",
+            "medium": "Oil on canvas",
+            "title": "Sacramental Trees",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Arthur B. Davies",
+            "accession": "1933.1198",
+            "dimensions": "64.8 x 104.1 cm (25 1/2 x 41 in.)",
+            "credit": "Mr. and Mrs. Martin A. Ryerson Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/1822_1594976.jpg"
+        },
+        {
+            "birth": "1895",
+            "department": "American Art",
+            "death": "1978",
+            "synonyms": [
+                {
+                    "descent": [
+                        "ancestry",
+                        "stemma",
+                        "pedigree",
+                        "lineage",
+                        "parentage",
+                        "decline",
+                        "origin",
+                        "line",
+                        "blood",
+                        "extraction",
+                        "stock",
+                        "line of descent",
+                        "fall",
+                        "blood line",
+                        "bloodline",
+                        "declivity",
+                        "declination",
+                        "filiation",
+                        "declension",
+                        "downslope"
+                    ]
+                },
+                {
+                    "cross": [
+                        "thwartwise",
+                        "crossing",
+                        "queer",
+                        "bilk",
+                        "scotch",
+                        "hybridise",
+                        "traverse",
+                        "crisscross",
+                        "grumpy",
+                        "get across",
+                        "cover",
+                        "hybridisation",
+                        "get over",
+                        "transverse",
+                        "interbreed",
+                        "spoil",
+                        "ill-tempered",
+                        "hybridizing",
+                        "hybridization",
+                        "frustrate",
+                        "crown of thorns",
+                        "baffle",
+                        "bad-tempered",
+                        "fussy",
+                        "track",
+                        "grouchy",
+                        "crabby",
+                        "transversal",
+                        "cut across",
+                        "mark",
+                        "pass over",
+                        "sweep",
+                        "crossbreeding",
+                        "hybridize",
+                        "crabbed",
+                        "cut through",
+                        "foil",
+                        "intersect",
+                        "thwart",
+                        "hybrid",
+                        "interbreeding",
+                        "crossbreed",
+                        "span"
+                    ]
+                }
+            ],
+            "date": "1942",
+            "medium": "Oil on canvas",
+            "title": "Descent from the Cross",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Abraham Rattner",
+            "accession": "1964.34",
+            "dimensions": "81.3 x 100.3 cm (32 x 39 1/2 in.)",
+            "credit": "Gift of the Estate of Mary MacDonald Ludgin",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/3849_1622755.jpg"
+        },
+        {
+            "birth": "1873",
+            "department": "American Art",
+            "death": "1961",
+            "synonyms": [
+                {
+                    "mrs": [
+                        "Mrs."
+                    ]
+                }
+            ],
+            "date": "1912",
+            "entities": {
+                "Person": [
+                    "Martin A. Ryerson"
+                ]
+            },
+            "medium": "Oil on canvas",
+            "title": "Mrs. Martin A. Ryerson",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Louis Betts",
+            "accession": "1935.433",
+            "dimensions": "169.6 x 93.4 cm (66 3/4 x 36 3/4 in.)",
+            "credit": "Mrs. Martin A. Ryerson Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000158/9819_1699462.jpg"
+        },
+        {
+            "birth": "1904",
+            "department": "American Art",
+            "death": "1984",
+            "synonyms": [
+                {
+                    "mocho": []
+                }
+            ],
+            "date": "1936",
+            "medium": "Egg tempera on panel",
+            "title": "El Mocho",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Peter Hurd",
+            "accession": "1937.53",
+            "dimensions": "76.2 x 63.8 cm (30 x 25 1/8 in.)",
+            "credit": "Watson F. Blair Prize Fund",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2048_1598645.jpg"
+        },
+        {
+            "birth": "1862",
+            "department": "American Art",
+            "death": "1957",
+            "synonyms": [
+                {
+                    "barnacles": [
+                        "Branta leucopsis",
+                        "cirriped",
+                        "barnacle",
+                        "cirripede",
+                        "barnacle goose"
+                    ]
+                }
+            ],
+            "date": "1907",
+            "medium": "Oil on canvas",
+            "title": "Barnacles",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Adam Emory Albright",
+            "accession": "1965.361",
+            "dimensions": "61 x 76.2 cm (24 x 30 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/3917_1623561.jpg"
+        },
+        {
+            "birth": "1877",
+            "department": "American Art",
+            "death": "1943",
+            "synonyms": [
+                {
+                    "querena": []
+                }
+            ],
+            "date": "1917",
+            "medium": "Oil on canvas",
+            "title": "Querena",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "William Penhallow Henderson",
+            "accession": "1937.381",
+            "dimensions": "59.6 x 43.9 cm (23 1/2 x 17 1/4 in.)",
+            "credit": "Gift of Mr. and Mrs. Carter H. Harrison",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2038_1598483.jpg"
+        },
+        {
+            "birth": "1899",
+            "department": "American Art",
+            "death": "1991",
+            "synonyms": [
+                {
+                    "landscape": [
+                        "landscape painting"
+                    ]
+                }
+            ],
+            "date": "1930",
+            "medium": "Oil on canvas",
+            "title": "Landscape",
+            "nationality": "Mexican",
+            "classification": "Paintings",
+            "name": "Rufino Tamayo",
+            "accession": "1965.1172",
+            "classifier": [
+                "seascape"
+            ],
+            "dimensions": "69.8 x 80 cm (27 1/2 x 31 1/2 in.)",
+            "credit": "Gift of John J. Ireland",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/3892_1623230.jpg"
+        },
+        {
+            "birth": "1887",
+            "department": "American Art",
+            "death": "1986",
+            "synonyms": [
+                {
+                    "yellow": [
+                        "yellowed",
+                        "jaundiced",
+                        "icteric",
+                        "yellowness",
+                        "yellowish",
+                        "chicken",
+                        "sensationalistic",
+                        "xanthous",
+                        "white-livered",
+                        "scandalmongering",
+                        "lily-livered",
+                        "yellow-bellied",
+                        "chickenhearted"
+                    ]
+                },
+                {
+                    "hickory": [
+                        "hickory tree"
+                    ]
+                },
+                {
+                    "leaves": [
+                        "result",
+                        "provide",
+                        "allow",
+                        "depart",
+                        "pull up stakes",
+                        "give",
+                        "leafage",
+                        "go away",
+                        "lead",
+                        "leaf",
+                        "get out",
+                        "leave",
+                        "foliage",
+                        "leave alone",
+                        "entrust",
+                        "go forth",
+                        "go out",
+                        "exit",
+                        "pass on",
+                        "folio",
+                        "allow for",
+                        "leave behind",
+                        "will",
+                        "let alone",
+                        "forget",
+                        "impart",
+                        "bequeath"
+                    ]
+                },
+                {
+                    "daisy": []
+                }
+            ],
+            "date": "1928",
+            "medium": "Oil on canvas",
+            "title": "Yellow Hickory Leaves with Daisy",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Georgia O'Keeffe",
+            "accession": "1965.1180",
+            "dimensions": "76.5 x 101.6 cm (29 7/8 x 39 7/8 in.)",
+            "credit": "Alfred Stieglitz Collection,  gift of Georgia O'Keeffe",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000163/19672_1761524.jpg"
+        },
+        {
+            "birth": "1898",
+            "department": "American Art",
+            "death": "1980",
+            "synonyms": [
+                {
+                    "twentieth": [
+                        "20th"
+                    ]
+                },
+                {
+                    "century": [
+                        "one C",
+                        "C",
+                        "hundred",
+                        "100"
+                    ]
+                },
+                {
+                    "ruin": [
+                        "destroy",
+                        "ruination",
+                        "break",
+                        "deflower",
+                        "laying waste",
+                        "bankrupt",
+                        "smash",
+                        "ruining",
+                        "downfall",
+                        "wrecking",
+                        "dilapidation"
+                    ]
+                }
+            ],
+            "date": "1932",
+            "medium": "Oil on canvas",
+            "title": "Twentieth Century Ruin",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Alexander Brook",
+            "accession": "1938.16",
+            "dimensions": "65.4 x 91.9 cm (25 3/4 x 35 7/8 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2096_1599320.jpg"
+        },
+        {
+            "birth": "1879",
+            "department": "American Art",
+            "death": "1938",
+            "synonyms": [
+                {
+                    "english": [
+                        "English people",
+                        "side",
+                        "English language"
+                    ]
+                },
+                {
+                    "harbor": [
+                        "seaport",
+                        "nurse",
+                        "hold",
+                        "harbour",
+                        "haven",
+                        "entertain",
+                        "shield"
+                    ]
+                },
+                {
+                    "pier": [
+                        "wharf",
+                        "dock",
+                        "wharfage"
+                    ]
+                },
+                {
+                    "brighton": []
+                }
+            ],
+            "date": "c. 1930",
+            "medium": "Oil on panel",
+            "title": "English Harbor, the Pier at Brighton",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Robert Bartholow Harshe",
+            "accession": "1938.238",
+            "dimensions": "50.8 x 60.6 cm (20 x 23 7/8 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2113_1599502.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "flesh": [
+                        "bod",
+                        "form",
+                        "physical body",
+                        "pulp",
+                        "shape",
+                        "build",
+                        "material body",
+                        "chassis",
+                        "figure",
+                        "frame",
+                        "anatomy",
+                        "physique",
+                        "soma",
+                        "human body"
+                    ]
+                }
+            ],
+            "date": "1928",
+            "medium": "Oil on canvas",
+            "title": "Flesh",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1969.814",
+            "dimensions": "91.4 x 61 cm (36 x 24 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/4160_1627254.jpg"
+        },
+        {
+            "birth": "1862",
+            "department": "American Art",
+            "death": "1928",
+            "synonyms": [
+                {
+                    "golden": [
+                        "favourable",
+                        "lucky",
+                        "prosperous",
+                        "gilt",
+                        "halcyon",
+                        "aureate",
+                        "gold",
+                        "fortunate",
+                        "gilded",
+                        "favorable"
+                    ]
+                },
+                {
+                    "sea": [
+                        "ocean"
+                    ]
+                },
+                {
+                    "garden": []
+                }
+            ],
+            "date": "c. 1912",
+            "medium": "Oil on canvas",
+            "title": "Golden Sea Garden",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Arthur B. Davies",
+            "accession": "1927.305",
+            "classifier": [
+                "seascape"
+            ],
+            "dimensions": "43.5 x 54.3 cm (16 3/8 x 21 3/8 in.)",
+            "credit": "George F. Porter Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1491_1590529.jpg"
+        },
+        {
+            "birth": "1853",
+            "department": "American Art",
+            "death": "1932",
+            "synonyms": [
+                {
+                    "nantasket": []
+                },
+                {
+                    "beach": []
+                }
+            ],
+            "date": "1876",
+            "medium": "Oil on canvas",
+            "title": "Nantasket Beach",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Emil Carlsen",
+            "accession": "1940.1087",
+            "dimensions": "38.7 x 66.8 cm (15 1/4 x 26 5/16 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000157/8591_1687307.jpg"
+        },
+        {
+            "birth": "1883",
+            "department": "American Art",
+            "death": "1962",
+            "synonyms": [
+                {
+                    "jean": [
+                        "dungaree",
+                        "denim"
+                    ]
+                },
+                {
+                    "bellows": [
+                        "roar",
+                        "bawl",
+                        "bellow"
+                    ]
+                }
+            ],
+            "date": "1940",
+            "medium": "Oil on canvas",
+            "title": "Jean Bellows",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Eugene Speicher",
+            "accession": "1941.33",
+            "dimensions": "121.9 x 105.1 cm (48 x 41 3/8 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2322_1601238.jpg"
+        },
+        {
+            "birth": "1886",
+            "department": "American Art",
+            "death": "1961",
+            "synonyms": [
+                {
+                    "cave": [
+                        "spelunk",
+                        "undermine"
+                    ]
+                },
+                {
+                    "canem": []
+                }
+            ],
+            "date": "1944",
+            "medium": "Oil on canvas",
+            "title": "Cave Canem",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "John D. Graham",
+            "accession": "1973.60",
+            "dimensions": "76.2 x 72.1 cm (30 x 24 in.)",
+            "credit": "Gift of Mr. and Mrs. Joseph Randall Shapiro",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4362_1630856.jpg"
+        },
+        {
+            "birth": "1836",
+            "department": "American Art",
+            "death": "1897",
+            "synonyms": [
+                {
+                    "seine": [
+                        "Seine River"
+                    ]
+                }
+            ],
+            "date": "c. 1895",
+            "medium": "Oil on canvas",
+            "title": "On the Seine",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Homer Dodge Martin",
+            "accession": "1943.92",
+            "dimensions": "39.1 x 61.6 cm (15 3/8 x 24 1/4 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2488_1603654.jpg"
+        },
+        {
+            "birth": "1896",
+            "department": "American Art",
+            "death": "1978",
+            "synonyms": [
+                {
+                    "song": [
+                        "call",
+                        "vocal",
+                        "birdcall",
+                        "strain",
+                        "Sung",
+                        "birdsong",
+                        "Sung dynasty",
+                        "Song dynasty"
+                    ]
+                },
+                {
+                    "poet": []
+                }
+            ],
+            "date": "1944",
+            "medium": "Oil on canvas",
+            "title": "The Song of the Poet",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Peppino Mangravite",
+            "accession": "1944.30",
+            "dimensions": "152.4 x 121.9 cm (60 x 48 in.)",
+            "credit": "Friends of American Art Collection; Goodman Fund",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2503_1603923.jpg"
+        },
+        {
+            "birth": "1906",
+            "department": "American Art",
+            "death": "1956",
+            "synonyms": [
+                {
+                    "river": []
+                }
+            ],
+            "date": "1942",
+            "medium": "Oil on canvas",
+            "title": "The River",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "O. Louis Guglielmi",
+            "accession": "1945.6",
+            "dimensions": "86.4 x 76.2 cm (34 x 30 in.)",
+            "credit": "Gift of Society for Contemporary American Art",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000161/17793_1737362.jpg"
+        },
+        {
+            "birth": "1883",
+            "department": "American Art",
+            "death": "1971",
+            "synonyms": [
+                {
+                    "alameda": []
+                }
+            ],
+            "date": "1928",
+            "medium": "Oil on canvas",
+            "title": "The Alameda",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Emil Armin",
+            "accession": "1978.397",
+            "dimensions": "43.2 x 50.8 cm (16 1/4 x 20 in.)",
+            "credit": "Gift of Mrs. Emil Armin",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4662_1634760.jpg"
+        },
+        {
+            "birth": "1909",
+            "department": "American Art",
+            "death": "1977",
+            "synonyms": [
+                {
+                    "past": [
+                        "yesteryear",
+                        "past tense",
+                        "preceding",
+                        "past times",
+                        "retiring"
+                    ]
+                },
+                {
+                    "present": [
+                        "demo",
+                        "face",
+                        "demonstrate",
+                        "gift",
+                        "submit",
+                        "give",
+                        "portray",
+                        "introduce",
+                        "award",
+                        "show",
+                        "stage",
+                        "confront",
+                        "acquaint",
+                        "exhibit",
+                        "represent",
+                        "salute",
+                        "pose",
+                        "lay out",
+                        "deliver",
+                        "present tense",
+                        "nowadays"
+                    ]
+                }
+            ],
+            "date": "c. 1945",
+            "medium": "Oil on Masonite",
+            "title": "The Past and the Present",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Gertrude Abercrombie",
+            "accession": "1978.398",
+            "dimensions": "55.9 x 68.6 cm (22 x 27 in.)",
+            "credit": "Gift of the Gertrude Abercrombie Trust",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4663_1634779.jpg"
+        },
+        {
+            "birth": "unknown",
+            "department": "American Art",
+            "death": "unknown",
+            "synonyms": [
+                {
+                    "new": [
+                        "raw",
+                        "Modern",
+                        "fresh",
+                        "young",
+                        "unexampled",
+                        "novel"
+                    ]
+                },
+                {
+                    "england": []
+                },
+                {
+                    "country": [
+                        "commonwealth",
+                        "area",
+                        "land",
+                        "state",
+                        "rural area",
+                        "res publica",
+                        "body politic",
+                        "nation"
+                    ]
+                },
+                {
+                    "seat": [
+                        "buttocks",
+                        "derriere",
+                        "can",
+                        "tush",
+                        "fanny",
+                        "backside",
+                        "ass",
+                        "hindquarters",
+                        "hind end",
+                        "nates",
+                        "rump",
+                        "prat",
+                        "butt",
+                        "induct",
+                        "place",
+                        "sit down",
+                        "buns",
+                        "fundament",
+                        "behind",
+                        "rear",
+                        "stern",
+                        "keister",
+                        "tail",
+                        "rear end",
+                        "sit",
+                        "invest",
+                        "arse",
+                        "posterior",
+                        "tail end",
+                        "tooshie",
+                        "bum",
+                        "bottom"
+                    ]
+                }
+            ],
+            "date": "1800/20",
+            "medium": "Oil on yellow-poplar panel",
+            "title": "New England Country Seat",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Artist unknown",
+            "accession": "1946.391",
+            "classifier": [
+                "seascape"
+            ],
+            "dimensions": "58.6 x 91.8 cm (23 x 36 1/8 in.)",
+            "credit": "Gift of Robert Allerton",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2571_1604957.jpg"
+        },
+        {
+            "birth": "1898",
+            "department": "American Art",
+            "death": "1954",
+            "synonyms": [
+                {
+                    "striptease": [
+                        "striptease artist",
+                        "peeler",
+                        "stripper",
+                        "strip",
+                        "ecdysiast",
+                        "exotic dancer",
+                        "stripteaser",
+                        "strip show"
+                    ]
+                },
+                {
+                    "new": [
+                        "raw",
+                        "Modern",
+                        "fresh",
+                        "young",
+                        "unexampled",
+                        "novel"
+                    ]
+                },
+                {
+                    "gotham": []
+                },
+                {
+                    "theatre": [
+                        "field",
+                        "theater of operations",
+                        "dramaturgy",
+                        "field of operations",
+                        "dramatics",
+                        "theatre of operations",
+                        "dramatic art",
+                        "theater",
+                        "house"
+                    ]
+                }
+            ],
+            "date": "1935",
+            "medium": "Oil on panel",
+            "title": "Striptease at New Gotham Theatre",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Reginald Marsh",
+            "accession": "1979.353",
+            "dimensions": "91.4 x 76.2 cm (36 x 30 in.)",
+            "credit": "Gift of the Estate of Felicia Mayer Marsh",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000156/7858_1678989.jpg"
+        },
+        {
+            "birth": "unknown",
+            "department": "American Art",
+            "death": "unknown",
+            "synonyms": [
+                {
+                    "saint": [
+                        "angel",
+                        "apotheosis",
+                        "nonpareil",
+                        "holy person",
+                        "canonise",
+                        "nonesuch",
+                        "nonsuch",
+                        "ideal",
+                        "enshrine",
+                        "paragon",
+                        "holy man",
+                        "canonize"
+                    ]
+                },
+                {
+                    "paul": [
+                        "Apostle Paul",
+                        "Alice Paul",
+                        "Saul",
+                        "Saul of Tarsus",
+                        "Apostle of the Gentiles",
+                        "St. Paul",
+                        "Paul the Apostle",
+                        "Saint Paul"
+                    ]
+                },
+                {
+                    "preaching": [
+                        "prophesy",
+                        "preach",
+                        "sermon",
+                        "advocate",
+                        "discourse"
+                    ]
+                },
+                {
+                    "athens": [
+                        "capital of Greece",
+                        "Greek capital",
+                        "Athinai"
+                    ]
+                }
+            ],
+            "date": "1710/50",
+            "medium": "Oil on canvas",
+            "title": "Saint Paul Preaching at Athens",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Artist unknown",
+            "accession": "1980.726",
+            "dimensions": "33.7 x 42.6 cm (13 1/4 x 16 3/4 in.)",
+            "credit": "Gift of the Estate of Edgar William and Bernice Chrysler Garbisch",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4798_1637023.jpg"
+        },
+        {
+            "birth": "unknown",
+            "department": "American Art",
+            "death": "unknown",
+            "synonyms": [
+                {
+                    "sailing": [
+                        "sailplaning",
+                        "seafaring",
+                        "navigation",
+                        "voyage",
+                        "glide",
+                        "navigate",
+                        "sail",
+                        "sweep",
+                        "soaring",
+                        "gliding"
+                    ]
+                },
+                {
+                    "accident": [
+                        "chance event",
+                        "stroke",
+                        "fortuity"
+                    ]
+                },
+                {
+                    "off": [
+                        "sour",
+                        "bump off",
+                        "murder",
+                        "turned",
+                        "remove",
+                        "polish off",
+                        "hit",
+                        "cancelled",
+                        "dispatch",
+                        "slay"
+                    ]
+                },
+                {
+                    "new": [
+                        "raw",
+                        "Modern",
+                        "fresh",
+                        "young",
+                        "unexampled",
+                        "novel"
+                    ]
+                },
+                {
+                    "jersey": [
+                        "T-shirt",
+                        "NJ",
+                        "tee shirt",
+                        "island of Jersey",
+                        "New Jersey",
+                        "Garden State",
+                        "N.J."
+                    ]
+                }
+            ],
+            "date": "1865/85",
+            "entities": {
+                "Person": [
+                    "Sandy Hook"
+                ]
+            },
+            "medium": "Oil on canvas",
+            "title": "Sailing Accident off Sandy Hook, New Jersey",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Artist unknown",
+            "accession": "1980.733",
+            "dimensions": "65.4 x 90.8 cm (25 3/4 x 35 3/4 in.)",
+            "credit": "Gift of the Estate of Edgar William and Bernice Chrysler Garbisch",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4802_1637095.jpg"
+        },
+        {
+            "birth": "unknown",
+            "department": "American Art",
+            "death": "unknown",
+            "synonyms": [
+                {
+                    "man": [
+                        "humanity",
+                        "Isle of Man",
+                        "military man",
+                        "valet de chambre",
+                        "human being",
+                        "humans",
+                        "serviceman",
+                        "valet",
+                        "humankind",
+                        "human",
+                        "adult male",
+                        "mankind",
+                        "homo",
+                        "gentleman's gentleman",
+                        "military personnel",
+                        "human race",
+                        "human beings",
+                        "world",
+                        "piece",
+                        "gentleman"
+                    ]
+                },
+                {
+                    "black": [
+                        "melanize",
+                        "sinister",
+                        "Shirley Temple Black",
+                        "mordant",
+                        "inkiness",
+                        "black-market",
+                        "blackness",
+                        "Negroid",
+                        "smuggled",
+                        "pitch-dark",
+                        "ignominious",
+                        "Negro",
+                        "grim",
+                        "dim",
+                        "pitch blackness",
+                        "fateful",
+                        "contraband",
+                        "bleak",
+                        "blackened",
+                        "Joseph Black",
+                        "dark",
+                        "African-American",
+                        "smutty",
+                        "disastrous",
+                        "lightlessness",
+                        "Shirley Temple",
+                        "blacken",
+                        "calamitous",
+                        "disgraceful",
+                        "melanise",
+                        "fatal",
+                        "opprobrious",
+                        "inglorious",
+                        "total darkness",
+                        "shameful",
+                        "bootleg",
+                        "pitch-black"
+                    ]
+                }
+            ],
+            "date": "1820/40",
+            "medium": "Oil on canvas",
+            "title": "Man in Black",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Artist unknown",
+            "accession": "1980.734",
+            "dimensions": "67.3 x 57.5 cm (26 1/2 x 22 5/8 in.)",
+            "credit": "Gift of the Estate of Edgar William and Bernice Chrysler Garbisch",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4805_1637145.jpg"
+        },
+        {
+            "birth": "unknown",
+            "department": "American Art",
+            "death": "unknown",
+            "synonyms": [
+                {
+                    "mountain": [
+                        "muckle",
+                        "plenty",
+                        "mess",
+                        "mickle",
+                        "passel",
+                        "flock",
+                        "pot",
+                        "mass",
+                        "heap",
+                        "sight",
+                        "deal",
+                        "tidy sum",
+                        "hatful",
+                        "peck",
+                        "pile",
+                        "great deal",
+                        "quite a little",
+                        "mint",
+                        "mount",
+                        "batch",
+                        "slew",
+                        "lot",
+                        "spate",
+                        "stack",
+                        "raft",
+                        "good deal",
+                        "wad"
+                    ]
+                },
+                {
+                    "village": [
+                        "small town",
+                        "Greenwich Village",
+                        "settlement",
+                        "hamlet"
+                    ]
+                }
+            ],
+            "date": "1880/1915",
+            "medium": "Oil on canvas",
+            "title": "Mountain Village",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Artist unknown",
+            "accession": "1980.736",
+            "dimensions": "46.0 x 64.8 cm (18 1/8 x 25 1/2 in.)",
+            "credit": "Gift of the Estate of Edgar William and Bernice Chrysler Garbisch",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4807_1637188.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "nude": [
+                        "nude painting",
+                        "nude sculpture",
+                        "nude person",
+                        "naked",
+                        "bare",
+                        "au naturel",
+                        "nude statue"
+                    ]
+                }
+            ],
+            "date": "1931",
+            "medium": "Oil on canvas",
+            "title": "Nude",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1981.256",
+            "dimensions": "35.6 x 19.1 cm (14 x 7 1/2 in.)",
+            "credit": "Mary and Earle Ludgin Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4847_1637680.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "selfportrait": []
+                }
+            ],
+            "date": "1935",
+            "medium": "Oil on canvas",
+            "title": "Self-Portrait",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1981.257",
+            "dimensions": "77.2 x 50.5 cm (30 3/8 x 19 7/8 in.)",
+            "credit": "Mary and Earle Ludgin Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4848_1637709.jpg"
+        },
+        {
+            "birth": "1885",
+            "department": "American Art",
+            "death": "1965",
+            "synonyms": [
+                {
+                    "flowers": [
+                        "heyday",
+                        "prime",
+                        "flush",
+                        "efflorescence",
+                        "peak",
+                        "bloom",
+                        "flower",
+                        "blossom"
+                    ]
+                },
+                {
+                    "lamp": []
+                }
+            ],
+            "date": "1942",
+            "medium": "Oil on canvas",
+            "title": "Flowers and Lamp",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Milton Avery",
+            "accession": "1981.258",
+            "dimensions": "71.1 x 91.4 cm (28 x 36 in.)",
+            "credit": "Mary and Earle Ludgin Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4849_1637739.jpg"
+        },
+        {
+            "birth": "1885",
+            "department": "American Art",
+            "death": "1965",
+            "synonyms": [
+                {
+                    "pink": [
+                        "pinko",
+                        "knock",
+                        "rap",
+                        "garden pink",
+                        "tap",
+                        "ping",
+                        "pinkish"
+                    ]
+                },
+                {
+                    "cock": [
+                        "prance",
+                        "turncock",
+                        "tool",
+                        "swagger",
+                        "rooster",
+                        "pecker",
+                        "hammer",
+                        "sashay",
+                        "stopcock",
+                        "shaft",
+                        "ruffle",
+                        "tittup",
+                        "strut",
+                        "prick",
+                        "dick",
+                        "putz"
+                    ]
+                }
+            ],
+            "date": "1943",
+            "medium": "Oil on canvas",
+            "title": "Pink Cock",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Milton Avery",
+            "accession": "1981.259",
+            "dimensions": "91.4 x 121.9 cm (36 x 48 in.)",
+            "credit": "Mary and Earle Ludgin Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4850_1637783.jpg"
+        },
+        {
+            "birth": "1903",
+            "department": "American Art",
+            "death": "1988",
+            "synonyms": [
+                {
+                    "farmer": [
+                        "husbandman",
+                        "Fannie Farmer",
+                        "James Leonard Farmer",
+                        "Fannie Merritt Farmer",
+                        "sodbuster",
+                        "granger"
+                    ]
+                },
+                {
+                    "wanted": [
+                        "cherished",
+                        "need",
+                        "treasured",
+                        "desire",
+                        "precious",
+                        "require",
+                        "want"
+                    ]
+                },
+                {
+                    "boy": [
+                        "male child",
+                        "son"
+                    ]
+                }
+            ],
+            "date": "1942",
+            "medium": "Oil on canvas",
+            "title": "The Farmer Wanted a Boy",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Robert Gwathmey",
+            "accession": "1981.261",
+            "dimensions": "61.6 x 114.6 cm (25 1/4 x 45 1/8 in.)",
+            "credit": "Mary and Earle Ludgin Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4852_1637870.jpg"
+        },
+        {
+            "birth": "1898",
+            "department": "American Art",
+            "death": "1969",
+            "synonyms": [
+                {
+                    "mine": []
+                },
+                {
+                    "disaster": [
+                        "calamity",
+                        "cataclysm",
+                        "tragedy",
+                        "catastrophe"
+                    ]
+                }
+            ],
+            "date": "1948",
+            "medium": "Tempera on plywood",
+            "title": "Mine Disaster",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ben Shahn",
+            "accession": "1948.77",
+            "dimensions": "61 x 76.2 cm (24 x 30 in.)",
+            "credit": "Gift of Society for Contemporary American Art",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2700_1607072.jpg"
+        },
+        {
+            "birth": "1862",
+            "department": "American Art",
+            "death": "1928",
+            "synonyms": [
+                {
+                    "maya": [
+                        "Mayan",
+                        "Mayan language"
+                    ]
+                },
+                {
+                    "mirror": []
+                },
+                {
+                    "illusions": [
+                        "fancy",
+                        "conjuring trick",
+                        "illusion",
+                        "delusion",
+                        "fantasy",
+                        "deception",
+                        "conjuration",
+                        "magic trick",
+                        "magic",
+                        "thaumaturgy",
+                        "head game",
+                        "semblance",
+                        "legerdemain",
+                        "trick",
+                        "phantasy"
+                    ]
+                }
+            ],
+            "date": "c. 1910",
+            "medium": "Oil on canvas",
+            "title": "Maya, Mirror of Illusions",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Arthur B. Davies",
+            "accession": "1910.318",
+            "dimensions": "66.4 x 101.9 cm (26 1/8 x 40 1/8 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/365_1578148.jpg"
+        },
+        {
+            "birth": "1825",
+            "department": "American Art",
+            "death": "1894",
+            "synonyms": [
+                {
+                    "moonrise": []
+                }
+            ],
+            "date": "1891",
+            "medium": "Oil on canvas",
+            "title": "Moonrise",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "George Inness",
+            "accession": "1911.39",
+            "dimensions": "76.5 x 64.1 cm (30 1/8 x 25 1/4 in.)",
+            "credit": "Edward B. Butler Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/376_1578449.jpg"
+        },
+        {
+            "birth": "1880",
+            "department": "American Art",
+            "death": "1958",
+            "synonyms": [
+                {
+                    "towering": [
+                        "tower",
+                        "eminent",
+                        "lofty",
+                        "hulk",
+                        "loom",
+                        "predominate",
+                        "soaring"
+                    ]
+                },
+                {
+                    "trees": [
+                        "Sir Herbert Beerbohm Tree",
+                        "tree diagram",
+                        "tree",
+                        "corner",
+                        "Tree",
+                        "shoetree"
+                    ]
+                }
+            ],
+            "date": "1911",
+            "medium": "Oil on canvas",
+            "title": "Towering Trees",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Daniel Garber",
+            "accession": "1911.461",
+            "dimensions": "137.8 x 140.3 cm (54 1/4 x 55 1/4 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/380_1578507.jpg"
+        },
+        {
+            "birth": "1880",
+            "department": "American Art",
+            "death": "1946",
+            "synonyms": [
+                {
+                    "lantern": []
+                }
+            ],
+            "date": "c. 1922",
+            "medium": "Oil and silver paint on wood",
+            "title": "Lantern",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Arthur Dove",
+            "accession": "1949.530",
+            "dimensions": "54.3 x 45.7 cm (21 3/8 x 18 in.)",
+            "credit": "Alfred Stieglitz Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2749_1607881.jpg"
+        },
+        {
+            "birth": "1880",
+            "department": "American Art",
+            "death": "1946",
+            "synonyms": [
+                {
+                    "wasp": [
+                        "white Anglo-Saxon Protestant"
+                    ]
+                }
+            ],
+            "date": "c. 1914",
+            "medium": "Oil on wood",
+            "title": "From a Wasp",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Arthur Dove",
+            "accession": "1949.532",
+            "dimensions": "22 x 26.7 cm (8 5/8 x 10 1/2 in.)",
+            "credit": "Alfred Stieglitz Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000157/9010_1691742.jpg"
+        },
+        {
+            "birth": "1880",
+            "department": "American Art",
+            "death": "1946",
+            "synonyms": [
+                {
+                    "dogs": [
+                        "bounder",
+                        "frank",
+                        "domestic dog",
+                        "wienerwurst",
+                        "tag",
+                        "blackguard",
+                        "click",
+                        "chase",
+                        "frankfurter",
+                        "cad",
+                        "firedog",
+                        "andiron",
+                        "trail",
+                        "weenie",
+                        "chase after",
+                        "go after",
+                        "dog-iron",
+                        "give chase",
+                        "Canis familiaris",
+                        "heel",
+                        "track",
+                        "detent",
+                        "tail",
+                        "pawl",
+                        "frump",
+                        "wiener",
+                        "hound",
+                        "hot dog",
+                        "hotdog",
+                        "dog"
+                    ]
+                },
+                {
+                    "chasing": [
+                        "furrow",
+                        "chamfer",
+                        "give chase",
+                        "tag",
+                        "trail",
+                        "track",
+                        "chase",
+                        "chase after",
+                        "go after",
+                        "dog",
+                        "tail"
+                    ]
+                },
+                {
+                    "each": []
+                },
+                {
+                    "other": [
+                        "former",
+                        "early"
+                    ]
+                }
+            ],
+            "date": "1929",
+            "medium": "Oil on canvas",
+            "title": "Dogs Chasing Each Other",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Arthur Dove",
+            "accession": "1949.536",
+            "dimensions": "45.4 x 54.3 cm (17 7/8 x 21 3/8 in.)",
+            "credit": "Alfred Stieglitz Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2751_1607947.jpg"
+        },
+        {
+            "birth": "1877",
+            "department": "American Art",
+            "death": "1943",
+            "synonyms": [
+                {
+                    "dark": [
+                        "glum",
+                        "sinister",
+                        "glowering",
+                        "dismal",
+                        "grim",
+                        "shadow",
+                        "nighttime",
+                        "obscure",
+                        "saturnine",
+                        "darkness",
+                        "dingy",
+                        "black",
+                        "sour",
+                        "disconsolate",
+                        "benighted",
+                        "morose",
+                        "drear",
+                        "sullen",
+                        "wickedness",
+                        "blue",
+                        "sorry",
+                        "moody",
+                        "night",
+                        "dreary",
+                        "dour",
+                        "drab",
+                        "gloomy"
+                    ]
+                },
+                {
+                    "mountain": [
+                        "muckle",
+                        "plenty",
+                        "mess",
+                        "mickle",
+                        "passel",
+                        "flock",
+                        "pot",
+                        "mass",
+                        "heap",
+                        "sight",
+                        "deal",
+                        "tidy sum",
+                        "hatful",
+                        "peck",
+                        "pile",
+                        "great deal",
+                        "quite a little",
+                        "mint",
+                        "mount",
+                        "batch",
+                        "slew",
+                        "lot",
+                        "spate",
+                        "stack",
+                        "raft",
+                        "good deal",
+                        "wad"
+                    ]
+                }
+            ],
+            "date": "1909",
+            "medium": "Oil on composition board",
+            "title": "The Dark Mountain",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Marsden Hartley",
+            "accession": "1949.542",
+            "dimensions": "48.9 x 59.1 cm (19 1/4 x 23 1/4 in.)",
+            "credit": "Alfred Stieglitz Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2755_1608053.jpg"
+        },
+        {
+            "birth": "1877",
+            "department": "American Art",
+            "death": "1943",
+            "synonyms": [
+                {
+                    "still": [
+                        "calm",
+                        "motionless",
+                        "silent",
+                        "smooth",
+                        "quieten",
+                        "noneffervescent",
+                        "ease",
+                        "shut up",
+                        "placid",
+                        "inactive",
+                        "tranquil",
+                        "calm down",
+                        "hush",
+                        "tranquilize",
+                        "distillery",
+                        "tranquillise",
+                        "static",
+                        "lull",
+                        "quiet",
+                        "soundless",
+                        "stillness",
+                        "unruffled",
+                        "relieve",
+                        "hush up",
+                        "silence",
+                        "tranquillize",
+                        "allay"
+                    ]
+                },
+                {
+                    "life": [
+                        "life-time",
+                        "lifetime",
+                        "animation",
+                        "sprightliness",
+                        "life history",
+                        "life story",
+                        "spirit",
+                        "life sentence",
+                        "aliveness",
+                        "liveliness",
+                        "lifespan",
+                        "living",
+                        "biography"
+                    ]
+                }
+            ],
+            "date": "c. 1917",
+            "medium": "Oil on composition board",
+            "title": "Still Life No. 15",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Marsden Hartley",
+            "accession": "1949.547",
+            "classifier": [
+                "still life"
+            ],
+            "dimensions": "59.4 x 49.5 cm (23 3/8 x 19 1/2 in.)",
+            "credit": "Alfred Stieglitz Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2759_1608161.jpg"
+        },
+        {
+            "birth": "1877",
+            "department": "American Art",
+            "death": "1943",
+            "synonyms": [
+                {
+                    "portrait": [
+                        "portraiture",
+                        "portrayal"
+                    ]
+                },
+                {
+                    "sea": [
+                        "ocean"
+                    ]
+                },
+                {
+                    "dove": [
+                        "Columba",
+                        "squab",
+                        "dive",
+                        "peacenik",
+                        "plunk",
+                        "plunge"
+                    ]
+                },
+                {
+                    "dead": [
+                        "drained",
+                        "idle",
+                        "beat",
+                        "numb",
+                        "bushed",
+                        "deadened",
+                        "all in",
+                        "stagnant"
+                    ]
+                }
+            ],
+            "date": "1935",
+            "medium": "Oil on composition board",
+            "title": "Portrait of a Sea Dove -- Dead",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Marsden Hartley",
+            "accession": "1949.551",
+            "classifier": [
+                "seascape"
+            ],
+            "dimensions": "24.8 x 35 cm (9 3/4 x 13 3/4 in.)",
+            "credit": "Alfred Stieglitz Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2762_1608209.jpg"
+        },
+        {
+            "birth": "1885",
+            "department": "American Art",
+            "death": "1968",
+            "synonyms": [
+                {
+                    "shop": [
+                        "workshop",
+                        "store",
+                        "grass",
+                        "patronise",
+                        "buy at",
+                        "shop at",
+                        "denounce",
+                        "sponsor",
+                        "frequent",
+                        "tell on",
+                        "rat",
+                        "betray",
+                        "patronize",
+                        "give away",
+                        "browse",
+                        "shop class",
+                        "stag",
+                        "shit",
+                        "snitch"
+                    ]
+                },
+                {
+                    "girls": [
+                        "little girl",
+                        "young woman",
+                        "missy",
+                        "female child",
+                        "girl",
+                        "fille",
+                        "girlfriend",
+                        "daughter",
+                        "young lady",
+                        "miss",
+                        "lady friend"
+                    ]
+                }
+            ],
+            "date": "c. 1912",
+            "medium": "Oil on canvas",
+            "title": "Shop Girls",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Elizabeth Sparhawk-Jones",
+            "accession": "1912.1677",
+            "dimensions": "96.5 x 121.9 (38 x 48 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/388_1578748.jpg"
+        },
+        {
+            "birth": "1910",
+            "department": "American Art",
+            "death": "unknown",
+            "synonyms": [
+                {
+                    "one": [
+                        "ane",
+                        "unrivalled",
+                        "single",
+                        "unrivaled",
+                        "matchless",
+                        "unitary",
+                        "ace",
+                        "I",
+                        "i",
+                        "nonpareil",
+                        "1",
+                        "one and only",
+                        "unity",
+                        "unmatchable",
+                        "unmatched",
+                        "peerless",
+                        "right"
+                    ]
+                },
+                {
+                    "dollar": [
+                        "buck",
+                        "clam",
+                        "dollar bill",
+                        "one dollar bill",
+                        "dollar sign",
+                        "dollar mark"
+                    ]
+                },
+                {
+                    "silver": [
+                        "silver-tongued",
+                        "smooth-spoken",
+                        "silver medal",
+                        "silvern",
+                        "fluent",
+                        "silver grey",
+                        "silver gray",
+                        "ash grey",
+                        "flatware",
+                        "silverish",
+                        "silvery",
+                        "Ag",
+                        "ash gray",
+                        "eloquent",
+                        "argent",
+                        "atomic number 47",
+                        "facile"
+                    ]
+                },
+                {
+                    "certificate": [
+                        "certification",
+                        "credentials",
+                        "security",
+                        "credential"
+                    ]
+                }
+            ],
+            "date": "1898/1900",
+            "medium": "Oil on canvas",
+            "title": "One Dollar Silver Certificate",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Victor Dubreuil",
+            "accession": "1987.171",
+            "dimensions": "22.9 x 30.5 cm (9 x 12 in.)",
+            "credit": "Through prior acquisition of the Charles H. and Mary F. S. Worcester Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5425_1647514.jpg"
+        },
+        {
+            "birth": "1849",
+            "department": "American Art",
+            "death": "1916",
+            "synonyms": [
+                {
+                    "north": [
+                        "due north",
+                        "Frederick North",
+                        "magnetic north",
+                        "compass north",
+                        "Second Earl of Guilford",
+                        "Union",
+                        "N",
+                        "northward"
+                    ]
+                },
+                {
+                    "river": []
+                },
+                {
+                    "shad": []
+                }
+            ],
+            "date": "c. 1910",
+            "medium": "Oil on canvas",
+            "title": "North River Shad",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "William Merritt Chase",
+            "accession": "1914.56",
+            "dimensions": "73.7 x 94 cm (29 x 37 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000163/20048_1763151.jpg"
+        },
+        {
+            "birth": "1887",
+            "department": "American Art",
+            "death": "1986",
+            "synonyms": [
+                {
+                    "day": [
+                        "Clarence Shepard Day Jr.",
+                        "sidereal day",
+                        "daytime",
+                        "solar day",
+                        "24-hour interval",
+                        "twenty-four hours",
+                        "Clarence Day",
+                        "mean solar day",
+                        "twenty-four hour period",
+                        "daylight"
+                    ]
+                }
+            ],
+            "date": "1977",
+            "entities": {
+                "Person": [
+                    "Juan IV"
+                ]
+            },
+            "medium": "Oil on canvas",
+            "title": "From a Day with Juan IV",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Georgia O'Keeffe",
+            "accession": "1987.250.4",
+            "dimensions": "121.9 x 91.4 cm (48 x 36 in.)",
+            "credit": "Alfred Stieglitz Collection,  bequest of Georgia O'Keeffe",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5446_1647881.jpg"
+        },
+        {
+            "birth": "1867",
+            "department": "American Art",
+            "death": "1944",
+            "synonyms": [
+                {
+                    "building": [
+                        "progress",
+                        "ramp up",
+                        "establish",
+                        "work up",
+                        "construct",
+                        "build up",
+                        "build",
+                        "construction",
+                        "make",
+                        "edifice"
+                    ]
+                },
+                {
+                    "cofferdam": [
+                        "caisson",
+                        "pneumatic caisson"
+                    ]
+                }
+            ],
+            "date": "c. 1914",
+            "medium": "Oil on canvas",
+            "title": "Building The Cofferdam",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Walter Elmer Schofield",
+            "accession": "1914.821",
+            "dimensions": "127 x 152.4 cm (50 x 60 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/412_1579254.jpg"
+        },
+        {
+            "birth": "1892",
+            "department": "American Art",
+            "death": "1964",
+            "synonyms": [
+                {
+                    "saw": [
+                        "sawing machine",
+                        "proverb",
+                        "power saw",
+                        "adage",
+                        "byword"
+                    ]
+                }
+            ],
+            "date": "1923",
+            "medium": "Oil on canvas",
+            "title": "Saw",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Stuart Davis",
+            "accession": "1988.144",
+            "dimensions": "94 x 55.9 cm (37 x 22 in.)",
+            "credit": "Through prior gift of William Wrigley",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5520_1649212.jpg"
+        },
+        {
+            "birth": "1877",
+            "department": "American Art",
+            "death": "1969",
+            "synonyms": [
+                {
+                    "kentucky": [
+                        "Ken.",
+                        "KY",
+                        "Bluegrass State"
+                    ]
+                },
+                {
+                    "mountaineer": [
+                        "mountain climber"
+                    ]
+                }
+            ],
+            "date": "1915",
+            "medium": "Oil on canvas",
+            "title": "Kentucky Mountaineer",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "James R. Hopkins",
+            "accession": "1915.561",
+            "dimensions": "81.3 x 66 cm (32 x 26 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/423_1579469.jpg"
+        },
+        {
+            "birth": "1873",
+            "department": "American Art",
+            "death": "1953",
+            "synonyms": [
+                {
+                    "blue": [
+                        "juicy",
+                        "blueish",
+                        "naughty",
+                        "blue air",
+                        "profane",
+                        "aristocratical",
+                        "puritanic",
+                        "dismal",
+                        "aristocratic",
+                        "low-spirited",
+                        "grim",
+                        "puritanical",
+                        "blue sky",
+                        "gentle",
+                        "blasphemous",
+                        "blue-blooded",
+                        "dark",
+                        "dispirited",
+                        "bluing",
+                        "amobarbital sodium",
+                        "dingy",
+                        "down in the mouth",
+                        "blueing",
+                        "disconsolate",
+                        "bluish",
+                        "gamey",
+                        "spicy",
+                        "Amytal",
+                        "blue angel",
+                        "drear",
+                        "wild blue yonder",
+                        "gamy",
+                        "downcast",
+                        "blueness",
+                        "depressed",
+                        "blue devil",
+                        "patrician",
+                        "sorry",
+                        "risque",
+                        "racy",
+                        "down",
+                        "dreary",
+                        "downhearted",
+                        "low",
+                        "drab",
+                        "gloomy"
+                    ]
+                },
+                {
+                    "rafters": [
+                        "raftsman",
+                        "rafter",
+                        "balk",
+                        "raftman",
+                        "baulk"
+                    ]
+                }
+            ],
+            "date": "c. 1916",
+            "medium": "Oil on canvas",
+            "title": "Blue Rafters",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Frederick Clay Bartlett",
+            "accession": "1919.107",
+            "dimensions": "71.1 x 76.8 cm (28 x 30 1/4 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/521_1581332.jpg"
+        },
+        {
+            "birth": "unknown",
+            "department": "American Art",
+            "death": "unknown",
+            "synonyms": [
+                {
+                    "vision": [
+                        "sight",
+                        "imaginativeness",
+                        "visual sensation",
+                        "visual modality",
+                        "imagination",
+                        "visual sense"
+                    ]
+                }
+            ],
+            "date": "1925/26",
+            "medium": "Oil on canvas",
+            "title": "A Vision",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Joseph Stella",
+            "accession": "1990.79",
+            "dimensions": "203.2 x 101.6 cm (80 x 40 in.)",
+            "credit": "Through prior gift of the Albert Kunstadter Family Foundation",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000154/5733_1653024.jpg"
+        },
+        {
+            "birth": "1874",
+            "department": "American Art",
+            "death": "1966",
+            "synonyms": [
+                {
+                    "cotton": [
+                        "cotton wool",
+                        "cotton plant",
+                        "cotton fiber"
+                    ]
+                },
+                {
+                    "gin": [
+                        "cotton gin",
+                        "noose",
+                        "knock rummy",
+                        "snare",
+                        "gin rummy"
+                    ]
+                }
+            ],
+            "date": "1919",
+            "medium": "Oil on canvas",
+            "title": "The Cotton Gin",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Harry Leslie Hoffman",
+            "accession": "1919.872",
+            "dimensions": "76.2 x 101.6 cm (30 x 40 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/544_1581469.jpg"
+        },
+        {
+            "birth": "1884",
+            "department": "American Art",
+            "death": "1974",
+            "synonyms": [
+                {
+                    "piano": [
+                        "forte-piano",
+                        "pianoforte",
+                        "soft",
+                        "pianissimo"
+                    ]
+                }
+            ],
+            "date": "1918",
+            "entities": {
+                "Person": [
+                    "Leo Ornstein"
+                ]
+            },
+            "medium": "Oil on canvas",
+            "title": "Leo Ornstein at the Piano",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Leon Kroll",
+            "accession": "1919.874",
+            "dimensions": "86.5 x 101.9 cm (34 1/16 x 40 1/8 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/545_1581496.jpg"
+        },
+        {
+            "birth": "1912",
+            "department": "American Art",
+            "death": "1972",
+            "synonyms": [
+                {
+                    "ancient": [
+                        "antediluvian"
+                    ]
+                },
+                {
+                    "windows": []
+                }
+            ],
+            "date": "c. 1925/54",
+            "medium": "Oil on canvas",
+            "title": "Ancient Windows",
+            "nationality": "Mexican",
+            "classification": "Paintings",
+            "name": "German Horacio",
+            "accession": "1954.1357",
+            "dimensions": "58.7 x 45.7 cm (23 1/8 x 18 in.)",
+            "credit": "Bequest of Joseph Winterbotham",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3081_1612032.jpg"
+        },
+        {
+            "birth": "1913",
+            "department": "American Art",
+            "death": "2009",
+            "synonyms": [
+                {
+                    "archaeological": [
+                        "archeologic",
+                        "archeological",
+                        "archaeologic"
+                    ]
+                },
+                {
+                    "treasure": [
+                        "hold dear",
+                        "appreciate",
+                        "cherish",
+                        "care for",
+                        "prize",
+                        "value",
+                        "gem",
+                        "hoarded wealth"
+                    ]
+                }
+            ],
+            "date": "1945",
+            "medium": "Oil on canvas",
+            "title": "Archaeological Treasure",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Hyman Bloom",
+            "accession": "1955.825",
+            "dimensions": "110.3 x 91.9 cm (43 5/16 x 36 1/8 in.)",
+            "credit": "Gift of Edgar Kaufmann,  Jr.",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3236_1614577.jpg"
+        },
+        {
+            "birth": "1887",
+            "department": "American Art",
+            "death": "1986",
+            "synonyms": [
+                {
+                    "red": [
+                        "redness",
+                        "loss",
+                        "carmine",
+                        "scarlet",
+                        "ruby",
+                        "flushed",
+                        "bolshie",
+                        "bolshy",
+                        "ruddy",
+                        "cerise",
+                        "blood-red",
+                        "cherry",
+                        "reddened",
+                        "crimson",
+                        "Marxist",
+                        "cherry-red",
+                        "red-faced",
+                        "ruby-red",
+                        "reddish",
+                        "violent",
+                        "Red River",
+                        "Bolshevik",
+                        "red ink"
+                    ]
+                },
+                {
+                    "pink": [
+                        "pinko",
+                        "knock",
+                        "rap",
+                        "garden pink",
+                        "tap",
+                        "ping",
+                        "pinkish"
+                    ]
+                },
+                {
+                    "rocks": [
+                        "John Rock",
+                        "rock'n'roll",
+                        "tilt",
+                        "rock music",
+                        "shake",
+                        "rock candy",
+                        "stone",
+                        "rock",
+                        "careen",
+                        "rock 'n' roll",
+                        "rock-and-roll",
+                        "sway",
+                        "Rock",
+                        "rock and roll"
+                    ]
+                },
+                {
+                    "teeth": [
+                        "dentition"
+                    ]
+                }
+            ],
+            "date": "1938",
+            "medium": "Oil on canvas",
+            "title": "Red and Pink Rocks and Teeth",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Georgia O'Keeffe",
+            "accession": "1955.1223",
+            "dimensions": "53.3 x 33 cm (21 x 13 in.)",
+            "credit": "Alfred Stieglitz Collection,  gift of Georgia O'Keeffe",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/3149_1613079.jpg"
+        },
+        {
+            "birth": "1860",
+            "department": "American Art",
+            "death": "1932",
+            "synonyms": [
+                {
+                    "mother": [
+                        "female parent",
+                        "generate",
+                        "get",
+                        "bring forth",
+                        "fuss",
+                        "sire",
+                        "overprotect",
+                        "beget",
+                        "engender",
+                        "father"
+                    ]
+                },
+                {
+                    "child": [
+                        "tyke",
+                        "tiddler",
+                        "nipper",
+                        "youngster",
+                        "tike",
+                        "nestling",
+                        "minor",
+                        "small fry",
+                        "baby",
+                        "fry",
+                        "shaver",
+                        "kid"
+                    ]
+                }
+            ],
+            "date": "c. 1906",
+            "medium": "Oil on canvas",
+            "title": "Mother and Child",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Julius Gari Melchers",
+            "accession": "1925.704",
+            "dimensions": "63.5 x 54.3 cm (25 x 21 3/8 in.)",
+            "credit": "Gift of James Deering",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1405_1589471.jpg"
+        },
+        {
+            "birth": "1891",
+            "department": "American Art",
+            "death": "1978",
+            "synonyms": [
+                {
+                    "nude": [
+                        "nude painting",
+                        "nude sculpture",
+                        "nude person",
+                        "naked",
+                        "bare",
+                        "au naturel",
+                        "nude statue"
+                    ]
+                }
+            ],
+            "date": "1937",
+            "medium": "Oil and graphite on canvas",
+            "title": "Nude",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Edwin Dickinson",
+            "accession": "1961.771",
+            "dimensions": "101.6 x 81.3 cm (40 x 32 in.)",
+            "credit": "Gift of Society for Contemporary American Art",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000158/36866_1700101.jpg"
+        },
+        {
+            "birth": "1876",
+            "department": "American Art",
+            "death": "1936",
+            "synonyms": [
+                {
+                    "daughter": [
+                        "girl"
+                    ]
+                }
+            ],
+            "date": "1923",
+            "entities": {
+                "Person": [
+                    "Jim"
+                ]
+            },
+            "medium": "Oil on canvas",
+            "title": "Jim and His Daughter",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Walter Ufer",
+            "accession": "1961.1111",
+            "dimensions": "77.5 x 64.1 cm (30 1/2 x 25 1/4 in.)",
+            "credit": "Gift of Howard Ellis",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000152/3525_1618154.jpg"
+        },
+        {
+            "birth": "1882",
+            "department": "American Art",
+            "death": "1952",
+            "synonyms": [
+                {
+                    "arrangement": [
+                        "placement",
+                        "musical arrangement",
+                        "system",
+                        "organization",
+                        "organisation",
+                        "agreement",
+                        "arranging",
+                        "transcription"
+                    ]
+                }
+            ],
+            "date": "c. 1927/28",
+            "medium": "Oil on canvas, mounted on board",
+            "title": "Arrangement",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Arthur B. Carles",
+            "accession": "1928.1185",
+            "dimensions": "117.5 x 100.3 cm (46 1/4 x 39 1/2 in.)",
+            "credit": "Mr. and Mrs. Frank G. Logan Purchase Prize Fund",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000149/1556_1591178.jpg"
+        },
+        {
+            "birth": "1877",
+            "department": "American Art",
+            "death": "1943",
+            "synonyms": [
+                {
+                    "movement": [
+                        "trend",
+                        "cause",
+                        "social movement",
+                        "apparent motion",
+                        "effort",
+                        "front",
+                        "drift",
+                        "apparent movement",
+                        "drive",
+                        "bm",
+                        "motility",
+                        "motion",
+                        "campaign",
+                        "crusade",
+                        "move",
+                        "bowel movement"
+                    ]
+                }
+            ],
+            "date": "1917",
+            "medium": "Oil on composition board",
+            "title": "Movement No. 10",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Marsden Hartley",
+            "accession": "1949.548",
+            "dimensions": "38.7 x 49.5 cm (15 1/4 x 19 1/2 in.)",
+            "credit": "Alfred Stieglitz Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000151/2760_1608184.jpg"
+        },
+        {
+            "birth": "1856",
+            "department": "American Art",
+            "death": "1915",
+            "synonyms": [
+                {
+                    "sunlight": [
+                        "sunshine",
+                        "sun"
+                    ]
+                }
+            ],
+            "date": "1909",
+            "medium": "Oil on canvas",
+            "title": "Sunlight",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "John White Alexander",
+            "accession": "1910.307",
+            "dimensions": "219.4 x 141.3 cm (83 5/8 x 55 5/8 in.)",
+            "credit": "Friends of American Art Collection",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000148/360_1578020.jpg"
+        },
+        {
+            "birth": "1883",
+            "department": "American Art",
+            "death": "1965",
+            "synonyms": [
+                {
+                    "western": [
+                        "horse opera",
+                        "westerly",
+                        "western sandwich"
+                    ]
+                },
+                {
+                    "industrial": []
+                }
+            ],
+            "date": "1955",
+            "medium": "Oil on canvas",
+            "title": "Western Industrial",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Charles Sheeler",
+            "accession": "1977.12",
+            "dimensions": "58 x 73.5 cm (22 7/8 x 29 in.)",
+            "credit": "Gift of Mary and Leigh Block",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4512_1632742.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "wherefore": [
+                        "why"
+                    ]
+                },
+                {
+                    "now": []
+                },
+                {
+                    "ariseth": []
+                },
+                {
+                    "illusion": [
+                        "fancy",
+                        "conjuring trick",
+                        "delusion",
+                        "fantasy",
+                        "deception",
+                        "magic trick",
+                        "conjuration",
+                        "magic",
+                        "thaumaturgy",
+                        "head game",
+                        "semblance",
+                        "legerdemain",
+                        "trick",
+                        "phantasy"
+                    ]
+                },
+                {
+                    "third": [
+                        "tertiary",
+                        "third base",
+                        "third gear",
+                        "one-third",
+                        "3rd",
+                        "tierce"
+                    ]
+                },
+                {
+                    "dimension": [
+                        "proportion",
+                        "attribute",
+                        "property"
+                    ]
+                }
+            ],
+            "date": "1931",
+            "medium": "Oil on canvas",
+            "title": "Wherefore Now Ariseth the Illusion of a Third Dimension",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.23",
+            "dimensions": "50.8 x 91.4 cm (20 x 36 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4525_1632999.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "showcase": [
+                        "display case",
+                        "case",
+                        "show window",
+                        "vitrine"
+                    ]
+                },
+                {
+                    "doll": [
+                        "bird",
+                        "skirt",
+                        "dame",
+                        "dolly",
+                        "chick",
+                        "wench"
+                    ]
+                }
+            ],
+            "date": "1931–32",
+            "medium": "Charcoal and oil on canvas",
+            "title": "Showcase Doll",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.24",
+            "dimensions": "88.9 x 137.2 cm (35 x 54 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4529_1633081.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "face": [
+                        "look",
+                        "expression",
+                        "font",
+                        "face up",
+                        "front",
+                        "nerve",
+                        "cheek",
+                        "fount",
+                        "confront",
+                        "present",
+                        "human face",
+                        "aspect",
+                        "typeface",
+                        "side",
+                        "facial expression",
+                        "boldness",
+                        "grimace",
+                        "brass",
+                        "case"
+                    ]
+                },
+                {
+                    "georgia": [
+                        "Empire State of the South",
+                        "Peach State",
+                        "GA",
+                        "Sakartvelo",
+                        "Ga."
+                    ]
+                }
+            ],
+            "date": "1970/74",
+            "medium": "Oil on canvas",
+            "title": "A Face from Georgia",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.25",
+            "dimensions": "39.4 x 27.3 cm (15 1/2 x 10 3/4 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4530_1633108.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "pray": [
+                        "beg",
+                        "implore"
+                    ]
+                },
+                {
+                    "these": []
+                },
+                {
+                    "little": [
+                        "short",
+                        "lilliputian",
+                        "fiddling",
+                        "niggling",
+                        "petty",
+                        "footling",
+                        "slight",
+                        "piffling",
+                        "trivial",
+                        "minuscule",
+                        "piddling",
+                        "small",
+                        "picayune"
+                    ]
+                },
+                {
+                    "ones": [
+                        "1",
+                        "single",
+                        "unity",
+                        "one",
+                        "ace",
+                        "I"
+                    ]
+                },
+                {
+                    "perforce": []
+                },
+                {
+                    "they": []
+                },
+                {
+                    "live": [
+                        "live on",
+                        "dwell",
+                        "last",
+                        "lively",
+                        "unrecorded",
+                        "inhabit",
+                        "alive",
+                        "know",
+                        "subsist",
+                        "hold out",
+                        "springy",
+                        "survive",
+                        "populate",
+                        "resilient",
+                        "endure",
+                        "hot",
+                        "experience",
+                        "bouncy",
+                        "hold up",
+                        "exist",
+                        "be",
+                        "go"
+                    ]
+                },
+                {
+                    "together": []
+                }
+            ],
+            "date": "1973/74",
+            "medium": "Oil on silk",
+            "title": "Pray for These Little Ones (Perforce They Live Together)",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.26",
+            "dimensions": "27.6 x 42.6 cm (10 7/8 x 16 3/4 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4531_1633133.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "lineman": [
+                        "electrician",
+                        "linesman"
+                    ]
+                }
+            ],
+            "date": "1927",
+            "medium": "Oil on canvas",
+            "title": "The Lineman",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.27",
+            "dimensions": "184.2 x 92.7 cm (72 1/2 x 36 1/2 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4532_1633157.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "walk": [
+                        "manner of walking",
+                        "base on balls",
+                        "walking",
+                        "walk of life",
+                        "paseo",
+                        "walkway",
+                        "take the air",
+                        "pass"
+                    ]
+                },
+                {
+                    "fro": []
+                },
+                {
+                    "through": [
+                        "through with",
+                        "done"
+                    ]
+                },
+                {
+                    "civilization": [
+                        "refinement",
+                        "civilisation",
+                        "culture"
+                    ]
+                }
+            ],
+            "date": "1926–27",
+            "medium": "Oil on canvas",
+            "title": "I Walk To and Fro Through Civilization",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.28",
+            "dimensions": "185.4 x 91.4 cm (73 x 36 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4533_1633180.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "drew": [
+                        "guide",
+                        "delineate",
+                        "tie",
+                        "pull",
+                        "draw and quarter",
+                        "line",
+                        "run",
+                        "pull in",
+                        "get out",
+                        "draw",
+                        "draw in",
+                        "draw off",
+                        "pull back",
+                        "take up",
+                        "thread",
+                        "describe",
+                        "withdraw",
+                        "soak up",
+                        "take in",
+                        "depict",
+                        "suck up",
+                        "get",
+                        "sop up",
+                        "trace",
+                        "drag",
+                        "suck",
+                        "attract",
+                        "reap",
+                        "imbibe",
+                        "pass",
+                        "take out",
+                        "cast",
+                        "absorb",
+                        "disembowel",
+                        "string",
+                        "John Drew",
+                        "eviscerate",
+                        "pull out",
+                        "make",
+                        "puff",
+                        "quarter"
+                    ]
+                },
+                {
+                    "picture": [
+                        "exposure",
+                        "fancy",
+                        "photograph",
+                        "visualize",
+                        "characterization",
+                        "show",
+                        "moving-picture show",
+                        "mental picture",
+                        "delineation",
+                        "pictorial matter",
+                        "moving picture",
+                        "figure",
+                        "word-painting",
+                        "painting",
+                        "video",
+                        "visualise",
+                        "film",
+                        "flick",
+                        "icon",
+                        "depict",
+                        "depiction",
+                        "impression",
+                        "image",
+                        "movie",
+                        "pic",
+                        "photo",
+                        "picture show",
+                        "render",
+                        "project",
+                        "see",
+                        "envision",
+                        "motion picture",
+                        "word picture",
+                        "scene",
+                        "motion-picture show",
+                        "ikon",
+                        "characterisation"
+                    ]
+                },
+                {
+                    "sand": [
+                        "guts",
+                        "George Sand",
+                        "sandpaper",
+                        "Baroness Dudevant",
+                        "moxie",
+                        "grit",
+                        "gumption",
+                        "Amandine Aurore Lucie Dupin",
+                        "backbone"
+                    ]
+                },
+                {
+                    "water": [
+                        "water system",
+                        "irrigate",
+                        "water supply",
+                        "piss",
+                        "H2O",
+                        "body of water",
+                        "weewee",
+                        "pee",
+                        "urine",
+                        "piddle"
+                    ]
+                },
+                {
+                    "washed": [
+                        "lave",
+                        "wash out",
+                        "dampen",
+                        "water-washed",
+                        "wash off",
+                        "launder",
+                        "moisten",
+                        "wash",
+                        "lap",
+                        "wash away",
+                        "rinse"
+                    ]
+                },
+                {
+                    "away": [
+                        "outside"
+                    ]
+                }
+            ],
+            "date": "1927",
+            "medium": "Oil on canvas",
+            "title": "I Drew A Picture in the Sand and the Water Washed It Away",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.29",
+            "dimensions": "91.4 x 58.4 cm (36 x 23 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4534_1633204.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "memories": [
+                        "memory board",
+                        "retentiveness",
+                        "store",
+                        "computer storage",
+                        "remembering",
+                        "retention",
+                        "computer memory",
+                        "retentivity",
+                        "memory",
+                        "storage"
+                    ]
+                },
+                {
+                    "past": [
+                        "yesteryear",
+                        "past tense",
+                        "preceding",
+                        "past times",
+                        "retiring"
+                    ]
+                }
+            ],
+            "date": "1927",
+            "medium": "Oil on canvas",
+            "title": "Memories of the Past",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.30",
+            "dimensions": "77.5 x 51.4 cm (30 1/2 x 20 1/4 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4536_1633236.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "divided": [
+                        "disunite",
+                        "shared",
+                        "separate",
+                        "fraction",
+                        "divide",
+                        "divided up",
+                        "dual-lane",
+                        "dissever",
+                        "shared out",
+                        "split",
+                        "split up",
+                        "part",
+                        "carve up"
+                    ]
+                },
+                {
+                    "divided": [
+                        "disunite",
+                        "shared",
+                        "separate",
+                        "fraction",
+                        "divide",
+                        "divided up",
+                        "dual-lane",
+                        "dissever",
+                        "shared out",
+                        "split",
+                        "split up",
+                        "part",
+                        "carve up"
+                    ]
+                }
+            ],
+            "date": "1941",
+            "medium": "Oil on canvas",
+            "title": "Divided and Divided",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.31",
+            "dimensions": "68.6 x 106.7 cm (27 x 42 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4537_1633268.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "poor": [
+                        "short",
+                        "piteous",
+                        "pitiful",
+                        "miserable",
+                        "inadequate",
+                        "wretched",
+                        "pitiable",
+                        "pathetic",
+                        "hapless",
+                        "jejune",
+                        "misfortunate",
+                        "poor people"
+                    ]
+                },
+                {
+                    "roomthere": []
+                },
+                {
+                    "time": [
+                        "clock time",
+                        "clip",
+                        "metre",
+                        "meter",
+                        "prison term",
+                        "clock",
+                        "sentence",
+                        "fourth dimension"
+                    ]
+                },
+                {
+                    "end": [
+                        "stop",
+                        "terminate",
+                        "last",
+                        "remnant",
+                        "death",
+                        "cease",
+                        "destruction",
+                        "oddment",
+                        "goal",
+                        "ending",
+                        "close",
+                        "remainder",
+                        "finish",
+                        "terminal",
+                        "conclusion",
+                        "closing"
+                    ]
+                },
+                {
+                    "today": []
+                },
+                {
+                    "yesterday": []
+                },
+                {
+                    "tomorrow": []
+                },
+                {
+                    "only": [
+                        "solitary",
+                        "lone",
+                        "alone",
+                        "sole",
+                        "lonesome"
+                    ]
+                },
+                {
+                    "forever": []
+                },
+                {
+                    "forever": []
+                },
+                {
+                    "forever": []
+                },
+                {
+                    "without": []
+                },
+                {
+                    "end": [
+                        "stop",
+                        "terminate",
+                        "last",
+                        "remnant",
+                        "death",
+                        "cease",
+                        "destruction",
+                        "oddment",
+                        "goal",
+                        "ending",
+                        "close",
+                        "remainder",
+                        "finish",
+                        "terminal",
+                        "conclusion",
+                        "closing"
+                    ]
+                }
+            ],
+            "date": "1942–43; 1948–55; 1957–63",
+            "entities": {
+                "socialTag": [
+                    "Yesterday",
+                    "Today, Tomorrow, and Forever",
+                    "Ivan Albright",
+                    "Weather"
+                ]
+            },
+            "medium": "Oil on canvas",
+            "title": "Poor Room-There is No Time, No End, No Today, No Yesterday, No Tomorrow, Only the Forever, and Forever and Forever Without End",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.35",
+            "dimensions": "121.9 x 94 cm (48 x 37 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4540_1633353.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "man": [
+                        "humanity",
+                        "Isle of Man",
+                        "military man",
+                        "valet de chambre",
+                        "human being",
+                        "humans",
+                        "serviceman",
+                        "valet",
+                        "humankind",
+                        "human",
+                        "adult male",
+                        "mankind",
+                        "homo",
+                        "gentleman's gentleman",
+                        "military personnel",
+                        "human race",
+                        "human beings",
+                        "world",
+                        "piece",
+                        "gentleman"
+                    ]
+                },
+                {
+                    "created": [
+                        "create",
+                        "make",
+                        "produce"
+                    ]
+                },
+                {
+                    "god": [
+                        "divinity",
+                        "immortal",
+                        "deity",
+                        "Supreme Being",
+                        "idol",
+                        "graven image"
+                    ]
+                },
+                {
+                    "own": [
+                        "have",
+                        "ain",
+                        "possess"
+                    ]
+                },
+                {
+                    "image": [
+                        "icon",
+                        "fancy",
+                        "range",
+                        "look-alike",
+                        "paradigm",
+                        "visualize",
+                        "mental image",
+                        "epitome",
+                        "double",
+                        "prototype",
+                        "simulacrum",
+                        "picture",
+                        "project",
+                        "figure",
+                        "see",
+                        "envision",
+                        "trope",
+                        "figure of speech",
+                        "effigy",
+                        "range of a function",
+                        "ikon",
+                        "visualise",
+                        "persona"
+                    ]
+                }
+            ],
+            "date": "1930–31",
+            "medium": "Oil on canvas",
+            "title": "And Man Created God in His Own Image",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.36",
+            "dimensions": "121.9 x 66 cm (48 x 26 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4543_1633399.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "captain": [
+                        "police captain",
+                        "maitre d'hotel",
+                        "headwaiter",
+                        "sea captain",
+                        "police chief",
+                        "skipper",
+                        "chieftain",
+                        "senior pilot",
+                        "maitre d'",
+                        "master"
+                    ]
+                }
+            ],
+            "date": "1962–64",
+            "entities": {
+                "Person": [
+                    "Joseph Medill Patterson"
+                ]
+            },
+            "medium": "Oil on board",
+            "title": "Captain Joseph Medill Patterson",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.37",
+            "dimensions": "76.2 x 61 cm (30 x 24 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4544_1633426.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "three": [
+                        "triad",
+                        "threesome",
+                        "iii",
+                        "troika",
+                        "trine",
+                        "tierce",
+                        "3",
+                        "leash",
+                        "ternion",
+                        "ternary",
+                        "trey",
+                        "trio",
+                        "triplet",
+                        "trinity",
+                        "deuce-ace",
+                        "tercet",
+                        "III",
+                        "terzetto"
+                    ]
+                },
+                {
+                    "love": [
+                        "screw",
+                        "have intercourse",
+                        "sexual love",
+                        "dear",
+                        "eff",
+                        "beloved",
+                        "lovemaking",
+                        "honey",
+                        "fuck",
+                        "have a go at it",
+                        "making love",
+                        "dearest",
+                        "bonk",
+                        "passion",
+                        "be intimate",
+                        "sleep together",
+                        "bang",
+                        "make out",
+                        "do it",
+                        "erotic love",
+                        "have it off",
+                        "bed",
+                        "jazz",
+                        "lie with",
+                        "get it on",
+                        "enjoy",
+                        "get laid",
+                        "know",
+                        "have sex",
+                        "make love",
+                        "have it away",
+                        "hump",
+                        "love life",
+                        "roll in the hay",
+                        "sleep with"
+                    ]
+                },
+                {
+                    "birds": [
+                        "skirt",
+                        "dame",
+                        "doll",
+                        "birdwatch",
+                        "fowl",
+                        "raspberry",
+                        "birdie",
+                        "wench",
+                        "shuttle",
+                        "razz",
+                        "hoot",
+                        "Bronx cheer",
+                        "bird",
+                        "shuttlecock",
+                        "chick",
+                        "boo",
+                        "snort",
+                        "hiss",
+                        "razzing"
+                    ]
+                }
+            ],
+            "date": "1930",
+            "medium": "Charcoal with touches of oil on canvas",
+            "title": "Three Love Birds",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.38",
+            "dimensions": "199.4 x 106.7 cm (78 1/2 x 42 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4545_1633449.jpg"
+        },
+        {
+            "birth": "1897",
+            "department": "American Art",
+            "death": "1983",
+            "synonyms": [
+                {
+                    "study": [
+                        "field of study",
+                        "work",
+                        "sketch",
+                        "examine",
+                        "hit the books",
+                        "subject",
+                        "learn",
+                        "contemplate",
+                        "bailiwick",
+                        "written report",
+                        "field",
+                        "analyze",
+                        "canvass",
+                        "subject area",
+                        "consider",
+                        "take",
+                        "report",
+                        "read",
+                        "survey",
+                        "meditate",
+                        "discipline",
+                        "subject field",
+                        "cogitation",
+                        "analyse"
+                    ]
+                },
+                {
+                    "vermonter": []
+                }
+            ],
+            "date": "1965–66",
+            "medium": "Chalk with touches of acrylic on canvas",
+            "title": "Study for The Vermonter",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Ivan Albright",
+            "accession": "1977.237",
+            "dimensions": "88.9 x 68.3 cm (35 x 26 7/8 in.)",
+            "credit": "Gift of Ivan Albright",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000153/4528_1633055.jpg"
+        },
+        {
+            "birth": "1907",
+            "department": "American Art",
+            "death": "1992",
+            "synonyms": [
+                {
+                    "joan": []
+                },
+                {
+                    "arc": [
+                        "curve",
+                        "electric discharge",
+                        "arch",
+                        "bow",
+                        "discharge",
+                        "spark",
+                        "electric arc"
+                    ]
+                },
+                {
+                    "montebourg": []
+                }
+            ],
+            "date": "1944",
+            "medium": "Oil on canvas",
+            "title": "Joan of Arc in Montebourg",
+            "nationality": "American",
+            "classification": "Paintings",
+            "name": "Aaron Bohrod",
+            "accession": "1945.191",
+            "dimensions": "62.2 x 81.3 cm (24 1/2 x 32 in.)",
+            "credit": "Mr. and Mrs. Frank G. Logan Purchase Prize Fund",
+            "imageURL": "http://www.artic.edu/aic/collections/citi/images/standard/WebMedium/WebImg_000150/2541_1604501.jpg"
+        }
+    ]
+}
