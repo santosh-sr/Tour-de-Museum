@@ -26,9 +26,8 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-import org.openrdf.query.algebra.IsNumeric;
 
-public class SimilarityCalculation {
+public class LacmaSimilarityCalculation {
 
 	protected static double simVal = 0;
 	protected static String[] keywords = {"battle", "still life", "seascape"};
@@ -51,18 +50,12 @@ public class SimilarityCalculation {
 			{
 				simVal= s;
 			}
-			if ((word1.equalsIgnoreCase("seascape") && (word2.toLowerCase().equalsIgnoreCase("seas") || word2.toLowerCase().equalsIgnoreCase("sea"))) 
-					|| (word1.equalsIgnoreCase("battle") && word2.toLowerCase().equalsIgnoreCase("battl") )
-					|| (word1.equalsIgnoreCase("still life") && word1.toLowerCase().contains(word2.toLowerCase()) && word2.length()>2 ))
-//			if(word1.toLowerCase().contains(word2.toLowerCase()) && word2.length()>2)
+			if(word1.toLowerCase().contains(word2.toLowerCase()) && word2.length()>2)
 			{
 				simVal=16;
 			}
-			if (simVal >= 4 )
-			{
-//					|| (word1.toLowerCase().contains(word2.toLowerCase()) && word2.length()>2))
-				System.out.println(word1+" "+word2+" : "+s);
-			}
+			if (s >= 4 || (word1.toLowerCase().contains(word2.toLowerCase()) && word2.length()>2))
+				System.out.println(word1+" "+word2+" : "+s);	
 
 
 		}
@@ -100,13 +93,13 @@ public class SimilarityCalculation {
 					while (synIterator.hasNext()) {
 						JSONObject synJsonObject =	synIterator.next();
 						words.addAll(synJsonObject.keySet());
-						Iterator<String> synArrayIterator = synJsonObject.keySet().iterator();
-						while (synArrayIterator.hasNext()) {
-							String synWord = synArrayIterator.next();
-							ArrayList<String> synArray = (ArrayList<String>) synJsonObject.get(synWord);
-							words.addAll(synArray);
-							//							System.out.println(synArray);
-						}
+//						Iterator<String> synArrayIterator = synJsonObject.keySet().iterator();
+//						while (synArrayIterator.hasNext()) {
+//							String synWord = synArrayIterator.next();
+//							ArrayList<String> synArray = (ArrayList<String>) synJsonObject.get(synWord);
+//							words.addAll(synArray);
+//							//							System.out.println(synArray);
+//						}
 
 					}	
 					//					System.out.println(words);
