@@ -39,8 +39,8 @@ public class SplitNationality {
 				if(!nationality.isEmpty()){
 					String[] splitValues = nationality.split(",");
 					for(String value : splitValues){
-						if(value.trim().startsWith("circa") || value.trim().matches("\\d{4}-\\d{4}")
-								|| value.trim().contains("cenutry") || value.trim().contains("circa") || value.trim().contains("born")){
+						if(value.trim().startsWith("circa") || value.trim().matches("\\d{4}-\\d{4}") || value.trim().matches("\\d{4} - \\d{4}")
+								|| value.trim().contains("century") || value.trim().contains("circa") || value.trim().contains("born")){
 							yearDate = value;
 							continue;
 						}
@@ -68,9 +68,46 @@ public class SplitNationality {
 							birth = splitValues[0].replaceAll("[^0-9]", "");
 							death = splitValues[1].replaceAll("[^0-9]", "");
 						}
+
+						nationality = buffer.toString();
+					}else{
+						if(!nationality.isEmpty() && !nationality.matches("[A-Za-z ]+")){
+							if(nationality.matches("([a-zA-Z]+, [a-zA-Z]+ [0-9]+) - ([a-zA-Z]+, [a-zA-Z]+ [0-9]+)")
+									|| nationality.matches("([a-zA-Z]+, [a-zA-Z]+ [0-9]+)-([a-zA-Z]+, [a-zA-Z]+ [0-9]+)")){
+								splitValues = nationality.split("-");
+								splitValues[0] = splitValues[0].trim();
+								splitValues[1] = splitValues[1].trim();
+								int firstValLen = splitValues[0].length();
+								int secondValLen = splitValues[1].length();
+								nationality = splitValues[0].substring(0, firstValLen - 5).trim();
+								birth = splitValues[0].substring(firstValLen - 5, firstValLen).trim();
+								death = splitValues[1].substring(secondValLen - 5, secondValLen).trim();
+							}else {
+								if(nationality.contains("â€“")){
+									nationality = nationality.replace("â€“", "-");
+								}else if(nationality.contains("â€")){
+									nationality = nationality.replace("â€", "-");
+								}
+
+								nationality = nationality.replaceAll("[^A-Za-z0-9,\\-/ ]", "");
+								int len = nationality.length();
+								String textBeforeYear = nationality.substring(0, len - 9).trim();
+								String lastSubstrYear = nationality.substring(len - 9, len).trim();
+								if(lastSubstrYear.matches("\\d{4}-\\d{4}") || lastSubstrYear.matches("\\d{4} - \\d{4}")){
+									nationality = textBeforeYear.replaceAll("[^A-Za-z, ]", "");
+									splitValues = lastSubstrYear.split("-");
+									birth = splitValues[0].replaceAll("[^0-9]", "");
+									death = splitValues[1].replaceAll("[^0-9]", "");
+								}else if(lastSubstrYear.matches("\\d{4}â€\\d{4}") || lastSubstrYear.matches("\\d{4} â€ \\d{4}")){
+									nationality = textBeforeYear.replaceAll("[^A-Za-z, ]", "");
+									splitValues = lastSubstrYear.split("-");
+									birth = splitValues[0].replaceAll("[^0-9]", "");
+									death = splitValues[1].replaceAll("[^0-9]", "");
+								}
+							}
+						}
 					}
 
-					nationality = buffer.toString();
 					if(nationality.endsWith(",")){
 						nationality = nationality.substring(0, nationality.length() - 1);
 					}
