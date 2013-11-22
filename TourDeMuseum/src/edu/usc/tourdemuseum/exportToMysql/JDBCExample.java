@@ -35,6 +35,7 @@ public class JDBCExample {
 	private static String provenance;
 	private static String description;
 	private static String department;
+	private static String museum_name;
 
 
 
@@ -179,8 +180,25 @@ public class JDBCExample {
                 {
                 	department ="";
                 }
-                 insertData();
-
+                if(imageURL.contains("lacma"))
+                {
+                	museum_name="lacma";
+                }
+                else if(imageURL.contains("www.dia.org"))
+                {
+                	museum_name="detroit";
+                }
+                else if(imageURL.contains("artic"))
+                {
+                	museum_name="artic";
+                }
+                else
+                {
+                	System.out.println("WTF");
+                	System.exit(0);
+                }
+                System.out.println(museum_name);
+                insertData();
 			}
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
@@ -196,12 +214,14 @@ public class JDBCExample {
 
 	private static void insertData() {
 		// TODO Auto-generated method stub
+		artist_name = "abc\"nf";
 		String insertStmnt = "INSERT INTO painting (birth_year,death_year,title,nationality,classification,"
-				+"artist_name,accession_id,dimensions,credit,date,medium,imageURL,provenance,description,department)"
-				+" VALUES (\""+StringEscapeUtils.escapeSql(birth_year)+"\",\""+StringEscapeUtils.escapeSql(death_year)+"\",\""+StringEscapeUtils.escapeSql(title)+"\",\""+StringEscapeUtils.escapeSql(nationality)+"\",\""+StringEscapeUtils.escapeSql(classification)+"\",\""
-				+StringEscapeUtils.escapeSql(artist_name)+"\",\""+StringEscapeUtils.escapeSql(accession_id)+"\",\""+StringEscapeUtils.escapeSql(dimensions)+"\",\""+StringEscapeUtils.escapeSql(credit)+"\",\""+StringEscapeUtils.escapeSql(date)+"\",\""+StringEscapeUtils.escapeSql(medium)+"\",\""
-				+imageURL+"\",\""+StringEscapeUtils.escapeSql(provenance)+"\",\""+StringEscapeUtils.escapeSql(description)+"\",\""+StringEscapeUtils.escapeSql(department)+"\")";
+                +"artist_name,accession_id,dimensions,credit,date,medium,imageURL,provenance,description,department,museum_name)"
+                +" VALUES (\""+StringEscapeUtils.escapeJava(birth_year)+"\",\""+StringEscapeUtils.escapeJava(death_year)+"\",\""+StringEscapeUtils.escapeJava(title)+"\",\""+StringEscapeUtils.escapeJava(nationality)+"\",\""+StringEscapeUtils.escapeJava(classification)+"\",\""
+                +StringEscapeUtils.escapeJava(artist_name)+"\",\""+StringEscapeUtils.escapeJava(accession_id)+"\",\""+StringEscapeUtils.escapeJava(dimensions)+"\",\""+StringEscapeUtils.escapeJava(credit)+"\",\""+StringEscapeUtils.escapeJava(date)+"\",\""+StringEscapeUtils.escapeJava(medium)+"\",\""
+                +imageURL+"\",\""+StringEscapeUtils.escapeJava(provenance)+"\",\""+StringEscapeUtils.escapeJava(description)+"\",\""+StringEscapeUtils.escapeJava(department)+"\",\""+StringEscapeUtils.escapeJava(museum_name)+"\")";
 		System.out.println(insertStmnt);
+		
 		connectDB();
 		PreparedStatement preparedStatement = null;
 		try {
@@ -212,6 +232,7 @@ public class JDBCExample {
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			//System.exit(0);
 		}finally {
  
 			if (preparedStatement != null) {
