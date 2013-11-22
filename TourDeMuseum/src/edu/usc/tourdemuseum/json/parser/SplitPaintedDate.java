@@ -1,6 +1,7 @@
 package edu.usc.tourdemuseum.json.parser;
 
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -16,17 +17,13 @@ public class SplitPaintedDate {
 
 	public static void parseJsonAndTokenize(Path inputPath) throws IOException {
 		ObjectMapper objectMapper = new ObjectMapper();
-		JsonNode rootNode = objectMapper.readTree(Files.newInputStream(inputPath));
+		JsonNode rootNode = objectMapper.readTree(new InputStreamReader(Files.newInputStream(inputPath), "UTF-8"));
 
 		ArrayNode jsonArray = (ArrayNode) rootNode.get("paintings");
 		Iterator<JsonNode> jsonNodeIter = jsonArray.iterator();
 		JsonNode paintingNode, dateNode;
 
 		Path fileName = inputPath.getFileName();
-		if(!Files.exists(fileName)){
-			Files.createFile(fileName);
-		}
-
 		while(jsonNodeIter.hasNext()){
 			paintingNode = (JsonNode)jsonNodeIter.next();
 			dateNode = paintingNode.get("date");
@@ -52,7 +49,7 @@ public class SplitPaintedDate {
 		}
 
 		ObjectWriter writer = objectMapper.writerWithDefaultPrettyPrinter();
-		writer.writeValue(Files.newOutputStream(Paths.get(fileName + "-with-birth-death.json")), rootNode);
+		writer.writeValue(Files.newOutputStream(Paths.get(fileName.toString().split("\\.")[0] + "-date.json")), rootNode);
 	}
 
 	public static void main(String[] args) throws IOException {

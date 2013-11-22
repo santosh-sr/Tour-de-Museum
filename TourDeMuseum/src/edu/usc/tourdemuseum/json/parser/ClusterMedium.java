@@ -15,18 +15,21 @@ import org.codehaus.jackson.JsonNode;
 import org.codehaus.jackson.map.ObjectMapper;
 import org.codehaus.jackson.node.ArrayNode;
 
+import uk.ac.shef.wit.simmetrics.similaritymetrics.Jaro;
 import uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler;
-
+import uk.ac.shef.wit.simmetrics.similaritymetrics.Levenshtein;
+import uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWaterman;
 import edu.usc.tourdemuseum.model.ArtWork;
-import edu.usc.tourdemuseum.model.ArtWork.Museum;
 import edu.usc.tourdemuseum.model.Entities;
 import edu.usc.tourdemuseum.model.Painter;
 import edu.usc.tourdemuseum.model.Synonyms;
 import edu.usc.tourdemuseum.model.Year;
+import edu.usc.tourdemuseum.model.ArtWork.Museum;
 import edu.usc.tourdemuseum.similarity.EntitySimilarity;
 import edu.usc.tourdemuseum.similarity.EntitySimilarity.EntityWithPainting;
 
-public class JSONConvertor {
+public class ClusterMedium {
+
 	private static List<ArtWork> artWorkList = new ArrayList<>();
 
 	public static List<ArtWork> getArtWorkList(){
@@ -273,14 +276,17 @@ public class JSONConvertor {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 		if(args.length < 2){
-			System.out.println("JSONConvertor <museum-type> <json path>");
+			System.out.println("ClusterMedium <museum-type> <json path>");
 			System.exit(0);
 		}
 
+		System.out.println("Start...");
 		Museum museum;
 
+		System.out.println(args.length);
 		for(int i=0; i<args.length/2; i++){
 			String museumType = args[2 * i];
+			System.out.println(museumType);
 			museum = getMuseum(museumType);
 
 			parseJSONToObject(museum, Paths.get(args[(2 * i) + 1]));
@@ -291,23 +297,28 @@ public class JSONConvertor {
 		List<EntityWithPainting> entityPaintingList;
 		EntityWithPainting entityPainting;
 		boolean addedArtwork;
-		JaroWinkler jarowinkler = new JaroWinkler();
+		Levenshtein levn = new Levenshtein();
+		Jaro jaro = new Jaro();
+		SmithWaterman smith = new SmithWaterman();
+		System.out.println(artWorkList);
 		for(int i = 0; i < artWorkList.size(); i++){
 			//Art work
 			ArtWork artWork = artWorkList.get(i);
-
-			//person
-			entityPaintingList = similarity.getArtworksList("person");
-			String painterName = artWork.getPainter().getPainterName();
+			
+			
+			//medium
+			entityPaintingList = similarity.getArtworksList("medium");
+			String artMedium = artWork.getMedium();
 			if(entityPaintingList == null || entityPaintingList.size() <= 0){
-				entityPainting = new EntityWithPainting(painterName);
+				entityPainting = new EntityWithPainting(artMedium);
 				entityPainting.addArtwork(artWork);
-				similarity.addEntityWithPainting("person", entityPainting);
+				similarity.addEntityWithPainting("medium", entityPainting);
 			}else{
 				addedArtwork = false;
 				for(EntityWithPainting entityPaintingObj : entityPaintingList){
 					String entityName = entityPaintingObj.getEntityName();
-					if(entityName != null && painterName != null && jarowinkler.getSimilarity(entityName, painterName) > 0.90){
+					
+					if(entityName != null && artMedium != null && smith.getSimilarity(entityName, artMedium) >= 0.75){
 						entityPaintingObj.addArtwork(artWork);
 						addedArtwork = true;
 						break;
@@ -315,34 +326,7 @@ public class JSONConvertor {
 				}
 
 				if(!addedArtwork){
-					entityPainting = new EntityWithPainting(painterName);
-					entityPainting.addArtwork(artWork);
-					entityPaintingList.add(entityPainting);
-				}
-			}
-
-			//painted year
-			entityPaintingList = similarity.getArtworksList("painted_year");
-			String paintedOn = artWork.getPaintedYear().getYear();
-			//System.out.println(paintedOn);
-			if(entityPaintingList == null || entityPaintingList.size() <= 0){
-				entityPainting = new EntityWithPainting(paintedOn);
-				entityPainting.addArtwork(artWork);
-				similarity.addEntityWithPainting("painted_year", entityPainting);
-			}else{
-				addedArtwork = false;
-				for(EntityWithPainting entityPaintingObj : entityPaintingList){
-					String entityName = entityPaintingObj.getEntityName();
-					if(entityName != null && painterName != null && (paintedOn.equals(entityName) || 
-							paintedOn.contains(entityName) || entityName.contains(paintedOn))){
-						entityPaintingObj.addArtwork(artWork);
-						addedArtwork = true;
-						break;
-					}
-				}
-
-				if(!addedArtwork){
-					entityPainting = new EntityWithPainting(paintedOn);
+					entityPainting = new EntityWithPainting(artMedium);
 					entityPainting.addArtwork(artWork);
 					entityPaintingList.add(entityPainting);
 				}
@@ -350,47 +334,24 @@ public class JSONConvertor {
 		}
 
 		//write person cluster
-		entityPaintingList = similarity.getArtworksList("person");
-		Path personClusterPath = Paths.get("person-cluster.csv");
-		if(!Files.exists(personClusterPath)){
-			Files.createFile(personClusterPath);
+		entityPaintingList = similarity.getArtworksList("medium");
+		Path mediumClusterPath = Paths.get("medium-cluster.csv");
+		if(!Files.exists(mediumClusterPath)){
+			Files.createFile(mediumClusterPath);
 		}
 
-		try(PrintWriter writer = new PrintWriter(personClusterPath.toFile())){
-			writer.write("key_painter| matching_painter| image_url| museum\n");
+		System.out.println(mediumClusterPath);
+		try(PrintWriter writer = new PrintWriter(mediumClusterPath.toFile())){
+			writer.write("key_medium| matching_medium| image_url| museum\n");
 
 			StringBuffer buffer = new StringBuffer();
 			for(EntityWithPainting entityPaintingObj : entityPaintingList){
 				List<ArtWork> matchingArtworkList = entityPaintingObj.getArtworkList();
 				for(ArtWork artwork : matchingArtworkList){
 					buffer.append(entityPaintingObj.getEntityName()).append("|");
-					buffer.append(artwork.getPainter().getPainterName()).append("|")
+					buffer.append(artwork.getMedium()).append("|")
 					.append(artwork.getImageUrl()).append("|").append(artwork.getMuseum().name().toLowerCase()).append("\n");
-					
-					writer.write(buffer.toString());
-					buffer.setLength(0);
-				}
-			}
-		}
 
-		//write painter year cluster
-		entityPaintingList = similarity.getArtworksList("painted_year");
-		Path paintedYearClusterPath = Paths.get("painted-year-cluster.csv");
-		if(!Files.exists(paintedYearClusterPath)){
-			Files.createFile(paintedYearClusterPath);
-		}
-
-		try(PrintWriter writer = new PrintWriter(paintedYearClusterPath.toFile())){
-			writer.write("keyword_painted_year | matching_year| image_url| museum\n");
-
-			StringBuffer buffer = new StringBuffer();
-			for(EntityWithPainting entityPaintingObj : entityPaintingList){
-				List<ArtWork> matchingArtworkList = entityPaintingObj.getArtworkList();
-				for(ArtWork artwork : matchingArtworkList){
-					buffer.append(entityPaintingObj.getEntityName()).append("|");
-					buffer.append(artwork.getPaintedYear().getYear()).append("|")
-					.append(artwork.getImageUrl()).append("|").append(artwork.getMuseum().name().toLowerCase()).append("\n");
-					
 					writer.write(buffer.toString());
 					buffer.setLength(0);
 				}
@@ -409,4 +370,5 @@ public class JSONConvertor {
 		}
 		return museum;
 	}
+
 }
