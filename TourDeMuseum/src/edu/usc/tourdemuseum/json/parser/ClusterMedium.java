@@ -15,9 +15,6 @@ import org.codehaus.jackson.JsonNode;
 import org.codehaus.jackson.map.ObjectMapper;
 import org.codehaus.jackson.node.ArrayNode;
 
-import uk.ac.shef.wit.simmetrics.similaritymetrics.Jaro;
-import uk.ac.shef.wit.simmetrics.similaritymetrics.JaroWinkler;
-import uk.ac.shef.wit.simmetrics.similaritymetrics.Levenshtein;
 import uk.ac.shef.wit.simmetrics.similaritymetrics.SmithWaterman;
 import edu.usc.tourdemuseum.model.ArtWork;
 import edu.usc.tourdemuseum.model.Entities;
@@ -297,8 +294,6 @@ public class ClusterMedium {
 		List<EntityWithPainting> entityPaintingList;
 		EntityWithPainting entityPainting;
 		boolean addedArtwork;
-		Levenshtein levn = new Levenshtein();
-		Jaro jaro = new Jaro();
 		SmithWaterman smith = new SmithWaterman();
 		System.out.println(artWorkList);
 		for(int i = 0; i < artWorkList.size(); i++){
@@ -318,7 +313,8 @@ public class ClusterMedium {
 				for(EntityWithPainting entityPaintingObj : entityPaintingList){
 					String entityName = entityPaintingObj.getEntityName();
 					
-					if(entityName != null && artMedium != null && smith.getSimilarity(entityName, artMedium) >= 0.75){
+					if(entityName != null && artMedium != null && !entityName.isEmpty() &&
+							!artMedium.isEmpty() && smith.getSimilarity(entityName, artMedium) >= 0.75){
 						entityPaintingObj.addArtwork(artWork);
 						addedArtwork = true;
 						break;

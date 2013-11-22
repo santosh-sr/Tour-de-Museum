@@ -2,6 +2,7 @@ package edu.usc.tourdemuseum.json.parser;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.URL;
 import java.nio.file.Files;
@@ -268,7 +269,7 @@ public class JSONConvertor {
 
 	private static JsonNode parseJson(Path filePath) throws IOException{
 		ObjectMapper objectMapper = new ObjectMapper();
-		return objectMapper.readTree(Files.newInputStream(filePath));
+		return objectMapper.readTree(new InputStreamReader(Files.newInputStream(filePath), "UTF-8"));
 	}
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
@@ -307,14 +308,15 @@ public class JSONConvertor {
 				addedArtwork = false;
 				for(EntityWithPainting entityPaintingObj : entityPaintingList){
 					String entityName = entityPaintingObj.getEntityName();
-					if(entityName != null && painterName != null && jarowinkler.getSimilarity(entityName, painterName) > 0.90){
+					if(entityName != null && painterName != null && !entityName.isEmpty() && !painterName.isEmpty() 
+							&& jarowinkler.getSimilarity(entityName, painterName) >= 0.94){
 						entityPaintingObj.addArtwork(artWork);
 						addedArtwork = true;
 						break;
 					}
 				}
 
-				if(!addedArtwork){
+				if(!addedArtwork && painterName != null && !painterName.isEmpty()){
 					entityPainting = new EntityWithPainting(painterName);
 					entityPainting.addArtwork(artWork);
 					entityPaintingList.add(entityPainting);
@@ -333,7 +335,7 @@ public class JSONConvertor {
 				addedArtwork = false;
 				for(EntityWithPainting entityPaintingObj : entityPaintingList){
 					String entityName = entityPaintingObj.getEntityName();
-					if(entityName != null && painterName != null && (paintedOn.equals(entityName) || 
+					if(entityName != null && paintedOn != null && !entityName.isEmpty() && !paintedOn.isEmpty() && (paintedOn.equals(entityName) || 
 							paintedOn.contains(entityName) || entityName.contains(paintedOn))){
 						entityPaintingObj.addArtwork(artWork);
 						addedArtwork = true;
@@ -341,7 +343,7 @@ public class JSONConvertor {
 					}
 				}
 
-				if(!addedArtwork){
+				if(!addedArtwork && paintedOn != null && !paintedOn.isEmpty()){
 					entityPainting = new EntityWithPainting(paintedOn);
 					entityPainting.addArtwork(artWork);
 					entityPaintingList.add(entityPainting);
