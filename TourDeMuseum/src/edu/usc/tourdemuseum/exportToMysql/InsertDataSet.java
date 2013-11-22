@@ -18,7 +18,7 @@ import org.json.simple.parser.ParseException;
 import java.sql.PreparedStatement;
 
 
-public class JDBCExample {
+public class InsertDataSet {
 	private static Connection connection = null;
 	private static String birth_year;
 	private static String death_year;
