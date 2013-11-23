@@ -2,6 +2,7 @@ package edu.usc.tourdemuseum.json.parser;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.URL;
 import java.nio.file.Files;
@@ -268,7 +269,7 @@ public class ClusterMedium {
 
 	private static JsonNode parseJson(Path filePath) throws IOException{
 		ObjectMapper objectMapper = new ObjectMapper();
-		return objectMapper.readTree(Files.newInputStream(filePath));
+		return objectMapper.readTree(new InputStreamReader(Files.newInputStream(filePath), "UTf-8"));
 	}
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
@@ -277,13 +278,9 @@ public class ClusterMedium {
 			System.exit(0);
 		}
 
-		System.out.println("Start...");
 		Museum museum;
-
-		System.out.println(args.length);
 		for(int i=0; i<args.length/2; i++){
 			String museumType = args[2 * i];
-			System.out.println(museumType);
 			museum = getMuseum(museumType);
 
 			parseJSONToObject(museum, Paths.get(args[(2 * i) + 1]));
@@ -295,15 +292,18 @@ public class ClusterMedium {
 		EntityWithPainting entityPainting;
 		boolean addedArtwork;
 		SmithWaterman smith = new SmithWaterman();
-		System.out.println(artWorkList);
 		for(int i = 0; i < artWorkList.size(); i++){
 			//Art work
 			ArtWork artWork = artWorkList.get(i);
-			
-			
+
 			//medium
 			entityPaintingList = similarity.getArtworksList("medium");
 			String artMedium = artWork.getMedium();
+
+			//ignore empty medium
+			if(artMedium != null && artMedium.isEmpty())
+				continue;
+
 			if(entityPaintingList == null || entityPaintingList.size() <= 0){
 				entityPainting = new EntityWithPainting(artMedium);
 				entityPainting.addArtwork(artWork);
@@ -312,7 +312,7 @@ public class ClusterMedium {
 				addedArtwork = false;
 				for(EntityWithPainting entityPaintingObj : entityPaintingList){
 					String entityName = entityPaintingObj.getEntityName();
-					
+
 					if(entityName != null && artMedium != null && !entityName.isEmpty() &&
 							!artMedium.isEmpty() && smith.getSimilarity(entityName, artMedium) >= 0.75){
 						entityPaintingObj.addArtwork(artWork);
@@ -321,7 +321,7 @@ public class ClusterMedium {
 					}
 				}
 
-				if(!addedArtwork){
+				if(!addedArtwork && artMedium != null && !artMedium.isEmpty()){
 					entityPainting = new EntityWithPainting(artMedium);
 					entityPainting.addArtwork(artWork);
 					entityPaintingList.add(entityPainting);
@@ -336,7 +336,6 @@ public class ClusterMedium {
 			Files.createFile(mediumClusterPath);
 		}
 
-		System.out.println(mediumClusterPath);
 		try(PrintWriter writer = new PrintWriter(mediumClusterPath.toFile())){
 			writer.write("key_medium| matching_medium| image_url| museum\n");
 
