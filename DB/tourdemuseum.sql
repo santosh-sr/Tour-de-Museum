@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Nov 23, 2013 at 01:26 AM
+-- Generation Time: Nov 23, 2013 at 04:13 AM
 -- Server version: 5.5.24-log
 -- PHP Version: 5.3.13
 
@@ -2988,7 +2988,7 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Bronze', 1964, 'Bronze relief in modern ebonized wood frame with bronze mounts'),
 ('Bronze', 1965, 'Bronze on bronze and marble base'),
 ('Bronze', 1968, 'Bronze'),
-('Bronze', 1972, 'Bronze (BarbuFFFDdienne cast no. 23)'),
+('Bronze', 1972, 'Bronze (Barb?dienne cast no. 23)'),
 ('Bronze', 1975, 'Bronze'),
 ('Bronze', 1976, 'Bronze'),
 ('Bronze', 1979, 'Bronze'),
@@ -3240,7 +3240,7 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Bronze', 795, 'Carcase of oak and fir with tulipwood, holly and amaranth with gilt-bronze mounts and stamped leather'),
 ('Bronze', 796, 'Oak carcass, veneered with tulipwood, holly, ebony, and amaranth, plaques of soft-paste porcelain, gilt-bronze mounts'),
 ('Bronze', 798, 'Tulipwood, kingwood, holly, sycamore, and amaranth on oak carcass with gilt-bronze mounts'),
-('Bronze', 800, 'Amaranth, tulipwood, u00A6boisu00A6 u00A6satinuFFFDu00A6, and other woods on oak carcass with gilt-bronze mounts'),
+('Bronze', 800, 'Amaranth, tulipwood, uFFFDboisuFFFD uFFFDsatin?uFFFD, and other woods on oak carcass with gilt-bronze mounts'),
 ('Bronze', 801, 'Gilded wood and gilt-bronze mounts with bronze bowls'),
 ('Bronze', 802, 'Oak and fir carcase with marquetry and lacquered bronze mounts'),
 ('Bronze', 803, 'Carcase of oak, fir and poplar, marquetry and lacquered bronze mounts.'),
@@ -3317,7 +3317,7 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Bronze', 1964, 'Bronze relief in modern ebonized wood frame with bronze mounts'),
 ('Bronze', 1965, 'Bronze on bronze and marble base'),
 ('Bronze', 1968, 'Bronze'),
-('Bronze', 1972, 'Bronze (BarbuFFFDdienne cast no. 23)'),
+('Bronze', 1972, 'Bronze (Barb?dienne cast no. 23)'),
 ('Bronze', 1975, 'Bronze'),
 ('Bronze', 1976, 'Bronze'),
 ('Bronze', 1979, 'Bronze'),
@@ -3804,7 +3804,6 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Wax relief on modern synthetic support in glazed, ebonized frame', 1899, 'Wax relief on modern synthetic support in glazed, ebonized frame'),
 ('Wax relief on modern synthetic support in glazed, ebonized frame', 2325, 'Wax'),
 ('Wax relief on modern synthetic support in glazed, ebonized frame', 1899, 'Wax relief on modern synthetic support in glazed, ebonized frame'),
-('', 1907, ''),
 ('Polychrome and gilt linden wood', 1909, 'Polychrome and gilt linden wood'),
 ('Polychrome and gilt linden wood', 1914, 'Polychromed linden wood'),
 ('Polychrome and gilt linden wood', 602, 'Lindenwood'),
@@ -3819,7 +3818,6 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Limestone', 492, 'Limestone, polychromy'),
 ('Limestone', 495, 'Limestone, glass'),
 ('Limestone', 1915, 'Limestone'),
-('', 1923, ''),
 ('Partially gilded and painted lindenwood', 1938, 'Partially gilded and painted lindenwood'),
 ('Partially gilded and painted lindenwood', 1938, 'Partially gilded and painted lindenwood'),
 ('Plaster on painted wood socle and plinth', 1939, 'Plaster on painted wood socle and plinth'),
@@ -3829,7 +3827,6 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Plaster on painted wood socle and plinth', 1939, 'Plaster on painted wood socle and plinth'),
 ('Wax with metal armature on wood base', 1957, 'Wax with metal armature on wood base'),
 ('Wax with metal armature on wood base', 1957, 'Wax with metal armature on wood base'),
-('', 1974, ''),
 ('Electrotype', 1977, 'Electrotype'),
 ('Electrotype', 2094, 'Lead-filled copper (electrotype)'),
 ('Electrotype', 741, 'Electrotype (lead, surfaced with copper)'),
@@ -4193,10 +4190,10 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Oil on canvas', 19, 'Oil on canvas'),
 ('Oil on canvas', 20, 'Oil on canvas'),
 ('Oil on canvas', 21, 'Oil on canvas'),
-('Oil on canvas', 22, 'Oil on canvas');
-INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
+('Oil on canvas', 22, 'Oil on canvas'),
 ('Oil on canvas', 23, 'Oil on canvas'),
-('Oil on canvas', 24, 'Oil on canvas'),
+('Oil on canvas', 24, 'Oil on canvas');
+INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Oil on canvas', 25, 'Oil on canvas'),
 ('Oil on canvas', 26, 'Oil on canvas'),
 ('Oil on canvas', 28, 'Oil on canvas'),
@@ -5069,7 +5066,7 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Oil on copper', 165, 'Oil on copper panel'),
 ('Oil on copper', 167, 'Oil on copper panel'),
 ('Oil on copper', 169, 'Oil on copper panel'),
-('Oil on copper', 426, 'ChamplevuFFFD enamel on copper'),
+('Oil on copper', 426, 'Champlev? enamel on copper'),
 ('Oil on copper', 471, 'Enamel on copper'),
 ('Oil on copper', 472, 'Enamel on copper'),
 ('Oil on copper', 473, 'Enamel on copper'),
@@ -5223,7 +5220,6 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Oil on academy board', 133, 'Oil on academy board'),
 ('Oil on academy board', 1312, 'Oil on academy board'),
 ('Oil on academy board', 1774, 'Oil on cardboard'),
-('', 134, ''),
 ('Oil on laid paper', 259, 'Oil on laid paper'),
 ('Stoneware, smear glazed', 331, 'Stoneware, smear glazed'),
 ('wool, silk', 338, 'wool, silk'),
@@ -5253,7 +5249,7 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Carved wood with traces of polychromy; wrought iron', 587, 'Ivory, with traces of polychromy'),
 ('Carved wood with traces of polychromy; wrought iron', 748, 'Oak with traces of polychromy'),
 ('Rosewood, painted panels, brass', 347, 'Rosewood, painted panels, brass'),
-('ChamplevuFFFD enamel on gilt copper, glass', 349, 'ChamplevuFFFD enamel on gilt copper, glass'),
+('Champlev? enamel on gilt copper, glass', 349, 'Champlev? enamel on gilt copper, glass'),
 ('Silver, parcel gilt', 350, 'Silver, parcel gilt'),
 ('Silver, parcel gilt', 445, 'Silver, parcel gilt'),
 ('Silver, parcel gilt', 451, 'Silver, parcel gilt, lapis lazuli & champleve enamel'),
@@ -5279,13 +5275,13 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Tin-glazed earthenware with enamel decoration', 700, 'Tin-glazed earthenware with polychrome decoration'),
 ('Tin-glazed earthenware with enamel decoration', 701, 'Glazed earthenware'),
 ('Tin-glazed earthenware with enamel decoration', 702, 'Glazed earthenware'),
-('Tin-glazed earthenware with enamel decoration', 705, 'Tin-glazed earthenware (fau00EFence) with enamel decoration'),
+('Tin-glazed earthenware with enamel decoration', 705, 'Tin-glazed earthenware (fauFFFDence) with enamel decoration'),
 ('Tin-glazed earthenware with enamel decoration', 733, 'Tin-glazed earthenware with enamel decoration'),
 ('Tin-glazed earthenware with enamel decoration', 749, 'Tin-glazed earthenware with polychrome decoration'),
 ('Tin-glazed earthenware with enamel decoration', 753, 'Tin-glazed earthenware with polychrome decoration'),
-('Tin-glazed earthenware with enamel decoration', 761, 'Tin-glazed earthenware with polychrome decoration');
+('Tin-glazed earthenware with enamel decoration', 761, 'Tin-glazed earthenware with polychrome decoration'),
+('Hard-paste porcelain with demi-grand-feu colors (medium- intense-firing colors) pate-sur-pate ornamentation, gilding, and ormolu mount', 360, 'Hard-paste porcelain with demi-grand-feu colors (medium- intense-firing colors) pate-sur-pate ornamentation, gilding, and ormolu mount');
 INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
-('Hard-paste porcelain with demi-grand-feu colors (medium- intense-firing colors) pate-sur-pate ornamentation, gilding, and ormolu mount', 360, 'Hard-paste porcelain with demi-grand-feu colors (medium- intense-firing colors) pate-sur-pate ornamentation, gilding, and ormolu mount'),
 ('Hard-paste porcelain on original gilt wood base', 362, 'Hard-paste porcelain on original gilt wood base'),
 ('Hard-paste porcelain with enamel decoration', 363, 'Hard-paste porcelain with enamel decoration'),
 ('Hard-paste porcelain with enamel decoration', 409, 'Tin-glazed soft-paste porcelain with colored enamel decoration, silver mount'),
@@ -5368,7 +5364,7 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Soft-paste biscuit porcelain', 895, 'Biscuit porcelain'),
 ('Silvered brass, marquetry of ivory, copper alloy and exotic woods', 388, 'Silvered brass, marquetry of ivory, copper alloy and exotic woods'),
 ('Mahogany case, oak interior, various exotic wood veneers, mother-of-pearl,  wrought iron mounts, glass shelves', 398, 'Mahogany case, oak interior, various exotic wood veneers, mother-of-pearl,  wrought iron mounts, glass shelves'),
-('Painted and gilded wood with inset verre uFFFDglomisuFFFD', 401, 'Painted and gilded wood with inset verre uFFFDglomisuFFFD'),
+('Painted and gilded wood with inset verre ?glomis?', 401, 'Painted and gilded wood with inset verre ?glomis?'),
 ('Pearwood, ebony, alabaster, pietre dure panels', 403, 'Pearwood, ebony, alabaster, pietre dure panels'),
 ('Earthenware with iridescent glaze', 404, 'Earthenware with iridescent glaze'),
 ('Earthenware with iridescent glaze', 405, 'Earthenware with iridescent glaze'),
@@ -5391,8 +5387,8 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Pewter with embossed heron and foliage', 441, 'Pewter with embossed heron and foliage'),
 ('Pewter and glass', 442, 'Pewter and glass'),
 ('Glazed earthenware and pewter', 444, 'Glazed earthenware and pewter'),
-('Tin-glazed earthenware (fau00EFence) with pewter mounts', 447, 'Tin-glazed earthenware (fau00EFence) with pewter mounts'),
-('Tin-glazed earthenware (fau00EFence) with pewter mounts', 461, 'Tin-glazed earthenware (fau00EFence) with pewter mounts'),
+('Tin-glazed earthenware (fauFFFDence) with pewter mounts', 447, 'Tin-glazed earthenware (fauFFFDence) with pewter mounts'),
+('Tin-glazed earthenware (fauFFFDence) with pewter mounts', 461, 'Tin-glazed earthenware (fauFFFDence) with pewter mounts'),
 ('Carved Ivory', 455, 'Carved Ivory'),
 ('Silver, embossed, cast, engraved and gilt', 457, 'Silver, embossed, cast, engraved and gilt'),
 ('Hard-paste porcelain with polychrome enameling on French ormolu mount', 459, 'Hard-paste porcelain with polychrome enameling on French ormolu mount'),
@@ -5452,7 +5448,7 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('European walnut (probably),  with polychrome decoration, gilt', 614, 'European walnut (probably),  with polychrome decoration, gilt'),
 ('Oak veneered with walnut, inlaid with mother-of-pearl, green and white ivory, tin and brass, with marquetry in yew and rosewood; mahogany and ebony are used in the moldings; ormolu mounts', 615, 'Oak veneered with walnut, inlaid with mother-of-pearl, green and white ivory, tin and brass, with marquetry in yew and rosewood; mahogany and ebony are used in the moldings; ormolu mounts'),
 ('Silk with gold thread', 616, 'Silk with gold thread'),
-('silk velvet ground with appliquuFFFD of silk and gilt-wrapped silk thread embroidered on linen plain weave', 619, 'silk velvet ground with appliquuFFFD of silk and gilt-wrapped silk thread embroidered on linen plain weave'),
+('silk velvet ground with appliqu? of silk and gilt-wrapped silk thread embroidered on linen plain weave', 619, 'silk velvet ground with appliqu? of silk and gilt-wrapped silk thread embroidered on linen plain weave'),
 ('Pietra serena with traces of paint', 621, 'Pietra serena with traces of paint'),
 ('Tin-glazed soft-paste porcelain', 623, 'Tin-glazed soft-paste porcelain'),
 ('Tin-glazed soft-paste porcelain', 637, 'Glazed soft-paste porcelain with polychrome enamel and gold'),
@@ -5518,7 +5514,6 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Cased glass with enameling and gilding', 892, 'Cased glass with enameling and gilding'),
 ('Lead cast, dark patina', 896, 'Lead cast, dark patina'),
 ('Oil and collage on Masonite', 1208, 'Oil and collage on Masonite'),
-('', 1242, ''),
 ('Oil on wood', 1247, 'Oil on wood'),
 ('Oil on wood', 1256, 'Oil on plywood'),
 ('Oil on wood', 1525, 'Oil on wood'),
@@ -5559,7 +5554,6 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Oil on wood', 1803, 'Oil on wood'),
 ('Oil on wood', 1824, 'Oil on wood'),
 ('Oil on wood', 1829, 'Oil on wood'),
-('', 1276, ''),
 ('Papier-mach?with egg tempera', 1290, 'Papier-mach?with egg tempera'),
 ('Wood (walnut, mahogany, oak, paduak and goncalo alves)', 1304, 'Wood (walnut, mahogany, oak, paduak and goncalo alves)'),
 ('Oil on hardboard (Presdwood)', 1320, 'Oil on hardboard (Presdwood)'),
@@ -5569,19 +5563,12 @@ INSERT INTO `medium` (`medium`, `painting_id`, `org_medium`) VALUES
 ('Graphite on paper', 1363, 'Graphite on paper'),
 ('Ultrachrome print', 1368, 'Ultrachrome print'),
 ('Wood panel with gilt, polychrome, and ivory', 1377, 'Wood panel with gilt, polychrome, and ivory'),
-('', 1412, ''),
 ('Oil on fiberboard', 1416, 'Oil on fiberboard'),
 ('Lignum vitae (hard wood)', 1440, 'Lignum vitae (hard wood)'),
-('', 1465, ''),
 ('Linocut', 1515, 'Linocut'),
 ('Distemper on linen', 1535, 'Distemper on linen'),
-('', 1536, ''),
-('', 1697, ''),
 ('Oil on silvered copper', 1769, 'Oil on silvered copper'),
-('Oil on walnut panel', 1858, 'Oil on walnut panel'),
-('', 1907, ''),
-('', 1923, ''),
-('', 1974, '');
+('Oil on walnut panel', 1858, 'Oil on walnut panel');
 
 -- --------------------------------------------------------
 

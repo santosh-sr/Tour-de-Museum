@@ -21,12 +21,10 @@ public class InsertClusters {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		connectDB();
-/*		for(int i =0; i<args.length ; i++)
+		for(int i =0; i<args.length ; i++)
 		{
-		readFile(args[i],i);
-		}
-*/
-		readFile(args[2],2);
+			readFile(args[i],i);
+		}	
 	}
 
 	private static void readFile(String string,int fileNbr) {
@@ -42,18 +40,18 @@ public class InsertClusters {
 				int painting_id = getPaintingId(fields[2]);
 				if (fileNbr==0)
 				{
-				insertArtistCluster(painting_id,fields);
+					insertArtistCluster(painting_id,fields);
 				}
 				else if (fileNbr==1)
 				{
-				insertMediumCluster(painting_id,fields);
+					insertMediumCluster(painting_id,fields);
 				}
 				else if (fileNbr==2)
 				{
-				insertPaintedYearCluster(painting_id,fields);
+					insertPaintedYearCluster(painting_id,fields);
 				}
 			}
-			
+
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -73,7 +71,7 @@ public class InsertClusters {
 		} catch (UnsupportedEncodingException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			System.exit(0);
+			//			System.exit(0);
 		}
 	}
 	private static void insertMediumCluster(int painting_id, String[] fields) {
@@ -87,7 +85,7 @@ public class InsertClusters {
 		} catch (UnsupportedEncodingException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			System.exit(0);
+			//			System.exit(0);
 		}
 	}
 	private static void insertArtistCluster(int painting_id, String[] fields) {
@@ -101,7 +99,7 @@ public class InsertClusters {
 		} catch (UnsupportedEncodingException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			System.exit(0);
+			//			System.exit(0);
 		}
 	}
 	protected static void insertDB(String insertStmnt) {
@@ -115,7 +113,7 @@ public class InsertClusters {
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			System.exit(0);
+			//			System.exit(0);
 		}finally {
 
 			if (preparedStatement != null) {
