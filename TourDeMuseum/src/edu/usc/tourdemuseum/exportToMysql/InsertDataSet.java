@@ -5,7 +5,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.Iterator;
 
 import org.apache.commons.lang.StringEscapeUtils;
@@ -41,14 +43,14 @@ public class InsertDataSet {
 
 
 	public static void main(String[] argv) {
-		
+		connectDB();
 		for(int i=0; i<argv.length ; i++)
 		{
-			getData(argv[i]);
+			getPaintingData(argv[i]);
 		}
 	}
 
-	private static void getData(String file) {
+	private static void getPaintingData(String file) {
 		// TODO Auto-generated method stub
 		JSONParser parser = new JSONParser();
 		try {
@@ -148,57 +150,62 @@ public class InsertDataSet {
 				{
 					medium="";
 				}
-                if (paintingJsonObject.containsKey("imageURL"))
-                {
-                	imageURL = new String (((String) paintingJsonObject.get("imageURL")).getBytes(),"UTF-8");
-                }
-                else
-                {
-                	imageURL ="";
-                }
-                if (paintingJsonObject.containsKey("provenance"))
-                {
-                	provenance = new String (((String) paintingJsonObject.get("provenance")).getBytes(),"UTF-8");
-                }
-                else
-                {
-                	provenance="";
-                }
-                if (paintingJsonObject.containsKey("description"))
-                {
-                	description= new String (((String) paintingJsonObject.get("description")).getBytes(),"UTF-8");
-                }
-                else
-                {
-                	description="";
-                }
-                if (paintingJsonObject.containsKey("department"))
-                {
-                	department= new String (((String) paintingJsonObject.get("department")).getBytes(),"UTF-8");
-                }
-                else
-                {
-                	department ="";
-                }
-                if(imageURL.contains("lacma"))
-                {
-                	museum_name="lacma";
-                }
-                else if(imageURL.contains("www.dia.org"))
-                {
-                	museum_name="detroit";
-                }
-                else if(imageURL.contains("artic"))
-                {
-                	museum_name="artic";
-                }
-                else
-                {
-                	System.out.println("WTF");
-                	System.exit(0);
-                }
-                System.out.println(museum_name);
-                insertData();
+				if (paintingJsonObject.containsKey("imageURL"))
+				{
+					imageURL = new String (((String) paintingJsonObject.get("imageURL")).getBytes(),"UTF-8");
+				}
+				else
+				{
+					imageURL ="";
+				}
+				if (paintingJsonObject.containsKey("provenance"))
+				{
+					provenance = new String (((String) paintingJsonObject.get("provenance")).getBytes(),"UTF-8");
+				}
+				else
+				{
+					provenance="";
+				}
+				if (paintingJsonObject.containsKey("description"))
+				{
+					description= new String (((String) paintingJsonObject.get("description")).getBytes(),"UTF-8");
+				}
+				else
+				{
+					description="";
+				}
+				if (paintingJsonObject.containsKey("department"))
+				{
+					department= new String (((String) paintingJsonObject.get("department")).getBytes(),"UTF-8");
+				}
+				else
+				{
+					department ="";
+				}
+				if(imageURL.contains("lacma"))
+				{
+					museum_name="lacma";
+				}
+				else if(imageURL.contains("www.dia.org"))
+				{
+					museum_name="detroit";
+				}
+				else if(imageURL.contains("artic"))
+				{
+					museum_name="artic";
+				}
+				else
+				{
+					System.out.println("WTF");
+//					System.exit(0);
+				}
+				//                System.out.println(museum_name);
+				//Insert row in 'painting' table
+				insertPaintingData();
+				if(paintingJsonObject.containsKey("classifier"))
+				{
+					insertClassifier(paintingJsonObject);
+				}
 			}
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
@@ -212,29 +219,34 @@ public class InsertDataSet {
 		}
 	}
 
-	private static void insertData() {
+	private static void insertClassifier(JSONObject paintingJsonObject) {
 		// TODO Auto-generated method stub
-		artist_name = "abc\"nf";
-		String insertStmnt = "INSERT INTO painting (birth_year,death_year,title,nationality,classification,"
-                +"artist_name,accession_id,dimensions,credit,date,medium,imageURL,provenance,description,department,museum_name)"
-                +" VALUES (\""+StringEscapeUtils.escapeJava(birth_year)+"\",\""+StringEscapeUtils.escapeJava(death_year)+"\",\""+StringEscapeUtils.escapeJava(title)+"\",\""+StringEscapeUtils.escapeJava(nationality)+"\",\""+StringEscapeUtils.escapeJava(classification)+"\",\""
-                +StringEscapeUtils.escapeJava(artist_name)+"\",\""+StringEscapeUtils.escapeJava(accession_id)+"\",\""+StringEscapeUtils.escapeJava(dimensions)+"\",\""+StringEscapeUtils.escapeJava(credit)+"\",\""+StringEscapeUtils.escapeJava(date)+"\",\""+StringEscapeUtils.escapeJava(medium)+"\",\""
-                +imageURL+"\",\""+StringEscapeUtils.escapeJava(provenance)+"\",\""+StringEscapeUtils.escapeJava(description)+"\",\""+StringEscapeUtils.escapeJava(department)+"\",\""+StringEscapeUtils.escapeJava(museum_name)+"\")";
-		System.out.println(insertStmnt);
-		
-		connectDB();
+		ArrayList<String> classifiers = (ArrayList<String>) paintingJsonObject.get("classifier");
+		String selectStmt = "SELECT painting_id FROM painting where imageURL like \""+imageURL+"\"";
+		System.out.println(selectStmt);
+
+		//		connectDB();
 		PreparedStatement preparedStatement = null;
 		try {
-			
-			preparedStatement = connection.prepareStatement(insertStmnt);	
-//			preparedStatement.exe;
-			preparedStatement.executeUpdate();
+
+			preparedStatement = connection.prepareStatement(selectStmt);	
+			//			preparedStatement.exe;
+			ResultSet rs =  preparedStatement.executeQuery();
+			int painting_id;
+			while(rs.next()){
+				painting_id = (int) rs.getObject("painting_id");
+				for(String temp : classifiers)
+				{
+					String insertStmt = "INSERT INTO classifier VALUES ("+painting_id+",\""+temp+"\")";
+					insertDB(insertStmt);
+				}
+
+			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-			//System.exit(0);
 		}finally {
- 
+
 			if (preparedStatement != null) {
 				try {
 					preparedStatement.close();
@@ -243,24 +255,68 @@ public class InsertDataSet {
 					e.printStackTrace();
 				}
 			}
- 
-			if (connection != null) {
+
+			/*			if (connection != null) {
 				try {
 					connection.close();
 				} catch (SQLException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
-			}
- 
+			}*/
+
 		}
 	}
 
-	private static void connectDB() {
+	private static void insertPaintingData() {
+		// TODO Auto-generated method stub
+		String insertStmnt = "INSERT INTO painting (birth_year,death_year,title,nationality,classification,"
+				+"artist_name,accession_id,dimensions,credit,date,medium,imageURL,provenance,description,department,museum_name)"
+				+" VALUES (\""+StringEscapeUtils.escapeJava(birth_year)+"\",\""+StringEscapeUtils.escapeJava(death_year)+"\",\""+StringEscapeUtils.escapeJava(title)+"\",\""+StringEscapeUtils.escapeJava(nationality)+"\",\""+StringEscapeUtils.escapeJava(classification)+"\",\""
+				+StringEscapeUtils.escapeJava(artist_name)+"\",\""+StringEscapeUtils.escapeJava(accession_id)+"\",\""+StringEscapeUtils.escapeJava(dimensions)+"\",\""+StringEscapeUtils.escapeJava(credit)+"\",\""+StringEscapeUtils.escapeJava(date)+"\",\""+StringEscapeUtils.escapeJava(medium)+"\",\""
+				+imageURL+"\",\""+StringEscapeUtils.escapeJava(provenance)+"\",\""+StringEscapeUtils.escapeJava(description)+"\",\""+StringEscapeUtils.escapeJava(department)+"\",\""+StringEscapeUtils.escapeJava(museum_name)+"\")";
+		//		System.out.println(insertStmnt);
+		insertDB(insertStmnt);
+	}
+	protected static void insertDB(String insertStmnt) {
+		// TODO Auto-generated method stub
+		//			connectDB();
+		PreparedStatement preparedStatement = null;
+		try {
+
+			preparedStatement = connection.prepareStatement(insertStmnt);	
+			preparedStatement.executeUpdate();
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+//			System.exit(0);
+		}finally {
+
+			if (preparedStatement != null) {
+				try {
+					preparedStatement.close();
+				} catch (SQLException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+
+			/*	if (connection != null) {
+					try {
+						connection.close();
+					} catch (SQLException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				}*/	 
+		}		
+	}	
+
+	protected static void connectDB() {
 		// TODO Auto-generated method stub
 
 
-//		System.out.println("-------- MySQL JDBC Connection Testing ------------");
+		//		System.out.println("-------- MySQL JDBC Connection Testing ------------");
 
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
@@ -270,7 +326,7 @@ public class InsertDataSet {
 			return;
 		}
 
-//		System.out.println("MySQL JDBC Driver Registered!");
+		//		System.out.println("MySQL JDBC Driver Registered!");
 
 
 		try {
@@ -284,7 +340,7 @@ public class InsertDataSet {
 		}
 
 		if (connection != null) {
-//			System.out.println("You made it, take control your database now!");
+			//			System.out.println("You made it, take control your database now!");
 		} else {
 			System.out.println("Failed to make connection!");
 		}
