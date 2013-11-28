@@ -148,7 +148,7 @@ var query= "<?php if(isset($_GET['artist'])){
     $query = "select distinct p.* from painted_year a, painting p where a.painting_id = p.painting_id and (a.year = '$year' or a.org_year = '$year')";
     }elseif(isset($_GET['medium'])){
     $medium = $_GET['medium'];
-    $query = "select distinct p.* from medium a, painting p where a.painting_id = p.painting_id and (a.medium = '$medium' or a.org_medium = '$medium')";
+    $query = "(select distinct p.* from medium a, painting p where a.painting_id = p.painting_id and (a.medium = '$medium' or a.org_medium = '$medium') and p.museum_name = 'detroit' limit 10) union (select distinct p.* from medium a, painting p where a.painting_id = p.painting_id and (a.medium = '$medium' or a.org_medium = '$medium') and p.museum_name = 'lacma' limit 10) union (select distinct p.* from medium a, painting p where a.painting_id = p.painting_id and (a.medium = '$medium' or a.org_medium = '$medium') and p.museum_name = 'artic' limit 10)";
     }elseif(isset($_GET['classifier'])){
     $classifier = $_GET['classifier'];
     $query = "select distinct p.* from classifier a, painting p where a.painting_id = p.painting_id and a.classifier_name = '$classifier'";
@@ -218,11 +218,22 @@ var drawGraph = function(graph) {
       .on("click", click);
 
       gnodes.append("image")
-      .attr("xlink:href", function(d){{return d.image;}})
+      .attr("xlink:href", function(d){ 
+        if(d.group == 1){
+          return "http://www.patricklewis.net/games/spinpuz/Red-circle.png";
+        }else{
+          return d.image;
+        }
+      })
       .attr("class", "img-circle")
        .attr("width", 50)
       .attr("height", 50)
-      .style("z-index", '-1');
+      .style("z-index", '-1')
+      .style("top", function(d){
+        if(d.group == 1){
+          return '-100px';
+        }
+      });
       ;
     
   var labels = gnodes.append("text")
