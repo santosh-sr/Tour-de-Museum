@@ -1,5 +1,4 @@
 <?php
-
 $query = $_GET['query'];
 
 $host = "localhost:3306"; 

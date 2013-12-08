@@ -151,7 +151,7 @@
   </div>
     <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-              <li class="active"><a href="home.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
+              <li><a href="home.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span> About Us<b class="caret"></b></a>
                 <ul class="dropdown-menu">
@@ -188,7 +188,8 @@
 
   <!-- SlidesJS Required: Start Slides -->
   <!-- The container is used to define the width of the slideshow -->
-  <div class="container" style="border-width: 2px; border-style: solid; border-color: black; width:inherit">
+  <!-- border-width: 2px; border-style: solid; border-color: black;  -->
+  <div class="container" style="width:inherit">
     <div id="slides">
      <!--  <img src="img/example-slide-1.jpg" alt="Photo by: Missy S Link: http://www.flickr.com/photos/listenmissy/5087404401/">
       <img src="img/example-slide-2.jpg" alt="Photo by: Daniel Parks Link: http://www.flickr.com/photos/parksdh/5227623068/">
@@ -249,13 +250,13 @@ function fetchdata(museum, clusterType, clusterVal){
    
    $.ajax({
 
-                url: "mysql.php?query="+query,
+                url: "mysql.php?query="+ encodeURI(query),
                 type: 'GET',
                 dataType: 'text',
 
 
                 success: function(data){
-
+            
                     jsonData = jQuery.parseJSON(data);
                     console.log(jsonData);
 

@@ -43,7 +43,7 @@ body
 
     </style>
 
-     <link href="css/customstyle.css" rel="stylesheet" media="screen">d
+     <link href="css/customstyle.css" rel="stylesheet" media="screen">
   </head>
 <body>
 <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -61,14 +61,16 @@ body
                 </ul>
               </li>
             </ul>
-    </div>
 
-    <form class="navbar-form navbar-right" role="search">
+     <form class="navbar-form navbar-right" role="search">
   <div class="form-group " style="margin-right: 10px;">
     <input type="text" class="form-control" placeholder="Search">
   </div>
-  <button type="submit" class="btn btn-default">Submit</button>
-</form>
+  <button type="submit" style="margin-right: 5px;" class="btn btn-default">Submit</button>
+</form>       
+    </div>
+
+    
   </nav>
 <div class="container" style="width:100%;"> 
    <!--  <pre id="hero" style="overflow:scroll">
@@ -167,6 +169,7 @@ var query= "<?php if(isset($_GET['artist'])){
     }elseif(isset($_GET['classifier'])){
     $classifier = $_GET['classifier'];
     $query = "select distinct p.* from classifier a, painting p where a.painting_id = p.painting_id and a.classifier_name = '$classifier'";
+   /* $query = "(select distinct p.* from classifier a, painting p where a.painting_id = p.painting_id and a.classifier_name = '$classifier' and p.museum_name='lacma' limit 25) union (select distinct p.* from classifier a, painting p where a.painting_id = p.painting_id and a.classifier_name = '$classifier' and p.museum_name='detroit' limit 25) union (select distinct p.* from classifier a, painting p where a.painting_id = p.painting_id and a.classifier_name = '$classifier' and p.museum_name='artic' limit 25)"*/;
     }
 
     echo $query;
